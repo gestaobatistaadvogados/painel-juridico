@@ -1,0 +1,31 @@
+# Variáveis de ambiente (NUNCA SUBIR PARA O GITHUB)
+.env
+.env.local
+*.env
+
+# Tokens e segredos
+config/token_advbox.txt
+config/credenciais.json
+
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+.venv/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Cache da API ADVBox (não precisa subir, é regenerado)
+cache/

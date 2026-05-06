@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Painel Interno — {{ escritorio.nome }}">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Painel Interno — {{ escritorio.nome }}</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --cor-primaria: {{ escritorio.identidade_visual.cor_primaria }};
+            --cor-primaria-clara: #1e3358;
+            --cor-secundaria: {{ escritorio.identidade_visual.cor_secundaria }};
+            --cor-dourado-claro: #e0c373;
+            --cor-dourado-escuro: #a8893b;
+            --cor-branco: {{ escritorio.identidade_visual.cor_branco }};
+            --cor-creme: {{ escritorio.identidade_visual.cor_creme }};
+            --cor-fundo: #f6f7f9;
+            --cor-superficie: #ffffff;
+            --cor-cinza-medio: #e2e6ec;
+            --cor-cinza-claro: #f6f7f9;
+            --cor-borda: #e8e4d8;
+            --cor-texto-primario: #0A1628;
+            --cor-texto-secundario: #6b7280;
+            --cor-texto-suave: #9ca3af;
+            --cor-urgente: #c0392b;
+            --cor-urgente-fundo: #fdecea;
+            --cor-atencao: #d68910;
+            --cor-atencao-fundo: #fef5e7;
+            --cor-favoravel: #1e8449;
+            --cor-favoravel-fundo: #e8f5e9;
+            --cor-info: #2874a6;
+            --cor-info-fundo: #ebf3fb;
+            --fonte-corpo: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            --fonte-titulo: 'Cormorant Garamond', Georgia, serif;
+            --fonte-mono: 'SF Mono', 'Consolas', 'Monaco', monospace;
+            --raio-borda: 8px;
+            --raio-borda-grande: 14px;
+            --sombra-suave: 0 2px 8px rgba(10, 22, 40, 0.06);
+            --sombra-media: 0 4px 12px rgba(10, 22, 40, 0.08);
+            --sombra-forte: 0 10px 30px rgba(10, 22, 40, 0.12);
+            --sombra-xl: 0 20px 50px rgba(10, 22, 40, 0.18);
+            --transicao-suave: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+        body {
+            font-family: var(--fonte-corpo);
+            background-color: var(--cor-fundo);
+            color: var(--cor-texto-primario);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-image:
+                radial-gradient(circle at 20% 10%, rgba(201, 168, 76, 0.03) 0%, transparent 40%),
+                radial-gradient(circle at 80% 90%, rgba(10, 22, 40, 0.025) 0%, transparent 40%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Cabeçalho */
+        .cabecalho {
+            background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+            color: var(--cor-branco);
+            padding: 32px 24px;
+            position: relative;
+            overflow: hidden;
+            border-bottom: 4px solid var(--cor-secundaria);
+        }
+        .cabecalho::after {
+            content: '';
+            position: absolute;
+            top: -50px; right: -50px;
+            width: 200px; height: 200px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.15) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        .cabecalho-conteudo {
+            max-width: 1400px; margin: 0 auto;
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: 32px;
+            position: relative; z-index: 1;
+        }
+        .logo-container {
+            display: flex; align-items: center; justify-content: center;
+            min-height: 88px;
+        }
+        .logo-container img {
+            max-height: 72px; max-width: 280px;
+            width: auto; height: auto; display: block;
+            filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.15));
+        }
+        .titulo-cabecalho { text-align: center; }
+        .titulo-cabecalho h1 {
+            font-family: var(--fonte-titulo);
+            font-weight: 500;
+            font-size: clamp(1.5rem, 3vw, 2.25rem);
+            line-height: 1.2;
+            margin-bottom: 4px;
+            letter-spacing: 0.02em;
+        }
+        .titulo-cabecalho .subtitulo {
+            font-family: var(--fonte-titulo);
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: var(--cor-secundaria);
+            margin: 4px 0;
+            letter-spacing: 0.02em;
+        }
+        .titulo-cabecalho .aviso-restricao {
+            display: inline-block;
+            background: rgba(192, 57, 43, 0.2);
+            border: 1px solid rgba(192, 57, 43, 0.5);
+            color: #fca5a5;
+            font-size: 0.7rem;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            margin-top: 8px;
+        }
+        .info-atualizacao { text-align: right; font-size: 0.8rem; font-weight: 300; opacity: 0.85; line-height: 1.4; }
+        .info-atualizacao .data { font-weight: 600; color: var(--cor-secundaria); letter-spacing: 0.03em; }
+
+        /* Container */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px;
+            position: relative; z-index: 1;
+        }
+
+        /* Resumo geral - KPIs */
+        .secao-titulo {
+            display: flex; align-items: center; gap: 14px;
+            margin-bottom: 18px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--cor-cinza-medio);
+        }
+        .secao-titulo h2 {
+            font-family: var(--fonte-titulo);
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--cor-primaria);
+            letter-spacing: 0.3px;
+        }
+        .secao-titulo::before {
+            content: '';
+            width: 6px; height: 22px;
+            background: var(--cor-secundaria);
+            border-radius: 3px;
+        }
+
+        .grade-kpis {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 16px;
+            margin-bottom: 32px;
+        }
+        .card-kpi {
+            background: var(--cor-branco);
+            padding: 22px;
+            border-radius: 12px;
+            box-shadow: var(--sombra-suave);
+            border-top: 3px solid var(--cor-secundaria);
+            position: relative;
+            overflow: hidden;
+        }
+        .card-kpi::after {
+            content: '';
+            position: absolute;
+            top: -50%; right: -30%;
+            width: 120px; height: 120px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.08), transparent 70%);
+            border-radius: 50%;
+            pointer-events: none;
+        }
+        .card-kpi .rotulo {
+            font-size: 11px;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: 600;
+            position: relative; z-index: 1;
+        }
+        .card-kpi .numero {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--cor-primaria);
+            margin-top: 8px;
+            line-height: 1;
+            position: relative; z-index: 1;
+        }
+        .card-kpi .numero.menor { font-size: 22px; }
+        .card-kpi .detalhe {
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            margin-top: 6px;
+            position: relative; z-index: 1;
+        }
+        .card-kpi.urgente { border-top-color: var(--cor-urgente); }
+        .card-kpi.urgente .numero { color: var(--cor-urgente); }
+        .card-kpi.dourado { border-top-color: var(--cor-secundaria); }
+        .card-kpi.dourado .numero { color: var(--cor-dourado-escuro); }
+
+        /* Filtros */
+        .controles-filtros {
+            display: flex;
+            gap: 14px;
+            margin-bottom: 24px;
+            align-items: center;
+            flex-wrap: wrap;
+            background: var(--cor-superficie);
+            padding: 16px 20px;
+            border-radius: var(--raio-borda);
+            box-shadow: var(--sombra-suave);
+        }
+        .busca-input {
+            flex: 1;
+            min-width: 240px;
+            padding: 10px 14px;
+            font-size: 13px;
+            font-family: inherit;
+            border: 1px solid var(--cor-cinza-medio);
+            border-radius: 8px;
+            color: var(--cor-primaria);
+            background: var(--cor-cinza-claro);
+            transition: all 0.15s ease;
+        }
+        .busca-input:focus {
+            outline: none;
+            border-color: var(--cor-secundaria);
+            background: var(--cor-branco);
+            box-shadow: 0 0 0 3px rgba(201, 168, 76, 0.15);
+        }
+        .filtros-departamento {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+        .filtro-dep {
+            padding: 8px 14px;
+            font-size: 12px;
+            font-weight: 600;
+            font-family: inherit;
+            background: var(--cor-branco);
+            color: var(--cor-texto-secundario);
+            border: 1px solid var(--cor-cinza-medio);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .filtro-dep:hover {
+            border-color: var(--cor-secundaria);
+            color: var(--cor-primaria);
+        }
+        .filtro-dep.ativo {
+            background: var(--cor-primaria);
+            color: var(--cor-branco);
+            border-color: var(--cor-primaria);
+        }
+
+        /* Grade de clientes */
+        .grade-clientes {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+        }
+        .card-cliente {
+            background: var(--cor-branco);
+            border-radius: var(--raio-borda-grande);
+            padding: 24px;
+            box-shadow: var(--sombra-media);
+            transition: var(--transicao-suave);
+            position: relative;
+            overflow: hidden;
+            border-top: 4px solid var(--cor-departamento, var(--cor-secundaria));
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+        .card-cliente::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 100%;
+            background: linear-gradient(180deg, rgba(10,22,40,0.02), transparent 40%);
+            pointer-events: none;
+        }
+        .card-cliente:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--sombra-xl);
+        }
+        .card-cliente.inativo {
+            opacity: 0.55;
+            background: var(--cor-cinza-claro);
+        }
+
+        .cliente-tag-departamento {
+            display: inline-block;
+            background: var(--cor-departamento, var(--cor-primaria));
+            color: var(--cor-branco);
+            font-size: 10px;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            align-self: flex-start;
+        }
+
+        .cliente-cabecalho {
+            position: relative;
+            z-index: 1;
+        }
+        .cliente-nome {
+            font-family: var(--fonte-titulo);
+            font-size: 1.375rem;
+            font-weight: 700;
+            color: var(--cor-primaria);
+            line-height: 1.2;
+            margin-bottom: 4px;
+            letter-spacing: 0.2px;
+        }
+        .cliente-doc {
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            font-family: var(--fonte-mono);
+            font-weight: 600;
+        }
+        .cliente-tipo {
+            display: inline-block;
+            background: var(--cor-cinza-claro);
+            color: var(--cor-texto-secundario);
+            font-size: 10px;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 3px;
+            margin-left: 6px;
+            letter-spacing: 0.5px;
+        }
+
+        /* Mini KPIs do cliente */
+        .cliente-kpis {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 8px;
+            padding: 12px 0;
+            border-top: 1px solid var(--cor-cinza-medio);
+            border-bottom: 1px solid var(--cor-cinza-medio);
+            position: relative;
+            z-index: 1;
+        }
+        .cliente-kpi {
+            text-align: center;
+        }
+        .cliente-kpi .num {
+            font-size: 1.5rem;
+            font-weight: 800;
+            color: var(--cor-primaria);
+            line-height: 1;
+        }
+        .cliente-kpi .lbl {
+            font-size: 9px;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            font-weight: 600;
+            margin-top: 4px;
+        }
+        .cliente-kpi.urgente .num { color: var(--cor-urgente); }
+        .cliente-kpi.atencao .num { color: var(--cor-atencao); }
+
+        /* Botões de ação */
+        .cliente-acoes {
+            display: flex;
+            gap: 8px;
+            position: relative;
+            z-index: 1;
+        }
+        .btn {
+            flex: 1;
+            padding: 10px 12px;
+            font-size: 11px;
+            font-weight: 700;
+            font-family: inherit;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            text-decoration: none;
+        }
+        .btn-primario {
+            background: var(--cor-primaria);
+            color: var(--cor-branco);
+        }
+        .btn-primario:hover {
+            background: var(--cor-primaria-clara);
+            transform: translateY(-1px);
+            box-shadow: var(--sombra-media);
+        }
+        .btn-secundario {
+            background: var(--cor-cinza-claro);
+            color: var(--cor-texto-primario);
+            border: 1px solid var(--cor-cinza-medio);
+        }
+        .btn-secundario:hover {
+            background: var(--cor-secundaria);
+            color: var(--cor-branco);
+            border-color: var(--cor-secundaria);
+        }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--cor-favoravel);
+            color: var(--cor-branco);
+            padding: 14px 24px;
+            border-radius: 8px;
+            box-shadow: var(--sombra-xl);
+            font-size: 13px;
+            font-weight: 600;
+            z-index: 10000;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+        }
+        .toast.visivel {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Mensagem vazia */
+        .mensagem-vazia {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--cor-texto-suave);
+            font-style: italic;
+        }
+
+        /* Rodapé */
+        .rodape {
+            background-color: var(--cor-primaria);
+            color: var(--cor-branco);
+            padding: 32px 24px;
+            margin-top: 48px;
+            text-align: center;
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.75);
+        }
+        .rodape strong { color: var(--cor-secundaria); }
+        .rodape a { color: var(--cor-secundaria); text-decoration: none; }
+        .rodape a:hover { text-decoration: underline; }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .cabecalho-conteudo { grid-template-columns: 1fr; text-align: center; }
+            .info-atualizacao { text-align: center; }
+            .grade-clientes { grid-template-columns: 1fr; }
+        }
+        :focus-visible { outline: 2px solid var(--cor-secundaria); outline-offset: 2px; border-radius: 4px; }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: var(--cor-cinza-claro); }
+        ::-webkit-scrollbar-thumb { background: var(--cor-cinza-medio); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--cor-texto-secundario); }
+    </style>
+</head>
+<body>
+
+    <header class="cabecalho">
+        <div class="cabecalho-conteudo">
+            <div class="logo-container">
+                {% if escritorio.logo_base64 %}
+                <img src="data:image/png;base64,{{ escritorio.logo_base64 }}" alt="{{ escritorio.logo.alt }}">
+                {% else %}
+                <div style="font-family: var(--fonte-titulo); font-weight: 600; font-size: 1.75rem; color: var(--cor-branco); letter-spacing: 0.05em;">
+                    BATISTA
+                    <small style="display: block; font-size: 0.65rem; font-weight: 400; letter-spacing: 0.25em; margin-top: 6px; color: var(--cor-secundaria);">ADVOGADOS ASSOCIADOS</small>
+                </div>
+                {% endif %}
+            </div>
+            <div class="titulo-cabecalho">
+                <h1>Painel Interno</h1>
+                <p class="subtitulo">Gestão de Clientes do Escritório</p>
+                <span class="aviso-restricao">🔒 Acesso Restrito aos Sócios</span>
+            </div>
+            <div class="info-atualizacao">
+                <div>Última atualização</div>
+                <div class="data">{{ data_atualizacao }}</div>
+                <div style="margin-top: 8px; font-size: 0.7rem; opacity: 0.7;">
+                    Documento confidencial
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- KPIs do escritório -->
+        <section>
+            <div class="secao-titulo"><h2>Visão Geral do Escritório</h2></div>
+            <div class="grade-kpis">
+                <div class="card-kpi">
+                    <div class="rotulo">Total de Clientes</div>
+                    <div class="numero">{{ kpis_globais.total_clientes }}</div>
+                    <div class="detalhe">{{ kpis_globais.clientes_ativos }} ativos</div>
+                </div>
+                <div class="card-kpi">
+                    <div class="rotulo">Total de Processos</div>
+                    <div class="numero">{{ kpis_globais.total_processos }}</div>
+                    <div class="detalhe">{{ kpis_globais.processos_ativos }} em andamento</div>
+                </div>
+                <div class="card-kpi urgente">
+                    <div class="rotulo">Alertas Críticos</div>
+                    <div class="numero">{{ kpis_globais.alertas_criticos }}</div>
+                    <div class="detalhe">requerem ação imediata</div>
+                </div>
+                <div class="card-kpi dourado">
+                    <div class="rotulo">Valor Total em Disputa</div>
+                    <div class="numero menor">{{ kpis_globais.valor_disputa_formatado }}</div>
+                    <div class="detalhe">soma das contingências ativas</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filtros e busca -->
+        <div class="controles-filtros">
+            <input type="text" class="busca-input" id="busca"
+                   placeholder="🔍 Buscar cliente por nome, CPF/CNPJ ou cidade..."
+                   oninput="filtrarClientes()">
+            <div class="filtros-departamento" id="filtros-dep">
+                <button class="filtro-dep ativo" data-dep="todos" onclick="filtrarPorDepartamento('todos', this)">
+                    Todos ({{ kpis_globais.total_clientes }})
+                </button>
+                {% for dep in departamentos %}
+                <button class="filtro-dep" data-dep="{{ dep.id }}" onclick="filtrarPorDepartamento('{{ dep.id }}', this)">
+                    {{ dep.nome }} ({{ dep.contagem }})
+                </button>
+                {% endfor %}
+            </div>
+        </div>
+
+        <!-- Lista de clientes -->
+        <section>
+            <div class="secao-titulo">
+                <h2>Clientes do Escritório</h2>
+                <span style="margin-left: auto; font-size: 13px; color: var(--cor-texto-secundario); font-weight: 400;" id="contador-resultado">
+                    {{ clientes | length }} cliente{{ 's' if clientes | length != 1 else '' }}
+                </span>
+            </div>
+
+            <div class="grade-clientes" id="grade-clientes">
+                {% for cli in clientes %}
+                <article class="card-cliente {{ 'inativo' if not cli.ativo else '' }}"
+                         data-departamento="{{ cli.departamento_id }}"
+                         data-busca="{{ cli.texto_busca }}"
+                         style="--cor-departamento: {{ cli.cor_departamento }};">
+                    <span class="cliente-tag-departamento">{{ cli.departamento_nome }}</span>
+
+                    <div class="cliente-cabecalho">
+                        <div class="cliente-nome">
+                            {{ cli.nome_completo | titulo_amigavel }}
+                            <span class="cliente-tipo">{{ cli.tipo_pessoa }}</span>
+                        </div>
+                        <div class="cliente-doc">{{ cli.documento_formatado }}</div>
+                    </div>
+
+                    <div class="cliente-kpis">
+                        <div class="cliente-kpi">
+                            <div class="num">{{ cli.total_processos }}</div>
+                            <div class="lbl">Processos</div>
+                        </div>
+                        <div class="cliente-kpi {{ 'urgente' if cli.alertas_criticos > 0 else '' }}">
+                            <div class="num">{{ cli.alertas_criticos }}</div>
+                            <div class="lbl">Críticos</div>
+                        </div>
+                        <div class="cliente-kpi {{ 'atencao' if cli.alertas_atencao > 0 else '' }}">
+                            <div class="num">{{ cli.alertas_atencao }}</div>
+                            <div class="lbl">Atenção</div>
+                        </div>
+                    </div>
+
+                    <div class="cliente-acoes">
+                        <a href="{{ cli.url_relativa }}" target="_blank" rel="noopener" class="btn btn-primario">
+                            🔗 ABRIR PAINEL
+                        </a>
+                        <button class="btn btn-secundario"
+                                data-url="{{ cli.url_completa }}"
+                                data-nome="{{ cli.nome_completo | titulo_amigavel }}"
+                                onclick="copiarLink(this)">
+                            📋 COPIAR LINK
+                        </button>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+
+            <div class="mensagem-vazia" id="mensagem-vazia" style="display:none;">
+                Nenhum cliente encontrado com os filtros aplicados.
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="rodape">
+        <p><strong>{{ escritorio.nome }}</strong></p>
+        <p>Painel interno gerado em {{ data_atualizacao }}</p>
+        <p style="margin-top: 12px; font-size: 0.7rem; opacity: 0.7;">
+            ⚠️ Documento confidencial — uso restrito aos sócios e equipe interna do escritório.<br>
+            Não compartilhe este arquivo com clientes ou terceiros.
+        </p>
+    </footer>
+
+    <div class="toast" id="toast">Link copiado!</div>
+
+    <script>
+        // ===== FILTROS =====
+        var departamentoAtivo = 'todos';
+
+        function filtrarPorDepartamento(dep, btn) {
+            departamentoAtivo = dep;
+            document.querySelectorAll('.filtro-dep').forEach(function(b) { b.classList.remove('ativo'); });
+            btn.classList.add('ativo');
+            filtrarClientes();
+        }
+
+        function filtrarClientes() {
+            var textoBusca = document.getElementById('busca').value.toLowerCase().trim();
+            // Normalizar texto removendo acentos
+            textoBusca = textoBusca.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+
+            var cards = document.querySelectorAll('.card-cliente');
+            var visiveis = 0;
+
+            cards.forEach(function(card) {
+                var depCard = card.getAttribute('data-departamento');
+                var buscaCard = card.getAttribute('data-busca');
+
+                var passaDep = (departamentoAtivo === 'todos' || depCard === departamentoAtivo);
+                var passaBusca = !textoBusca || buscaCard.indexOf(textoBusca) !== -1;
+
+                if (passaDep && passaBusca) {
+                    card.style.display = '';
+                    visiveis++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            // Atualizar contador
+            var contador = document.getElementById('contador-resultado');
+            if (contador) {
+                contador.textContent = visiveis + ' cliente' + (visiveis !== 1 ? 's' : '');
+            }
+
+            // Mensagem vazia
+            var msgVazia = document.getElementById('mensagem-vazia');
+            if (msgVazia) {
+                msgVazia.style.display = visiveis === 0 ? 'block' : 'none';
+            }
+        }
+
+        // ===== COPIAR LINK =====
+        function copiarLink(btn) {
+            var url = btn.getAttribute('data-url');
+            var nomeCliente = btn.getAttribute('data-nome');
+
+            // Tenta API moderna primeiro
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(url).then(function() {
+                    mostrarToast('✓ Link de ' + nomeCliente + ' copiado!');
+                }).catch(function() {
+                    fallbackCopiar(url, nomeCliente);
+                });
+            } else {
+                fallbackCopiar(url, nomeCliente);
+            }
+        }
+
+        function fallbackCopiar(url, nomeCliente) {
+            // Fallback: cria um textarea temporário
+            var textarea = document.createElement('textarea');
+            textarea.value = url;
+            textarea.style.position = 'fixed';
+            textarea.style.opacity = '0';
+            document.body.appendChild(textarea);
+            textarea.select();
+            try {
+                document.execCommand('copy');
+                mostrarToast('✓ Link de ' + nomeCliente + ' copiado!');
+            } catch (e) {
+                mostrarToast('⚠️ Use Ctrl+C para copiar: ' + url);
+            }
+            document.body.removeChild(textarea);
+        }
+
+        function mostrarToast(mensagem) {
+            var toast = document.getElementById('toast');
+            toast.textContent = mensagem;
+            toast.classList.add('visivel');
+            setTimeout(function() {
+                toast.classList.remove('visivel');
+            }, 2500);
+        }
+    </script>
+</body>
+</html>

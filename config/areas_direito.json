@@ -1,0 +1,136 @@
+{
+  "_comentario": "Áreas do direito pré-cadastradas. O sistema também detecta automaticamente áreas que apareçam nos dados do ADVBox e não estejam aqui (modelo híbrido).",
+  "areas": [
+    {
+      "id": "administrativo",
+      "nome": "Administrativo",
+      "ordem_exibicao": 1,
+      "icone": "predio_publico",
+      "cor": "#5C6B7A",
+      "palavras_chave_advbox": ["Administrativo", "ADM", "Mandado de Segurança", "Improbidade", "Servidor Público", "PROCON", "ANTT", "ANATEL", "ANAC", "Defesa Administrativa"],
+      "ativa": true
+    },
+    {
+      "id": "ambiental",
+      "nome": "Ambiental",
+      "ordem_exibicao": 2,
+      "icone": "folha",
+      "cor": "#5C7A4F",
+      "palavras_chave_advbox": ["Ambiental", "Meio Ambiente", "IBAMA", "Licenciamento Ambiental", "ACP Ambiental"],
+      "ativa": true
+    },
+    {
+      "id": "civel",
+      "nome": "Cível",
+      "ordem_exibicao": 3,
+      "icone": "balanca",
+      "cor": "#0A1628",
+      "palavras_chave_advbox": ["Cível", "Civil", "Ordinária", "Cobrança", "Indenização", "Reparação", "Ação Ordinária", "Carta Precatória", "Incidente Processual"],
+      "ativa": true
+    },
+    {
+      "id": "constitucional",
+      "nome": "Constitucional",
+      "ordem_exibicao": 4,
+      "icone": "constituicao",
+      "cor": "#7B2D3F",
+      "palavras_chave_advbox": ["Constitucional", "ADI", "ADPF", "ADC", "Ação Direta de Inconstitucionalidade"],
+      "ativa": true
+    },
+    {
+      "id": "consumidor",
+      "nome": "Consumidor",
+      "ordem_exibicao": 5,
+      "icone": "etiqueta",
+      "cor": "#D68910",
+      "palavras_chave_advbox": ["Consumidor", "CDC", "Relação de Consumo"],
+      "ativa": true
+    },
+    {
+      "id": "criminal",
+      "nome": "Criminal",
+      "ordem_exibicao": 6,
+      "icone": "escudo",
+      "cor": "#8B4513",
+      "palavras_chave_advbox": ["Criminal", "Penal", "Notícia Crime", "Habeas Corpus", "Ação Penal"],
+      "ativa": true
+    },
+    {
+      "id": "eleitoral",
+      "nome": "Eleitoral",
+      "ordem_exibicao": 7,
+      "icone": "urna",
+      "cor": "#5D3A8A",
+      "palavras_chave_advbox": ["Eleitoral", "AIJE", "AIME", "Representação Eleitoral", "TRE", "TSE"],
+      "ativa": true
+    },
+    {
+      "id": "empresarial",
+      "nome": "Empresarial e Societário",
+      "ordem_exibicao": 8,
+      "icone": "maleta",
+      "cor": "#1F6E5C",
+      "palavras_chave_advbox": ["Empresarial", "Societário", "Recuperação Judicial", "Falência", "Comercial"],
+      "ativa": true
+    },
+    {
+      "id": "familia",
+      "nome": "Família e Sucessões",
+      "ordem_exibicao": 9,
+      "icone": "familia",
+      "cor": "#B85450",
+      "palavras_chave_advbox": ["Família", "Sucessões", "Inventário", "Divórcio", "Alimentos", "Guarda", "Testamento", "Partilha"],
+      "ativa": true
+    },
+    {
+      "id": "imobiliario",
+      "nome": "Imobiliário",
+      "ordem_exibicao": 10,
+      "icone": "casa",
+      "cor": "#8B6F47",
+      "palavras_chave_advbox": ["Imobiliário", "Possessória", "Reintegração", "Usucapião", "Locação", "Adjudicação Compulsória"],
+      "ativa": true
+    },
+    {
+      "id": "licitacoes",
+      "nome": "Licitações e Contratos",
+      "ordem_exibicao": 11,
+      "icone": "documento_martelo",
+      "cor": "#A0763D",
+      "palavras_chave_advbox": ["Licitação", "Pregão", "Concorrência", "Contrato Administrativo", "Lei 14.133", "TCU", "TCE"],
+      "ativa": true
+    },
+    {
+      "id": "previdenciario",
+      "nome": "Previdenciário",
+      "ordem_exibicao": 12,
+      "icone": "calendario",
+      "cor": "#2D5F3F",
+      "palavras_chave_advbox": ["Previdenciário", "INSS", "Aposentadoria", "Auxílio", "Benefício Previdenciário"],
+      "ativa": true
+    },
+    {
+      "id": "trabalhista",
+      "nome": "Trabalhista",
+      "ordem_exibicao": 13,
+      "icone": "ferramenta",
+      "cor": "#C9A84C",
+      "palavras_chave_advbox": ["Trabalhista", "Trabalho", "TRT", "CLT", "Reclamação Trabalhista"],
+      "ativa": true
+    },
+    {
+      "id": "tributario",
+      "nome": "Tributário",
+      "ordem_exibicao": 14,
+      "icone": "documento_fiscal",
+      "cor": "#3A5F7A",
+      "palavras_chave_advbox": ["Tributário", "Fiscal", "Execução Fiscal", "Receita Federal", "ICMS", "ISS", "IPTU", "Auto de Infração"],
+      "ativa": true
+    }
+  ],
+  "area_padrao_fallback": {
+    "_comentario": "Configuração usada quando uma área detectada nos dados não está cadastrada acima",
+    "icone": "documento_generico",
+    "cor": "#6B7280"
+  }
+}

@@ -1,0 +1,1803 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Dashboard Processual — {{ escritorio.nome }}">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Painel Processual — {{ cliente.nome_completo }}</title>
+
+    <!-- Tipografia -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* ============================================================
+           VARIÁVEIS DE IDENTIDADE VISUAL
+           ============================================================ */
+        :root {
+            --cor-primaria: {{ escritorio.identidade_visual.cor_primaria }};
+            --cor-primaria-clara: #1e3358;
+            --cor-secundaria: {{ escritorio.identidade_visual.cor_secundaria }};
+            --cor-dourado-claro: #e0c373;
+            --cor-dourado-escuro: #a8893b;
+            --cor-branco: {{ escritorio.identidade_visual.cor_branco }};
+            --cor-creme: {{ escritorio.identidade_visual.cor_creme }};
+            --cor-fundo: #f6f7f9;
+            --cor-superficie: #ffffff;
+            --cor-cinza-medio: #e2e6ec;
+            --cor-cinza-claro: #f6f7f9;
+            --cor-borda: #e8e4d8;
+            --cor-texto-primario: #0A1628;
+            --cor-texto-secundario: #6b7280;
+            --cor-texto-suave: #9ca3af;
+            --cor-urgente: #c0392b;
+            --cor-urgente-fundo: #fdecea;
+            --cor-atencao: #d68910;
+            --cor-atencao-fundo: #fef5e7;
+            --cor-favoravel: #1e8449;
+            --cor-favoravel-fundo: #e8f5e9;
+            --cor-info: #2874a6;
+            --cor-info-fundo: #ebf3fb;
+            --fonte-corpo: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            --fonte-titulo: 'Cormorant Garamond', Georgia, serif;
+            --fonte-mono: 'SF Mono', 'Consolas', 'Monaco', monospace;
+            --espacamento-xs: 0.5rem;
+            --espacamento-sm: 1rem;
+            --espacamento-md: 1.5rem;
+            --espacamento-lg: 2rem;
+            --espacamento-xl: 3rem;
+            --raio-borda: 8px;
+            --raio-borda-grande: 14px;
+            --sombra-sm: 0 1px 2px rgba(10,22,40,0.05);
+            --sombra-suave: 0 2px 8px rgba(10, 22, 40, 0.06);
+            --sombra-media: 0 4px 12px rgba(10, 22, 40, 0.08);
+            --sombra-forte: 0 10px 30px rgba(10, 22, 40, 0.12);
+            --sombra-xl: 0 20px 50px rgba(10, 22, 40, 0.18);
+            --transicao-suave: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+        body {
+            font-family: var(--fonte-corpo);
+            background-color: var(--cor-fundo);
+            color: var(--cor-texto-primario);
+            line-height: 1.6;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-image:
+                radial-gradient(circle at 20% 10%, rgba(201, 168, 76, 0.03) 0%, transparent 40%),
+                radial-gradient(circle at 80% 90%, rgba(10, 22, 40, 0.025) 0%, transparent 40%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* ============================================================
+           CABEÇALHO
+           ============================================================ */
+        .cabecalho {
+            background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+            color: var(--cor-branco);
+            padding: var(--espacamento-lg) var(--espacamento-md);
+            position: relative;
+            overflow: hidden;
+            border-bottom: 4px solid var(--cor-secundaria);
+        }
+        .cabecalho::after {
+            content: '';
+            position: absolute;
+            top: -50px; right: -50px;
+            width: 200px; height: 200px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.15) 0%, transparent 70%);
+            pointer-events: none;
+        }
+        .cabecalho-conteudo {
+            max-width: 1400px; margin: 0 auto;
+            display: grid;
+            grid-template-columns: auto 1fr auto;
+            align-items: center;
+            gap: var(--espacamento-lg);
+            position: relative; z-index: 1;
+        }
+        .logo-container {
+            display: flex; align-items: center; justify-content: center;
+            min-height: 88px;
+            padding: var(--espacamento-xs) 0;
+        }
+        .logo-container img {
+            max-height: 72px; max-width: 280px;
+            width: auto; height: auto; display: block;
+            filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.15));
+        }
+        .titulo-cabecalho { text-align: center; }
+        .titulo-cabecalho h1 {
+            font-family: var(--fonte-titulo);
+            font-weight: 500;
+            font-size: clamp(1.5rem, 3vw, 2.25rem);
+            line-height: 1.2;
+            margin-bottom: 4px;
+            letter-spacing: 0.02em;
+        }
+        .titulo-cabecalho .cliente-nome {
+            font-family: var(--fonte-titulo);
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--cor-secundaria);
+            letter-spacing: 0.02em;
+            margin: 4px 0;
+        }
+        .titulo-cabecalho p {
+            font-size: 0.875rem;
+            font-weight: 300;
+            opacity: 0.85;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+        }
+        .info-atualizacao { text-align: right; font-size: 0.8rem; font-weight: 300; opacity: 0.85; line-height: 1.4; }
+        .info-atualizacao .data { font-weight: 600; color: var(--cor-secundaria); letter-spacing: 0.03em; }
+
+        /* ============================================================
+           CONTAINER PRINCIPAL
+           ============================================================ */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: var(--espacamento-lg) var(--espacamento-md);
+            position: relative; z-index: 1;
+        }
+
+        .breadcrumb {
+            display: none;
+            align-items: center;
+            gap: var(--espacamento-sm);
+            margin-bottom: var(--espacamento-lg);
+            font-size: 0.875rem;
+            color: var(--cor-texto-secundario);
+        }
+        .breadcrumb.visivel { display: flex; }
+        .breadcrumb button {
+            color: var(--cor-primaria);
+            background: none; border: none; cursor: pointer;
+            font-family: inherit; font-size: inherit;
+            padding: 4px 8px; border-radius: 4px;
+            font-weight: 500;
+            transition: var(--transicao-suave);
+        }
+        .breadcrumb button:hover {
+            background-color: rgba(10, 22, 40, 0.05);
+            color: var(--cor-secundaria);
+        }
+        .breadcrumb .separador { color: var(--cor-texto-suave); }
+        .breadcrumb .atual { color: var(--cor-texto-primario); font-weight: 600; }
+
+        /* ============================================================
+           SEÇÃO INTRO E ORNAMENTO
+           ============================================================ */
+        .secao-intro {
+            text-align: center;
+            margin-bottom: var(--espacamento-xl);
+            padding: var(--espacamento-lg) var(--espacamento-md);
+        }
+
+        /* ============================================================
+           PAINEL DE PRODUTIVIDADE DO ESCRITÓRIO
+           Mostra a atividade real do escritório nos últimos 90 dias
+           ============================================================ */
+        .painel-produtividade {
+            background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+            color: var(--cor-branco);
+            border-radius: var(--raio-borda-grande);
+            padding: 32px 28px;
+            margin-bottom: var(--espacamento-xl);
+            position: relative;
+            overflow: hidden;
+            box-shadow: var(--sombra-forte);
+            border-top: 4px solid var(--cor-secundaria);
+        }
+        .painel-produtividade::before {
+            content: '';
+            position: absolute;
+            top: -80px; right: -80px;
+            width: 280px; height: 280px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.18) 0%, transparent 65%);
+            pointer-events: none;
+        }
+        .painel-produtividade::after {
+            content: '';
+            position: absolute;
+            bottom: -100px; left: -50px;
+            width: 240px; height: 240px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.10) 0%, transparent 65%);
+            pointer-events: none;
+        }
+        .produtividade-conteudo {
+            position: relative;
+            z-index: 1;
+        }
+        .produtividade-rotulo {
+            text-align: center;
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--cor-secundaria);
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+        .produtividade-titulo {
+            font-family: var(--fonte-titulo);
+            font-size: clamp(1.25rem, 2vw, 1.5rem);
+            font-weight: 500;
+            text-align: center;
+            color: var(--cor-branco);
+            margin-bottom: 20px;
+            letter-spacing: 0.02em;
+        }
+        .produtividade-numero-grande {
+            text-align: center;
+            margin-bottom: 24px;
+        }
+        .produtividade-numero-grande .valor {
+            font-family: var(--fonte-corpo);
+            font-size: clamp(3.5rem, 8vw, 5.5rem);
+            font-weight: 800;
+            color: var(--cor-secundaria);
+            line-height: 0.95;
+            letter-spacing: -0.02em;
+            display: block;
+            text-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+        .produtividade-numero-grande .legenda {
+            font-size: 0.875rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: rgba(255,255,255,0.85);
+            margin-top: 4px;
+            display: block;
+        }
+        .produtividade-categorias {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+            gap: 12px;
+            max-width: 800px;
+            margin: 0 auto 20px;
+        }
+        .produtividade-categoria {
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 8px;
+            padding: 12px 8px;
+            text-align: center;
+            transition: var(--transicao-suave);
+        }
+        .produtividade-categoria:hover {
+            background: rgba(255, 255, 255, 0.14);
+            transform: translateY(-2px);
+            border-color: rgba(201, 168, 76, 0.3);
+        }
+        .produtividade-categoria .num {
+            font-size: 1.625rem;
+            font-weight: 800;
+            color: var(--cor-branco);
+            line-height: 1;
+        }
+        .produtividade-categoria .lbl {
+            font-size: 0.65rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(255,255,255,0.75);
+            margin-top: 6px;
+        }
+        .produtividade-rodape {
+            border-top: 1px solid rgba(255, 255, 255, 0.12);
+            padding-top: 14px;
+            text-align: center;
+            font-size: 0.8125rem;
+            color: rgba(255, 255, 255, 0.85);
+        }
+        .produtividade-rodape strong {
+            color: var(--cor-secundaria);
+            font-weight: 600;
+        }
+        .produtividade-vazia {
+            text-align: center;
+            color: rgba(255,255,255,0.6);
+            font-style: italic;
+            padding: 16px;
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 600px) {
+            .painel-produtividade { padding: 24px 16px; }
+            .produtividade-numero-grande .valor { font-size: 3.5rem; }
+            .produtividade-categorias { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+        }
+        .secao-intro h2 {
+            font-family: var(--fonte-titulo);
+            font-weight: 500;
+            font-size: clamp(1.75rem, 3.5vw, 2.5rem);
+            color: var(--cor-primaria);
+            margin-bottom: var(--espacamento-sm);
+            letter-spacing: 0.01em;
+        }
+        .secao-intro p {
+            font-size: 1rem;
+            color: var(--cor-texto-secundario);
+            max-width: 640px;
+            margin: 0 auto;
+            line-height: 1.7;
+        }
+        .ornamento-titulo {
+            display: inline-block;
+            width: 60px; height: 2px;
+            background: linear-gradient(90deg, transparent 0%, var(--cor-secundaria) 50%, transparent 100%);
+            margin: var(--espacamento-md) 0;
+        }
+
+        /* ============================================================
+           CARDS DAS ÁREAS DO DIREITO (NOVO MODELO)
+           Baseado no dashboard de referência aprovado
+           ============================================================ */
+        .grade-areas {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 22px;
+            max-width: 1100px;
+            margin: 0 auto var(--espacamento-xl);
+        }
+        .card-area {
+            background: var(--cor-branco);
+            border-radius: 14px;
+            padding: 28px 24px;
+            box-shadow: var(--sombra-media);
+            cursor: pointer;
+            transition: var(--transicao-suave);
+            position: relative;
+            overflow: hidden;
+            border-top: 4px solid var(--cor-secundaria);
+            text-align: center;
+        }
+        .card-area::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 100%;
+            background: linear-gradient(180deg, rgba(10,22,40,0.02), transparent 40%);
+            pointer-events: none;
+        }
+        .card-area:hover {
+            transform: translateY(-6px);
+            box-shadow: var(--sombra-xl);
+        }
+        .card-area.desabilitado {
+            cursor: not-allowed;
+            opacity: 0.55;
+            background: var(--cor-cinza-claro);
+        }
+        .card-area.desabilitado:hover {
+            transform: none;
+            box-shadow: var(--sombra-media);
+        }
+        .area-icone-circ {
+            width: 76px; height: 76px;
+            margin: 0 auto 18px;
+            background: var(--cor-creme);
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            border: 2px solid var(--cor-secundaria);
+            transition: all 0.25s ease;
+        }
+        .area-icone-circ svg {
+            width: 36px; height: 36px;
+            stroke: var(--cor-primaria);
+            transition: stroke 0.25s ease;
+        }
+        .card-area:hover .area-icone-circ {
+            background: var(--cor-primaria);
+        }
+        .card-area:hover .area-icone-circ svg {
+            stroke: var(--cor-secundaria);
+        }
+        .card-area.desabilitado:hover .area-icone-circ {
+            background: var(--cor-creme);
+        }
+        .card-area.desabilitado:hover .area-icone-circ svg {
+            stroke: var(--cor-primaria);
+        }
+        .card-area h3 {
+            font-family: var(--fonte-titulo);
+            font-size: 24px;
+            font-weight: 700;
+            color: var(--cor-primaria);
+            margin-bottom: 10px;
+            letter-spacing: 0.3px;
+        }
+        .area-contador {
+            display: inline-block;
+            background: var(--cor-primaria);
+            color: var(--cor-secundaria);
+            padding: 4px 14px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+        .card-area.desabilitado .area-contador {
+            background: var(--cor-cinza-medio);
+            color: var(--cor-texto-secundario);
+        }
+        .area-tags {
+            display: flex;
+            gap: 6px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-bottom: 16px;
+            min-height: 22px;
+        }
+        .area-tag {
+            font-size: 10px;
+            font-weight: 700;
+            padding: 3px 8px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .area-tag.urgente { background: var(--cor-urgente-fundo); color: var(--cor-urgente); }
+        .area-tag.atencao { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+        .area-tag.ok { background: var(--cor-favoravel-fundo); color: var(--cor-favoravel); }
+        .area-tag.auto { background: rgba(107, 114, 128, 0.12); color: var(--cor-texto-secundario); }
+        .area-tag.indisponivel { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+        .area-resumo {
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            line-height: 1.5;
+            margin-bottom: 18px;
+            min-height: 36px;
+        }
+        .area-explorar {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            transition: color 0.25s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .card-area:hover .area-explorar { color: var(--cor-dourado-escuro); }
+        .card-area.desabilitado .area-explorar { color: var(--cor-cinza-medio); }
+
+        /* ============================================================
+           SUB-DASHBOARD (DETALHE)
+           ============================================================ */
+        .area-detalhe {
+            display: none;
+            animation: fadeIn 0.4s ease-out;
+        }
+        .area-detalhe.ativa { display: block; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .area-cabecalho {
+            display: flex;
+            align-items: center;
+            gap: var(--espacamento-md);
+            margin-bottom: var(--espacamento-lg);
+            padding: var(--espacamento-md);
+            background: linear-gradient(135deg, var(--cor-primaria), var(--cor-primaria-clara));
+            color: var(--cor-branco);
+            border-radius: var(--raio-borda-grande);
+            position: relative;
+            overflow: hidden;
+        }
+        .area-cabecalho::after {
+            content: '';
+            position: absolute;
+            top: 0; right: 0;
+            width: 50%; height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(201,168,76,0.08));
+            pointer-events: none;
+        }
+        .area-cabecalho .icone-grande {
+            width: 64px; height: 64px;
+            border-radius: 50%;
+            background-color: rgba(255,255,255,0.1);
+            border: 2px solid var(--cor-secundaria);
+            display: flex; align-items: center; justify-content: center;
+            color: var(--cor-secundaria);
+            flex-shrink: 0;
+            position: relative; z-index: 1;
+        }
+        .area-cabecalho .icone-grande svg {
+            width: 32px; height: 32px;
+            stroke: var(--cor-secundaria);
+        }
+        .area-cabecalho h2 {
+            font-family: var(--fonte-titulo);
+            font-size: 2rem;
+            font-weight: 500;
+            position: relative; z-index: 1;
+        }
+        .area-cabecalho p {
+            font-size: 0.875rem;
+            opacity: 0.85;
+            position: relative; z-index: 1;
+        }
+
+        /* ============================================================
+           SEÇÕES DO SUB-DASHBOARD
+           ============================================================ */
+        .secao { margin-bottom: var(--espacamento-xl); }
+        .secao-titulo {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 18px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid var(--cor-cinza-medio);
+        }
+        .secao-titulo h3 {
+            font-family: var(--fonte-titulo);
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--cor-primaria);
+            letter-spacing: 0.3px;
+        }
+        .secao-titulo::before {
+            content: '';
+            width: 6px; height: 22px;
+            background: var(--cor-secundaria);
+            border-radius: 3px;
+        }
+
+        /* ============================================================
+           KPIs
+           ============================================================ */
+        .grade-kpis {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+            gap: 16px;
+            margin-bottom: var(--espacamento-lg);
+        }
+        .card-kpi {
+            background: var(--cor-branco);
+            padding: 22px;
+            border-radius: 12px;
+            box-shadow: var(--sombra-suave);
+            border-top: 3px solid var(--cor-secundaria);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .card-kpi::after {
+            content: '';
+            position: absolute;
+            top: -50%; right: -30%;
+            width: 120px; height: 120px;
+            background: radial-gradient(circle, rgba(201, 168, 76, 0.08), transparent 70%);
+            border-radius: 50%;
+            pointer-events: none;
+        }
+        .card-kpi:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--sombra-media);
+        }
+        .card-kpi-rotulo {
+            font-size: 11px;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            font-weight: 600;
+            position: relative; z-index: 1;
+        }
+        .card-kpi-numero {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--cor-primaria);
+            margin-top: 8px;
+            line-height: 1;
+            font-family: var(--fonte-corpo);
+            position: relative; z-index: 1;
+        }
+        .card-kpi-detalhe {
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            margin-top: 6px;
+            position: relative; z-index: 1;
+        }
+        .card-kpi.urgente { border-top-color: var(--cor-urgente); }
+        .card-kpi.urgente .card-kpi-numero { color: var(--cor-urgente); }
+        .card-kpi.favoravel { border-top-color: var(--cor-favoravel); }
+        .card-kpi.favoravel .card-kpi-numero { color: var(--cor-favoravel); }
+
+        /* ============================================================
+           PAINEL DE ALERTAS
+           ============================================================ */
+        .grade-alertas {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: var(--espacamento-md);
+            margin-bottom: var(--espacamento-lg);
+        }
+        .coluna-alerta {
+            background-color: var(--cor-superficie);
+            border-radius: var(--raio-borda);
+            padding: var(--espacamento-md);
+            border-left: 4px solid var(--cor-categoria, var(--cor-primaria));
+            box-shadow: var(--sombra-suave);
+        }
+        .coluna-alerta-cabecalho {
+            display: flex;
+            align-items: center;
+            gap: var(--espacamento-xs);
+            margin-bottom: var(--espacamento-md);
+            padding-bottom: var(--espacamento-xs);
+            border-bottom: 1px solid var(--cor-cinza-medio);
+        }
+        .coluna-alerta-cabecalho .indicador-emoji {
+            font-size: 1.125rem;
+        }
+        .coluna-alerta-cabecalho h4 {
+            font-family: var(--fonte-titulo);
+            font-size: 1.125rem;
+            font-weight: 700;
+            color: var(--cor-categoria, var(--cor-primaria));
+            flex: 1;
+        }
+        .coluna-alerta-cabecalho .contador {
+            background-color: var(--cor-categoria-fundo, rgba(0,0,0,0.05));
+            color: var(--cor-categoria, var(--cor-primaria));
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 100px;
+            min-width: 24px;
+            text-align: center;
+        }
+        .coluna-alerta.urgente { --cor-categoria: var(--cor-urgente); --cor-categoria-fundo: var(--cor-urgente-fundo); }
+        .coluna-alerta.atencao { --cor-categoria: var(--cor-atencao); --cor-categoria-fundo: var(--cor-atencao-fundo); }
+        .coluna-alerta.favoravel { --cor-categoria: var(--cor-favoravel); --cor-categoria-fundo: var(--cor-favoravel-fundo); }
+
+        .card-alerta {
+            background-color: var(--cor-categoria-fundo, rgba(0,0,0,0.03));
+            padding: var(--espacamento-sm);
+            border-radius: 6px;
+            margin-bottom: var(--espacamento-xs);
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: var(--transicao-suave);
+        }
+        .card-alerta:hover { transform: translateX(2px); }
+        .card-alerta:last-child { margin-bottom: 0; }
+        .card-alerta-numero {
+            font-family: var(--fonte-mono);
+            font-size: 0.75rem;
+            color: var(--cor-texto-primario);
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        .card-alerta-descricao {
+            font-size: 0.8125rem;
+            color: var(--cor-texto-secundario);
+            line-height: 1.4;
+        }
+        .card-alerta-descricao strong { color: var(--cor-texto-primario); }
+        .card-alerta-vazio {
+            text-align: center;
+            padding: var(--espacamento-md);
+            color: var(--cor-texto-suave);
+            font-size: 0.8125rem;
+            font-style: italic;
+        }
+
+        /* ============================================================
+           GRÁFICOS (4 GRÁFICOS)
+           ============================================================ */
+        .grade-graficos {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--espacamento-md);
+            margin-bottom: var(--espacamento-lg);
+        }
+        @media (max-width: 900px) {
+            .grade-graficos { grid-template-columns: 1fr; }
+        }
+        .card-grafico {
+            background-color: var(--cor-superficie);
+            border-radius: var(--raio-borda);
+            padding: var(--espacamento-md);
+            box-shadow: var(--sombra-suave);
+        }
+        .card-grafico-titulo {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: var(--espacamento-md);
+            padding-bottom: 8px;
+            border-bottom: 1px solid var(--cor-cinza-medio);
+        }
+        .card-grafico-canvas-container {
+            position: relative;
+            height: 280px;
+        }
+
+        /* ============================================================
+           LINHA DO TEMPO (TIMELINE) — REFINADA
+           ============================================================ */
+        .timeline {
+            position: relative;
+            padding-left: 32px;
+            margin-bottom: var(--espacamento-lg);
+            background: var(--cor-superficie);
+            padding: 24px 24px 24px 56px;
+            border-radius: var(--raio-borda);
+            box-shadow: var(--sombra-suave);
+        }
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 32px;
+            top: 32px;
+            bottom: 32px;
+            width: 2px;
+            background: linear-gradient(180deg, var(--cor-secundaria) 0%, var(--cor-cinza-medio) 100%);
+        }
+        .timeline-item {
+            position: relative;
+            padding-bottom: var(--espacamento-md);
+        }
+        .timeline-item:last-child { padding-bottom: 0; }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -32px;
+            top: 4px;
+            width: 12px; height: 12px;
+            border-radius: 50%;
+            background-color: var(--cor-superficie);
+            border: 2px solid var(--cor-secundaria);
+            z-index: 1;
+        }
+        .timeline-item:hover::before { background-color: var(--cor-secundaria); }
+        .timeline-item.prazo-futuro::before {
+            background-color: var(--cor-urgente);
+            border-color: var(--cor-urgente);
+            box-shadow: 0 0 0 3px var(--cor-urgente-fundo);
+        }
+        .timeline-item-data {
+            font-size: 0.75rem;
+            font-weight: 600;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 2px;
+        }
+        .timeline-item.prazo-futuro .timeline-item-data {
+            color: var(--cor-urgente);
+        }
+        .timeline-item-data .selo-prazo {
+            display: inline-block;
+            margin-left: 8px;
+            background: var(--cor-urgente);
+            color: var(--cor-branco);
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 2px 6px;
+            border-radius: 3px;
+            letter-spacing: 0.08em;
+            vertical-align: middle;
+        }
+        .timeline-item-cnj {
+            font-family: var(--fonte-mono);
+            font-size: 0.7rem;
+            color: var(--cor-texto-primario);
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+        .timeline-item-descricao {
+            font-size: 0.875rem;
+            color: var(--cor-texto-primario);
+            line-height: 1.5;
+        }
+        .timeline-vazia {
+            text-align: center;
+            padding: var(--espacamento-lg);
+            color: var(--cor-texto-suave);
+            font-size: 0.875rem;
+            font-style: italic;
+            background: var(--cor-superficie);
+            border-radius: var(--raio-borda);
+            box-shadow: var(--sombra-suave);
+        }
+
+        /* ============================================================
+           TABELA DE PROCESSOS (NOVO)
+           ============================================================ */
+        .tabela-container {
+            background: var(--cor-branco);
+            border-radius: 12px;
+            box-shadow: var(--sombra-suave);
+            overflow: hidden;
+        }
+        .tabela-controles {
+            padding: 18px 22px;
+            border-bottom: 1px solid var(--cor-cinza-medio);
+            display: flex;
+            gap: 14px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        .busca-input {
+            flex: 1;
+            min-width: 240px;
+            padding: 10px 14px;
+            font-size: 13px;
+            font-family: inherit;
+            border: 1px solid var(--cor-cinza-medio);
+            border-radius: 8px;
+            color: var(--cor-primaria);
+            background: var(--cor-cinza-claro);
+            transition: all 0.15s ease;
+        }
+        .busca-input:focus {
+            outline: none;
+            border-color: var(--cor-secundaria);
+            background: var(--cor-branco);
+            box-shadow: 0 0 0 3px rgba(201, 168, 76, 0.15);
+        }
+        .filtros { display: flex; gap: 6px; flex-wrap: wrap; }
+        .filtro-btn {
+            padding: 8px 14px;
+            font-size: 12px;
+            font-weight: 600;
+            font-family: inherit;
+            background: var(--cor-branco);
+            color: var(--cor-texto-secundario);
+            border: 1px solid var(--cor-cinza-medio);
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .filtro-btn:hover {
+            border-color: var(--cor-secundaria);
+            color: var(--cor-primaria);
+        }
+        .filtro-btn.ativo {
+            background: var(--cor-primaria);
+            color: var(--cor-branco);
+            border-color: var(--cor-primaria);
+        }
+        .tabela-wrap { overflow-x: auto; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        thead {
+            background: var(--cor-primaria);
+            color: var(--cor-branco);
+        }
+        th {
+            padding: 14px 12px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            user-select: none;
+            border-bottom: 2px solid var(--cor-secundaria);
+            white-space: nowrap;
+        }
+        th:hover { background: var(--cor-primaria-clara); }
+        th .seta {
+            color: var(--cor-secundaria);
+            margin-left: 4px;
+            opacity: 0.6;
+            font-size: 10px;
+        }
+        th.ordenado .seta { opacity: 1; }
+        tbody tr {
+            border-bottom: 1px solid var(--cor-cinza-medio);
+            transition: background 0.12s ease;
+            cursor: pointer;
+        }
+        tbody tr:hover { background: var(--cor-cinza-claro); }
+        tbody tr:last-child { border-bottom: none; }
+        td {
+            padding: 14px 12px;
+            vertical-align: top;
+            line-height: 1.45;
+        }
+        .cnj {
+            font-family: var(--fonte-mono);
+            font-weight: 600;
+            color: var(--cor-primaria);
+            white-space: nowrap;
+            font-size: 12px;
+        }
+        .truncar { max-width: 240px; }
+        .partes {
+            font-weight: 600;
+            color: var(--cor-primaria);
+            margin-bottom: 2px;
+        }
+        .partes-passivo {
+            font-size: 11px;
+            color: var(--cor-texto-secundario);
+            line-height: 1.3;
+        }
+        .badge {
+            display: inline-block;
+            font-size: 10px;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 4px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+        .badge-fase-conhecimento { background: var(--cor-info-fundo); color: var(--cor-info); }
+        .badge-fase-instrucao { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+        .badge-fase-execucao { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+        .badge-fase-cumprimento { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+        .badge-fase-recursal { background: var(--cor-info-fundo); color: var(--cor-info); }
+        .badge-fase-sentenca { background: var(--cor-info-fundo); color: var(--cor-info); }
+        .badge-fase-arquivado { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+        .badge-fase-transitado { background: var(--cor-favoravel-fundo); color: var(--cor-favoravel); }
+        .badge-fase-planejamento { background: var(--cor-info-fundo); color: var(--cor-info); }
+        .badge-fase-default { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+        .badge-acao { background: var(--cor-urgente-fundo); color: var(--cor-urgente); margin-top: 4px; display: inline-block; }
+        .badge-favor { background: var(--cor-favoravel-fundo); color: var(--cor-favoravel); margin-top: 4px; display: inline-block; }
+        .ultimo-andamento {
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            line-height: 1.4;
+        }
+        .prazo-tabela {
+            color: var(--cor-urgente);
+            font-weight: 600;
+            font-size: 11px;
+            margin-top: 4px;
+        }
+        .resultado-info {
+            padding: 14px 22px;
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            border-top: 1px solid var(--cor-cinza-medio);
+            background: var(--cor-cinza-claro);
+        }
+        .valor-causa {
+            font-weight: 600;
+            font-variant-numeric: tabular-nums;
+            color: var(--cor-primaria);
+            white-space: nowrap;
+        }
+
+        /* ============================================================
+           MODAL DE DETALHES
+           ============================================================ */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(10, 22, 40, 0.65);
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: var(--espacamento-md);
+            animation: modalFadeIn 0.2s ease;
+        }
+        .modal-overlay.aberto { display: flex; }
+        @keyframes modalFadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .modal-conteudo {
+            background: var(--cor-branco);
+            border-radius: 14px;
+            max-width: 800px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: var(--sombra-xl);
+            border-top: 4px solid var(--cor-secundaria);
+            animation: modalSlideIn 0.3s ease;
+        }
+        @keyframes modalSlideIn { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+        .modal-cabecalho {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            padding: 22px 28px;
+            border-bottom: 1px solid var(--cor-cinza-medio);
+            gap: 16px;
+        }
+        .modal-cabecalho h3 {
+            font-family: var(--fonte-titulo);
+            font-size: 22px;
+            color: var(--cor-primaria);
+            font-weight: 700;
+            line-height: 1.3;
+            margin-bottom: 6px;
+        }
+        .modal-cabecalho .num-cnj-modal {
+            font-family: var(--fonte-mono);
+            font-size: 12px;
+            color: var(--cor-texto-secundario);
+            font-weight: 600;
+        }
+        .modal-fechar {
+            background: var(--cor-cinza-claro);
+            border: none;
+            width: 36px; height: 36px;
+            border-radius: 50%;
+            font-size: 18px;
+            cursor: pointer;
+            color: var(--cor-texto-secundario);
+            transition: all 0.15s ease;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .modal-fechar:hover {
+            background: var(--cor-urgente-fundo);
+            color: var(--cor-urgente);
+        }
+        .modal-corpo {
+            padding: 22px 28px 28px;
+        }
+        .modal-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+            margin-bottom: 20px;
+        }
+        .modal-secao h4 {
+            font-size: 10px;
+            font-weight: 700;
+            color: var(--cor-texto-secundario);
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            margin-bottom: 6px;
+        }
+        .modal-secao p {
+            font-size: 14px;
+            color: var(--cor-texto-primario);
+            line-height: 1.5;
+        }
+        .modal-secao-larga {
+            grid-column: 1 / -1;
+        }
+        .modal-secao-larga p {
+            background: var(--cor-cinza-claro);
+            padding: 12px 14px;
+            border-radius: 6px;
+            border-left: 3px solid var(--cor-secundaria);
+            font-size: 13px;
+        }
+        @media (max-width: 600px) {
+            .modal-grid { grid-template-columns: 1fr; }
+        }
+
+        /* ============================================================
+           FOOTER
+           ============================================================ */
+        .rodape {
+            background-color: var(--cor-primaria);
+            color: var(--cor-branco);
+            padding: var(--espacamento-xl) var(--espacamento-md) var(--espacamento-lg);
+            margin-top: var(--espacamento-xl);
+            position: relative;
+            overflow: hidden;
+        }
+        .rodape::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent 0%, var(--cor-secundaria) 50%, transparent 100%);
+        }
+        .rodape-conteudo {
+            max-width: 1400px; margin: 0 auto;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: var(--espacamento-lg);
+            margin-bottom: var(--espacamento-lg);
+        }
+        .rodape-bloco h4 {
+            font-family: var(--fonte-titulo);
+            font-size: 1.125rem;
+            font-weight: 500;
+            color: var(--cor-secundaria);
+            margin-bottom: var(--espacamento-sm);
+            letter-spacing: 0.03em;
+        }
+        .rodape-bloco p,
+        .rodape-bloco a {
+            font-size: 0.875rem;
+            color: rgba(255,255,255,0.85);
+            text-decoration: none;
+            line-height: 1.7;
+        }
+        .rodape-bloco a:hover { color: var(--cor-secundaria); }
+        .rodape-creditos {
+            text-align: center;
+            padding-top: var(--espacamento-md);
+            border-top: 1px solid rgba(255,255,255,0.1);
+            font-size: 0.75rem;
+            color: rgba(255,255,255,0.6);
+            letter-spacing: 0.05em;
+        }
+
+        /* ============================================================
+           RESPONSIVIDADE
+           ============================================================ */
+        @media (max-width: 768px) {
+            .cabecalho-conteudo { grid-template-columns: 1fr; text-align: center; }
+            .info-atualizacao { text-align: center; }
+            .grade-areas { grid-template-columns: 1fr; }
+            .area-cabecalho { flex-direction: column; text-align: center; }
+            .card-kpi-numero { font-size: 26px; }
+            .truncar { max-width: 180px; }
+            th, td { padding: 10px 8px; font-size: 11px; }
+        }
+
+        :focus-visible {
+            outline: 2px solid var(--cor-secundaria);
+            outline-offset: 2px;
+            border-radius: 4px;
+        }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: var(--cor-cinza-claro); }
+        ::-webkit-scrollbar-thumb { background: var(--cor-cinza-medio); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--cor-texto-secundario); }
+    </style>
+</head>
+<body>
+
+    <!-- CABEÇALHO -->
+    <header class="cabecalho">
+        <div class="cabecalho-conteudo">
+            <div class="logo-container">
+                {% if escritorio.logo_base64 %}
+                <img src="data:image/png;base64,{{ escritorio.logo_base64 }}" alt="{{ escritorio.logo.alt }}">
+                {% else %}
+                <div style="font-family: var(--fonte-titulo); font-weight: 600; font-size: 1.75rem; color: var(--cor-branco); letter-spacing: 0.05em;">
+                    BATISTA
+                    <small style="display: block; font-size: 0.65rem; font-weight: 400; letter-spacing: 0.25em; margin-top: 6px; color: var(--cor-secundaria);">ADVOGADOS ASSOCIADOS</small>
+                </div>
+                {% endif %}
+            </div>
+            <div class="titulo-cabecalho">
+                <h1>Painel Processual</h1>
+                <p class="cliente-nome">{{ cliente.nome_completo | titulo_amigavel }}</p>
+                <p>{{ cliente.tipo_pessoa_extenso }} — {{ cliente.documento_formatado }}</p>
+            </div>
+            <div class="info-atualizacao">
+                <div>Última atualização</div>
+                <div class="data">{{ data_atualizacao }}</div>
+                <div style="margin-top: 8px; font-size: 0.7rem; opacity: 0.7;">
+                    {{ total_processos }} processo{{ 's' if total_processos != 1 else '' }} ativo{{ 's' if total_processos != 1 else '' }}
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- BREADCRUMB -->
+        <nav class="breadcrumb" id="breadcrumb" aria-label="Navegação">
+            <button onclick="voltarAreas()" type="button">← Voltar às Áreas</button>
+            <span class="separador">/</span>
+            <span class="atual" id="breadcrumb-area">Área</span>
+        </nav>
+
+        <!-- TELA INICIAL: GALERIA DE ÁREAS -->
+        <section class="tela-areas" id="telaAreas">
+
+            <!-- PAINEL DE PRODUTIVIDADE DO ESCRITÓRIO -->
+            {% if produtividade %}
+            <div class="painel-produtividade">
+                <div class="produtividade-conteudo">
+                    <div class="produtividade-rotulo">📊 Atividade do escritório</div>
+                    <h2 class="produtividade-titulo">Trabalho realizado nos últimos 90 dias</h2>
+
+                    {% if produtividade.total > 0 %}
+                    <div class="produtividade-numero-grande">
+                        <span class="valor">{{ produtividade.total }}</span>
+                        <span class="legenda">{{ 'Diligências' if produtividade.total != 1 else 'Diligência' }}</span>
+                    </div>
+
+                    <div class="produtividade-categorias">
+                        <div class="produtividade-categoria">
+                            <div class="num">{{ produtividade.pecas }}</div>
+                            <div class="lbl">Peças</div>
+                        </div>
+                        <div class="produtividade-categoria">
+                            <div class="num">{{ produtividade.audiencias }}</div>
+                            <div class="lbl">Audiências</div>
+                        </div>
+                        <div class="produtividade-categoria">
+                            <div class="num">{{ produtividade.reunioes }}</div>
+                            <div class="lbl">Reuniões</div>
+                        </div>
+                        <div class="produtividade-categoria">
+                            <div class="num">{{ produtividade.despachos }}</div>
+                            <div class="lbl">Despachos</div>
+                        </div>
+                        <div class="produtividade-categoria">
+                            <div class="num">{{ produtividade.outros }}</div>
+                            <div class="lbl">Outras</div>
+                        </div>
+                    </div>
+
+                    {% if produtividade.ultima_atividade %}
+                    <div class="produtividade-rodape">
+                        ▸ Última atividade: <strong>{{ produtividade.ultima_atividade.data_formatada }}</strong> — {{ produtividade.ultima_atividade.descricao }}
+                    </div>
+                    {% endif %}
+                    {% else %}
+                    <div class="produtividade-vazia">
+                        Nenhuma diligência registrada nos últimos 90 dias.
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="secao-intro">
+                <h2>Acompanhamento Processual</h2>
+                <span class="ornamento-titulo"></span>
+                <p>
+                    Selecione abaixo a área do direito que deseja consultar para visualizar o
+                    detalhamento dos processos, prazos, audiências e movimentações pertinentes.
+                </p>
+            </div>
+
+            <div class="grade-areas">
+                {% for area in areas_ativas %}
+                <article
+                    class="card-area {{ 'desabilitado' if area.total == 0 else '' }}"
+                    data-area-id="{{ area.id }}"
+                    {% if area.total > 0 %}role="button" tabindex="0"{% endif %}
+                >
+                    <div class="area-icone-circ">
+                        {{ area.icone_svg | safe }}
+                    </div>
+                    <h3>{{ area.nome }}</h3>
+                    <div class="area-contador">
+                        {{ area.total }} processo{{ 's' if area.total != 1 else '' }}
+                    </div>
+                    <div class="area-tags">
+                        {% if area.detectada_auto %}
+                        <span class="area-tag auto" title="Área detectada automaticamente">auto</span>
+                        {% endif %}
+                        {% if area.alerta_critico > 0 %}
+                        <span class="area-tag urgente">⚡ {{ area.alerta_critico }} {{ 'urgentes' if area.alerta_critico != 1 else 'urgente' }}</span>
+                        {% endif %}
+                        {% if area.alerta_atencao > 0 %}
+                        <span class="area-tag atencao">{{ area.alerta_atencao }} atenção</span>
+                        {% endif %}
+                        {% if area.total > 0 and area.alerta_critico == 0 and area.alerta_atencao == 0 %}
+                        <span class="area-tag ok">✓ sem pendências</span>
+                        {% endif %}
+                        {% if area.total == 0 %}
+                        <span class="area-tag indisponivel">indisponível</span>
+                        {% endif %}
+                    </div>
+                    <div class="area-resumo">{{ area.resumo_texto }}</div>
+                    <div class="area-explorar">
+                        {% if area.total > 0 %}explorar painel →{% else %}(sem processos){% endif %}
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+
+        <!-- SUB-DASHBOARDS -->
+        {% for area in areas_ativas %}
+        <section class="area-detalhe" id="area-{{ area.id }}" data-area="{{ area.id }}">
+            <div class="area-cabecalho">
+                <div class="icone-grande">{{ area.icone_svg | safe }}</div>
+                <div>
+                    <h2>{{ area.nome }}</h2>
+                    <p>{{ area.total }} processo{{ 's' if area.total != 1 else '' }} nesta área {% if area.detectada_auto %}<em>(detectada automaticamente)</em>{% endif %}</p>
+                </div>
+            </div>
+
+            <!-- KPIs -->
+            <div class="secao">
+                <div class="secao-titulo"><h3>Indicadores</h3></div>
+                <div class="grade-kpis">
+                    <div class="card-kpi">
+                        <div class="card-kpi-rotulo">Total na Área</div>
+                        <div class="card-kpi-numero">{{ area.total }}</div>
+                        <div class="card-kpi-detalhe">processo{{ 's' if area.total != 1 else '' }} cadastrado{{ 's' if area.total != 1 else '' }}</div>
+                    </div>
+                    <div class="card-kpi">
+                        <div class="card-kpi-rotulo">Ativos</div>
+                        <div class="card-kpi-numero">{{ area.ativos }}</div>
+                        <div class="card-kpi-detalhe">em andamento</div>
+                    </div>
+                    <div class="card-kpi urgente">
+                        <div class="card-kpi-rotulo">Ação Urgente</div>
+                        <div class="card-kpi-numero">{{ area.alerta_critico }}</div>
+                        <div class="card-kpi-detalhe">audiências/prazos/bloqueios</div>
+                    </div>
+                    <div class="card-kpi favoravel">
+                        <div class="card-kpi-rotulo">Resolvidos</div>
+                        <div class="card-kpi-numero">{{ area.encerrados }}</div>
+                        <div class="card-kpi-detalhe">arquivados/finalizados</div>
+                    </div>
+                    <div class="card-kpi">
+                        <div class="card-kpi-rotulo">Valor em Disputa</div>
+                        <div class="card-kpi-numero" style="font-size: 20px;">{{ area.valor_disputa_formatado }}</div>
+                        <div class="card-kpi-detalhe">soma das causas ativas</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Painel de Alertas -->
+            <div class="secao">
+                <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+                <div class="grade-alertas">
+                    <div class="coluna-alerta urgente">
+                        <div class="coluna-alerta-cabecalho">
+                            <span class="indicador-emoji">🔴</span>
+                            <h4>Ação Urgente</h4>
+                            <span class="contador">{{ area.alertas.urgente | length }}</span>
+                        </div>
+                        {% if area.alertas.urgente %}
+                            {% for proc in area.alertas.urgente %}
+                            <div class="card-alerta" onclick="abrirModalProcesso('{{ proc.id }}')">
+                                <div class="card-alerta-numero">{{ proc.process_number or proc.protocol_number or 'Sem número' }}</div>
+                                <div class="card-alerta-descricao">{{ proc.alerta_descricao_html | safe }}</div>
+                            </div>
+                            {% endfor %}
+                        {% else %}
+                            <div class="card-alerta-vazio">Nenhuma ação urgente nesta área.</div>
+                        {% endif %}
+                    </div>
+
+                    <div class="coluna-alerta atencao">
+                        <div class="coluna-alerta-cabecalho">
+                            <span class="indicador-emoji">🟡</span>
+                            <h4>Atenção</h4>
+                            <span class="contador">{{ area.alertas.atencao | length }}</span>
+                        </div>
+                        {% if area.alertas.atencao %}
+                            {% for proc in area.alertas.atencao %}
+                            <div class="card-alerta" onclick="abrirModalProcesso('{{ proc.id }}')">
+                                <div class="card-alerta-numero">{{ proc.process_number or proc.protocol_number or 'Sem número' }}</div>
+                                <div class="card-alerta-descricao">{{ proc.alerta_descricao_html | safe }}</div>
+                            </div>
+                            {% endfor %}
+                        {% else %}
+                            <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                        {% endif %}
+                    </div>
+
+                    <div class="coluna-alerta favoravel">
+                        <div class="coluna-alerta-cabecalho">
+                            <span class="indicador-emoji">🟢</span>
+                            <h4>Resolvidos / Favoráveis</h4>
+                            <span class="contador">{{ area.alertas.favoravel | length }}</span>
+                        </div>
+                        {% if area.alertas.favoravel %}
+                            {% for proc in area.alertas.favoravel %}
+                            <div class="card-alerta" onclick="abrirModalProcesso('{{ proc.id }}')">
+                                <div class="card-alerta-numero">{{ proc.process_number or proc.protocol_number or 'Sem número' }}</div>
+                                <div class="card-alerta-descricao">{{ proc.alerta_descricao_html | safe }}</div>
+                            </div>
+                            {% endfor %}
+                        {% else %}
+                            <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+
+            <!-- Gráficos: 4 visualizações -->
+            <div class="secao">
+                <div class="secao-titulo"><h3>Distribuição</h3></div>
+                <div class="grade-graficos">
+                    <div class="card-grafico">
+                        <div class="card-grafico-titulo">Por Fase Processual</div>
+                        <div class="card-grafico-canvas-container">
+                            <canvas id="grafico-fase-{{ area.id }}"></canvas>
+                        </div>
+                    </div>
+                    <div class="card-grafico">
+                        <div class="card-grafico-titulo">Por Tribunal / Comarca</div>
+                        <div class="card-grafico-canvas-container">
+                            <canvas id="grafico-tribunal-{{ area.id }}"></canvas>
+                        </div>
+                    </div>
+                    <div class="card-grafico">
+                        <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                        <div class="card-grafico-canvas-container">
+                            <canvas id="grafico-tipo-{{ area.id }}"></canvas>
+                        </div>
+                    </div>
+                    <div class="card-grafico">
+                        <div class="card-grafico-titulo">Status Processual</div>
+                        <div class="card-grafico-canvas-container">
+                            <canvas id="grafico-status-{{ area.id }}"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Linha do Tempo -->
+            <div class="secao">
+                <div class="secao-titulo"><h3>Linha do Tempo — Andamentos Recentes</h3></div>
+                {% if area.timeline %}
+                <div class="timeline">
+                    {% for item in area.timeline %}
+                    <div class="timeline-item {{ 'prazo-futuro' if item.prazo_futuro else '' }}">
+                        <div class="timeline-item-data">
+                            {{ item.data_formatada }}
+                            {% if item.prazo_futuro %}<span class="selo-prazo">PRAZO FUTURO</span>{% endif %}
+                        </div>
+                        <div class="timeline-item-cnj">{{ item.processo_referencia }}</div>
+                        <div class="timeline-item-descricao">{{ item.description }}</div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <div class="timeline-vazia">Nenhum andamento registrado nos últimos 30 dias para esta área.</div>
+                {% endif %}
+            </div>
+
+            <!-- Tabela de Processos -->
+            <div class="secao">
+                <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+                <div class="tabela-container">
+                    <div class="tabela-controles">
+                        <input type="text" class="busca-input" placeholder="Buscar por nº CNJ, parte adversa, comarca, andamento..."
+                               oninput="filtrarTabela('{{ area.id }}', this.value)" />
+                        <div class="filtros">
+                            <button class="filtro-btn ativo" data-filtro="todos" onclick="aplicarFiltroFase('{{ area.id }}', 'todos', this)">Todos</button>
+                            <button class="filtro-btn" data-filtro="conhecimento" onclick="aplicarFiltroFase('{{ area.id }}', 'conhecimento', this)">Conhecimento</button>
+                            <button class="filtro-btn" data-filtro="instrucao" onclick="aplicarFiltroFase('{{ area.id }}', 'instrucao', this)">Instrução</button>
+                            <button class="filtro-btn" data-filtro="execucao" onclick="aplicarFiltroFase('{{ area.id }}', 'execucao', this)">Execução</button>
+                            <button class="filtro-btn" data-filtro="recursal" onclick="aplicarFiltroFase('{{ area.id }}', 'recursal', this)">Recursal</button>
+                            <button class="filtro-btn" data-filtro="arquivado" onclick="aplicarFiltroFase('{{ area.id }}', 'arquivado', this)">Arquivados</button>
+                        </div>
+                    </div>
+                    <div class="tabela-wrap">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'partes')">Partes <span class="seta">⇅</span></th>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'tribunal')">Tribunal / Comarca <span class="seta">⇅</span></th>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'tipo')">Ação <span class="seta">⇅</span></th>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'fase')">Fase <span class="seta">⇅</span></th>
+                                    <th onclick="ordenarTabela('{{ area.id }}', 'valor')">Valor <span class="seta">⇅</span></th>
+                                    <th>Último Andamento</th>
+                                </tr>
+                            </thead>
+                            <tbody id="tbody-{{ area.id }}">
+                                {% for proc in area.processos_tabela %}
+                                <tr data-fase="{{ proc.fase_slug }}"
+                                    data-busca="{{ proc.texto_busca }}"
+                                    data-cnj="{{ proc.process_number or proc.protocol_number or '' }}"
+                                    data-partes="{{ proc.partes_texto }}"
+                                    data-tribunal="{{ proc.tribunal or '' }} {{ proc.county or '' }}"
+                                    data-tipo="{{ proc.type or '' }}"
+                                    data-fase-nome="{{ proc.stage or '' }}"
+                                    data-valor="{{ proc.valor_numerico }}"
+                                    onclick="abrirModalProcesso('{{ proc.id }}')">
+                                    <td><span class="cnj">{{ proc.process_number or proc.protocol_number or '—' }}</span></td>
+                                    <td class="truncar">
+                                        <div class="partes">{{ proc.parte_principal_curta }}</div>
+                                        <div class="partes-passivo">{{ proc.contraparte_curta }}</div>
+                                    </td>
+                                    <td>
+                                        <strong>{{ proc.tribunal or '—' }}</strong><br>
+                                        <span style="font-size:11px;color:var(--cor-texto-secundario)">{{ proc.county_titulo or proc.court_titulo }}</span>
+                                    </td>
+                                    <td>{{ proc.type | titulo_amigavel }}</td>
+                                    <td>
+                                        <span class="badge badge-fase-{{ proc.fase_slug }}">{{ proc.stage | titulo_amigavel }}</span>
+                                        {% if proc._alerta == 'urgente' %}<br><span class="badge badge-acao">⚡ AÇÃO</span>{% endif %}
+                                        {% if proc._alerta == 'favoravel' %}<br><span class="badge badge-favor">✓ FAVOR.</span>{% endif %}
+                                    </td>
+                                    <td><span class="valor-causa">{{ proc.valor_formatado }}</span></td>
+                                    <td>
+                                        <div class="ultimo-andamento">{{ proc.ultimo_andamento_curto }}</div>
+                                        {% if proc.prazo_destaque %}<div class="prazo-tabela">⏰ {{ proc.prazo_destaque }}</div>{% endif %}
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="resultado-info" id="info-{{ area.id }}">
+                        Mostrando {{ area.processos_tabela | length }} de {{ area.processos_tabela | length }} processo{{ 's' if area.processos_tabela | length != 1 else '' }} da área
+                    </div>
+                </div>
+            </div>
+
+            <script type="application/json" id="dados-area-{{ area.id }}">
+                {{ area.dados_graficos_json | safe }}
+            </script>
+        </section>
+        {% endfor %}
+
+        <!-- DADOS DE TODOS OS PROCESSOS PARA O MODAL -->
+        <script type="application/json" id="dados-processos">
+            {{ dados_processos_json | safe }}
+        </script>
+
+    </main>
+
+    <!-- MODAL DE DETALHES DO PROCESSO -->
+    <div class="modal-overlay" id="modal-overlay" onclick="if(event.target===this) fecharModal()">
+        <div class="modal-conteudo" id="modal-conteudo">
+            <div class="modal-cabecalho">
+                <div>
+                    <h3 id="modal-titulo">—</h3>
+                    <div class="num-cnj-modal" id="modal-cnj">—</div>
+                </div>
+                <button class="modal-fechar" onclick="fecharModal()" aria-label="Fechar">✕</button>
+            </div>
+            <div class="modal-corpo" id="modal-corpo">
+                <!-- Preenchido por JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer class="rodape">
+        <div class="rodape-conteudo">
+            <div class="rodape-bloco">
+                <h4>{{ escritorio.nome }}</h4>
+                <p>{{ escritorio.contato.endereco }}<br>CEP {{ escritorio.contato.cep }}</p>
+            </div>
+            <div class="rodape-bloco">
+                <h4>Contato</h4>
+                <p>
+                    {% for telefone in escritorio.contato.telefones %}{{ telefone }}<br>{% endfor %}
+                    <a href="mailto:{{ escritorio.contato.email }}">{{ escritorio.contato.email }}</a>
+                </p>
+            </div>
+            <div class="rodape-bloco">
+                <h4>Web</h4>
+                <p><a href="https://{{ escritorio.contato.site }}" target="_blank" rel="noopener noreferrer">{{ escritorio.contato.site }}</a></p>
+            </div>
+        </div>
+        <div class="rodape-creditos">
+            Painel gerado em {{ data_atualizacao }} — Documento de uso restrito do cliente.
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script>
+        var graficosCriados = {};
+        var paletaGraficos = ['#0A1628', '#C9A84C', '#5C6B7A', '#7B2D3F', '#5C7A4F', '#8B4513', '#5D3A8A', '#1F6E5C', '#B85450', '#8B6F47', '#A0763D', '#2D5F3F', '#3A5F7A', '#D68910'];
+        var DADOS_PROCESSOS = {};
+
+        function abrirArea(idArea) {
+            document.getElementById('telaAreas').style.display = 'none';
+            document.querySelectorAll('.area-detalhe').forEach(function(el) { el.classList.remove('ativa'); });
+            var areaSelecionada = document.getElementById('area-' + idArea);
+            if (areaSelecionada) {
+                areaSelecionada.classList.add('ativa');
+                var breadcrumb = document.getElementById('breadcrumb');
+                var titulo = areaSelecionada.querySelector('.area-cabecalho h2');
+                if (titulo) document.getElementById('breadcrumb-area').textContent = titulo.textContent;
+                breadcrumb.classList.add('visivel');
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+                if (!graficosCriados[idArea]) {
+                    renderizarGraficos(idArea);
+                    graficosCriados[idArea] = true;
+                }
+            }
+        }
+
+        function voltarAreas() {
+            document.getElementById('telaAreas').style.display = 'block';
+            document.querySelectorAll('.area-detalhe').forEach(function(el) { el.classList.remove('ativa'); });
+            document.getElementById('breadcrumb').classList.remove('visivel');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                if (document.getElementById('modal-overlay').classList.contains('aberto')) {
+                    fecharModal();
+                } else if (document.getElementById('breadcrumb').classList.contains('visivel')) {
+                    voltarAreas();
+                }
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Carregar dados de processos
+            try {
+                var script = document.getElementById('dados-processos');
+                if (script) DADOS_PROCESSOS = JSON.parse(script.textContent);
+            } catch (e) { console.error('Erro ao carregar dados:', e); }
+
+            // Conectar cliques em cards de área
+            document.querySelectorAll('.card-area[data-area-id]').forEach(function(card) {
+                if (card.classList.contains('desabilitado')) return;
+                var areaId = card.getAttribute('data-area-id');
+                card.addEventListener('click', function(e) {
+                    if (e.target.closest('.card-alerta')) return;
+                    abrirArea(areaId);
+                });
+                card.addEventListener('keydown', function(e) {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        abrirArea(areaId);
+                    }
+                });
+            });
+        });
+
+        if (typeof Chart !== 'undefined') {
+            Chart.defaults.font.family = "'Inter', -apple-system, sans-serif";
+            Chart.defaults.font.size = 12;
+            Chart.defaults.color = '#6b7280';
+            Chart.defaults.plugins.legend.position = 'bottom';
+            Chart.defaults.plugins.legend.labels.padding = 16;
+            Chart.defaults.plugins.legend.labels.font = { size: 11 };
+            Chart.defaults.plugins.legend.labels.boxWidth = 12;
+            Chart.defaults.plugins.legend.labels.boxHeight = 12;
+        }
+
+        function renderizarGraficos(idArea) {
+            var dadosScript = document.getElementById('dados-area-' + idArea);
+            if (!dadosScript) return;
+            var dados;
+            try { dados = JSON.parse(dadosScript.textContent); }
+            catch (e) { console.error('Erro:', e); return; }
+
+            // 1) Donut por Fase
+            var canvasFase = document.getElementById('grafico-fase-' + idArea);
+            if (canvasFase && dados.fases && dados.fases.labels.length > 0) {
+                new Chart(canvasFase, {
+                    type: 'doughnut',
+                    data: { labels: dados.fases.labels, datasets: [{ data: dados.fases.valores, backgroundColor: paletaGraficos.slice(0, dados.fases.labels.length), borderColor: '#ffffff', borderWidth: 2, hoverOffset: 8 }] },
+                    options: { responsive: true, maintainAspectRatio: false, cutout: '62%', plugins: { legend: { position: 'right', align: 'center' }, tooltip: { backgroundColor: '#0A1628', titleColor: '#C9A84C', padding: 12, cornerRadius: 6 } } }
+                });
+            }
+
+            // 2) Barras por Tribunal
+            var canvasTribunal = document.getElementById('grafico-tribunal-' + idArea);
+            if (canvasTribunal && dados.tribunais && dados.tribunais.labels.length > 0) {
+                new Chart(canvasTribunal, {
+                    type: 'bar',
+                    data: { labels: dados.tribunais.labels, datasets: [{ data: dados.tribunais.valores, backgroundColor: '#C9A84C', borderColor: '#0A1628', borderWidth: 1, borderRadius: 4, maxBarThickness: 28 }] },
+                    options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { backgroundColor: '#0A1628', titleColor: '#C9A84C', padding: 12, cornerRadius: 6 } }, scales: { x: { beginAtZero: true, ticks: { stepSize: 1, precision: 0 }, grid: { color: 'rgba(0,0,0,0.05)' } }, y: { grid: { display: false } } } }
+                });
+            }
+
+            // 3) Barras por Tipo de Ação
+            var canvasTipo = document.getElementById('grafico-tipo-' + idArea);
+            if (canvasTipo && dados.tipos && dados.tipos.labels.length > 0) {
+                new Chart(canvasTipo, {
+                    type: 'bar',
+                    data: { labels: dados.tipos.labels, datasets: [{ data: dados.tipos.valores, backgroundColor: '#5C6B7A', borderColor: '#0A1628', borderWidth: 1, borderRadius: 4, maxBarThickness: 28 }] },
+                    options: { indexAxis: 'y', responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false }, tooltip: { backgroundColor: '#0A1628', titleColor: '#C9A84C', padding: 12, cornerRadius: 6 } }, scales: { x: { beginAtZero: true, ticks: { stepSize: 1, precision: 0 }, grid: { color: 'rgba(0,0,0,0.05)' } }, y: { grid: { display: false } } } }
+                });
+            }
+
+            // 4) Donut Status Processual
+            var canvasStatus = document.getElementById('grafico-status-' + idArea);
+            if (canvasStatus && dados.status && dados.status.labels.length > 0) {
+                new Chart(canvasStatus, {
+                    type: 'doughnut',
+                    data: { labels: dados.status.labels, datasets: [{ data: dados.status.valores, backgroundColor: ['#C9A84C', '#0A1628'], borderColor: '#ffffff', borderWidth: 2, hoverOffset: 8 }] },
+                    options: { responsive: true, maintainAspectRatio: false, cutout: '62%', plugins: { legend: { position: 'right', align: 'center' }, tooltip: { backgroundColor: '#0A1628', titleColor: '#C9A84C', padding: 12, cornerRadius: 6 } } }
+                });
+            }
+        }
+
+        // ===== FILTROS DA TABELA =====
+        function filtrarTabela(idArea, textoBusca) {
+            var tbody = document.getElementById('tbody-' + idArea);
+            if (!tbody) return;
+            var rows = tbody.querySelectorAll('tr');
+            var info = document.getElementById('info-' + idArea);
+            var totalVisivel = 0;
+            var totalGeral = rows.length;
+            var fasaAtiva = tbody.getAttribute('data-fase-ativa') || 'todos';
+            var busca = textoBusca.toLowerCase().trim();
+            rows.forEach(function(row) {
+                var textoLinha = row.getAttribute('data-busca');
+                var faseLinha = row.getAttribute('data-fase');
+                var visivelBusca = !busca || textoLinha.indexOf(busca) !== -1;
+                var visivelFase = fasaAtiva === 'todos' || faseLinha === fasaAtiva;
+                if (visivelBusca && visivelFase) {
+                    row.style.display = '';
+                    totalVisivel++;
+                } else {
+                    row.style.display = 'none';
+                }
+            });
+            if (info) {
+                info.textContent = 'Mostrando ' + totalVisivel + ' de ' + totalGeral + ' processo' + (totalGeral !== 1 ? 's' : '') + ' da área';
+            }
+        }
+
+        function aplicarFiltroFase(idArea, fase, btn) {
+            var tbody = document.getElementById('tbody-' + idArea);
+            if (!tbody) return;
+            tbody.setAttribute('data-fase-ativa', fase);
+            // Atualizar botões
+            var container = btn.parentElement;
+            container.querySelectorAll('.filtro-btn').forEach(function(b) { b.classList.remove('ativo'); });
+            btn.classList.add('ativo');
+            // Aplicar filtro com a busca atual
+            var sectionPai = btn.closest('.area-detalhe');
+            var inputBusca = sectionPai.querySelector('.busca-input');
+            filtrarTabela(idArea, inputBusca.value);
+        }
+
+        var ordemAtual = {};
+        function ordenarTabela(idArea, campo) {
+            var tbody = document.getElementById('tbody-' + idArea);
+            if (!tbody) return;
+            var chaveOrdem = idArea + '-' + campo;
+            var direcao = ordemAtual[chaveOrdem] === 1 ? -1 : 1;
+            ordemAtual[chaveOrdem] = direcao;
+            var rows = Array.from(tbody.querySelectorAll('tr'));
+            rows.sort(function(a, b) {
+                var valA = a.getAttribute('data-' + campo) || '';
+                var valB = b.getAttribute('data-' + campo) || '';
+                if (campo === 'valor') {
+                    valA = parseFloat(valA) || 0;
+                    valB = parseFloat(valB) || 0;
+                    return (valA - valB) * direcao;
+                }
+                return valA.localeCompare(valB, 'pt-BR') * direcao;
+            });
+            rows.forEach(function(row) { tbody.appendChild(row); });
+        }
+
+        // ===== MODAL DE DETALHES =====
+        function abrirModalProcesso(idProc) {
+            var proc = DADOS_PROCESSOS[idProc];
+            if (!proc) return;
+            document.getElementById('modal-titulo').textContent = proc.titulo_modal;
+            document.getElementById('modal-cnj').textContent = proc.identificador;
+            document.getElementById('modal-corpo').innerHTML = proc.html_corpo;
+            document.getElementById('modal-overlay').classList.add('aberto');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function fecharModal() {
+            document.getElementById('modal-overlay').classList.remove('aberto');
+            document.body.style.overflow = '';
+        }
+    </script>
+</body>
+</html>

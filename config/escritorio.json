@@ -1,0 +1,27 @@
+{
+  "nome": "L Batista Advogados Associados",
+  "nome_curto": "L Batista Advogados",
+  "advogado_responsavel": "Leonardo Batista",
+  "contato": {
+    "site": "leonardobatistadvogados.com.br",
+    "email": "leonardo@leobatistaadvogados.com.br",
+    "endereco": "Rua 124, nº 328, Qd. F-28, Lt. 44, Setor Sul, Goiânia/GO",
+    "cep": "74.093-060",
+    "telefones": [
+      "(62) 3030-0003",
+      "(62) 9 9971-7000"
+    ]
+  },
+  "identidade_visual": {
+    "cor_primaria": "#0A1628",
+    "cor_secundaria": "#C9A84C",
+    "cor_branco": "#FFFFFF",
+    "cor_creme": "#f8f5ee",
+    "fonte_corpo": "Inter",
+    "fonte_titulo": "Cormorant Garamond"
+  },
+  "logo": {
+    "caminho": "config/logo.png",
+    "alt": "Logo L Batista Advogados Associados"
+  }
+}

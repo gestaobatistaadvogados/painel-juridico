@@ -1,0 +1,57 @@
+{
+  "_comentario": "ATENÇÃO: Este arquivo simula a resposta do endpoint GET /settings da API ADVBox. Quando o token estiver ativo, este arquivo será substituído pela resposta real da API. A estrutura espelha o formato oficial da documentação.",
+  "users": [
+    {
+      "id": 100001,
+      "name": "Dr. Leonardo Batista",
+      "email": "leonardo@leobatistaadvogados.com.br",
+      "is_lawyer": true
+    },
+    {
+      "id": 100002,
+      "name": "Estagiário Padrão",
+      "email": "estagio@leobatistaadvogados.com.br",
+      "is_lawyer": false
+    }
+  ],
+  "origins": [
+    {"id": 200001, "name": "INDICAÇÃO"},
+    {"id": 200002, "name": "SITE"},
+    {"id": 200003, "name": "ESCRITÓRIO"},
+    {"id": 200004, "name": "REDES SOCIAIS"}
+  ],
+  "type_lawsuits": [
+    {"id": 300001, "name": "CÍVEL", "group": "CÍVEL"},
+    {"id": 300002, "name": "TRABALHISTA", "group": "TRABALHISTA"},
+    {"id": 300003, "name": "CRIMINAL", "group": "CRIMINAL"},
+    {"id": 300004, "name": "TRIBUTÁRIO", "group": "TRIBUTÁRIO"},
+    {"id": 300005, "name": "EXECUÇÃO FISCAL", "group": "TRIBUTÁRIO"},
+    {"id": 300006, "name": "AÇÃO DE COBRANÇA", "group": "CÍVEL"},
+    {"id": 300007, "name": "RECLAMAÇÃO TRABALHISTA", "group": "TRABALHISTA"},
+    {"id": 300008, "name": "NOTÍCIA CRIME", "group": "CRIMINAL"},
+    {"id": 300009, "name": "INCIDENTE PROCESSUAL", "group": "CÍVEL"},
+    {"id": 300010, "name": "CARTA PRECATÓRIA", "group": "CÍVEL"}
+  ],
+  "stages": [
+    {"id": 400001, "name": "PLANEJAMENTO", "step": "PRÉ-JUDICIAL"},
+    {"id": 400002, "name": "FASE DE CONHECIMENTO", "step": "JUDICIAL"},
+    {"id": 400003, "name": "FASE DE INSTRUÇÃO", "step": "JUDICIAL"},
+    {"id": 400004, "name": "AGUARDANDO SENTENÇA", "step": "JUDICIAL"},
+    {"id": 400005, "name": "FASE RECURSAL", "step": "JUDICIAL"},
+    {"id": 400006, "name": "FASE DE EXECUÇÃO", "step": "JUDICIAL"},
+    {"id": 400007, "name": "ARQUIVADO", "step": "ENCERRADO"},
+    {"id": 400008, "name": "TRANSITADO EM JULGADO", "step": "ENCERRADO"}
+  ],
+  "tasks": [
+    {"id": 500001, "name": "AUDIÊNCIA DE CONCILIAÇÃO"},
+    {"id": 500002, "name": "AUDIÊNCIA DE INSTRUÇÃO"},
+    {"id": 500003, "name": "AUDIÊNCIA UNA"},
+    {"id": 500004, "name": "PRAZO PARA CONTESTAÇÃO"},
+    {"id": 500005, "name": "PRAZO PARA RECURSO"},
+    {"id": 500006, "name": "PRAZO PARA MANIFESTAÇÃO"},
+    {"id": 500007, "name": "PROTOCOLAR PETIÇÃO"},
+    {"id": 500008, "name": "ACOMPANHAR CITAÇÃO"},
+    {"id": 500009, "name": "1º CONTATO COM LEAD"},
+    {"id": 500010, "name": "[BLOQUEIO] ANÁLISE DE BLOQUEIO JUDICIAL"}
+  ]
+}

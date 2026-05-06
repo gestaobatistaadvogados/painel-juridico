@@ -1,0 +1,73 @@
+{
+  "_comentario": "Cadastro centralizado dos clientes do escritório. Fonte única de verdade para o gerador e o painel interno.",
+  "departamentos": [
+    {
+      "id": "direito_privado",
+      "nome": "Direito Privado",
+      "cor": "#0A1628",
+      "descricao": "Cíveis, trabalhistas, consumo, empresariais."
+    },
+    {
+      "id": "direito_imobiliario",
+      "nome": "Direito Imobiliário",
+      "cor": "#8B6F47",
+      "descricao": "Possessórias, incorporação, usucapião, locação, regularização."
+    },
+    {
+      "id": "direito_publico",
+      "nome": "Direito Público",
+      "cor": "#A0763D",
+      "descricao": "Licitações, contratos administrativos, LRF, improbidade, tribunais de contas."
+    }
+  ],
+  "clientes": [
+    {
+      "id_advbox": 9000001,
+      "nome_curto": "rgp",
+      "departamento": "direito_privado",
+      "slug_url": "painel-rgp-2026-x9k7",
+      "ativo": true,
+      "data_cadastro": "2024-01-15"
+    },
+    {
+      "id_advbox": 9000002,
+      "nome_curto": "tec",
+      "departamento": "direito_privado",
+      "slug_url": "painel-tec-2026-z8k4",
+      "ativo": true,
+      "data_cadastro": "2023-08-22"
+    },
+    {
+      "id_advbox": 9000003,
+      "nome_curto": "horizonte",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-horizonte-2026-m4p7",
+      "ativo": true,
+      "data_cadastro": "2024-04-10"
+    },
+    {
+      "id_advbox": 9000004,
+      "nome_curto": "ribeiro",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-ribeiro-2026-q5n8",
+      "ativo": true,
+      "data_cadastro": "2024-09-05"
+    },
+    {
+      "id_advbox": 9000005,
+      "nome_curto": "conceicao-alagoas",
+      "departamento": "direito_publico",
+      "slug_url": "painel-prefconceicaoalagoas-2026-r9b3",
+      "ativo": true,
+      "data_cadastro": "2025-01-12"
+    },
+    {
+      "id_advbox": 9000006,
+      "nome_curto": "uberaba",
+      "departamento": "direito_publico",
+      "slug_url": "painel-prefuberaba-2026-h3j9",
+      "ativo": true,
+      "data_cadastro": "2024-11-20"
+    }
+  ]
+}
