@@ -1,0 +1,85 @@
+name: Atualizar paineis processuais
+
+on:
+  schedule:
+    # Cron em UTC. 8:00 UTC = 5:00 BRT (UTC-3).
+    # Brasil nao usa horario de verao desde 2019,
+    # entao 8:00 UTC e estavel para 5:00 BRT o ano todo.
+    - cron: '0 8 * * *'
+
+  # Permite acionamento manual pelo botao "Run workflow"
+  # na aba Actions do GitHub.
+  workflow_dispatch:
+
+# Permissoes minimas necessarias para que o workflow
+# possa fazer commit + push de volta na branch.
+permissions:
+  contents: write
+
+jobs:
+  regenerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+        with:
+          # token padrao GITHUB_TOKEN ja tem permissao
+          # write em contents.
+          fetch-depth: 1
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Gerar paineis dos clientes
+        env:
+          ADVBOX_API_TOKEN: ${{ secrets.ADVBOX_API_TOKEN }}
+          ADVBOX_API_URL: https://app.advbox.com.br/api/v1
+          PYTHONIOENCODING: utf-8
+        run: |
+          python src/gerador_producao.py
+
+      - name: Gerar painel-interno + index.html
+        env:
+          ADVBOX_API_TOKEN: ${{ secrets.ADVBOX_API_TOKEN }}
+          ADVBOX_API_URL: https://app.advbox.com.br/api/v1
+          PYTHONIOENCODING: utf-8
+        run: |
+          python src/gerador_interno.py
+
+      - name: Auditoria pos-geracao (sigilo)
+        env:
+          PYTHONIOENCODING: utf-8
+        run: |
+          python src/auditar_json.py
+        # Se a auditoria falhar (whitelist violada,
+        # termo proibido), o workflow ABORTA antes
+        # de commitar. Salvaguarda obrigatoria.
+
+      - name: Commit + push se houver mudancas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Adicionar somente arquivos que devem ser
+          # commitados. NAO usar git add -A cego, para
+          # nao pegar nada inesperado em runtime do runner.
+          git add painel-interno.html index.html
+          git add 'clientes/painel-*-2026-*/index.html'
+          git add 'clientes/painel-*-2026-*/dados.json'
+
+          # Se houver mudancas, commit. Senao apenas log e sair sem erro.
+          if git diff --cached --quiet; then
+            echo "Sem mudancas — paineis ja estavam atualizados."
+          else
+            git commit -m "Atualizacao automatica diaria $(date '+%Y-%m-%d %H:%M %Z')"
+            git push origin main
+          fi
