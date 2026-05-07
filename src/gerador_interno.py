@@ -46,6 +46,12 @@ from gerador_producao import (
 
 
 SAIDA_HTML = RAIZ / 'painel-interno.html'
+# index.html identico ao painel-interno, na raiz, servir como pagina
+# inicial do GitHub Pages (a URL https://...github.io/painel-juridico/
+# por default procura index.html). Mantemos ambos os arquivos:
+#  - painel-interno.html: para uso local (`start painel-interno.html`)
+#  - index.html:          para a URL publica do GitHub Pages
+SAIDA_HTML_INDEX = RAIZ / 'index.html'
 TEMPLATE_NAME = 'painel_interno.html'
 
 
@@ -273,14 +279,21 @@ def main():
     # serializa em json e a gente nao precisa no front; ja foi consumido).
     # Isso ja foi consumido em runtime — o template nao usa.
 
+    # Grava AMBOS os arquivos com o mesmo HTML.
+    # painel-interno.html: nome semantico, usado em `start painel-interno.html`.
+    # index.html: nome convencional do GitHub Pages — sem ele, a URL raiz do
+    # site retornaria 404. Os dois ficam sincronizados via este gerador.
     SAIDA_HTML.write_text(html, encoding='utf-8')
+    SAIDA_HTML_INDEX.write_text(html, encoding='utf-8')
 
     print()
     print('=' * 64)
     print('PAINEL INTERNO GERADO')
     print('=' * 64)
-    print(f'  Arquivo: {SAIDA_HTML.relative_to(RAIZ)}')
-    print(f'  Tamanho: {SAIDA_HTML.stat().st_size / 1024:.1f} KB')
+    print(f'  {SAIDA_HTML.relative_to(RAIZ)} '
+          f'({SAIDA_HTML.stat().st_size / 1024:.1f} KB)')
+    print(f'  {SAIDA_HTML_INDEX.relative_to(RAIZ)}            '
+          f'({SAIDA_HTML_INDEX.stat().st_size / 1024:.1f} KB) — para GitHub Pages')
     print(f'  Clientes: {len(clientes_resumo)}')
     print(f'  Processos totais: {contexto["kpis"]["total_processos"]}')
     print(f'  Alertas criticos: {contexto["kpis"]["total_alertas_criticos"]}')
