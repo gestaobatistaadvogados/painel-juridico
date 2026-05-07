@@ -23,9 +23,40 @@ venv/
 # Sistema operacional
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Logs
 *.log
 
 # Cache da API ADVBox (não precisa subir, é regenerado)
 cache/
+
+# Saidas de auditorias diagnosticas locais (podem conter strings cruas
+# da API ADVBox — task, notes etc.). Operador apaga depois de revisar.
+tmp/
+
+# Configuracao local do Claude Code
+.claude/
+
+# Relatorios de auditoria diagnostica gerados em pastas de cliente
+# (contem nome real do cliente — uso interno apenas)
+clientes/*/auditoria_*.txt
+
+# Mock data antigo da Fase 1 — preservado em disco mas fora do repo
+mock_data/
+
+# Manuais antigos — preservados em disco mas fora do repo
+MANUAL-*.md
+
+# Pastas de cliente mock da Fase 1 — preservadas em disco como referencia
+# visual para o socio mas fora do repo (so painel-piloto-pj e
+# painel-robsongorito vao para o GitHub)
+clientes/painel-rgp-*/
+clientes/painel-tec-*/
+clientes/painel-horizonte-*/
+clientes/painel-ribeiro-*/
+clientes/painel-prefconceicaoalagoas-*/
+clientes/painel-prefuberaba-*/
+
+# Script de teste obsoleto da Fase 1
+src/gerador_teste.py

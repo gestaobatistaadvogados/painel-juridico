@@ -1,0 +1,1651 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-07T17:44:30",
+    "gerado_em_humano": "07/05/2026 17:44",
+    "slug_url": "painel-robsongorito-2026-cyws",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "ROBSON GORITO PORTES",
+    "identification": "***.***.***-48",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 12921282,
+      "process_number": "0000581-12.2025.5.18.0002",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-02-02 10:14:23",
+      "created_at": "2026-02-02 10:04:50",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "MARIA DELANIA BESERRA CARLOS DE BRITO"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 12926525,
+      "process_number": "0000757-76.2025.5.18.0006",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-02-02 14:35:14",
+      "created_at": "2026-02-02 14:34:22",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-01",
+          "header": "TRT18",
+          "title": "Conclusos os autos para julgamento (relatar) a LUCIANO SANTANA CRISPIM"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Distribuído por sorteio"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Órgão jurisdicional competente para processar recurso"
+        },
+        {
+          "date": "2026-03-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 27/03/2026"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RONAN DE CASTRO CAMPOS em 17/03/2026"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/03/2026"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/03/2026"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 16/03/2026"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 16/03/2026"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TRT18",
+          "title": "Decisão"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "RONAN DE CASTRO CAMPOS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 12945535,
+      "process_number": "0001708-64.2025.5.18.0008",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-05-03 23:18:40",
+      "created_at": "2026-02-03 09:20:40",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de JURALICE FERREIRA DA SILVA COSTA em 27/04/2026"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ROBSON GORITO PORTES em 27/04/2026"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 27/04/2026"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 27/04/2026"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 27/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 24/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 24/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 23/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 23/04/2026"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "JURALICE FERREIRA DA SILVA COSTA"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13412454,
+      "process_number": "0000363-72.2025.5.18.0005",
+      "protocol_number": null,
+      "folder": "4035",
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-01-23 00:00:00",
+      "created_at": "2026-01-23 00:00:00",
+      "process_date": "2025-02-26",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "ALAN JARDIM BITTENCOURT FILHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13412456,
+      "process_number": "0001436-52.2025.5.18.0014",
+      "protocol_number": null,
+      "folder": "4056",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-01-23 00:00:00",
+      "created_at": "2026-01-23 00:00:00",
+      "process_date": "2025-08-25",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ANTONIO PEREIRA LUCENA NETO"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13412469,
+      "process_number": "0001189-07.2025.5.18.0003",
+      "protocol_number": null,
+      "folder": "4052",
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-01-23 00:00:00",
+      "created_at": "2026-01-23 00:00:00",
+      "process_date": "2025-07-15",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "ILLUMINATA UTI LTDA"
+        },
+        {
+          "name": "PHDD GESTAO EM SAÚDE LTDA"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "ANA CAROLINE VICENTINI"
+        },
+        {
+          "name": "JULIANA ALVES BRAGA DE SA"
+        },
+        {
+          "name": "LUIZ ANTONIO SOARES SILVA"
+        },
+        {
+          "name": "PAULO HENRIQUE DIAS SILVA"
+        },
+        {
+          "name": "SERGIO PAULO CARNEIRO JUNIOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13473085,
+      "process_number": "0000204-92.2026.5.18.0006",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-02 21:08:00",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RONAN DE CASTRO CAMPOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13473152,
+      "process_number": "0001973-39.2025.5.18.0017",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-02 21:38:00",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "SHIRGINEARA FRANCIELLY ALVES FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13473251,
+      "process_number": "0001564-66.2025.5.18.0016",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-03-06 10:36:00",
+      "created_at": "2026-03-02 22:05:12",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) Pauta de Julgamento em 30/04/2026"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Incluído em pauta o processo para 07/05/2026 09:00 07/05/2026 VIRTUAL SALA 3 PIMENTA (P-K-PP) ()"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) Pauta de Julgamento no Diário da Justiça Eletrônico do dia"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TRT18",
+          "title": "Recebidos os autos para incluir em pauta"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TRT18",
+          "title": "Conclusos os autos para julgamento (relatar) a PAULO PIMENTA"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TRT18",
+          "title": "Recebidos os autos por retorno de diligência"
+        },
+        {
+          "date": "2026-04-25",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 24/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 15/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Órgão jurisdicional competente para diligência"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "ERIKA LIMA RODRIGUES"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13473275,
+      "process_number": "0000730-63.2025.5.18.0016",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-02 22:12:38",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "JULIO CESAR DE FARIA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13525384,
+      "process_number": "0000305-29.2026.5.18.0007",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-04 18:33:14",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "RONAIB RAMOS DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13629300,
+      "process_number": "0000287-20.2026.5.18.0003",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-11 10:49:48",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "MARCIA NASCIMENTO DO NASCIMENTO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13629998,
+      "process_number": "0000355-70.2026.5.18.0002",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-11 11:19:15",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "LUCIANA RODRIGUES DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13641684,
+      "process_number": "0002004-65.2025.5.18.0015",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-12 07:40:17",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "SUIANY FRANCIELE DO NASCIMENTO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13642607,
+      "process_number": "0002272-25.2025.5.18.0014",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-12 09:16:33",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "ACACIA OLIVEIRA DA SILVA DUTRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13643644,
+      "process_number": "0001481-56.2025.5.18.0014",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "COM JUIZ(A) PARA ANÁLISE",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-12 10:02:13",
+      "process_date": null,
+      "responsible": "ELHO ARAÚJO COSTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "MOISES DA SILVA PEREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13644534,
+      "process_number": "0000495-08.2025.5.18.0013",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-03-31 10:32:10",
+      "created_at": "2026-03-12 10:35:32",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-16",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 16/04/2026"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 17/04/2026"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) NADIA CRISTINA BARROS SILVA VIEIRA"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 14/04/2026"
+        },
+        {
+          "date": "2026-04-02",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação aos Cálculos de Liquidação"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 30/03/2026"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 27/03/2026"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ROBSON GORITO PORTES"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ADEMAR GOMES DA COSTA JUNIOR"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "NADIA CRISTINA BARROS SILVA VIEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13646020,
+      "process_number": "0001837-57.2025.5.18.0012",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-05-03 23:56:06",
+      "created_at": "2026-03-12 11:32:20",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "SAMARA TASSIA ALVES BATISTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13821898,
+      "process_number": "0100502-80.2026.5.01.0551",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
+      "type": "CARTA PRECATÓRIA CÍVEL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-03-23 23:02:24",
+      "process_date": "2026-03-18",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-03-24",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "REMETIDOS OS AUTOS PARA JUÍZO DEPRECANTE POR TER SIDO CUMPRIDA A CARTA"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "RECIBO DE MALOTE DIGITAL 24 03 26 | RECIBO"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "RECIBO DE MALOTE DIGITAL | CERTIDÃO"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "ARQUIVADOS OS AUTOS DEFINITIVAMENTE"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "DEVOLVIDO O MANDADO PELO OFICIAL DE JUSTIÇA (CUMPRIDO COM FINALIDADE NÃO ATINGIDA)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "CERTIDÃO DE OFICIAL DE JUSTIÇA | CERTIDÃO"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "TIPO: MANDADO; MEIO: CENTRAL DE MANDADOS; NOME: R. I. N.; FECHADO: N; DATA_HORA_CRIACAO: 20/03/2026 00:00; DATA_HORA_CIENCIA:"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "TIPO: MANDADO; MEIO: CENTRAL DE MANDADOS; NOME: H. R. R. J.; FECHADO: N; DATA_HORA_CRIACAO: 20/03/2026 00:00; DATA_HORA_CIENCIA:"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
+          "title": "MANDADO | MANDADO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARO INTERMEDIACAO DE NEGOCIOS LTDA"
+        },
+        {
+          "name": "CASSIO CORTEZ DE SOUZA"
+        }
+      ],
+      "fase_grupo": "arquivados",
+      "tribunal": "TRT1"
+    },
+    {
+      "id": 14150852,
+      "process_number": "0001262-73.2025.5.18.0004",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-10 15:41:55",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "MARIA DA CONCEICAO ROCHA DO SACRAMENTO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14211108,
+      "process_number": "0000553-98.2026.5.18.0005",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-14 11:46:59",
+      "process_date": "2026-03-26",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "MARIA VANESSA MOURA DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14294563,
+      "process_number": "0001897-63.2025.5.18.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-16 17:54:03",
+      "process_date": "2025-10-28",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "ANA MARIA AGUIAR ALBUQUERQUE DA SILVA"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14410414,
+      "process_number": "0000602-42.2026.5.18.0005",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-22 13:47:43",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-10",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: R. E. P.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: R. E. P.; FECHADO: N; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA:"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: I. U.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: G. R.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "EXPEDIDO(A) NOTIFICAÇÃO A(O) ORGANIZACAO HOSPITALAR DE GOIAS LTDA"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "HOSPITAL UNIVIDA LTDA"
+        },
+        {
+          "name": "ILLUMINATA UTI LTDA"
+        },
+        {
+          "name": "PHDD GESTAO EM SAÚDE LTDA"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "ANTONIA COELHO DE RESENDE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14486796,
+      "process_number": "0000328-69.2026.5.18.0008",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-27 10:19:02",
+      "process_date": "2026-04-27",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-25",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "DECORRIDO O PRAZO DE CAROLINE RODRIGUES FARIA EM 24/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "DECORRIDO O PRAZO DE RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA EM 22/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "DECORRIDO O PRAZO DE HOSPITAL AMPARO LTDA EM 22/04/2026"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "DECORRIDO O PRAZO DE GRUPO RICARO LTDA EM 22/04/2026"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
+          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: G. R.; FECHADO: N; DATA_HORA_CRIACAO: 15/04/2026 00:00; DATA_HORA_CIENCIA:"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "CAROLINE RODRIGUES FARIA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14492398,
+      "process_number": "0000686-89.2025.5.18.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-27 14:33:34",
+      "process_date": "2025-04-25",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ROBSON GORITO PORTES em 29/04/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 29/04/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 29/04/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 29/04/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de FLAVIANE CANDIDO BERNARDES em 29/04/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 29/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 14/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) acórdão em 15/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 14/04/2026"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 14/04/2026"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "FLAVIANE CANDIDO BERNARDES"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14494356,
+      "process_number": "0000852-24.2025.5.18.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2026-04-27 15:34:01",
+      "created_at": "2026-04-27 15:31:38",
+      "process_date": "2025-05-21",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-06",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/04/2026"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/04/2026"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 07/04/2026"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 07/04/2026"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) RICARDO ABDALLA HADDAD"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "MARCELO HENRIQUE DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14612637,
+      "process_number": "0001496-31.2025.5.18.0012",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-03 23:39:32",
+      "process_date": "2025-09-01",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
+        },
+        {
+          "name": "RITA CLEIDE RIBEIRO SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14681391,
+      "process_number": "0031037-75.2019.8.19.0066",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-06 11:48:05",
+      "process_date": "2019-12-19",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ANDERSON BARUTI PIMENTEL"
+        },
+        {
+          "name": "POLOCREDI SECURITIZADORA S.A EM LIQUIDACAO"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TJRJ"
+    },
+    {
+      "id": 14688776,
+      "process_number": "0000774-81.2026.5.18.0005",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-06 17:14:22",
+      "process_date": "2026-05-06",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "ADAILTO ANTONIO LEITE"
+        },
+        {
+          "name": "FABRICIO MELO FRANCO E BRITO"
+        },
+        {
+          "name": "JOAO CLAUDIO FERREIRA MIRANDA"
+        },
+        {
+          "name": "SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "name": "SIDERLEY DE SOUZA CARNEIRO"
+        },
+        {
+          "name": "WAGNER MIRANDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 14718787,
+      "process_number": "0000783-55.2026.5.18.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "SOCIAL (PREVIDENCIÁRIO E TRABALHISTA)",
+      "status_closure": null,
+      "created_at": "2026-05-07 15:57:42",
+      "process_date": "2026-05-07",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "ADAILTO ANTONIO LEITE"
+        },
+        {
+          "name": "BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "name": "JOAO CLAUDIO FERREIRA MIRANDA"
+        },
+        {
+          "name": "LUIZ CARLOS PEDREIRA BARROS"
+        },
+        {
+          "name": "MUCIO HENRIQUE MOREIRA"
+        },
+        {
+          "name": "NELIO CUSTODIO LOURENCO JUNIOR"
+        },
+        {
+          "name": "PEDRO ERNESTO FERREIRA MIRANDA"
+        },
+        {
+          "name": "SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "name": "SIDERLEY DE SOUZA CARNEIRO"
+        },
+        {
+          "name": "URANO RIBEIRO GUIMARAES"
+        },
+        {
+          "name": "WAGNER MIRANDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    }
+  ],
+  "atividade_90d": {
+    "total": 52,
+    "categorias": {
+      "Peças": 5,
+      "Audiências": 5,
+      "Comunicações": 8,
+      "Acompanhamento": 26,
+      "Diligências": 2,
+      "Outras": 6
+    },
+    "ultima_data": "2026-05-07"
+  }
+}

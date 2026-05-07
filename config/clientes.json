@@ -22,19 +22,19 @@
   ],
   "clientes": [
     {
-      "id_advbox": 9000001,
-      "nome_curto": "rgp",
-      "departamento": "direito_privado",
-      "slug_url": "painel-rgp-2026-x9k7",
+      "id_advbox": 13669008,
+      "nome_curto": "piloto-pj",
+      "departamento": "direito_publico",
+      "slug_url": "painel-piloto-pj-2026-n4q8",
       "ativo": true,
-      "data_cadastro": "2024-01-15"
+      "data_cadastro": "2026-05-07"
     },
     {
       "id_advbox": 9000002,
       "nome_curto": "tec",
       "departamento": "direito_privado",
       "slug_url": "painel-tec-2026-z8k4",
-      "ativo": true,
+      "ativo": false,
       "data_cadastro": "2023-08-22"
     },
     {
@@ -42,7 +42,7 @@
       "nome_curto": "horizonte",
       "departamento": "direito_imobiliario",
       "slug_url": "painel-horizonte-2026-m4p7",
-      "ativo": true,
+      "ativo": false,
       "data_cadastro": "2024-04-10"
     },
     {
@@ -50,7 +50,7 @@
       "nome_curto": "ribeiro",
       "departamento": "direito_imobiliario",
       "slug_url": "painel-ribeiro-2026-q5n8",
-      "ativo": true,
+      "ativo": false,
       "data_cadastro": "2024-09-05"
     },
     {
@@ -58,7 +58,7 @@
       "nome_curto": "conceicao-alagoas",
       "departamento": "direito_publico",
       "slug_url": "painel-prefconceicaoalagoas-2026-r9b3",
-      "ativo": true,
+      "ativo": false,
       "data_cadastro": "2025-01-12"
     },
     {
@@ -66,8 +66,16 @@
       "nome_curto": "uberaba",
       "departamento": "direito_publico",
       "slug_url": "painel-prefuberaba-2026-h3j9",
-      "ativo": true,
+      "ativo": false,
       "data_cadastro": "2024-11-20"
+    },
+    {
+      "id_advbox": 13647629,
+      "nome_curto": "robsongorito",
+      "departamento": "direito_privado",
+      "slug_url": "painel-robsongorito-2026-cyws",
+      "ativo": true,
+      "data_cadastro": "2026-05-07"
     }
   ]
 }
