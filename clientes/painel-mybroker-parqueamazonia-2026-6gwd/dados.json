@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:10:18-03:00",
+    "gerado_em_humano": "08/05/2026 18:10",
+    "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER PARQUE AMAZONIA LTDA",
+    "identification": "**.***.***/****-26",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13149594,
+      "process_number": "5005042-64.2022.8.09.0157",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-12 12:55:01",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "SARAH APARECIDA ALCANTARA SOARES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413566,
+      "process_number": "5232464-46.2023.8.09.0011",
+      "protocol_number": null,
+      "folder": "647",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "INDENIZAÇÃO",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-10-28 00:00:00",
+      "created_at": "2024-10-28 00:00:00",
+      "process_date": "2023-04-13",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Romildo Pires Das Virgens - Polo Ativo (Referente à Mov. Juntada -> Petição - 15/04/2026 16:03:18)"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. Juntada -> Petição (15/04/2026 16:03:18))"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Embargos de Declaração"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência em Parte -"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (08/04/2026 09:14:04))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ROMILDO PIRES DAS VIRGENS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413567,
+      "process_number": "5029497-80.2021.8.09.0011",
+      "protocol_number": null,
+      "folder": "93",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "RESCISÃO / RESOLUÇÃO",
+      "group": "CÍVEL",
+      "status_closure": "2023-07-31 00:00:00",
+      "created_at": "2023-07-31 00:00:00",
+      "process_date": "2021-01-22",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "WENDER DANIEL CUNHA DA PAIXÃO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413568,
+      "process_number": "5485643-73.2021.8.09.0012",
+      "protocol_number": null,
+      "folder": "169",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2023-07-31 00:00:00",
+      "created_at": "2023-07-31 00:00:00",
+      "process_date": "2021-09-17",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CLAUDENOR DE CARVALHO NASCIMENTO"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413569,
+      "process_number": "5489905-66.2021.8.09.0012",
+      "protocol_number": null,
+      "folder": "308",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2023-09-11 00:00:00",
+      "created_at": "2023-09-11 00:00:00",
+      "process_date": "2021-09-20",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GLEICE KELLY MENDES ALMEIDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413570,
+      "process_number": "5550880-54.2021.8.09.0012",
+      "protocol_number": null,
+      "folder": "465",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2023-12-18 00:00:00",
+      "created_at": "2023-12-18 00:00:00",
+      "process_date": "2021-10-21",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JONATHAS SOUZA PIMENTEL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413571,
+      "process_number": "5392284-44.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "1175",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-06-18 00:00:00",
+      "created_at": "2024-06-18 00:00:00",
+      "process_date": "2024-05-17",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutoria"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (09/04/2026 13:49:54))"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - teimosinha"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (24/03/2026 14:05:37))"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - ATO ORDINATÓRIO ANDAMENTO EXECUÇÕES- PENA SUSPENSÃO ARQUIVAMENTO 6ªUPJ"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Certidão Expedida (13/01/2026 13:48:32))"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida - 13/01/2026 13:48:32)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSE DE OLIVEIRA CASTRO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413572,
+      "process_number": "5005121-90.2022.8.09.0012",
+      "protocol_number": null,
+      "folder": "649",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-03-25 00:00:00",
+      "created_at": "2024-03-25 00:00:00",
+      "process_date": "2022-01-06",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2025-05-12",
+          "header": "TJGO",
+          "title": "Cálculo de Custas -"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Envio contadoria - guia de custas finais - sentença ev. 47"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Baixa Definitiva -"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2025-02-17",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - petição interlocutória"
+        },
+        {
+          "date": "2025-02-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. - )"
+        },
+        {
+          "date": "2025-02-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Broker) (Referente à Mov. - )"
+        },
+        {
+          "date": "2025-02-12",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2025-02-07",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ROMILDO PIRES DAS VIRGENS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413573,
+      "process_number": "5776077-02.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "1605",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2024-08-28 00:00:00",
+      "created_at": "2024-08-28 00:00:00",
+      "process_date": "2024-08-13",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2024-10-16",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-10-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento sem impacto no trânsito / peticionamento normal"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Wisley Rosendo Santos, (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência -"
+        },
+        {
+          "date": "2024-09-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2024-09-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação - impugnação"
+        },
+        {
+          "date": "2024-09-24",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - Realizada sem Acordo - 24/09/2024 14:00"
+        },
+        {
+          "date": "2024-09-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Carta de Preposto"
+        },
+        {
+          "date": "2024-09-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - Contestação"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "WISLEY ROSENDO SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 2,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-04-10"
+  }
+}

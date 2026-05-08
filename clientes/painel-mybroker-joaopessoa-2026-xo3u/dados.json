@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:11:22-03:00",
+    "gerado_em_humano": "08/05/2026 18:11",
+    "slug_url": "painel-mybroker-joaopessoa-2026-xo3u",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOBILIARIA JOAO PESSOA",
+    "identification": "**.***.***/****-60",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13934364,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-03-30 16:36:27",
+      "process_date": null,
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

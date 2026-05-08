@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:08:02-03:00",
+    "gerado_em_humano": "08/05/2026 18:08",
+    "slug_url": "painel-mybroker-mhrs-2026-tph3",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MHRS GESTAO IMOBILIARIA LTDA",
+    "identification": "**.***.***/****-72",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13146777,
+      "process_number": "5599860-07.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-12 10:35:17",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. Audiência de Instrução e Julgamento (17/03/2026 20:01:30))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mhrs Gestão Imobiliária Ltda (Referente à Mov. Audiência de Instrução e Julgamento (17/03/2026 20:01:30))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mhrs Gestão Imobiliária Ltda (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Audiência de Instrução e Julgamento - Realizada sem Acordo - 05/03/2026 16:00"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 05/03/2026 - 16:00 - Mídias Audiências de Instrução"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 05/03/2026 - 16:00 - Mídias Audiências de Instrução"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DIEGO LEONARDO SANTANA DAHER"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412902,
+      "process_number": "6124245-59.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "1809",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "CÍVEL",
+      "status_closure": "2024-12-13 00:00:00",
+      "created_at": "2024-12-13 00:00:00",
+      "process_date": "2024-12-11",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "TELEFONICA BRASIL S/A"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412903,
+      "process_number": "5245159-43.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": "1061",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-06-06 00:00:00",
+      "created_at": "2024-06-06 00:00:00",
+      "process_date": "2022-04-28",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BRUNO MENDES MOREIRA DE MELO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412904,
+      "process_number": "6004988-60.2024.8.09.0012",
+      "protocol_number": null,
+      "folder": "1814",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-12-18 00:00:00",
+      "created_at": "2024-12-18 00:00:00",
+      "process_date": "2024-10-30",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CAROLINY TOMAZ XAVIER"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412905,
+      "process_number": "5775250-25.2023.8.09.0051",
+      "protocol_number": null,
+      "folder": "519",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-02-06 00:00:00",
+      "created_at": "2024-02-06 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "THAINA MANSUR GOMIDE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412906,
+      "process_number": "5213782-49.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "2452",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-03-20 00:00:00",
+      "created_at": "2025-03-20 00:00:00",
+      "process_date": "2025-03-20",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

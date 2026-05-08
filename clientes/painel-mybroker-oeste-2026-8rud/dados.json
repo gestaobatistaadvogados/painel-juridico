@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:08:18-03:00",
+    "gerado_em_humano": "08/05/2026 18:08",
+    "slug_url": "painel-mybroker-oeste-2026-8rud",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS OESTE LTDA",
+    "identification": "**.***.***/****-19",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413547,
+      "process_number": "5778954-46.2023.8.09.0051",
+      "protocol_number": null,
+      "folder": "478",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CORRETAGEM",
+      "group": "CÍVEL",
+      "status_closure": "2024-01-15 00:00:00",
+      "created_at": "2024-01-15 00:00:00",
+      "process_date": "2023-11-22",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2024-11-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2024-11-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - SNIPER e outros"
+        },
+        {
+          "date": "2024-10-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2024-10-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - CENTRAL SISBAJUD - EXEQUENTE- INDICAR BENS A PENHORA - 1ªUPJ"
+        },
+        {
+          "date": "2024-10-25",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução Central Sisbajud- Penhora Infrutífera"
+        },
+        {
+          "date": "2024-09-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2024-09-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Planilha de Débitos Atualizada"
+        },
+        {
+          "date": "2024-09-09",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Bloqueio/penhora on line - Decisão - Sisbajud"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ISABELA SOUZA RAMOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413548,
+      "process_number": "5437705-28.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": "1171",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "CORRETAGEM",
+      "group": "CÍVEL",
+      "status_closure": "2024-06-18 00:00:00",
+      "created_at": "2024-06-18 00:00:00",
+      "process_date": "2022-07-22",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ITALO YURI RAMOS REIS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413549,
+      "process_number": "5493403-82.2023.8.09.0051",
+      "protocol_number": null,
+      "folder": "145",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2023-07-31 00:00:00",
+      "created_at": "2023-07-31 00:00:00",
+      "process_date": "2023-07-31",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para My Broker Imoveis Oeste Ltda em 05/02/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (20/01/2026 17:34:46))"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIOL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis -"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (20/01/2026 17:34:46))"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Decisão -> Outras Decisões (09/12/2025 16:08:53))"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ELEUSA FORTUNA DA SILVA CARVALHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413550,
+      "process_number": "5285783-32.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "2664",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-04-14 00:00:00",
+      "created_at": "2025-04-14 00:00:00",
+      "process_date": null,
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2025-06-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-06-24",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Arquivamento/Acordo Homologado"
+        },
+        {
+          "date": "2025-06-24",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Trânsito em Julgado"
+        },
+        {
+          "date": "2025-06-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) (13/06/2025 14:20:41))"
+        },
+        {
+          "date": "2025-06-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIOL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) (CNJ:466) - )"
+        },
+        {
+          "date": "2025-06-13",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) - Homologação de acordo"
+        },
+        {
+          "date": "2025-06-13",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2025-06-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - petição interlocutória"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - transcorreu em branco"
+        },
+        {
+          "date": "2025-05-30",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para Rafael Alves Viana Porto (Referente à Mov. Decisão -> Outras Decisões (05/05/2025 14:04:04))"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413551,
+      "process_number": "5648548-68.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": "476",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2024-01-15 00:00:00",
+      "created_at": "2024-01-15 00:00:00",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 2
+    },
+    "ultima_data": "2026-05-06"
+  }
+}

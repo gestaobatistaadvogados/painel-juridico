@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:10:36-03:00",
+    "gerado_em_humano": "08/05/2026 18:10",
+    "slug_url": "painel-mybroker-bschapeco-2026-chtt",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "BS IMOVEIS LTDA",
+    "identification": "**.***.***/****-97",
+    "city": "CHAPECÓ",
+    "state": "SC",
+    "identification_tipo": "PJ"
+  },
+  "processos": [],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

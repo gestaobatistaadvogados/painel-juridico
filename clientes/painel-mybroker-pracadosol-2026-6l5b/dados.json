@@ -1,0 +1,142 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:13:07-03:00",
+    "gerado_em_humano": "08/05/2026 18:13",
+    "slug_url": "painel-mybroker-pracadosol-2026-6l5b",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS PRAÇA DO SOL LTDA",
+    "identification": "**.***.***/****-65",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413552,
+      "process_number": "5286401-31.2024.8.09.0012",
+      "protocol_number": null,
+      "folder": "761",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO POR DANO MATERIAL",
+      "group": "CÍVEL",
+      "status_closure": "2024-04-24 00:00:00",
+      "created_at": "2024-04-24 00:00:00",
+      "process_date": "2024-04-15",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Baixa Definitiva -"
+        },
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-11-12",
+          "header": "TJGO",
+          "title": "Autos Devolvidos da Instância Superior -"
+        },
+        {
+          "date": "2025-11-12",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Transito em Julgado - Devolução Juízo de Origem"
+        },
+        {
+          "date": "2025-11-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para My Broker Imoveis Bougainville Ltda em 11/11/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (14/10/2025 15:09:17))"
+        },
+        {
+          "date": "2025-11-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Lorrayne Silva Lima em 11/11/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (14/10/2025 15:09:17))"
+        },
+        {
+          "date": "2025-11-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Anderson Lencioni Barbosa em 11/11/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (14/10/2025 15:09:17))"
+        },
+        {
+          "date": "2025-10-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Anderson Lencioni Barbosa (Referente à Mov. - )"
+        },
+        {
+          "date": "2025-10-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Substabelecimento"
+        },
+        {
+          "date": "2025-10-14",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 14/10/2025 13:30)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANDERSON LENCIONI BARBOSA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413554,
+      "process_number": "5272381-78.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "2620",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "CORRETAGEM",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-04-08 00:00:00",
+      "created_at": "2025-04-08 00:00:00",
+      "process_date": "2025-04-08",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MEIRE ALVES DE FREITAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14442220,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-04-23 15:31:21",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

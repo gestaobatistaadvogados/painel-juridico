@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:10:31-03:00",
+    "gerado_em_humano": "08/05/2026 18:10",
+    "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS BELO HORIZONTE LTDA",
+    "identification": "**.***.***/****-10",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 12956894,
+      "process_number": "1046206-72.2025.8.13.0024",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "RESCISÃO CONTRATUAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2026-04-15 10:48:34",
+      "created_at": "2026-02-03 17:16:22",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-23",
+          "header": "TJMG",
+          "title": "Evento: 73\nDescrição: EMBARGOS DE DECLARAÇÃO"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJMG",
+          "title": "Evento: 72\nDescrição: Publicado no DJEN - no dia 14/04/2026 - Refer. aos Eventos: 68, 69, 70"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJMG",
+          "title": "Evento: 71\nDescrição: Disponibilizado no DJEN - no dia 13/04/2026 - Refer. aos Eventos: 68, 69, 70"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJMG",
+          "title": "Evento: 69\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 67\n(AUTOR -  CLAUBERTH DUARTE FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 15/04/2026 00:00:00\nData final: 08/05/2026 23:59:59"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJMG",
+          "title": "Evento: 70\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 67\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 15/04/2026 00:00:00\nData final: 08/05/2026 23:59:59"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJMG",
+          "title": "Evento: 67\nDescrição: Julgado procedente em parte o pedido"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJMG",
+          "title": "Evento: 68\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 67\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 15/04/2026 00:00:00\nData final: 08/05/2026 23:59:59"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJMG",
+          "title": "Evento: 66\nDescrição: PETIÇÃO - Refer. aos Eventos: 60 e 61"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJMG",
+          "title": "Evento: 64\nDescrição: Confirmada a intimação eletrônica - Refer. ao Evento: 60"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJMG",
+          "title": "Evento: 65\nDescrição: Confirmada a intimação eletrônica - Refer. ao Evento: 61"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "AMANDA FERREIRA DE SOUZA FIGUEIREDO"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413508,
+      "process_number": "0011041-88.2024.5.03.0106",
+      "protocol_number": null,
+      "folder": "1812",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "RECLAMATÓRIA TRABALHISTA",
+      "group": "TRABALHISTA",
+      "status_closure": "2024-12-16 00:00:00",
+      "created_at": "2024-12-16 00:00:00",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2025-07-22",
+          "header": "TRT3",
+          "title": "MOVIMENTAÇÃO CONFIDENCIAL - PROCESSO EM SEGREDO DE JUSTIÇA, PRECATÓRIO OU RPV."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "INGRID ALVES LUCIO"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRT3"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-08"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-08T09:28:19-03:00",
-    "gerado_em_humano": "08/05/2026 09:28",
+    "gerado_em": "2026-05-08T18:02:08-03:00",
+    "gerado_em_humano": "08/05/2026 18:02",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -3560,15 +3560,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 7,
+    "total": 9,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
-      "Diligências": 0,
+      "Acompanhamento": 4,
+      "Diligências": 1,
       "Outras": 2
     },
-    "ultima_data": "2026-05-07"
+    "ultima_data": "2026-05-08"
   }
 }

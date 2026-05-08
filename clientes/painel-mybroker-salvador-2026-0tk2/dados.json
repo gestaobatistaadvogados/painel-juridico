@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:13:18-03:00",
+    "gerado_em_humano": "08/05/2026 18:13",
+    "slug_url": "painel-mybroker-salvador-2026-0tk2",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS SALVADOR LTDA",
+    "identification": "**.***.***/****-44",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:09:26-03:00",
+    "gerado_em_humano": "08/05/2026 18:09",
+    "slug_url": "painel-mybroker-araes-2026-hf21",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER ARAES LTDA",
+    "identification": "**.***.***/****-59",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 14740584,
+      "process_number": "1008819-15.2026.8.11.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE RESCISÃO CONTRATUAL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-08 11:53:59",
+      "process_date": "2026-02-19",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CARLOS EDUARDO TRANSACOES IMOBILIARIAS LTDA"
+        },
+        {
+          "name": "DANIEL FRANCISCO DE OLIVEIRA"
+        },
+        {
+          "name": "IVANIA DA SILVA LARA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMT"
+    }
+  ],
+  "atividade_90d": {
+    "total": 7,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 1,
+      "Comunicações": 2,
+      "Acompanhamento": 2,
+      "Diligências": 0,
+      "Outras": 1
+    },
+    "ultima_data": "2026-05-08"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:11:16-03:00",
+    "gerado_em_humano": "08/05/2026 18:11",
+    "slug_url": "painel-mybroker-jardimamerica-2026-idy5",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER JARDIM AMERICA IMOB",
+    "identification": "**.***.***/****-11",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 14442030,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-04-23 15:25:33",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

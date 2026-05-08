@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:08:47-03:00",
+    "gerado_em_humano": "08/05/2026 18:08",
+    "slug_url": "painel-mybroker-santamonica-2026-y52e",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS UDI SANTA MONICA LTDA EEP",
+    "identification": "**.***.***/****-54",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413557,
+      "process_number": "5053274-13.2022.8.13.0702",
+      "protocol_number": null,
+      "folder": "733",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "INDENIZATÓRIA",
+      "group": "CÍVEL",
+      "status_closure": "2024-04-16 00:00:00",
+      "created_at": "2024-04-16 00:00:00",
+      "process_date": "2022-10-19",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CARLA CAMPSI"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413558,
+      "process_number": "5029743-24.2024.8.13.0702",
+      "protocol_number": null,
+      "folder": "1249",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "ALUGUEL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-06-21 00:00:00",
+      "created_at": "2024-06-21 00:00:00",
+      "process_date": "2024-05-21",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [
+        {
+          "date": "2025-02-25",
+          "header": "TJMG",
+          "title": "Arquivado Definitivamente"
+        },
+        {
+          "date": "2025-02-25",
+          "header": "TJMG",
+          "title": "Expedição de Certidão de Baixa."
+        },
+        {
+          "date": "2025-02-25",
+          "header": "TJMG",
+          "title": "Expedição de Certidão Trânsito em Julgado."
+        },
+        {
+          "date": "2025-02-11",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 10/02/2025 23:59."
+        },
+        {
+          "date": "2025-01-15",
+          "header": "TJMG",
+          "title": "Expedição de comunicação via sistema."
+        },
+        {
+          "date": "2025-01-15",
+          "header": "TJMG",
+          "title": "Extinto o processo por ausência de pressupostos processuais"
+        },
+        {
+          "date": "2025-01-14",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2025-01-14",
+          "header": "TJMG",
+          "title": "Juntada de certidão decurso de prazo"
+        },
+        {
+          "date": "2024-10-22",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 21/10/2024 23:59."
+        },
+        {
+          "date": "2024-10-22",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 21/10/2024 23:59."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIELLA MUNIZ GONCALVES GUEDES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413559,
+      "process_number": "5001646-14.2024.8.13.0702",
+      "protocol_number": null,
+      "folder": "792",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "CORRETAGEM",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-04-30 00:00:00",
+      "created_at": "2024-04-30 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413560,
+      "process_number": "5001657-43.2024.8.13.0702",
+      "protocol_number": null,
+      "folder": "848",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "CORRETAGEM",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-05-09 00:00:00",
+      "created_at": "2024-05-09 00:00:00",
+      "process_date": "2024-01-11",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413561,
+      "process_number": "5046512-44.2023.8.13.0702",
+      "protocol_number": null,
+      "folder": "1390",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2024-06-30 00:00:00",
+      "created_at": "2024-06-30 00:00:00",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ALETHEA DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413562,
+      "process_number": "5065271-22.2024.8.13.0702",
+      "protocol_number": null,
+      "folder": "1827",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-01-15 00:00:00",
+      "created_at": "2025-01-15 00:00:00",
+      "process_date": "2024-10-28",
+      "responsible": "ANGELICA SILVA CARDOSO",
+      "movements": [
+        {
+          "date": "2026-03-27",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 26/03/2026 23:59."
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJMG",
+          "title": "Decorrido prazo de ALEX JUSTINO BLEICH em 26/03/2026 23:59."
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJMG",
+          "title": "Decorrido prazo de LUDIMILA CORDEIRO CROSARA em 26/03/2026 23:59."
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJMG",
+          "title": "Juntada de Petição de impugnação"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 05/03/2026."
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 04/03/2026"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJMG",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJMG",
+          "title": "Extinto o processo por Perempção, litispendência ou coisa julgada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANILO OLIVEIRA DA ROCHA MATTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413563,
+      "process_number": "5073448-72.2024.8.13.0702",
+      "protocol_number": null,
+      "folder": "1837",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-01-20 00:00:00",
+      "created_at": "2025-01-20 00:00:00",
+      "process_date": "2024-12-05",
+      "responsible": "ANGELICA SILVA CARDOSO",
+      "movements": [
+        {
+          "date": "2025-10-09",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2025-09-19",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 18/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 28/08/2025."
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 27/08/2025"
+        },
+        {
+          "date": "2025-08-26",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2025-08-25",
+          "header": "TJMG",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2025-03-21",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2025-03-10",
+          "header": "TJMG",
+          "title": "Juntada de Petição de impugnação"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "FABIO COSTA DE ANDRADE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413564,
+      "process_number": "5027445-25.2025.8.13.0702",
+      "protocol_number": null,
+      "folder": "2768",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-05-08 00:00:00",
+      "created_at": "2025-05-08 00:00:00",
+      "process_date": "2025-05-08",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-03-27",
+          "header": "TJMG",
+          "title": "Juntada de Petição de impugnação"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 06/03/2026."
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 05/03/2026"
+        },
+        {
+          "date": "2026-03-04",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-01-27",
+          "header": "TJMG",
+          "title": "Juntada de Petição de contestação (outros)"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJMG",
+          "title": "Juntada de Aviso de recebimento (AR)"
+        },
+        {
+          "date": "2026-01-12",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJMG",
+          "title": "Recebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJMG",
+          "title": "Audiência do art. 334 CPC realizada conduzida por Conciliador(a) em/para 17/12/2025 16:30, 9ª Vara Cível da Comarca de Uberlândia"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MIJ SOLUCOES EM EVENTOS LTDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413565,
+      "process_number": "5012918-68.2025.8.13.0702",
+      "protocol_number": null,
+      "folder": "3668",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-09-08 00:00:00",
+      "created_at": "2025-09-08 00:00:00",
+      "process_date": "2025-03-04",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-04",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2026-03-01",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 06/02/2026."
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 05/02/2026"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJMG",
+          "title": "Audiência de instrução e julgamento designada conduzida por Juiz(a) em/para 07/10/2026 13:30, 3ª Vara Cível da Comarca de Uberlândia."
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJMG",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2025-12-06",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOVEIS UDI SANTA MONICA LTDA em 05/12/2025 23:59."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NATALYA RODRIGUES BEZERRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 14442950,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-04-23 15:56:51",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14443307,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2026-04-23 16:11:12",
+      "created_at": "2026-04-23 16:10:27",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

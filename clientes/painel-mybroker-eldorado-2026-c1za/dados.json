@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:11:05-03:00",
+    "gerado_em_humano": "08/05/2026 18:11",
+    "slug_url": "painel-mybroker-eldorado-2026-c1za",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "ELDORADO BROKER GESTÃO IMOBILIÁRIA LTDA",
+    "identification": "**.***.***/****-36",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13137829,
+      "process_number": "5699056-47.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-11 17:30:42",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resultado da busca de endereço"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão CENOPES"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CENTRAL BUSCA DE ENDEREÇO"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda (Referente à Mov. Certidão Expedida (27/03/2026 10:51:26))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO. DILAÇÃO DE PRAZO - 05 dias"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação - Guia"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - ATO ORDINATÓRIO MODELO PADRÃO - 6ª UPJ"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JHEIMES PEREIRA DAMASCENO GONCALVES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13287824,
+      "process_number": "5730486-17.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-20 12:21:02",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 17:53:49))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 17:53:49))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de S1BIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Proenca Santos (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EBGIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de PEMSF (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de S1BIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANDRE PROENCA SANTOS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 3,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 2,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-07"
+  }
+}

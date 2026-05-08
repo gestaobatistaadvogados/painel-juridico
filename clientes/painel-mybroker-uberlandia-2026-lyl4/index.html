@@ -1,0 +1,2852 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Painel Processual — L Batista Advogados Associados">
+<meta name="robots" content="noindex, nofollow">
+<title>Portal Jurídico — MY BROKER IMOBILIARIA UBERLANDIA LTDA</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+<style>
+:root {
+    --cor-primaria: #0A1628;
+    --cor-primaria-clara: #1e3358;
+    --cor-secundaria: #C9A84C;
+    --cor-dourado-claro: #e0c373;
+    --cor-dourado-escuro: #a8893b;
+    --cor-branco: #ffffff;
+    --cor-creme: #f8f5ee;
+    --cor-fundo: #f6f7f9;
+    --cor-superficie: #ffffff;
+    --cor-cinza-medio: #e2e6ec;
+    --cor-borda: #e8e4d8;
+    --cor-texto-primario: #0A1628;
+    --cor-texto-secundario: #6b7280;
+    --cor-texto-suave: #9ca3af;
+    --cor-urgente: #c0392b;
+    --cor-urgente-fundo: #fdecea;
+    --cor-atencao: #d68910;
+    --cor-atencao-fundo: #fef5e7;
+    --cor-favoravel: #1e8449;
+    --cor-favoravel-fundo: #e8f5e9;
+    --cor-info: #2874a6;
+    --cor-info-fundo: #ebf3fb;
+    --fonte-corpo: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --fonte-titulo: 'Cormorant Garamond', Georgia, serif;
+    --fonte-mono: 'SF Mono', 'Consolas', 'Monaco', monospace;
+    --raio-borda: 8px;
+    --raio-borda-grande: 14px;
+    --sombra-suave: 0 2px 8px rgba(10,22,40,0.06);
+    --sombra-media: 0 4px 12px rgba(10,22,40,0.08);
+    --sombra-forte: 0 10px 30px rgba(10,22,40,0.12);
+    --sombra-xl: 0 20px 50px rgba(10,22,40,0.18);
+    --transicao-suave: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+*  { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+    font-family: var(--fonte-corpo);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto-primario);
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image:
+        radial-gradient(circle at 20% 10%, rgba(201,168,76,0.03) 0%, transparent 40%),
+        radial-gradient(circle at 80% 90%, rgba(10,22,40,0.025) 0%, transparent 40%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* CABECALHO */
+.cabecalho {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    padding: 2rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 4px solid var(--cor-secundaria);
+}
+.cabecalho::after {
+    content: '';
+    position: absolute;
+    top: -50px; right: -50px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(201,168,76,0.15) 0%, transparent 70%);
+    pointer-events: none;
+}
+.cabecalho-conteudo {
+    max-width: 1400px; margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 2rem;
+    position: relative; z-index: 1;
+}
+.logo-container { display: flex; align-items: center; justify-content: center; min-height: 88px; }
+.logo-container img {
+    max-height: 72px; max-width: 280px;
+    width: auto; height: auto; display: block;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.15));
+}
+.titulo-cabecalho { text-align: center; }
+.titulo-cabecalho h1 {
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.5rem, 3vw, 2.25rem);
+    line-height: 1.2;
+    margin-bottom: 4px;
+    letter-spacing: 0.02em;
+}
+.titulo-cabecalho .cliente-nome {
+    font-family: var(--fonte-titulo);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    letter-spacing: 0.02em;
+    margin: 4px 0;
+}
+.titulo-cabecalho .subtitulo {
+    font-size: 0.875rem; font-weight: 300;
+    opacity: 0.85; letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.info-atualizacao { text-align: right; font-size: 0.8rem; font-weight: 300; opacity: 0.85; line-height: 1.5; }
+.info-atualizacao .data { font-weight: 600; color: var(--cor-secundaria); letter-spacing: 0.03em; font-size: 0.95rem; }
+.info-atualizacao .ativos { color: var(--cor-secundaria); font-weight: 600; }
+.badge-tipo {
+    display: inline-block; background: var(--cor-secundaria);
+    color: var(--cor-primaria); font-weight: 700; font-size: 0.65rem;
+    letter-spacing: 0.06em; padding: 2px 8px; border-radius: 3px;
+    margin-left: 6px; vertical-align: middle;
+}
+
+/* CONTAINER + BREADCRUMB */
+.container { max-width: 1400px; margin: 0 auto; padding: 2rem 1.5rem; position: relative; z-index: 1; }
+.breadcrumb {
+    display: none; align-items: center; gap: 0.75rem;
+    margin-bottom: 1.5rem; font-size: 0.875rem;
+    color: var(--cor-texto-secundario);
+}
+.breadcrumb.visivel { display: flex; }
+.breadcrumb button {
+    color: var(--cor-primaria); background: none; border: none; cursor: pointer;
+    font-family: inherit; font-size: inherit; padding: 4px 8px; border-radius: 4px;
+    font-weight: 500; transition: var(--transicao-suave);
+}
+.breadcrumb button:hover { background-color: rgba(10,22,40,0.05); color: var(--cor-secundaria); }
+.breadcrumb .separador { color: var(--cor-texto-suave); }
+.breadcrumb .atual { color: var(--cor-texto-primario); font-weight: 600; }
+
+/* PAINEL DE PRODUTIVIDADE (90 dias) */
+.painel-produtividade {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    border-radius: var(--raio-borda-grande);
+    padding: 2rem 1.75rem;
+    margin-bottom: 2.5rem;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--cor-dourado-escuro);
+}
+.painel-produtividade::before {
+    content: ''; position: absolute;
+    top: 0; left: 0; right: 0; height: 4px;
+    background: linear-gradient(90deg, transparent 0%, var(--cor-secundaria) 50%, transparent 100%);
+}
+.painel-produtividade::after {
+    content: ''; position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(201,168,76,0.18) 0%, transparent 70%);
+    pointer-events: none;
+}
+.produtividade-rotulo {
+    text-align: center;
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cor-dourado-claro);
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+.painel-produtividade h2 {
+    text-align: center;
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.01em;
+}
+.produtividade-numero-grande { text-align: center; margin-bottom: 1.75rem; position: relative; z-index: 1; }
+.produtividade-numero-grande .valor {
+    font-family: var(--fonte-corpo);
+    font-size: clamp(3.2rem, 7vw, 4.5rem);
+    font-weight: 200;
+    color: var(--cor-secundaria);
+    line-height: 1;
+    display: block;
+}
+.produtividade-numero-grande .legenda {
+    font-size: 0.875rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    color: var(--cor-dourado-claro);
+}
+.produtividade-categorias {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    position: relative; z-index: 1;
+}
+@media (max-width: 720px) {
+    .produtividade-categorias { grid-template-columns: repeat(2, 1fr); }
+}
+.produtividade-categoria {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: var(--raio-borda);
+    padding: 0.85rem 0.5rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.produtividade-categoria:hover { background: rgba(255,255,255,0.14); transform: translateY(-2px); }
+.produtividade-categoria .num {
+    font-size: 1.625rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    line-height: 1.1;
+}
+.produtividade-categoria .lbl {
+    font-size: 0.65rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-top: 4px;
+}
+.produtividade-rodape {
+    border-top: 1px solid rgba(255,255,255,0.12);
+    padding-top: 0.85rem;
+    text-align: center;
+    font-size: 0.82rem;
+    opacity: 0.85;
+    position: relative; z-index: 1;
+}
+.produtividade-rodape strong { color: var(--cor-secundaria); font-weight: 600; }
+
+/* SECAO INTRO E ORNAMENTO */
+.secao-intro { text-align: center; margin-bottom: 2rem; padding: 1rem 0.5rem 0.5rem; }
+.secao-intro h2 {
+    font-family: var(--fonte-titulo);
+    font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+    font-weight: 500;
+    color: var(--cor-primaria);
+    letter-spacing: 0.01em;
+    margin-bottom: 0.5rem;
+}
+.secao-intro p { color: var(--cor-texto-secundario); max-width: 720px; margin: 0 auto; font-size: 0.95rem; }
+.ornamento-titulo {
+    display: block;
+    width: 70px;
+    height: 2px;
+    background: var(--cor-secundaria);
+    margin: 1rem auto;
+    position: relative;
+}
+.ornamento-titulo::before, .ornamento-titulo::after {
+    content: ''; position: absolute; top: 50%;
+    width: 6px; height: 6px;
+    background: var(--cor-secundaria);
+    border-radius: 50%; transform: translateY(-50%);
+}
+.ornamento-titulo::before { left: -16px; }
+.ornamento-titulo::after { right: -16px; }
+
+/* GRADE DE AREAS (cards) */
+.grade-areas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+.card-area {
+    background: var(--cor-superficie);
+    border-radius: var(--raio-borda-grande);
+    padding: 2rem 1.5rem 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transicao-suave);
+    position: relative;
+    box-shadow: var(--sombra-suave);
+    border: 1px solid var(--cor-borda);
+    overflow: hidden;
+}
+.card-area::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--cor-secundaria) 0%, var(--cor-dourado-claro) 100%);
+}
+.card-area:hover { transform: translateY(-4px); box-shadow: var(--sombra-forte); }
+.card-area:focus { outline: 2px solid var(--cor-secundaria); outline-offset: 4px; }
+.area-icone-circ {
+    display: flex; align-items: center; justify-content: center;
+    width: 72px; height: 72px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    background: var(--cor-creme);
+    transition: var(--transicao-suave);
+}
+.area-icone-circ svg {
+    width: 36px; height: 36px;
+    stroke: var(--cor-primaria);
+    fill: none; stroke-width: 1.6;
+    stroke-linecap: round; stroke-linejoin: round;
+    transition: stroke 0.25s ease;
+}
+.card-area:hover .area-icone-circ { background: var(--cor-primaria); }
+.card-area:hover .area-icone-circ svg { stroke: var(--cor-secundaria); }
+.card-area h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+}
+.area-contador {
+    display: inline-block;
+    background: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 4px 14px;
+    border-radius: 999px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+}
+.area-tags {
+    display: flex; flex-wrap: wrap; justify-content: center;
+    gap: 0.4rem; margin: 0.75rem 0; min-height: 24px;
+}
+.area-tag {
+    font-size: 0.7rem; font-weight: 600;
+    padding: 3px 10px; border-radius: 4px;
+    border: 1px solid var(--cor-borda);
+}
+.area-tag.urgente { background: var(--cor-urgente-fundo); color: var(--cor-urgente); border-color: rgba(192,57,43,0.2); }
+.area-tag.atencao { background: var(--cor-atencao-fundo); color: var(--cor-atencao); border-color: rgba(214,137,16,0.2); }
+.area-tag.ok { background: var(--cor-favoravel-fundo); color: var(--cor-favoravel); border-color: rgba(30,132,73,0.2); }
+.area-resumo {
+    font-size: 0.78rem;
+    color: var(--cor-texto-secundario);
+    margin: 0.85rem 0 0.5rem;
+}
+.area-explorar {
+    font-size: 0.74rem; font-weight: 600;
+    color: var(--cor-texto-secundario);
+    margin-top: 0.5rem;
+    letter-spacing: 0.05em; text-transform: uppercase;
+    transition: color 0.25s ease;
+}
+.card-area:hover .area-explorar { color: var(--cor-dourado-escuro); }
+
+/* AREA-DETALHE */
+.area-detalhe { display: none; animation: fadeIn 0.3s ease; }
+.area-detalhe.ativa { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+.area-cabecalho {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    border-radius: var(--raio-borda-grande);
+    padding: 1.5rem 2rem;
+    margin-bottom: 2rem;
+    position: relative; overflow: hidden;
+    border-bottom: 3px solid var(--cor-secundaria);
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 1.5rem;
+}
+.area-cabecalho::after {
+    content: ''; position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(201,168,76,0.15) 0%, transparent 70%);
+    pointer-events: none;
+}
+.area-cabecalho .icone-grande {
+    display: flex; align-items: center; justify-content: center;
+    width: 72px; height: 72px;
+    border-radius: 50%;
+    background: var(--cor-secundaria);
+    flex-shrink: 0;
+}
+.area-cabecalho .icone-grande svg {
+    width: 38px; height: 38px;
+    stroke: var(--cor-primaria);
+    fill: none; stroke-width: 1.7;
+    stroke-linecap: round; stroke-linejoin: round;
+}
+.area-cabecalho h2 {
+    font-family: var(--fonte-titulo);
+    font-size: clamp(1.7rem, 2.6vw, 2.1rem);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    position: relative; z-index: 1;
+}
+.area-cabecalho .total-area { font-size: 0.85rem; opacity: 0.85; margin-top: 4px; position: relative; z-index: 1; }
+.area-cabecalho .total-area strong { color: var(--cor-secundaria); font-weight: 700; }
+.btn-voltar {
+    background: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    border: none;
+    padding: 8px 18px;
+    border-radius: var(--raio-borda);
+    font-family: inherit; font-size: 0.85rem; font-weight: 600;
+    cursor: pointer; transition: var(--transicao-suave);
+    position: relative; z-index: 1;
+}
+.btn-voltar:hover { background: var(--cor-dourado-claro); }
+
+/* SECAO TITULO (interno da area) */
+.secao-titulo { margin: 1.75rem 0 1rem; display: flex; align-items: center; gap: 1rem; }
+.secao-titulo h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--cor-primaria);
+    position: relative;
+    padding-left: 16px;
+}
+.secao-titulo h3::before {
+    content: ''; position: absolute; left: 0; top: 50%;
+    width: 4px; height: 24px;
+    background: var(--cor-secundaria);
+    transform: translateY(-50%);
+    border-radius: 2px;
+}
+
+/* GRADE KPIs */
+.grade-kpis {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+.card-kpi {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-top: 4px solid var(--cor-secundaria);
+    border-radius: var(--raio-borda);
+    padding: 1.25rem 1rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.card-kpi:hover { box-shadow: var(--sombra-media); transform: translateY(-2px); }
+.card-kpi-rotulo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 0.4rem;
+}
+.card-kpi-numero {
+    font-family: var(--fonte-titulo);
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    line-height: 1.1;
+    margin-bottom: 0.25rem;
+}
+.card-kpi-detalhe { font-size: 0.78rem; color: var(--cor-texto-suave); }
+.card-kpi.ativos { border-top-color: var(--cor-info); }
+.card-kpi.ativos .card-kpi-numero { color: var(--cor-info); }
+.card-kpi.urgente { border-top-color: var(--cor-urgente); }
+.card-kpi.urgente .card-kpi-numero { color: var(--cor-urgente); }
+.card-kpi.favoravel { border-top-color: var(--cor-favoravel); }
+.card-kpi.favoravel .card-kpi-numero { color: var(--cor-favoravel); }
+
+/* ALERTAS E ACOES NECESSARIAS */
+.alertas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.coluna-alerta {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-top: 3px solid var(--cor-categoria, var(--cor-cinza-medio));
+    border-radius: var(--raio-borda);
+    padding: 1rem;
+}
+.coluna-alerta-cabecalho {
+    display: flex; align-items: center; gap: 0.6rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--cor-borda);
+}
+.coluna-alerta-cabecalho .indicador-emoji { font-size: 1.1rem; }
+.coluna-alerta-cabecalho h4 {
+    font-size: 0.78rem; font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--cor-categoria, var(--cor-texto-secundario));
+    flex: 1;
+}
+.coluna-alerta-cabecalho .contador {
+    background: var(--cor-categoria-fundo, rgba(0,0,0,0.05));
+    color: var(--cor-categoria, var(--cor-texto-secundario));
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 9px;
+    border-radius: 4px;
+}
+.coluna-alerta.urgente   { --cor-categoria: var(--cor-urgente);   --cor-categoria-fundo: var(--cor-urgente-fundo); }
+.coluna-alerta.atencao   { --cor-categoria: var(--cor-atencao);   --cor-categoria-fundo: var(--cor-atencao-fundo); }
+.coluna-alerta.favoravel { --cor-categoria: var(--cor-favoravel); --cor-categoria-fundo: var(--cor-favoravel-fundo); }
+.card-alerta {
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--cor-borda);
+    cursor: pointer;
+    transition: background 0.18s;
+}
+.card-alerta:last-child { border-bottom: none; }
+.card-alerta:hover { background: var(--cor-creme); }
+.card-alerta-numero {
+    font-family: var(--fonte-mono);
+    font-size: 0.78rem;
+    color: var(--cor-primaria);
+    font-weight: 600;
+    word-break: break-all;
+}
+.card-alerta-descricao {
+    font-size: 0.82rem;
+    color: var(--cor-categoria, var(--cor-texto-primario));
+    margin-top: 2px;
+}
+.card-alerta-mais {
+    color: var(--cor-texto-suave);
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 0.6rem;
+    font-style: italic;
+}
+.card-alerta-vazio {
+    color: var(--cor-texto-suave);
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 0.75rem 0;
+    font-style: italic;
+}
+
+/* GRADE DE GRAFICOS (2x2) */
+.grade-graficos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+@media (max-width: 880px) { .grade-graficos { grid-template-columns: 1fr; } }
+.card-grafico {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    padding: 1rem;
+}
+.card-grafico-titulo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--cor-primaria);
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--cor-borda);
+}
+.card-grafico-canvas-container {
+    position: relative;
+    height: 220px;
+}
+.card-grafico-vazio {
+    text-align: center;
+    color: var(--cor-texto-suave);
+    font-style: italic;
+    font-size: 0.85rem;
+    padding: 2rem 0;
+}
+
+/* TIMELINE */
+.timeline-wrap {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.timeline {
+    position: relative;
+    padding-left: 24px;
+    max-height: 480px;
+    overflow-y: auto;
+}
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 7px; top: 6px; bottom: 6px;
+    width: 2px;
+    background: var(--cor-borda);
+}
+.timeline-item {
+    position: relative;
+    padding-bottom: 1rem;
+}
+.timeline-item:last-child { padding-bottom: 0; }
+.timeline-ponto {
+    position: absolute;
+    left: -22px; top: 6px;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--cor-primaria);
+    border: 2px solid var(--cor-superficie);
+    box-shadow: 0 0 0 1px var(--cor-borda);
+    transition: background 0.2s;
+}
+.timeline-item:hover .timeline-ponto { background: var(--cor-secundaria); }
+.timeline-data {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 2px;
+}
+.timeline-cnj {
+    font-family: var(--fonte-mono);
+    font-size: 0.74rem;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 2px;
+}
+.timeline-titulo {
+    font-size: 0.85rem;
+    color: var(--cor-texto-primario);
+    line-height: 1.4;
+}
+.timeline-cabecalho-mov { font-weight: 600; }
+.timeline-vazia { text-align: center; color: var(--cor-texto-suave); font-style: italic; padding: 1rem; }
+
+/* TABELA */
+.tabela-container {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+.tabela-controles {
+    padding: 1rem;
+    background: var(--cor-fundo);
+    border-bottom: 1px solid var(--cor-borda);
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 1rem;
+    align-items: center;
+}
+@media (max-width: 720px) { .tabela-controles { grid-template-columns: 1fr; } }
+.pesquisa-input {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    font-family: inherit;
+    font-size: 0.9rem;
+    background: var(--cor-superficie);
+    transition: var(--transicao-suave);
+}
+.pesquisa-input:focus { border-color: var(--cor-primaria); box-shadow: 0 0 0 3px rgba(10,22,40,0.08); outline: none; }
+.filtros { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.filtro-btn {
+    padding: 7px 14px;
+    border: 1px solid var(--cor-borda);
+    background: var(--cor-superficie);
+    border-radius: 999px;
+    font-family: inherit;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--cor-texto-secundario);
+    cursor: pointer;
+    transition: var(--transicao-suave);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.filtro-btn:hover { border-color: var(--cor-secundaria); color: var(--cor-primaria); }
+.filtro-btn.ativo { background: var(--cor-primaria); border-color: var(--cor-primaria); color: var(--cor-secundaria); }
+
+.tabela-wrap { overflow-x: auto; }
+table.tabela-relacao {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+}
+table.tabela-relacao thead {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+}
+table.tabela-relacao thead th {
+    padding: 12px 1rem;
+    text-align: left;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--cor-secundaria);
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+table.tabela-relacao thead th:hover { background: rgba(255,255,255,0.08); }
+table.tabela-relacao thead th .seta {
+    color: rgba(255,255,255,0.4);
+    margin-left: 4px;
+    font-size: 0.85em;
+}
+table.tabela-relacao thead th.ord-asc .seta,
+table.tabela-relacao thead th.ord-desc .seta { color: var(--cor-secundaria); }
+table.tabela-relacao tbody tr {
+    border-bottom: 1px solid var(--cor-borda);
+    border-left: 3px solid transparent;
+    cursor: pointer;
+    transition: background 0.2s, border-left-color 0.2s;
+}
+table.tabela-relacao tbody tr:hover {
+    background: var(--cor-creme);
+    border-left-color: var(--cor-secundaria);
+}
+table.tabela-relacao tbody td { padding: 12px 1rem; vertical-align: top; }
+table.tabela-relacao tbody tr.escondido { display: none; }
+.cnj-cell { font-family: var(--fonte-mono); font-size: 0.78rem; color: var(--cor-primaria); font-weight: 500; word-break: break-all; min-width: 170px; }
+.partes-cell { font-size: 0.83rem; min-width: 220px; }
+.partes-cell .cliente-side { font-weight: 600; color: var(--cor-primaria); }
+.partes-cell .vs { color: var(--cor-texto-suave); margin: 0 4px; font-style: italic; font-size: 0.78rem; }
+.partes-cell .adv-side { color: var(--cor-texto-primario); }
+.partes-cell .mais-partes { color: var(--cor-texto-secundario); font-size: 0.78rem; font-style: italic; }
+.tribunal-cell { font-family: var(--fonte-mono); font-weight: 600; color: var(--cor-primaria); font-size: 0.82rem; min-width: 80px; }
+.acao-cell { color: var(--cor-texto-primario); min-width: 200px; }
+.responsavel-cell { color: var(--cor-texto-secundario); white-space: nowrap; }
+.ultimo-cell { font-size: 0.82rem; min-width: 220px; }
+.ultimo-cell .data { color: var(--cor-secundaria); font-weight: 600; font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.ultimo-cell .desc { color: var(--cor-texto-primario); margin-top: 2px; line-height: 1.35; }
+.ultimo-cell .vazio { color: var(--cor-texto-suave); font-style: italic; }
+
+/* BADGES POR FASE */
+.badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+.badge-fase-conhecimento { background: var(--cor-info-fundo); color: var(--cor-info); }
+.badge-fase-execucao     { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+.badge-fase-recursal     { background: #f3e6f6; color: #884ea0; }
+.badge-fase-arquivados   { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+
+.relacao-rodape {
+    padding: 0.85rem 1rem;
+    border-top: 1px solid var(--cor-borda);
+    background: var(--cor-fundo);
+    font-size: 0.8rem;
+    color: var(--cor-texto-secundario);
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.75rem;
+}
+
+/* MODAL DE PROCESSO */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(10,22,40,0.65);
+    backdrop-filter: blur(4px);
+    z-index: 1000;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 5vh 1rem;
+    overflow-y: auto;
+}
+.modal-overlay.aberto { display: flex; }
+.modal-conteudo {
+    background: var(--cor-superficie);
+    border-radius: var(--raio-borda-grande);
+    max-width: 760px;
+    width: 100%;
+    box-shadow: var(--sombra-xl);
+    border-top: 4px solid var(--cor-secundaria);
+    position: relative;
+    animation: slideUp 0.3s ease;
+}
+@keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.modal-cabecalho {
+    padding: 1.5rem 2rem 1rem;
+    border-bottom: 1px solid var(--cor-borda);
+    position: relative;
+}
+.modal-cabecalho h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.5rem;
+    color: var(--cor-primaria);
+    font-weight: 600;
+}
+.modal-cabecalho .num-cnj-modal {
+    font-family: var(--fonte-mono);
+    font-size: 0.8rem;
+    color: var(--cor-texto-secundario);
+    margin-top: 0.25rem;
+    word-break: break-all;
+}
+.modal-fechar {
+    position: absolute;
+    top: 1.25rem; right: 1.25rem;
+    background: var(--cor-fundo);
+    border: 1px solid var(--cor-borda);
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
+    color: var(--cor-texto-secundario);
+    display: flex; align-items: center; justify-content: center;
+    transition: var(--transicao-suave);
+}
+.modal-fechar:hover { background: var(--cor-primaria); color: var(--cor-secundaria); border-color: var(--cor-primaria); }
+.modal-corpo { padding: 1rem 2rem 2rem; }
+.modal-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem 1.5rem;
+    margin-bottom: 1.25rem;
+}
+@media (max-width: 600px) { .modal-grid { grid-template-columns: 1fr; } }
+.modal-secao h4 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+}
+.modal-secao p {
+    font-size: 0.95rem;
+    color: var(--cor-texto-primario);
+    word-break: break-word;
+}
+.modal-secao-larga { grid-column: 1 / -1; }
+.modal-andamentos {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--cor-borda);
+}
+.modal-andamentos h4 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.1rem;
+    color: var(--cor-primaria);
+    margin-bottom: 0.85rem;
+}
+.modal-andamento-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--cor-borda);
+    font-size: 0.88rem;
+}
+.modal-andamento-item:last-child { border-bottom: none; }
+.modal-andamento-data {
+    font-size: 0.74rem;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.modal-andamento-texto { color: var(--cor-texto-primario); margin-top: 2px; line-height: 1.4; }
+.modal-andamentos-vazio { color: var(--cor-texto-suave); font-style: italic; font-size: 0.88rem; }
+
+/* RODAPE */
+.rodape {
+    background: var(--cor-primaria);
+    color: rgba(255,255,255,0.85);
+    padding: 2.5rem 1.5rem 1.5rem;
+    margin-top: 3rem;
+    border-top: 4px solid var(--cor-secundaria);
+}
+.rodape-conteudo {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 2rem;
+}
+@media (max-width: 880px) { .rodape-conteudo { grid-template-columns: 1fr; } }
+.rodape h4 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.1rem;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+.rodape-coluna p, .rodape-coluna a {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+}
+.rodape-coluna a:hover { color: var(--cor-secundaria); text-decoration: underline; }
+.rodape-final {
+    max-width: 1400px;
+    margin: 1.5rem auto 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.12);
+    text-align: center;
+    font-size: 0.78rem;
+    opacity: 0.7;
+}
+
+/* RESPONSIVO */
+@media (max-width: 880px) {
+    .cabecalho-conteudo { grid-template-columns: 1fr; text-align: center; }
+    .info-atualizacao { text-align: center; }
+    .area-cabecalho { grid-template-columns: 1fr; text-align: center; }
+}
+@media (max-width: 600px) {
+    .card-kpi-numero { font-size: 1.7rem; }
+    table.tabela-relacao thead th, table.tabela-relacao tbody td { padding: 8px 10px; }
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--cor-fundo); }
+::-webkit-scrollbar-thumb { background: var(--cor-cinza-medio); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cor-texto-suave); }
+</style>
+</head>
+<body>
+
+
+
+
+<header class="cabecalho">
+    <div class="cabecalho-conteudo">
+        <div class="logo-container">
+            <img src="logo.png" alt="Logo L Batista Advogados Associados">
+        </div>
+        <div class="titulo-cabecalho">
+            <h1>Portal Jurídico</h1>
+            <div class="cliente-nome">MY BROKER IMOBILIARIA UBERLANDIA LTDA</div>
+            <div class="subtitulo">
+                PJ —
+                **.***.***/****-53
+                 ·
+                    UBERLÂNDIA / MG
+                
+            </div>
+        </div>
+        <div class="info-atualizacao">
+            <div>Última atualização</div>
+            <div class="data">08/05/2026 18:09</div>
+            <div><span class="ativos">1</span> processos ativos</div>
+        </div>
+    </div>
+</header>
+
+<main class="container">
+
+    <nav class="breadcrumb" id="breadcrumb" aria-label="Navegação">
+        <button onclick="voltarAreas()" type="button">Início</button>
+        <span class="separador">›</span>
+        <span class="atual" id="breadcrumb-area">Área</span>
+    </nav>
+
+    <section class="tela-areas" id="telaAreas">
+
+        
+        <div class="painel-produtividade">
+            <div class="produtividade-rotulo">📊 Atividade do escritório</div>
+            <h2>Trabalho realizado nos últimos 90 dias</h2>
+
+            <div class="produtividade-numero-grande">
+                <span class="valor">11</span>
+                <span class="legenda">Tarefas Realizadas</span>
+            </div>
+
+            <div class="produtividade-categorias">
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">2</div>
+                    <div class="lbl">Peças</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">1</div>
+                    <div class="lbl">Audiências</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">3</div>
+                    <div class="lbl">Comunicações</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">3</div>
+                    <div class="lbl">Acompanhamento</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">1</div>
+                    <div class="lbl">Diligências</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">1</div>
+                    <div class="lbl">Outras</div>
+                </div>
+                
+                
+            </div>
+
+            
+            <div class="produtividade-rodape">
+                ▸ Última atividade: <strong>07/05/2026</strong>
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-intro">
+            <h2>Acompanhamento Processual</h2>
+            <span class="ornamento-titulo"></span>
+            <p>Selecione abaixo a área do direito que deseja consultar para
+               visualizar o detalhamento dos processos, prazos, audiências
+               e movimentações pertinentes.</p>
+        </div>
+
+        
+        <div class="grade-areas">
+            
+            <article class="card-area"
+                     data-area-id="imobiliario"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('imobiliario')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('imobiliario');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+                <h3>Imobiliário</h3>
+                <div class="area-contador">
+                    8 processos
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    1 ativo
+                    e 7 arquivados.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+            <article class="card-area"
+                     data-area-id="civel-e-empresarial"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('civel-e-empresarial')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('civel-e-empresarial');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 6h14M8 6l-3 7h6l-3-7M16 6l-3 7h6l-3-7M5 13c0 2 1.3 3 3 3s3-1 3-3M13 13c0 2 1.3 3 3 3s3-1 3-3M9 21h6"/></svg></div>
+                <h3>Cível e Empresarial</h3>
+                <div class="area-contador">
+                    4 processos
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    0 ativos
+                    e 4 arquivados.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+            <article class="card-area"
+                     data-area-id="civel"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('civel')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('civel');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+                <h3>Cível</h3>
+                <div class="area-contador">
+                    1 processo
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    0 ativos
+                    e 1 arquivado.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+        </div>
+    </section>
+
+    
+    
+    <section class="area-detalhe" id="area-imobiliario" data-area="imobiliario">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+            <div>
+                <h2>Imobiliário</h2>
+                <div class="total-area">
+                    Total da área: <strong>8</strong>
+                    processos
+                    · 1 ativo
+                    · 7 arquivados
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">8</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">7</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">7</span>
+                </div>
+                
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413490')">
+                    <div class="card-alerta-numero">5021591-84.2024.8.13.0702</div>
+                    <div class="card-alerta-descricao">Elaboração De Cálculo</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413491')">
+                    <div class="card-alerta-numero">5001628-90.2024.8.13.0702</div>
+                    <div class="card-alerta-descricao">Analisado E Não Distribuído</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413492')">
+                    <div class="card-alerta-numero">5063699-65.2023.8.13.0702</div>
+                    <div class="card-alerta-descricao">Analisado E Não Distribuído</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413493')">
+                    <div class="card-alerta-numero">5012599-37.2024.8.13.0702</div>
+                    <div class="card-alerta-descricao">Analisado E Não Distribuído</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413494')">
+                    <div class="card-alerta-numero">0800854-35.2024.8.15.2003</div>
+                    <div class="card-alerta-descricao">Analisado E Não Distribuído</div>
+                </div>
+                
+                
+                <div class="card-alerta-mais">+2 outros</div>
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-imobiliario"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-imobiliario"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-imobiliario"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-imobiliario"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline">
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">14/04/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Mandado devolvido não entregue ao destinatário TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">02/04/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Mandado devolvido entregue ao destinatário TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">30/03/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Mandado devolvido não entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Petição de petição
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">13/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Disponibilizado no DJ Eletrônico em 12/03/2026
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">13/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Publicado Intimação em 13/03/2026.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">13/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Publicado Intimação em 13/03/2026.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">13/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Disponibilizado no DJ Eletrônico em 12/03/2026
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">12/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Outros documentos
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">11/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedida/certificada a comunicação eletrônica
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">11/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedida/certificada a comunicação eletrônica
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">11/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Outros documentos
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">11/03/2026</div>
+                    <div class="timeline-cnj">5062785-64.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Audiência de instrução e julgamento designada conduzida por Juiz(a) em/para 12/05/2026 15:00, 1ª Unidade Jurisdicional - 1º JD da Comarca de Uberlândia.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">10/03/2026</div>
+                    <div class="timeline-cnj">5071499-76.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedição de Mandado.
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="imobiliario"
+                       oninput="aplicarFiltros('imobiliario')">
+                <div class="filtros" data-area="imobiliario">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('imobiliario', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('imobiliario', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('imobiliario', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('imobiliario', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('imobiliario', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="imobiliario">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('imobiliario', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('imobiliario', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('imobiliario', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('imobiliario', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('imobiliario', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-imobiliario">
+                        
+                        
+                        
+                        <tr data-id="13413490"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5021591-84.2024.8.13.0702 aluguel my broker imobiliaria uberlandia ltda jorge roberto batista"
+                            onclick="abrirModalProcesso('13413490')">
+                            <td class="cnj-cell">5021591-84.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    JORGE ROBERTO BATISTA
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Aluguel</td>
+                            <td><span class="badge badge-fase-conhecimento">Elaboração De Cálculo</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">27/11/2025</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Arquivado Definitivamente
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413491"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5001628-90.2024.8.13.0702 corretagem my broker imobiliaria uberlandia ltda "
+                            onclick="abrirModalProcesso('13413491')">
+                            <td class="cnj-cell">5001628-90.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Corretagem</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413492"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5063699-65.2023.8.13.0702 corretagem my broker imobiliaria uberlandia ltda "
+                            onclick="abrirModalProcesso('13413492')">
+                            <td class="cnj-cell">5063699-65.2023.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Corretagem</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413493"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5012599-37.2024.8.13.0702 defeito, nulidade ou anulação my broker imobiliaria uberlandia ltda "
+                            onclick="abrirModalProcesso('13413493')">
+                            <td class="cnj-cell">5012599-37.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Defeito, Nulidade Ou Anulação</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413494"
+                            data-fase-grupo="conhecimento"
+                            data-busca="0800854-35.2024.8.15.2003 execução de título extrajudicial my broker imobiliaria uberlandia ltda abraao helbert goncalo de oliveira"
+                            onclick="abrirModalProcesso('13413494')">
+                            <td class="cnj-cell">0800854-35.2024.8.15.2003</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    ABRAAO HELBERT GONCALO DE OLIVEIRA
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJPB</td>
+                            <td class="acao-cell">Execução De Título Extrajudicial</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413495"
+                            data-fase-grupo="conhecimento"
+                            data-busca="0861852-72.2024.8.15.2001 execução de título extrajudicial my broker imobiliaria uberlandia ltda "
+                            onclick="abrirModalProcesso('13413495')">
+                            <td class="cnj-cell">0861852-72.2024.8.15.2001</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJPB</td>
+                            <td class="acao-cell">Execução De Título Extrajudicial</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413496"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5062785-64.2024.8.13.0702 procedimento do juizado especial my broker imobiliaria uberlandia ltda irlene maria de carvalho"
+                            onclick="abrirModalProcesso('13413496')">
+                            <td class="cnj-cell">5062785-64.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    IRLENE MARIA DE CARVALHO
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Procedimento Do Juizado Especial</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">13/03/2026</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Disponibilizado no DJ Eletrônico em 12/03/2026
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13743667"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5071499-76.2025.8.13.0702 execução de título extrajudicial my broker imobiliaria uberlandia ltda gerson francisco dias izabel levino esteves trust construtora , incorporadora e solucoes empresariais ltda"
+                            onclick="abrirModalProcesso('13743667')">
+                            <td class="cnj-cell">5071499-76.2025.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    GERSON FRANCISCO DIAS, IZABEL LEVINO ESTEVES
+                                    <span class="mais-partes"> ...e 1 outra parte</span>
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Execução De Título Extrajudicial</td>
+                            <td><span class="badge badge-fase-conhecimento">Citação Do Devedor Para Pagamento</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">14/04/2026</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Mandado devolvido não entregue ao destinatário TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-imobiliario">Mostrando 8 de 8 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
+    <section class="area-detalhe" id="area-civel-e-empresarial" data-area="civel-e-empresarial">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M12 3v18M5 6h14M8 6l-3 7h6l-3-7M16 6l-3 7h6l-3-7M5 13c0 2 1.3 3 3 3s3-1 3-3M13 13c0 2 1.3 3 3 3s3-1 3-3M9 21h6"/></svg></div>
+            <div>
+                <h2>Cível e Empresarial</h2>
+                <div class="total-area">
+                    Total da área: <strong>4</strong>
+                    processos
+                    · 0 ativos
+                    · 4 arquivados
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">4</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">4</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">4</span>
+                </div>
+                
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413497')">
+                    <div class="card-alerta-numero">5039947-98.2022.8.13.0702</div>
+                    <div class="card-alerta-descricao">Analisado E Não Distribuído</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413498')">
+                    <div class="card-alerta-numero">5552668-27.2023.8.09.0047</div>
+                    <div class="card-alerta-descricao">Ação Protocolada/iniciada</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413499')">
+                    <div class="card-alerta-numero">5043862-87.2024.8.13.0702</div>
+                    <div class="card-alerta-descricao">Ação Protocolada/iniciada</div>
+                </div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413500')">
+                    <div class="card-alerta-numero">5007263-18.2025.8.13.0702</div>
+                    <div class="card-alerta-descricao">Ação Protocolada/iniciada</div>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-civel-e-empresarial"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-civel-e-empresarial"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-civel-e-empresarial"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-civel-e-empresarial"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline">
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">27/04/2026</div>
+                    <div class="timeline-cnj">5007263-18.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Petição de documento de comprovação
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">27/04/2026</div>
+                    <div class="timeline-cnj">5007263-18.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Petição de contestação
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">22/04/2026</div>
+                    <div class="timeline-cnj">5043862-87.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Proferido despacho de mero expediente
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">08/04/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Juntada de Documento - Ofício Comunicatório
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">30/03/2026</div>
+                    <div class="timeline-cnj">5007263-18.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Aviso de recebimento (AR)
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">25/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Autos Conclusos -
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">24/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Juntada -&gt; Petição - Julgamento antecipado
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Despacho -&gt; Mero Expediente - Intimação para justificar a necessidade de prova pericial
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de R1EISL (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIUL (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">20/03/2026</div>
+                    <div class="timeline-cnj">5552668-27.2023.8.09.0047</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VREL (Referente à Mov. Despacho -&gt; Mero Expediente (CNJ:11010) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">03/03/2026</div>
+                    <div class="timeline-cnj">5007263-18.2025.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedição de carta via correio.
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="civel-e-empresarial"
+                       oninput="aplicarFiltros('civel-e-empresarial')">
+                <div class="filtros" data-area="civel-e-empresarial">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('civel-e-empresarial', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('civel-e-empresarial', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('civel-e-empresarial', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('civel-e-empresarial', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('civel-e-empresarial', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="civel-e-empresarial">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('civel-e-empresarial', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel-e-empresarial', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel-e-empresarial', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel-e-empresarial', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel-e-empresarial', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-civel-e-empresarial">
+                        
+                        
+                        
+                        <tr data-id="13413497"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5039947-98.2022.8.13.0702 execução de título extrajudicial my broker imobiliaria uberlandia ltda jorge roberto batista"
+                            onclick="abrirModalProcesso('13413497')">
+                            <td class="cnj-cell">5039947-98.2022.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    JORGE ROBERTO BATISTA
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Execução De Título Extrajudicial</td>
+                            <td><span class="badge badge-fase-conhecimento">Analisado E Não Distribuído</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413498"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5552668-27.2023.8.09.0047 procedimento comum civel my broker imobiliaria uberlandia ltda giovana cozzolino carrara"
+                            onclick="abrirModalProcesso('13413498')">
+                            <td class="cnj-cell">5552668-27.2023.8.09.0047</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    GIOVANA COZZOLINO CARRARA
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJGO</td>
+                            <td class="acao-cell">Procedimento Comum Civel</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">08/04/2026</div>
+                                <div class="desc">
+                                    <strong>Tjgo</strong>
+                                     — 
+                                    Juntada de Documento - Ofício Comunicatório
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413499"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5043862-87.2024.8.13.0702 procedimento comum civel my broker imobiliaria uberlandia ltda luis augusto bustamante lourenco"
+                            onclick="abrirModalProcesso('13413499')">
+                            <td class="cnj-cell">5043862-87.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    LUIS AUGUSTO BUSTAMANTE LOURENCO
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Procedimento Comum Civel</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">22/04/2026</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Proferido despacho de mero expediente
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                        
+                        
+                        <tr data-id="13413500"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5007263-18.2025.8.13.0702 procedimento comum civel my broker imobiliaria uberlandia ltda rejane medeiros da silva"
+                            onclick="abrirModalProcesso('13413500')">
+                            <td class="cnj-cell">5007263-18.2025.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    REJANE MEDEIROS DA SILVA
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Procedimento Comum Civel</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">27/04/2026</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Juntada de Petição de documento de comprovação
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-civel-e-empresarial">Mostrando 4 de 4 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
+    <section class="area-detalhe" id="area-civel" data-area="civel">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+            <div>
+                <h2>Cível</h2>
+                <div class="total-area">
+                    Total da área: <strong>1</strong>
+                    processo
+                    · 0 ativos
+                    · 1 arquivado
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">1</span>
+                </div>
+                
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13413489')">
+                    <div class="card-alerta-numero">5020627-91.2024.8.13.0702</div>
+                    <div class="card-alerta-descricao">Ação Protocolada/iniciada</div>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-civel"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline">
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">04/05/2026</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Publicado Intimação em 04/05/2026.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">01/05/2026</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Disponibilizado no DJ Eletrônico em 30/04/2026
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">29/04/2026</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedição de Mandado.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">29/04/2026</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Expedida/certificada a comunicação eletrônica
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">11/12/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Decorrido prazo de MY BROKER IMOBILIARIA UBERLANDIA LTDA em 10/12/2025 23:59.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">10/12/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Petição de manifestação
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">25/11/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Juntada de Petição de manifestação
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">14/11/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Disponibilizado no DJ Eletrônico em 13/11/2025
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">14/11/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Publicado Intimação em 14/11/2025.
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">14/11/2025</div>
+                    <div class="timeline-cnj">5020627-91.2024.8.13.0702</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjmg</span>
+                         — 
+                        Publicado Intimação em 14/11/2025.
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="civel"
+                       oninput="aplicarFiltros('civel')">
+                <div class="filtros" data-area="civel">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('civel', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('civel', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('civel', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('civel', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('civel', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="civel">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('civel', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-civel">
+                        
+                        
+                        
+                        <tr data-id="13413489"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5020627-91.2024.8.13.0702 rescisão do contrato e devolução do dinheiro my broker imobiliaria uberlandia ltda cristina guimarães ribeiro comparini"
+                            onclick="abrirModalProcesso('13413489')">
+                            <td class="cnj-cell">5020627-91.2024.8.13.0702</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOBILIARIA UBERLANDIA LTDA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    CRISTINA GUIMARÃES RIBEIRO COMPARINI
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJMG</td>
+                            <td class="acao-cell">Rescisão Do Contrato E Devolução Do Dinheiro</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">04/05/2026</div>
+                                <div class="desc">
+                                    <strong>Tjmg</strong>
+                                     — 
+                                    Publicado Intimação em 04/05/2026.
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-civel">Mostrando 1 de 1 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
+
+</main>
+
+
+<div id="modal-processo" class="modal-overlay" onclick="if(event.target===this)fecharModal()">
+    <div class="modal-conteudo">
+        <div class="modal-cabecalho">
+            <h3 id="modal-titulo">—</h3>
+            <div class="num-cnj-modal" id="modal-cnj">—</div>
+            <button class="modal-fechar" onclick="fecharModal()" aria-label="Fechar">×</button>
+        </div>
+        <div class="modal-corpo">
+            <div class="modal-grid" id="modal-grid"><!-- preenchido via JS --></div>
+            <div class="modal-andamentos">
+                <h4>Últimos andamentos</h4>
+                <div id="modal-andamentos-lista"><!-- preenchido via JS --></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="rodape">
+    <div class="rodape-conteudo">
+        <div class="rodape-coluna">
+            <h4>L Batista Advogados Associados</h4>
+            <p>Rua 124, nº 328, Qd. F-28, Lt. 44, Setor Sul, Goiânia/GO<br>CEP 74.093-060</p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Contato</h4>
+            <p>
+                (62) 3030-0003<br>(62) 9 9971-7000<br>
+                <a href="mailto:leonardo@leobatistaadvogados.com.br">leonardo@leobatistaadvogados.com.br</a>
+            </p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Web</h4>
+            <p><a href="https://leonardobatistadvogados.com.br" target="_blank" rel="noopener">leonardobatistadvogados.com.br</a></p>
+        </div>
+    </div>
+    <div class="rodape-final">
+        Painel gerado em 08/05/2026 18:09 — Documento de uso restrito do cliente.
+    </div>
+</footer>
+
+
+<script type="application/json" id="dados-processos-modal">{"13413489": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-05-14 00:00:00", "fase_grupo": "conhecimento", "folder": "880", "movements_top5": [{"date": "2026-05-04", "header": "TJMG", "title": "Publicado Intima\u00e7\u00e3o em 04/05/2026."}, {"date": "2026-05-01", "header": "TJMG", "title": "Disponibilizado no DJ Eletr\u00f4nico em 30/04/2026"}, {"date": "2026-04-29", "header": "TJMG", "title": "Expedi\u00e7\u00e3o de Mandado."}, {"date": "2026-04-29", "header": "TJMG", "title": "Expedida/certificada a comunica\u00e7\u00e3o eletr\u00f4nica"}, {"date": "2025-12-11", "header": "TJMG", "title": "Decorrido prazo de MY BROKER IMOBILIARIA UBERLANDIA LTDA em 10/12/2025 23:59."}], "partes_adversarias": ["CRISTINA GUIMAR\u00c3ES RIBEIRO COMPARINI"], "process_date": "2024-04-09", "process_number": "5020627-91.2024.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2024-05-14 00:00:00", "tribunal": "TJMG", "type": "RESCIS\u00c3O DO CONTRATO E DEVOLU\u00c7\u00c3O DO DINHEIRO"}, "13413490": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-04-12 00:00:00", "fase_grupo": "conhecimento", "folder": "723", "movements_top5": [{"date": "2025-11-27", "header": "TJMG", "title": "Arquivado Definitivamente"}, {"date": "2025-11-27", "header": "TJMG", "title": "Expedi\u00e7\u00e3o de Certid\u00e3o de Baixa."}, {"date": "2025-11-24", "header": "TJMG", "title": "Transitado em Julgado em 17/11/2025"}, {"date": "2025-11-18", "header": "TJMG", "title": "Decorrido prazo de MY BROKER IMOBILIARIA UBERLANDIA LTDA em 17/11/2025 23:59."}, {"date": "2025-11-03", "header": "TJMG", "title": "Publicado Intima\u00e7\u00e3o em 03/11/2025."}], "partes_adversarias": ["JORGE ROBERTO BATISTA"], "process_date": "2024-04-12", "process_number": "5021591-84.2024.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "ELABORA\u00c7\u00c3O DE C\u00c1LCULO", "status_closure": "2024-04-12 00:00:00", "tribunal": "TJMG", "type": "ALUGUEL"}, "13413491": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-01-24 00:00:00", "fase_grupo": "conhecimento", "folder": "499", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "5001628-90.2024.8.13.0702", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-01-24 00:00:00", "tribunal": "TJMG", "type": "CORRETAGEM"}, "13413492": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-01-25 00:00:00", "fase_grupo": "conhecimento", "folder": "506", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "5063699-65.2023.8.13.0702", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-01-25 00:00:00", "tribunal": "TJMG", "type": "CORRETAGEM"}, "13413493": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-05-13 00:00:00", "fase_grupo": "conhecimento", "folder": "864", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "5012599-37.2024.8.13.0702", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-05-13 00:00:00", "tribunal": "TJMG", "type": "DEFEITO, NULIDADE OU ANULA\u00c7\u00c3O"}, "13413494": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-03-21 00:00:00", "fase_grupo": "conhecimento", "folder": "643", "movements_top5": [], "partes_adversarias": ["ABRAAO HELBERT GONCALO DE OLIVEIRA"], "process_date": "2024-02-21", "process_number": "0800854-35.2024.8.15.2003", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-03-21 00:00:00", "tribunal": "TJPB", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13413495": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-10-28 00:00:00", "fase_grupo": "conhecimento", "folder": "1714", "movements_top5": [], "partes_adversarias": [], "process_date": "2024-09-24", "process_number": "0861852-72.2024.8.15.2001", "responsible": "LEONARDO VASCONCELOS", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-10-28 00:00:00", "tribunal": "TJPB", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13413496": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-11-25 00:00:00", "fase_grupo": "conhecimento", "folder": "1771", "movements_top5": [{"date": "2026-03-13", "header": "TJMG", "title": "Disponibilizado no DJ Eletr\u00f4nico em 12/03/2026"}, {"date": "2026-03-13", "header": "TJMG", "title": "Publicado Intima\u00e7\u00e3o em 13/03/2026."}, {"date": "2026-03-13", "header": "TJMG", "title": "Publicado Intima\u00e7\u00e3o em 13/03/2026."}, {"date": "2026-03-13", "header": "TJMG", "title": "Disponibilizado no DJ Eletr\u00f4nico em 12/03/2026"}, {"date": "2026-03-12", "header": "TJMG", "title": "Juntada de Outros documentos"}], "partes_adversarias": ["IRLENE MARIA DE CARVALHO"], "process_date": "2024-10-16", "process_number": "5062785-64.2024.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2024-11-25 00:00:00", "tribunal": "TJMG", "type": "PROCEDIMENTO DO JUIZADO ESPECIAL"}, "13413497": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-06-07 00:00:00", "fase_grupo": "conhecimento", "folder": "1078", "movements_top5": [], "partes_adversarias": ["JORGE ROBERTO BATISTA"], "process_date": null, "process_number": "5039947-98.2022.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2024-06-07 00:00:00", "tribunal": "TJMG", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13413498": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2024-07-05 00:00:00", "fase_grupo": "conhecimento", "folder": "1497", "movements_top5": [{"date": "2026-04-08", "header": "TJGO", "title": "Juntada de Documento - Of\u00edcio Comunicat\u00f3rio"}, {"date": "2026-03-25", "header": "TJGO", "title": "Autos Conclusos -"}, {"date": "2026-03-24", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o - Julgamento antecipado"}, {"date": "2026-03-20", "header": "TJGO", "title": "Despacho -\u003e Mero Expediente - Intima\u00e7\u00e3o para justificar a necessidade de prova pericial"}, {"date": "2026-03-20", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente \u00e0 Mov. Despacho -\u003e Mero Expediente (CNJ:11010) - )"}], "partes_adversarias": ["GIOVANA COZZOLINO CARRARA"], "process_date": "2023-08-23", "process_number": "5552668-27.2023.8.09.0047", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2024-07-05 00:00:00", "tribunal": "TJGO", "type": "PROCEDIMENTO COMUM CIVEL"}, "13413499": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2025-10-24 00:00:00", "fase_grupo": "conhecimento", "folder": "3835", "movements_top5": [{"date": "2026-04-22", "header": "TJMG", "title": "Proferido despacho de mero expediente"}, {"date": "2026-02-23", "header": "TJMG", "title": "Conclusos para despacho"}, {"date": "2025-12-08", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de manifesta\u00e7\u00e3o"}, {"date": "2025-12-08", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de guias de recolhimento/ deposito/ custas"}, {"date": "2025-12-06", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de manifesta\u00e7\u00e3o"}], "partes_adversarias": ["LUIS AUGUSTO BUSTAMANTE LOURENCO"], "process_date": "2024-07-22", "process_number": "5043862-87.2024.8.13.0702", "responsible": "ANGELICA SILVA CARDOSO", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-10-24 00:00:00", "tribunal": "TJMG", "type": "PROCEDIMENTO COMUM CIVEL"}, "13413500": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2026-01-26 00:00:00", "fase_grupo": "conhecimento", "folder": "4063", "movements_top5": [{"date": "2026-04-27", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de documento de comprova\u00e7\u00e3o"}, {"date": "2026-04-27", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de contesta\u00e7\u00e3o"}, {"date": "2026-03-30", "header": "TJMG", "title": "Juntada de Aviso de recebimento (AR)"}, {"date": "2026-03-03", "header": "TJMG", "title": "Expedi\u00e7\u00e3o de carta via correio."}, {"date": "2026-02-20", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de contesta\u00e7\u00e3o"}], "partes_adversarias": ["REJANE MEDEIROS DA SILVA"], "process_date": "2025-02-07", "process_number": "5007263-18.2025.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2026-01-26 00:00:00", "tribunal": "TJMG", "type": "PROCEDIMENTO COMUM CIVEL"}, "13743667": {"cliente_name": "MY BROKER IMOBILIARIA UBERLANDIA LTDA", "created_at": "2026-03-18 14:37:36", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-04-14", "header": "TJMG", "title": "Mandado devolvido n\u00e3o entregue ao destinat\u00e1rio TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))"}, {"date": "2026-04-02", "header": "TJMG", "title": "Mandado devolvido entregue ao destinat\u00e1rio TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))"}, {"date": "2026-03-30", "header": "TJMG", "title": "Mandado devolvido n\u00e3o entregue ao destinat\u00e1rio MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"}, {"date": "2026-03-20", "header": "TJMG", "title": "Juntada de Peti\u00e7\u00e3o de peti\u00e7\u00e3o"}, {"date": "2026-03-20", "header": "TJMG", "title": "Mandado devolvido entregue ao destinat\u00e1rio MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"}], "partes_adversarias": ["GERSON FRANCISCO DIAS", "IZABEL LEVINO ESTEVES", "TRUST CONSTRUTORA , INCORPORADORA E SOLUCOES EMPRESARIAIS LTDA"], "process_date": null, "process_number": "5071499-76.2025.8.13.0702", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "CITA\u00c7\u00c3O DO DEVEDOR PARA PAGAMENTO", "status_closure": "", "tribunal": "TJMG", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}}</script>
+<script type="application/json" id="dados-graficos-areas">{
+"imobiliario": {"fase": {"colors": ["#2874a6"], "data": [8], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [1, 7], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [3, 2, 1, 1, 1], "labels": ["Execu\u00e7\u00e3o De T\u00edtulo Extrajudicial", "Corretagem", "Aluguel", "Defeito, Nulidade Ou Anula\u00e7\u00e3o", "Procedimento Do Juizado Especial"]}, "tribunal": {"data": [6, 2], "labels": ["TJMG", "TJPB"]}},
+"civel-e-empresarial": {"fase": {"colors": ["#2874a6"], "data": [4], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 4], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [3, 1], "labels": ["Procedimento Comum Civel", "Execu\u00e7\u00e3o De T\u00edtulo Extrajudicial"]}, "tribunal": {"data": [3, 1], "labels": ["TJMG", "TJGO"]}},
+"civel": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Rescis\u00e3o Do Contrato E Devolu\u00e7\u00e3o Do Dinheiro"]}, "tribunal": {"data": [1], "labels": ["TJMG"]}}
+}</script>
+
+<script>
+(function () {
+    'use strict';
+
+    // ============================ NAVEGACAO ============================
+    function entrarArea(slug) {
+        document.getElementById('telaAreas').style.display = 'none';
+        document.querySelectorAll('.area-detalhe').forEach(function (el) { el.classList.remove('ativa'); });
+        var alvo = document.getElementById('area-' + slug);
+        if (!alvo) return;
+        alvo.classList.add('ativa');
+        var titulo = alvo.querySelector('.area-cabecalho h2');
+        var bc = document.getElementById('breadcrumb');
+        if (titulo) document.getElementById('breadcrumb-area').textContent = titulo.textContent;
+        bc.classList.add('visivel');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    function voltarAreas() {
+        document.getElementById('telaAreas').style.display = 'block';
+        document.querySelectorAll('.area-detalhe').forEach(function (el) { el.classList.remove('ativa'); });
+        document.getElementById('breadcrumb').classList.remove('visivel');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    window.entrarArea = entrarArea;
+    window.voltarAreas = voltarAreas;
+    document.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Escape') {
+            var modal = document.getElementById('modal-processo');
+            if (modal && modal.classList.contains('aberto')) {
+                fecharModal();
+            } else if (document.getElementById('breadcrumb').classList.contains('visivel')) {
+                voltarAreas();
+            }
+        }
+    });
+
+    // ============================ FILTROS DA TABELA ============================
+    var filtroFasePorArea = {};
+    function aplicarFiltros(slug) {
+        var tbody = document.getElementById('tbody-' + slug);
+        if (!tbody) return;
+        var input = document.querySelector('.pesquisa-input[data-area="' + slug + '"]');
+        var termo = (input && input.value || '').trim().toLowerCase();
+        var fase = filtroFasePorArea[slug] || '';
+        var visiveis = 0, total = 0;
+        var rows = tbody.querySelectorAll('tr');
+        for (var i = 0; i < rows.length; i++) {
+            var row = rows[i];
+            total++;
+            var fg = row.getAttribute('data-fase-grupo') || '';
+            var busca = row.getAttribute('data-busca') || '';
+            var passaFase = !fase || fg === fase;
+            var passaBusca = !termo || busca.indexOf(termo) !== -1;
+            if (passaFase && passaBusca) {
+                row.classList.remove('escondido');
+                visiveis++;
+            } else {
+                row.classList.add('escondido');
+            }
+        }
+        var rodape = document.getElementById('rodape-' + slug);
+        if (rodape) rodape.textContent = 'Mostrando ' + visiveis + ' de ' + total + ' processos da área';
+    }
+    function filtrarFase(slug, fase, btn) {
+        filtroFasePorArea[slug] = fase;
+        var grupo = btn.parentElement;
+        grupo.querySelectorAll('.filtro-btn').forEach(function (b) { b.classList.remove('ativo'); });
+        btn.classList.add('ativo');
+        aplicarFiltros(slug);
+    }
+    window.aplicarFiltros = aplicarFiltros;
+    window.filtrarFase = filtrarFase;
+
+    // ============================ ORDENACAO ============================
+    var sortPorArea = {};
+    var COLUNA_INDICE = { cnj: 0, partes: 1, tribunal: 2, acao: 3, fase: 4 };
+    function valorParaOrdenacao(row, campo) {
+        var idx = COLUNA_INDICE[campo];
+        if (idx == null) return '';
+        var c = row.cells[idx];
+        return (c ? c.textContent : '').trim().toLowerCase();
+    }
+    function ordenarTabela(slug, campo) {
+        var tabela = document.querySelector('table.tabela-relacao[data-area="' + slug + '"]');
+        if (!tabela) return;
+        var tbody = tabela.querySelector('tbody');
+        if (!tbody) return;
+        var atual = sortPorArea[slug] || { campo: null, dir: 'asc' };
+        var dir = (atual.campo === campo && atual.dir === 'asc') ? 'desc' : 'asc';
+        sortPorArea[slug] = { campo: campo, dir: dir };
+        tabela.querySelectorAll('thead th').forEach(function (th) { th.classList.remove('ord-asc', 'ord-desc'); });
+        var idx = COLUNA_INDICE[campo];
+        if (idx != null) tabela.querySelectorAll('thead th')[idx].classList.add('ord-' + dir);
+        var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+        rows.sort(function (a, b) {
+            var va = valorParaOrdenacao(a, campo);
+            var vb = valorParaOrdenacao(b, campo);
+            if (va < vb) return dir === 'asc' ? -1 : 1;
+            if (va > vb) return dir === 'asc' ? 1 : -1;
+            return 0;
+        });
+        for (var k = 0; k < rows.length; k++) tbody.appendChild(rows[k]);
+    }
+    window.ordenarTabela = ordenarTabela;
+
+    // ============================ MODAL ============================
+    var DADOS_PROCESSOS = {};
+    try {
+        var raw = document.getElementById('dados-processos-modal').textContent;
+        DADOS_PROCESSOS = JSON.parse(raw || '{}');
+    } catch (e) { DADOS_PROCESSOS = {}; }
+
+    function fmtData(s) {
+        if (!s) return '—';
+        var m = String(s).match(/^(\d{4})-(\d{2})-(\d{2})/);
+        if (!m) return String(s);
+        return m[3] + '/' + m[2] + '/' + m[1];
+    }
+    function escapeHtml(s) {
+        if (s == null) return '';
+        return String(s).replace(/[&<>"']/g, function (c) {
+            return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+    }
+
+    function abrirModalProcesso(id) {
+        if (!id) return;
+        var p = DADOS_PROCESSOS[String(id)];
+        if (!p) return;
+        document.getElementById('modal-titulo').textContent = (p.type || '—');
+        document.getElementById('modal-cnj').textContent = (p.process_number || '—');
+
+        var partes = (p.partes_adversarias || []).map(escapeHtml).join('; ');
+        if (!partes) partes = '<em>Sem partes adversárias cadastradas</em>';
+
+        var statusTexto = p.status_closure ? p.status_closure : 'Em andamento';
+
+        var grid = '' +
+            '<div class="modal-secao"><h4>Tribunal</h4><p>' + escapeHtml(p.tribunal) + '</p></div>' +
+            '<div class="modal-secao"><h4>Tipo de Ação</h4><p>' + escapeHtml(p.type) + '</p></div>' +
+            '<div class="modal-secao"><h4>Fase Atual</h4><p><span class="badge badge-fase-' + escapeHtml(p.fase_grupo) + '">' + escapeHtml(p.stage) + '</span></p></div>' +
+            '<div class="modal-secao"><h4>Status</h4><p>' + escapeHtml(statusTexto) + '</p></div>' +
+            '<div class="modal-secao"><h4>Data de Distribuição</h4><p>' + fmtData(p.process_date) + '</p></div>' +
+            '<div class="modal-secao"><h4>Cadastrado em</h4><p>' + fmtData(p.created_at) + '</p></div>' +
+            '<div class="modal-secao"><h4>Cliente</h4><p>' + escapeHtml(p.cliente_name) + '</p></div>' +
+            '<div class="modal-secao"><h4>Responsável</h4><p>' + escapeHtml(p.responsible) + '</p></div>' +
+            (p.folder ? '<div class="modal-secao modal-secao-larga"><h4>Pasta / Descrição</h4><p>' + escapeHtml(p.folder) + '</p></div>' : '') +
+            '<div class="modal-secao modal-secao-larga"><h4>Partes Adversárias</h4><p>' + partes + '</p></div>';
+        document.getElementById('modal-grid').innerHTML = grid;
+
+        var movs = p.movements_top5 || [];
+        var listaHtml = '';
+        if (movs.length === 0) {
+            listaHtml = '<p class="modal-andamentos-vazio">Nenhum andamento recente registrado.</p>';
+        } else {
+            for (var i = 0; i < movs.length; i++) {
+                var m = movs[i];
+                var head = m.header ? ('<strong>' + escapeHtml(m.header) + '</strong>') : '';
+                var titl = m.title ? escapeHtml(m.title) : '';
+                var sep = (head && titl) ? ' — ' : '';
+                listaHtml += '<div class="modal-andamento-item">' +
+                    '<div class="modal-andamento-data">' + fmtData(m.date) + '</div>' +
+                    '<div class="modal-andamento-texto">' + head + sep + titl + '</div>' +
+                    '</div>';
+            }
+        }
+        document.getElementById('modal-andamentos-lista').innerHTML = listaHtml;
+
+        document.getElementById('modal-processo').classList.add('aberto');
+        document.body.style.overflow = 'hidden';
+    }
+    function fecharModal() {
+        document.getElementById('modal-processo').classList.remove('aberto');
+        document.body.style.overflow = '';
+    }
+    window.abrirModalProcesso = abrirModalProcesso;
+    window.fecharModal = fecharModal;
+
+    // ============================ GRAFICOS (Chart.js) ============================
+    function paletaParaN(n) {
+        var paleta = ['#0A1628', '#C9A84C', '#2874a6', '#8B4513', '#1F6E5C', '#8B6F47', '#5D3A8A', '#9ca3af'];
+        var out = [];
+        for (var i = 0; i < n; i++) out.push(paleta[i % paleta.length]);
+        return out;
+    }
+
+    function criarDoughnut(canvasId, dados, coresFornecidas) {
+        var el = document.getElementById(canvasId);
+        if (!el) return;
+        var cores = coresFornecidas || paletaParaN(dados.labels.length);
+        new Chart(el, {
+            type: 'doughnut',
+            data: {
+                labels: dados.labels,
+                datasets: [{ data: dados.data, backgroundColor: cores, borderColor: '#fff', borderWidth: 2 }],
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { font: { size: 11, family: 'Inter' }, color: '#0A1628', boxWidth: 12 },
+                    },
+                    tooltip: { titleFont: { family: 'Inter' }, bodyFont: { family: 'Inter' } },
+                },
+                cutout: '60%',
+            },
+        });
+    }
+
+    function criarBarHorizontal(canvasId, dados) {
+        var el = document.getElementById(canvasId);
+        if (!el) return;
+        new Chart(el, {
+            type: 'bar',
+            data: {
+                labels: dados.labels,
+                datasets: [{ data: dados.data, backgroundColor: '#C9A84C', borderColor: '#a8893b', borderWidth: 1 }],
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { titleFont: { family: 'Inter' }, bodyFont: { family: 'Inter' } },
+                },
+                scales: {
+                    x: { ticks: { font: { family: 'Inter' }, color: '#6b7280' }, grid: { color: '#e8e4d8' } },
+                    y: { ticks: { font: { family: 'Inter', size: 11 }, color: '#0A1628' }, grid: { display: false } },
+                },
+            },
+        });
+    }
+
+    function desenharGraficos() {
+        if (typeof Chart === 'undefined') return;
+        var DADOS = {};
+        try {
+            var raw = document.getElementById('dados-graficos-areas').textContent;
+            DADOS = JSON.parse(raw || '{}');
+        } catch (e) { DADOS = {}; return; }
+        Object.keys(DADOS).forEach(function (slug) {
+            var d = DADOS[slug];
+            if (!d) return;
+            if (d.fase && d.fase.data && d.fase.data.length) {
+                criarDoughnut('grafico-fase-' + slug, d.fase, d.fase.colors);
+            }
+            if (d.tribunal && d.tribunal.data && d.tribunal.data.length) {
+                criarBarHorizontal('grafico-tribunal-' + slug, d.tribunal);
+            }
+            if (d.tipo_acao && d.tipo_acao.data && d.tipo_acao.data.length) {
+                criarBarHorizontal('grafico-tipo-' + slug, d.tipo_acao);
+            }
+            if (d.status && d.status.data && d.status.data.reduce(function(a,b){return a+b;},0) > 0) {
+                criarDoughnut('grafico-status-' + slug, d.status, d.status.colors);
+            }
+        });
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', desenharGraficos);
+    } else {
+        desenharGraficos();
+    }
+
+    // ============================ DEEP-LINK #area-slug ============================
+    var hash = window.location.hash;
+    if (hash && hash.indexOf('#area-') === 0) {
+        var slugDirect = hash.replace('#area-', '');
+        if (document.getElementById('area-' + slugDirect)) entrarArea(slugDirect);
+    }
+})();
+</script>
+
+</body>
+</html>

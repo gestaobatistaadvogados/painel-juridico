@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-08T09:31:49-03:00",
-    "gerado_em_humano": "08/05/2026 09:31",
+    "gerado_em": "2026-05-08T18:05:34-03:00",
+    "gerado_em_humano": "08/05/2026 18:05",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -245,7 +245,58 @@
       "created_at": "2026-02-02 17:16:27",
       "process_date": "2026-02-02",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Sentença em 04/05/2026."
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 30/04/2026"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de Projeto de sentença"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJMT",
+          "title": "Não-Acolhimento de Embargos de Declaração\nEmbargos de Declaração Não-acolhidos"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO ESTADO DE GOIAS em 27/04/2026 23:59  - expediente de n° 48584950"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de 47.856.389 JOAO VICTOR GALVAO DO VALE em 27/04/2026 23:59  - expediente de n° 48584949"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJMT",
+          "title": "Conclusão\nConclusos para despacho"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de contrarrazões"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 22/04/2026."
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "JOAO VICTOR GALVAO DO VALE"
@@ -2912,6 +2963,79 @@
       "tribunal": "TJMG"
     },
     {
+      "id": 13411164,
+      "process_number": "5997407-37.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3958",
+      "stage": "SENTENÇA PROFERIDA (ENTRE EM CONTATO CONOSCO)",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO DANOS MATERIAS",
+      "group": "PRIVADO",
+      "status_closure": "2025-12-17 00:00:00",
+      "created_at": "2025-12-17 00:00:00",
+      "process_date": "2025-12-02",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - Realizada sem Acordo - 18/03/2026 16:30"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação - Impugnação à Contestação"
+        },
+        {
+          "date": "2026-01-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - Contestação"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Promovida - juntar procuração."
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Promovente - impugnar à contestação."
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alerrandry Araujo Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALERRANDRY ARAUJO SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
       "id": 13411165,
       "process_number": "0146790-46.2015.8.09.0051",
       "protocol_number": null,
@@ -4509,7 +4633,58 @@
       "created_at": "2024-06-28 00:00:00",
       "process_date": "2022-06-15",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-03-27",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO ESTADO DE GOIAS em 26/03/2026 23:59"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO ESTADO DE GOIAS em 18/03/2026 23:59"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de manifestação"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Decisão em 25/02/2026."
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 24/02/2026"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMT",
+          "title": "Expedida/certificada\nExpedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMT",
+          "title": "Conclusão\nConclusos para decisão"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "VALDIR MENDES DE OLIVEIRA"
@@ -5093,7 +5268,58 @@
       "created_at": "2026-05-06 17:36:19",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) AAAPVEBMA - Código de Rastreamento Correios: YH153596429BR idPendenciaCorreios109187645432015873960784760idPendenciaCorreios"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - LINK DA CONCILIAÇÃO"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - (Agendada para 18/05/2026 13:30)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Decisão -> Outras Decisões (16/04/2026 13:12:40))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "MARCELO FRANCISCO DE MELO"
@@ -5115,7 +5341,58 @@
       "created_at": "2026-05-06 17:51:14",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - CITAÇÃO NÃO EFETIVADA VIA DOMICILIO ELETRONICO 1ª UPJ"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Belomotors Intermediadora De Plano De Veiculos Automotores Ltda"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) AAAPVEBMA - Código de Rastreamento Correios: YH157142750BR idPendenciaCorreios109987695432015873960701452idPendenciaCorreios"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) BIPVAL (comunicação: 109087615432563873171110361)"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão -> Tutela Provisória -"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CHECK-LIST - SEM PENDÊNCIA 1ª UPJ"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - NÃO HÁ PROCESSOS ENVOLVENDO MESMAS PARTES"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Inclusão no Juízo 100% Digital -"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - 1ª UPJ Juizados Especiais Cíveis: 1º, 2º, 3º, 4º e 5º (Normal) - Distribuído para: GUSTAVO BRAGA CARVALHO"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "BELOMOTORS INTERMEDIADORA DE PLANO DE VEICULOS AUTOMOTORES LTDA"
@@ -5151,15 +5428,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 69,
+    "total": 70,
     "categorias": {
       "Peças": 11,
       "Audiências": 5,
       "Comunicações": 9,
-      "Acompanhamento": 35,
+      "Acompanhamento": 36,
       "Diligências": 5,
       "Outras": 4
     },
-    "ultima_data": "2026-05-07"
+    "ultima_data": "2026-05-08"
   }
 }

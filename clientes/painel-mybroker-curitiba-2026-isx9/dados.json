@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:10:56-03:00",
+    "gerado_em_humano": "08/05/2026 18:10",
+    "slug_url": "painel-mybroker-curitiba-2026-isx9",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS CURITIBA LTDA",
+    "identification": "**.***.***/****-37",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413515,
+      "process_number": "0016614-22.2024.8.16.0001",
+      "protocol_number": null,
+      "folder": "1004",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO POR DANO MATERIAL",
+      "group": "CÍVEL",
+      "status_closure": "2024-05-28 00:00:00",
+      "created_at": "2024-05-28 00:00:00",
+      "process_date": "2024-05-23",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [
+        {
+          "date": "2026-04-13",
+          "header": "TJPR",
+          "title": "JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE Cumprimento de intimações - Referente aos eventos JUNTADA DE ATO ORDINATÓRIO (24/03/2026), NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJPR",
+          "title": "JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE Cumprimento de intimações - Referente aos eventos JUNTADA DE ATO ORDINATÓRIO (24/03/2026), NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)"
+        },
+        {
+          "date": "2026-04-04",
+          "header": "TJPR",
+          "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 124) JUNTADA DE ATO ORDINATÓRIO (24/03/2026) e ao evento de expedição seq. 125."
+        },
+        {
+          "date": "2026-04-03",
+          "header": "TJPR",
+          "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 113) NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026) e ao evento de expedição seq. 122."
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJPR",
+          "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 124) JUNTADA DE ATO ORDINATÓRIO (24/03/2026)."
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJPR",
+          "title": "JUNTADA DE ATO ORDINATÓRIO"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJPR",
+          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Claro/net/embratel lido(a) em 24/03/2026 - Referente ao evento de expedição (seq. 117) EXPEDIÇÃO DE BUSCA CLARO/NET/EMBRATEL (11/03/2026 17:40:04)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJPR",
+          "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 113) NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)."
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJPR",
+          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Portal Jud lido(a) em 19/03/2026 - Referente ao evento de expedição (seq. 116) EXPEDIÇÃO DE BUSCA PORTAL JUD (11/03/2026 17:37:35)"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJPR",
+          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Tim lido(a) em 18/03/2026 - Referente ao evento de expedição (seq. 118) EXPEDIÇÃO DE BUSCA TIM (11/03/2026 17:42:23)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARCIA REGINA PERON"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJPR"
+    },
+    {
+      "id": 13413516,
+      "process_number": "0012017-15.2025.8.16.0182",
+      "protocol_number": null,
+      "folder": "2476",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-03-21 00:00:00",
+      "created_at": "2025-03-21 00:00:00",
+      "process_date": "2025-03-21",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "ARQUIVADO DEFINITIVAMENTE"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "RECEBIDOS OS AUTOS Recebido do(a) DISTRIBUIDOR"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "JUNTADA DE ANOTAÇÃO DE BAIXA DEFINITIVA"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "REMETIDOS OS AUTOS PARA DISTRIBUIDOR Baixa"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "TRANSITADO EM JULGADO EM 16/04/2026 Para o processo."
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPR",
+          "title": "DECORRIDO PRAZO DE MY BROKER IMOVEIS CURITIBA LTDA (P/ advgs. de MY BROKER IMOVEIS CURITIBA LTDA *Referente ao evento (seq. 37) INDEFERIDA A PETIÇÃO INICIAL (19/03/2026) e ao evento de expedição seq. 38."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARIANA CINI DE QUEIROZ TELLES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJPR"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

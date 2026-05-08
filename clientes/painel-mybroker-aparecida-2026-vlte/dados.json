@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:09:49-03:00",
+    "gerado_em_humano": "08/05/2026 18:09",
+    "slug_url": "painel-mybroker-aparecida-2026-vlte",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS APARECIDA LTDA",
+    "identification": "**.***.***/****-02",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 12997745,
+      "process_number": "5294249-49.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)",
+      "step": "RECURSAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-05 09:42:46",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Decisão -> Deferimento em Parte -"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GRACINO JOSE MARIANO JUNIOR"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13092097,
+      "process_number": "5281939-97.2025.8.09.0011",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-09 18:30:25",
+      "process_date": "2025-04-10",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Alegações Finais"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Juntada -> Petição (06/03/2026 16:26:43))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/03/2026 16:26:43)"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Alegações Finais"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Carta de preposto"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão link"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Certidão Expedida (09/02/2026 08:58:51))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARCOS ABREU CARDOSO FIGUEIREDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13330053,
+      "process_number": "5990220-95.2025.8.09.0012",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-02-24 09:12:57",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luciana Regina De Souza - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - intimar autor para endereços requeridos Rodrigo e Leandro"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciana Regina De Souza (Referente à Mov. Ato Ordinatório (08/04/2026 12:08:14))"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Audiência de Conciliação (26/01/2026 17:15:58))"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - Realizada sem Acordo - 03/03/2026 13:30"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - Contestação"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada -"
+        },
+        {
+          "date": "2026-02-28",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Certidão Expedida (09/02/2026 13:01:38))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCIANA REGINA DE SOUZA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413506,
+      "process_number": "5417193-19.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "2950",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-06-03 00:00:00",
+      "created_at": "2025-06-03 00:00:00",
+      "process_date": "2025-05-28",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "LARICE ALMEIDA ROSA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413507,
+      "process_number": "5501184-13.2025.8.09.0011",
+      "protocol_number": null,
+      "folder": "3729",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-09-23 00:00:00",
+      "created_at": "2025-09-23 00:00:00",
+      "process_date": "2025-06-26",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Liliane Batista Lopes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) (19/12/2025 15:31:46))"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Liliane Batista Lopes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) - 19/12/2025 15:31:46)"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) -"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação CEJUSC Artigo 334 CPC - Realizada com Acordo - 12/12/2025 16:30"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Habilitação no processo"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - ACORDO"
+        },
+        {
+          "date": "2025-10-16",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Certidão Expedida (17/09/2025 17:01:20))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LILIANE BATISTA LOPES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 1,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-03-19"
+  }
+}

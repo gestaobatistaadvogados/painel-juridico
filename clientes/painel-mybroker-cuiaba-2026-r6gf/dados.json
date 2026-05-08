@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-08T18:10:47-03:00",
+    "gerado_em_humano": "08/05/2026 18:10",
+    "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
+    "departamento": "direito_imobiliario"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS CUIABÁ LTDA",
+    "identification": "**.***.***/****-40",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413513,
+      "process_number": "1004374-43.2017.8.11.0041",
+      "protocol_number": null,
+      "folder": "877",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "CÍVEL",
+      "status_closure": "2024-05-14 00:00:00",
+      "created_at": "2024-05-14 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 16/04/2026"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 17/04/2026."
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de manifestação"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJMT",
+          "title": "Expedida/certificada\nExpedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2025-10-10",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de manifestação"
+        },
+        {
+          "date": "2025-09-10",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de petição"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de GEOVANA VITORINA RICARTE em 29/08/2025 23:59"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de THIAGO CONCEICAO SILVA em 29/08/2025 23:59"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMT"
+    },
+    {
+      "id": 13413514,
+      "process_number": "1058290-68.2024.8.11.0001",
+      "protocol_number": null,
+      "folder": "1634",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2024-09-09 00:00:00",
+      "created_at": "2024-09-09 00:00:00",
+      "process_date": "2024-08-20",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MARIA CLAUDIA DE FIGUEIREDO LOUREIRO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMT"
+    },
+    {
+      "id": 14394109,
+      "process_number": "1018487-10.2026.8.11.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-20 18:03:16",
+      "process_date": "2026-03-31",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 05/05/2026"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 06/05/2026."
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de contestação"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de não entregue - não existe o número (ecarta)"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de entregue (ecarta)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJMT",
+          "title": "de Conciliação\nAudiência de conciliação realizada em/para 30/04/2026 17:00, 6º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJMT",
+          "title": "Ato ordinatório\nAto ordinatório praticado"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJMT",
+          "title": "Recebimento do CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJMT",
+          "title": "Remessa\nRemetidos os Autos outros motivos para o Órgao julgador de origem"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DAYANA DE SOUZA NASCIMENTO"
+        },
+        {
+          "name": "PATRICIA EGUES FLORES BEZERRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMT"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 1,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-07"
+  }
+}
