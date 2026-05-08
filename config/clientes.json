@@ -92,6 +92,230 @@
       "slug_url": "painel-aprovecapv-2026-4gqy",
       "ativo": true,
       "data_cadastro": "2026-05-07"
+    },
+    {
+      "id_advbox": 13669197,
+      "nome_curto": "mybroker-alphamall",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-alphamall-2026-abji",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13648742,
+      "nome_curto": "mybroker-bueno",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-bueno-2026-pdpq",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13857561,
+      "nome_curto": "mybroker-mhrs",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-mhrs-2026-tph3",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080975,
+      "nome_curto": "mybroker-oeste",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-oeste-2026-8rud",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080980,
+      "nome_curto": "mybroker-santamonica",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-santamonica-2026-y52e",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080961,
+      "nome_curto": "mybroker-uberlandia",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080953,
+      "nome_curto": "mybroker-araes",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-araes-2026-hf21",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080952,
+      "nome_curto": "mybroker-anapolis",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-anapolis-2026-qy4e",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13720828,
+      "nome_curto": "mybroker-aparecida",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-aparecida-2026-vlte",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080971,
+      "nome_curto": "mybroker-garavelo",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-garavelo-2026-ugjs",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13860199,
+      "nome_curto": "mybroker-parqueamazonia",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080988,
+      "nome_curto": "mybroker-senadorcanedo",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-senadorcanedo-2026-mytw",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13680096,
+      "nome_curto": "mybroker-belohorizonte",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14079548,
+      "nome_curto": "mybroker-bschapeco",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-bschapeco-2026-chtt",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080968,
+      "nome_curto": "mybroker-cuiaba",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080969,
+      "nome_curto": "mybroker-curitiba",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-curitiba-2026-isx9",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13849756,
+      "nome_curto": "mybroker-eldorado",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-eldorado-2026-c1za",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080970,
+      "nome_curto": "mybroker-florianopolis",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-florianopolis-2026-q210",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080984,
+      "nome_curto": "mybroker-jardimamerica",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-jardimamerica-2026-idy5",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080960,
+      "nome_curto": "mybroker-joaopessoa",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-joaopessoa-2026-xo3u",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13669492,
+      "nome_curto": "mybroker-office",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-office-2026-7409",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080976,
+      "nome_curto": "mybroker-pracadosol",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-pracadosol-2026-6l5b",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080977,
+      "nome_curto": "mybroker-ribeiraopreto",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-ribeiraopreto-2026-78eh",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080978,
+      "nome_curto": "mybroker-salvador",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-salvador-2026-0tk2",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080987,
+      "nome_curto": "mybroker-saojoseriopreto",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-saojoseriopreto-2026-lpfy",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14080981,
+      "nome_curto": "mybroker-vitoria",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-vitoria-2026-a6sq",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 14250414,
+      "nome_curto": "aevobueno",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-aevobueno-2026-s2yp",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
+    },
+    {
+      "id_advbox": 13913245,
+      "nome_curto": "aevoimobiliaria",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-aevoimobiliaria-2026-20ol",
+      "ativo": true,
+      "data_cadastro": "2026-05-08"
     }
   ]
 }
