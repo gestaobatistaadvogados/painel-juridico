@@ -76,6 +76,14 @@
       "slug_url": "painel-robsongorito-2026-cyws",
       "ativo": true,
       "data_cadastro": "2026-05-07"
+    },
+    {
+      "id_advbox": 13721026,
+      "nome_curto": "mybroker",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-2026-vox2",
+      "ativo": true,
+      "data_cadastro": "2026-05-07"
     }
   ]
 }

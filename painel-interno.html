@@ -610,7 +610,7 @@ body::before {
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">07/05/2026 às 21:20</div>
+            <div class="data">07/05/2026 às 21:37</div>
         </div>
     </div>
 </header>
@@ -623,7 +623,7 @@ body::before {
         <h2>Trabalho realizado nos últimos 90 dias</h2>
 
         <div class="produtividade-numero-grande">
-            <span class="valor">322</span>
+            <span class="valor">304</span>
             <span class="legenda">Tarefas Realizadas</span>
         </div>
 
@@ -631,28 +631,28 @@ body::before {
             
             
             <div class="produtividade-categoria">
-                <div class="num">49</div>
+                <div class="num">47</div>
                 <div class="lbl">Peças</div>
             </div>
             
             
             
             <div class="produtividade-categoria">
-                <div class="num">47</div>
+                <div class="num">45</div>
                 <div class="lbl">Audiências</div>
             </div>
             
             
             
             <div class="produtividade-categoria">
-                <div class="num">78</div>
+                <div class="num">72</div>
                 <div class="lbl">Comunicações</div>
             </div>
             
             
             
             <div class="produtividade-categoria">
-                <div class="num">112</div>
+                <div class="num">104</div>
                 <div class="lbl">Acompanhamento</div>
             </div>
             
@@ -688,22 +688,22 @@ body::before {
     <div class="grade-kpis">
         <div class="card-kpi dourado">
             <div class="card-kpi-rotulo">Total de Clientes</div>
-            <div class="card-kpi-numero">2</div>
-            <div class="card-kpi-detalhe">2 ativos</div>
+            <div class="card-kpi-numero">3</div>
+            <div class="card-kpi-detalhe">3 ativos</div>
         </div>
         <div class="card-kpi info">
             <div class="card-kpi-rotulo">Total de Processos</div>
-            <div class="card-kpi-numero">166</div>
+            <div class="card-kpi-numero">259</div>
             <div class="card-kpi-detalhe">em todos os clientes</div>
         </div>
         <div class="card-kpi urgente">
             <div class="card-kpi-rotulo">Alertas Críticos</div>
-            <div class="card-kpi-numero">63</div>
+            <div class="card-kpi-numero">64</div>
             <div class="card-kpi-detalhe">requerem ação imediata</div>
         </div>
         <div class="card-kpi favoravel">
             <div class="card-kpi-rotulo">Tarefas 90 Dias</div>
-            <div class="card-kpi-numero">343</div>
+            <div class="card-kpi-numero">322</div>
             <div class="card-kpi-detalhe">soma de todos os clientes</div>
         </div>
     </div>
@@ -716,7 +716,7 @@ body::before {
         <div class="filtros-departamento">
             <button class="filtro-dep ativo" data-dep="todos" type="button"
                     onclick="filtrarPorDepartamento('todos', this)">
-                Todos (2)
+                Todos (3)
             </button>
             
             <button class="filtro-dep" data-dep="direito_publico" type="button"
@@ -729,6 +729,11 @@ body::before {
                 Direito Privado (1)
             </button>
             
+            <button class="filtro-dep" data-dep="direito_imobiliario" type="button"
+                    onclick="filtrarPorDepartamento('direito_imobiliario', this)">
+                Direito Imobiliário (1)
+            </button>
+            
         </div>
     </div>
 
@@ -736,7 +741,7 @@ body::before {
     <div class="secao-titulo">
         <h2>Clientes do Escritório</h2>
         <span id="contador-resultado">
-            2 clientes
+            3 clientes
         </span>
     </div>
 
@@ -759,11 +764,11 @@ body::before {
 
             <div class="cliente-kpis">
                 <div class="cliente-kpi">
-                    <div class="num">136</div>
+                    <div class="num">132</div>
                     <div class="lbl">Processos</div>
                 </div>
                 <div class="cliente-kpi urgente">
-                    <div class="num">57</div>
+                    <div class="num">58</div>
                     <div class="lbl">Críticos</div>
                 </div>
                 <div class="cliente-kpi atencao">
@@ -771,7 +776,7 @@ body::before {
                     <div class="lbl">Atenção</div>
                 </div>
                 <div class="cliente-kpi info">
-                    <div class="num">287</div>
+                    <div class="num">263</div>
                     <div class="lbl">Tarefas 90d</div>
                 </div>
             </div>
@@ -821,7 +826,7 @@ body::before {
                     <div class="lbl">Atenção</div>
                 </div>
                 <div class="cliente-kpi info">
-                    <div class="num">56</div>
+                    <div class="num">52</div>
                     <div class="lbl">Tarefas 90d</div>
                 </div>
             </div>
@@ -835,6 +840,56 @@ body::before {
                 <button class="btn btn-secundario" type="button"
                         data-url="./clientes/painel-robsongorito-2026-cyws/index.html"
                         data-nome="ROBSON GORITO PORTES"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_imobiliario"
+                 data-busca="my broker imobiliaria ltda  21156749000100">
+            <span class="cliente-tag-departamento dep-direito_imobiliario">
+                Direito Imobiliário
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MY BROKER IMOBILIÁRIA LTDA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-00</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">97</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">7</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="./clientes/painel-mybroker-2026-vox2/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="./clientes/painel-mybroker-2026-vox2/index.html"
+                        data-nome="MY BROKER IMOBILIÁRIA LTDA"
                         onclick="copiarLink(this)"
                         title="Copiar link do painel">
                     📋
@@ -870,7 +925,7 @@ body::before {
     <div class="rodape-final">
         ⚠️ <strong>Documento confidencial</strong> — uso restrito aos sócios e equipe interna do escritório.
         Não compartilhe este arquivo com clientes ou terceiros.<br>
-        Painel gerado em 07/05/2026 às 21:20.
+        Painel gerado em 07/05/2026 às 21:37.
     </div>
 </footer>
 
