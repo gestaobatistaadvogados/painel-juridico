@@ -661,3 +661,122 @@ Por isso `cache.py` precisa ser usado desde o primeiro teste e o gerador deve ev
 - Doc oficial da API ADVBox: o cliente tem o PDF/link mas **nao confiar 100%** — ja registramos 3 divergencias nesta sessao.
 - Rate limit confirmado: 30 GET/min, 500 POST/dia, 500 PUT/dia.
 - Estrutura de paginacao real: `{"data": [...], "limit": N, "offset": N, "totalCount": N, "query": {...}}`.
+
+---
+
+## ROADMAP FUTURO E LIMITES OPERACIONAIS
+
+### [ROADMAP] Cadastro em lote de clientes
+
+**Decisao:** nao implementar agora. Registrado pelo socio Dr. Caio Pureza em 2026-05-07.
+
+**Funcionalidade desejada:** ferramenta que aceita lista de CPFs/CNPJs em arquivo de texto e cadastra todos de uma vez no `clientes.json`, sem comando individual.
+
+**Formato sugerido do arquivo:**
+
+    CPF/CNPJ ; Departamento (1/2/3) ; Nome Curto
+    12.345.678/0001-99 ; 1 ; empresa-um
+    98.765.432/0001-11 ; 3 ; prefeitura-x
+
+**Comando previsto:**
+
+    python src/adicionar_clientes_lote.py lista.txt
+
+**Comportamento:**
+- Le cada linha
+- Busca cada CPF/CNPJ no ADVBox
+- Adiciona todos no `clientes.json`
+- Relatorio final: OK / falhas
+
+**Tempo estimado de implementacao:** ~10-15 min.
+
+**Status:** AGUARDANDO DECISAO DO SOCIO PARA IMPLEMENTAR.
+
+---
+
+### [ROADMAP] Agrupamento de paineis de grupos economicos
+
+**Decisao:** nao implementar agora. Registrado pelo socio Dr. Caio Pureza em 2026-05-07.
+
+**Caso de uso disparador:** cliente cadastrado em 2026-05-07 e um grupo economico com multiplas empresas vinculadas. O socio quer eventualmente uma forma de agrupar paineis de empresas do mesmo grupo em visao consolidada.
+
+**Tres opcoes ja discutidas:**
+
+**OPCAO A (RECOMENDADA pelo consultor) — Painel-mae + filhos individuais:**
+- Cada empresa mantem painel proprio
+- Adicional: painel consolidado do grupo
+- URL grupo: `/clientes/painel-grupo-X-2026-xyz/`
+- URLs filhos: `/clientes/painel-empresa1-2026-abc/`, `/clientes/painel-empresa2-2026-def/`
+- Cliente pode ver agregado E drill-down
+- Tempo estimado: ~2-3 horas
+
+**OPCAO B — Painel unico agregado:**
+- Apenas 1 painel para o grupo todo
+- Sem visao por empresa individual
+- Mais simples, menos informativo
+- Tempo estimado: ~1 hora
+
+**OPCAO C — Sistema de tags / pertencimento:**
+- Cada empresa permanece independente
+- Adiciona campo `grupo: "X"` no `clientes.json`
+- Painel-interno agrupa empresas por tag
+- Cliente recebe links separados OU consolidado
+- Tempo estimado: ~3-4 horas
+
+**Decisao do socio sobre qual opcao preferir:** PENDENTE.
+
+**Perguntas relevantes para a decisao:**
+- Quantas empresas tem cada grupo?
+- O cliente final (CEO/Diretor) vai ver os paineis?
+- As empresas tem independencia operacional?
+- Apresentacao tem mais valor com drill-down (A) ou visao unica (B)?
+
+**Status:** AGUARDANDO DEFINICAO DA OPCAO E DECISAO DO SOCIO PARA IMPLEMENTAR.
+
+---
+
+### [REFERENCIA] Limites operacionais de cadastro
+
+**Consultado em 2026-05-07.**
+
+**Diretriz fundamental:** filosofia de curadoria manual (Decisao D5). Qualidade > quantidade. Lotes grandes contradizem essa filosofia.
+
+**Limites praticos de cadastro por lote:**
+
+| Quantidade | Uso |
+|---|---|
+| 1–5 | Cadastros pontuais (recomendado no dia a dia) |
+| 10–20 | Onboarding mensal de novos clientes |
+| 30–50 | Migracao inicial de base (lote unico aceitavel) |
+| 100 | Carga excepcional (com cautela — dividir em 2-3 commits) |
+| 200+ | NAO recomendado — risco de timeout / bloqueio API |
+
+**Tempos de cadastro (so adicionar ao `clientes.json`):**
+
+| CPFs/CNPJs | Tempo |
+|---|---|
+| 5 | ~30 segundos |
+| 20 | ~2 minutos |
+| 50 | ~4 minutos |
+| 100 | ~8 minutos |
+| 200 | ~17 minutos |
+
+**Tempos de geracao de painel (gargalo principal):**
+
+| Clientes | Tempo |
+|---|---|
+| 5 (~30 processos cada) | ~15 min |
+| 20 | ~1 hora |
+| 50 | ~3-4 horas |
+| 100 | ~7-8 horas |
+
+**Limites tecnicos:**
+- Token ADVBox: pode ter rate-limit nao documentado.
+- GitHub Actions: 30 min por execucao (timeout); 2.000 min/mes no plano gratuito.
+- Cache local: ~5 KB por cliente/dia — nao e problema.
+- GitHub Pages: 1 GB de tamanho do repo — comporta ~2.000 paineis.
+
+**Recomendacao estrategica:**
+- Volume natural (5-15 clientes) — manual.
+- Crescimento (15-50) — lote pequeno + robo das 5h BRT.
+- Maduro (100+) — implementar paralelizacao no gerador.
