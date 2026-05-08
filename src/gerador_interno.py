@@ -33,6 +33,7 @@ from advbox_client import AdvboxClient, AdvboxError
 from cache import cache_get, cache_set
 from gerador_producao import (
     RAIZ,
+    FUSO_BRT,
     carregar_clientes_ativos,
     carregar_escritorio,
     mascarar_identification,
@@ -195,7 +196,7 @@ def construir_contexto_global(clientes_resumo, atividade_global, escritorio):
         'atividade_global': atividade_global,
         'counts_por_departamento': counts_por_dep,
         'escritorio': escritorio,
-        'data_geracao': datetime.now().strftime('%d/%m/%Y às %H:%M'),
+        'data_geracao': datetime.now(FUSO_BRT).strftime('%d/%m/%Y às %H:%M'),
     }
 
 

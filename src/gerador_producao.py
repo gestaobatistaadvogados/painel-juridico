@@ -23,10 +23,29 @@ import hashlib
 import json
 import shutil
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+
+# Fuso fixo para timestamps EXIBIDOS nos paineis (gerado_em, data_geracao
+# etc.). Em runners do GitHub Actions, datetime.now() devolve UTC; com
+# este fuso o relogio mostrado bate com o relogio do Brasil.
+#
+# Tentamos `ZoneInfo('America/Sao_Paulo')` primeiro (semantica IANA);
+# se a base tzdata nao estiver disponivel (caso comum no Windows sem
+# o pacote `tzdata`), caimos em `timezone(timedelta(hours=-3))`. Brasil
+# nao usa horario de verao desde 2019, entao UTC-3 fixo e correto o ano
+# todo. Sem dependencia nova em requirements.txt.
+try:
+    from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
+    try:
+        FUSO_BRT = ZoneInfo('America/Sao_Paulo')
+    except ZoneInfoNotFoundError:
+        FUSO_BRT = timezone(timedelta(hours=-3), name='BRT')
+except ImportError:
+    FUSO_BRT = timezone(timedelta(hours=-3), name='BRT')
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -365,7 +384,7 @@ def montar_dados_publicos(cliente_config, customer_bruto, lawsuits_brutos,
     apenas internamente para identificar o proprio cliente no array
     `customers` de cada lawsuit. Nao vai para o JSON.
     """
-    agora = datetime.now()
+    agora = datetime.now(FUSO_BRT)
     cliente_ident_digitos = normalizar_digitos(customer_bruto.get('identification'))
     return {
         'meta': {
