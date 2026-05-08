@@ -51,7 +51,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from advbox_client import AdvboxClient, AdvboxError
 from cache import cache_get, cache_set
-from cnj_decoder import decodificar_tribunal
+from cnj_decoder import decodificar_tribunal, parse_segmento, area_por_segmento
 
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
@@ -941,7 +941,8 @@ def agrupar_em_areas(processos):
     """
     bucket = {}
     for p in processos:
-        nome = normalizar_nome_area(p.get('group'))
+        # Caminho C hibrido: CNJ J vence quando inequivoco; group e fallback.
+        nome = determinar_area_lawsuit(p)
         slug = slugify_area(nome)
         if slug not in bucket:
             bucket[slug] = {
@@ -1009,6 +1010,30 @@ def normalizar_nome_area(group_raw):
 def icone_id_de_area(nome_exibicao):
     """Lookup do identificador do SVG inline para o nome da area."""
     return ICONES_AREAS.get(nome_exibicao) or ICONES_AREAS.get('_default') or 'pasta'
+
+
+def determinar_area_lawsuit(processo):
+    """Caminho C HIBRIDO (Forte): CNJ vence quando inequivoco; group e fallback.
+
+    Logica:
+      1. Parsear J do CNJ. Se area_por_segmento(J) retorna chave canonica
+         (J=2/4/5/6/7/9), usa essa chave — CNJ e fonte autoritativa.
+      2. Se J e ambigua (J=1/3/8) ou CNJ invalido, usa o `group` cru do ADVBox.
+      3. Se group tambem ausente, classifica como 'Outras'.
+
+    Motivacao: 101 de 104 processos trabalhistas (J=5) do piloto-pj estao
+    cadastrados com group=PRIVADO no ADVBox por heranca de migracao Lises.
+    Confiar so no group leva a erro grosseiro. CNJ e padrao oficial e mais
+    confiavel para distinguir esfera (Trabalhista, Federal, Eleitoral, Militar).
+    Para Justica Estadual (J=8), o `group` ainda e necessario porque distingue
+    Civel/Familia/Empresarial dentro do mesmo segmento.
+    """
+    chave_canonica = area_por_segmento(parse_segmento(processo.get('process_number')))
+    if chave_canonica is not None:
+        # CNJ disse algo inequivoco
+        return MAPEAMENTO_AREAS.get(chave_canonica) or normalizar_nome_area(chave_canonica)
+    # Fallback: group do ADVBox
+    return normalizar_nome_area(processo.get('group'))
 
 
 # ---------------------------------------------------------------------------

@@ -1,5 +1,5 @@
 {
-  "_comentario": "Mapeamento de group da API ADVBox para nome de exibicao no painel publico do cliente. Editavel sem deploy. Se group nao estiver listado, gerador faz capitalize() no valor original.",
+  "_comentario": "Mapeamento de chave canonica (vinda do group ADVBox OU do segmento J do CNJ) para nome de exibicao no painel. Caminho C hibrido: o gerador prioriza o segmento J do numero CNJ; quando ambiguo (J=8 Estadual, J=3 STJ, CNJ invalido) cai no group cru do ADVBox. Editavel sem deploy.",
   "mapeamento": {
     "PRIVADO": "Cível e Empresarial",
     "SOCIAL/PREV-TRAB": "Trabalhista e Previdenciário",
@@ -8,11 +8,14 @@
     "FAMÍLIA": "Família e Sucessões",
     "EMPRESARIAL": "Empresarial",
     "ADMINISTRATIVO": "Administrativo",
+    "ADMINISTRATIVO_FEDERAL": "Administrativo Federal",
     "TRIBUTARIO": "Tributário",
     "TRIBUTÁRIO": "Tributário",
     "LICITACOES": "Licitações e Contratos Públicos",
     "LICITAÇÕES": "Licitações e Contratos Públicos",
-    "CRIMINAL": "Criminal"
+    "CRIMINAL": "Criminal",
+    "ELEITORAL": "Eleitoral",
+    "MILITAR": "Militar"
   },
   "icones_svg": {
     "Cível e Empresarial": "balanca",
@@ -20,9 +23,12 @@
     "Família e Sucessões": "coracao-familia",
     "Empresarial": "predio",
     "Administrativo": "predio-publico",
+    "Administrativo Federal": "predio-publico",
     "Tributário": "moeda",
     "Licitações e Contratos Públicos": "documento-selo",
     "Criminal": "escudo",
+    "Eleitoral": "documento-selo",
+    "Militar": "escudo",
     "_default": "pasta"
   }
 }

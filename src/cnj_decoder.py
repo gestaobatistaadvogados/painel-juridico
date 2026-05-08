@@ -86,6 +86,53 @@ def decodificar_tribunal(process_number):
     return TRIBUNAIS.get(j, {}).get(tr, INDEFINIDO)
 
 
+def parse_segmento(numero_cnj):
+    """Extrai o digito J (segmento) de um numero CNJ.
+
+    Layout CNJ: NNNNNNN-DD.AAAA.J.TR.OOOO  (20 digitos uteis)
+    J fica no indice 13 do string de digitos.
+
+    Retorna o digito como string ('1'..'9') ou None se invalido.
+    """
+    if not numero_cnj:
+        return None
+    digitos = ''.join(ch for ch in str(numero_cnj) if ch.isdigit())
+    if len(digitos) != 20:
+        return None
+    return digitos[13]
+
+
+def area_por_segmento(j_segmento):
+    """Mapeia o digito J para uma chave canonica de area.
+
+    Caminho C HIBRIDO: o gerador chama esta funcao primeiro. Se ela
+    retorna uma chave (J=4/5/6/7/9/2), o CNJ vence sobre o group
+    do ADVBox. Se retorna None (J=1/3/8 ou ausente), o gerador
+    consulta o `group` cru.
+
+    Mapeamento:
+      J=1 STF                     -> None  (default seguro: usa group)
+      J=2 CNJ                     -> ADMINISTRATIVO_FEDERAL
+      J=3 STJ                     -> None  (recurso pode ser de qq area)
+      J=4 Justica Federal         -> ADMINISTRATIVO_FEDERAL
+      J=5 Justica do Trabalho     -> SOCIAL/PREV-TRAB
+      J=6 Justica Eleitoral       -> ELEITORAL
+      J=7 Justica Militar Uniao   -> MILITAR
+      J=8 Justica Estadual        -> None  (group distingue civel/familia/etc)
+      J=9 Justica Militar Estad   -> MILITAR
+    """
+    if j_segmento == '4' or j_segmento == '2':
+        return 'ADMINISTRATIVO_FEDERAL'
+    if j_segmento == '5':
+        return 'SOCIAL/PREV-TRAB'
+    if j_segmento == '6':
+        return 'ELEITORAL'
+    if j_segmento in ('7', '9'):
+        return 'MILITAR'
+    # J=1 (STF), J=3 (STJ), J=8 (Estadual), invalido/None: ambiguo
+    return None
+
+
 if __name__ == "__main__":
     import sys
     if hasattr(sys.stdout, 'reconfigure'):
