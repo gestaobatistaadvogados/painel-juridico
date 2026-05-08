@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-07T22:02:10-03:00",
-    "gerado_em_humano": "07/05/2026 22:02",
+    "gerado_em": "2026-05-08T09:24:39-03:00",
+    "gerado_em_humano": "08/05/2026 09:24",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -528,11 +528,11 @@
       "process_number": "0000730-63.2025.5.18.0016",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-08 08:31:36",
       "created_at": "2026-03-02 22:12:38",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
@@ -563,7 +563,7 @@
           "name": "JULIO CESAR DE FARIA"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "recursal",
       "tribunal": "TRT18"
     },
     {
@@ -962,53 +962,7 @@
       "created_at": "2026-03-23 23:02:24",
       "process_date": "2026-03-18",
       "responsible": "FELLIPE LOPES",
-      "movements": [
-        {
-          "date": "2026-03-24",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "REMETIDOS OS AUTOS PARA JUÍZO DEPRECANTE POR TER SIDO CUMPRIDA A CARTA"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "RECIBO DE MALOTE DIGITAL 24 03 26 | RECIBO"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "RECIBO DE MALOTE DIGITAL | CERTIDÃO"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "ARQUIVADOS OS AUTOS DEFINITIVAMENTE"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "DEVOLVIDO O MANDADO PELO OFICIAL DE JUSTIÇA (CUMPRIDO COM FINALIDADE NÃO ATINGIDA)"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "CERTIDÃO DE OFICIAL DE JUSTIÇA | CERTIDÃO"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "TIPO: MANDADO; MEIO: CENTRAL DE MANDADOS; NOME: R. I. N.; FECHADO: N; DATA_HORA_CRIACAO: 20/03/2026 00:00; DATA_HORA_CIENCIA:"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "TIPO: MANDADO; MEIO: CENTRAL DE MANDADOS; NOME: H. R. R. J.; FECHADO: N; DATA_HORA_CRIACAO: 20/03/2026 00:00; DATA_HORA_CIENCIA:"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TRT 01 - Tribunal Regional do Trabalho da 1ª Região - RJ",
-          "title": "MANDADO | MANDADO"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "HOSPITAL AMPARO LTDA"
@@ -1162,33 +1116,7 @@
       "created_at": "2026-04-22 13:47:43",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
-      "movements": [
-        {
-          "date": "2026-04-10",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: R. E. P.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: R. E. P.; FECHADO: N; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA:"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: I. U.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: G. R.; FECHADO: S; DATA_HORA_CRIACAO: 10/04/2026 00:00; DATA_HORA_CIENCIA: 15/04/2026 00:00"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "EXPEDIDO(A) NOTIFICAÇÃO A(O) ORGANIZACAO HOSPITALAR DE GOIAS LTDA"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "ADEMAR GOMES DA COSTA JUNIOR"
@@ -1243,33 +1171,7 @@
       "created_at": "2026-04-27 10:19:02",
       "process_date": "2026-04-27",
       "responsible": "FELLIPE LOPES",
-      "movements": [
-        {
-          "date": "2026-04-25",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "DECORRIDO O PRAZO DE CAROLINE RODRIGUES FARIA EM 24/04/2026"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "DECORRIDO O PRAZO DE RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA EM 22/04/2026"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "DECORRIDO O PRAZO DE HOSPITAL AMPARO LTDA EM 22/04/2026"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "DECORRIDO O PRAZO DE GRUPO RICARO LTDA EM 22/04/2026"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TRT 18 - Tribunal Regional do Trabalho da 18ª Região - GO",
-          "title": "TIPO: NOTIFICAÇÃO; MEIO: CORREIOS; NOME: G. R.; FECHADO: N; DATA_HORA_CRIACAO: 15/04/2026 00:00; DATA_HORA_CIENCIA:"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "GRUPO RICARO LTDA"
@@ -1522,7 +1424,58 @@
       "created_at": "2026-05-06 11:48:05",
       "process_date": "2019-12-19",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-03-26",
+          "header": "TJRJ",
+          "title": "Juntada - Requisição de Mandado de Pagamento\nData da juntada: 26/03/2026\nDescrição da Juntada: Documento eletrônico juntado de forma automática."
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJRJ",
+          "title": "Enviado para publicação\nData do expediente:24/03/2026\nRecebimento\nData de Recebimento: 23/03/2026\nConclusão ao Juiz\nData da conclusão: 26/02/2026\nJuiz: ANTONIO AUGUSTO GONCALVES BALIEIRO DINIZ"
+        },
+        {
+          "date": "2025-10-30",
+          "header": "TJRJ",
+          "title": "Juntada - Petição\nData da juntada: 30/10/2025\nDescrição da Juntada: Documento eletrônico juntado de forma automática."
+        },
+        {
+          "date": "2025-10-23",
+          "header": "TJRJ",
+          "title": "Enviado para publicação\nData do expediente:23/10/2025\nAto Ordinatório Praticado\nData: 22/10/2025\nDescrição: Certifico que, tendo em vista o que consta às fls. 312/16 altero no sistema, refazendo o ato de fl. 331; \"Decisão de fl. 318, 2º parágrafo, final: \"... intimme-se os Executados para ciência do bloqueio.\""
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJRJ",
+          "title": "Enviado para publicação\nData do expediente:01/09/2025\nAto Ordinatório Praticado\nData: 29/08/2025\nDescrição: Decisão de fl. 318, 2º parágrafo, final: \"... intimme-se os Executados para ciência do bloqueio.\""
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJRJ",
+          "title": "Juntada - Petição\nData da juntada: 28/08/2025\nDescrição da Juntada: Documento eletrônico juntado de forma automática."
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJRJ",
+          "title": "Enviado para publicação\nData do expediente:28/08/2025\nRecebimento\nData de Recebimento: 27/08/2025\nConclusão ao Juiz\nData da conclusão: 27/08/2025\nJuiz: ANTONIO AUGUSTO GONCALVES BALIEIRO DINIZ"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJRJ",
+          "title": "Juntada - Petição\nData da juntada: 13/08/2025\nDescrição da Juntada: Documento eletrônico juntado de forma automática."
+        },
+        {
+          "date": "2025-07-30",
+          "header": "TJRJ",
+          "title": "Juntada - Documento\nData da juntada: 30/07/2025"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJRJ",
+          "title": "Recebimento\nData de Recebimento: 09/06/2025\nConclusão ao Juiz\nData da conclusão: 19/05/2025\nJuiz: ANTONIO AUGUSTO GONCALVES BALIEIRO DINIZ"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "ANDERSON BARUTI PIMENTEL"
@@ -1637,15 +1590,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 52,
+    "total": 57,
     "categorias": {
-      "Peças": 5,
+      "Peças": 6,
       "Audiências": 5,
       "Comunicações": 8,
-      "Acompanhamento": 26,
+      "Acompanhamento": 29,
       "Diligências": 2,
-      "Outras": 6
+      "Outras": 7
     },
-    "ultima_data": "2026-05-07"
+    "ultima_data": "2026-05-08"
   }
 }
