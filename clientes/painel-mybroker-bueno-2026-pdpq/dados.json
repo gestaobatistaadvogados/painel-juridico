@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-09T08:30:22-03:00",
-    "gerado_em_humano": "09/05/2026 08:30",
+    "gerado_em": "2026-05-10T08:33:04-03:00",
+    "gerado_em_humano": "10/05/2026 08:33",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -1417,15 +1417,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 3,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-03-10"
+    "ultima_data": "2026-05-09"
   }
 }

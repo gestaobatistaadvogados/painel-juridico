@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-09T08:33:38-03:00",
-    "gerado_em_humano": "09/05/2026 08:33",
+    "gerado_em": "2026-05-10T08:36:18-03:00",
+    "gerado_em_humano": "10/05/2026 08:36",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -161,15 +161,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-07"
+    "ultima_data": "2026-05-09"
   }
 }

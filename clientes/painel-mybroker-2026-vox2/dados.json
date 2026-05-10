@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-09T08:24:54-03:00",
-    "gerado_em_humano": "09/05/2026 08:24",
+    "gerado_em": "2026-05-10T08:27:37-03:00",
+    "gerado_em_humano": "10/05/2026 08:27",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -3014,9 +3014,34 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Conclusos para despacho"
+        },
+        {
           "date": "2025-12-19",
           "header": "TRF01",
           "title": "Redistribuído por sorteio em razão de incompetência"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TRF01",
+          "title": "Redistribuído por sorteio em razão de incompetência"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TRF01",
+          "title": "Juntada de ofício enviando informações"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TRF01",
+          "title": "Levantada a suspensão ou sobrestamento dos autos"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TRF01",
+          "title": "Classe retificada de EXECUÇÃO DE TÍTULO EXTRAJUDICIAL (12154) para PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL (436)"
         },
         {
           "date": "2025-12-19",
@@ -3037,31 +3062,6 @@
           "date": "2025-03-26",
           "header": "TRF01",
           "title": "Decorrido prazo de MY BROKER IMOBILIARIA LTDA - ME em 25/03/2025 23:59."
-        },
-        {
-          "date": "2025-03-15",
-          "header": "TRF01",
-          "title": "Decorrido prazo de UNIÃO FEDERAL em 14/03/2025 23:59."
-        },
-        {
-          "date": "2025-03-12",
-          "header": "TRF01",
-          "title": "Processo Suspenso ou Sobrestado por Conflito de Competência"
-        },
-        {
-          "date": "2025-03-12",
-          "header": "TRF01",
-          "title": "Juntada de certidão"
-        },
-        {
-          "date": "2025-03-07",
-          "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2025-02-18",
-          "header": "TRF01",
-          "title": "Processo devolvido à Secretaria"
         }
       ],
       "partes_adversarias": [],
