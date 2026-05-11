@@ -1,35 +1,17 @@
-# Lista do socio Dr. Caio Pureza — 2026-05-08
-# Todos no Direito Imobiliario (departamento=2)
-# Prefixo "mybroker-" nos 26 do grupo MyBroker.
-# AEVO (2 ultimos) NAO recebem prefixo — nao integram o grupo.
-# Excluidos: SETOR SUL (CNPJ malformado),
-# Sharks (ambiguo), MyBroker holding (ja cadastrado).
+# Cadastro em lote — 13 municípios — Direito Público
+# Formato: CPF/CNPJ ; departamento ; nome_curto
+# Departamentos: 1=Privado, 2=Imobiliário, 3=Público
 
-25.207.075/0001-79 ; 2 ; mybroker-alphamall
-35.364.605/0001-46 ; 2 ; mybroker-bueno
-32.201.372/0001-72 ; 2 ; mybroker-mhrs
-40.679.571/0001-19 ; 2 ; mybroker-oeste
-43.017.072/0001-54 ; 2 ; mybroker-santamonica
-37.177.371/0001-53 ; 2 ; mybroker-uberlandia
-57.114.046/0001-59 ; 2 ; mybroker-araes
-56.885.425/0001-80 ; 2 ; mybroker-anapolis
-35.996.534/0001-02 ; 2 ; mybroker-aparecida
-55.070.490/0001-94 ; 2 ; mybroker-garavelo
-25.104.632/0001-26 ; 2 ; mybroker-parqueamazonia
-60.407.040/0001-84 ; 2 ; mybroker-senadorcanedo
-43.329.574/0001-10 ; 2 ; mybroker-belohorizonte
-47.037.657/0001-97 ; 2 ; mybroker-bschapeco
-46.884.315/0001-40 ; 2 ; mybroker-cuiaba
-20.820.235/0001-37 ; 2 ; mybroker-curitiba
-41.756.564/0001-36 ; 2 ; mybroker-eldorado
-51.098.542/0001-80 ; 2 ; mybroker-florianopolis
-56.097.753/0001-11 ; 2 ; mybroker-jardimamerica
-55.867.928/0001-60 ; 2 ; mybroker-joaopessoa
-37.758.636/0001-07 ; 2 ; mybroker-office
-44.642.240/0001-65 ; 2 ; mybroker-pracadosol
-47.071.497/0001-00 ; 2 ; mybroker-ribeiraopreto
-50.519.334/0001-44 ; 2 ; mybroker-salvador
-55.695.375/0001-05 ; 2 ; mybroker-saojoseriopreto
-51.393.796/0001-20 ; 2 ; mybroker-vitoria
-57.533.534/0001-09 ; 2 ; aevobueno
-56.933.707/0001-05 ; 2 ; aevoimobiliaria
+24.852.675/0001-27 ; 3 ; municipio-rioquente
+01.763.606/0001-41 ; 3 ; municipio-ipameri
+01.180.645/0001-16 ; 3 ; municipio-cristianopolis
+01.067.842/0001-23 ; 3 ; municipio-mairipotaba
+02.073.211/0001-80 ; 3 ; municipio-crominia
+00.005.959/0001-10 ; 3 ; municipio-indiara
+02.394.757/0001-32 ; 3 ; municipio-palmeirasdegoias
+02.296.325/0001-99 ; 3 ; municipio-britania
+01.743.335/0001-62 ; 3 ; municipio-posse
+01.174.580/0001-04 ; 3 ; municipio-marzagao
+04.223.461/0001-84 ; 3 ; municipio-gameleiradegoias
+01.215.474/0001-13 ; 3 ; municipio-aragoiania
+01.761.113/0001-72 ; 3 ; municipio-santarosadegoias

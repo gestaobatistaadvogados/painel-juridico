@@ -24,7 +24,7 @@
     {
       "id_advbox": 13669008,
       "nome_curto": "piloto-pj",
-      "departamento": "direito_publico",
+      "departamento": "direito_privado",
       "slug_url": "painel-piloto-pj-2026-n4q8",
       "ativo": true,
       "data_cadastro": "2026-05-07"
@@ -362,6 +362,110 @@
       "nome_curto": "mybrokerimoveis",
       "departamento": "direito_privado",
       "slug_url": "painel-mybrokerimoveis-2026-opis",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 13904935,
+      "nome_curto": "municipio-rioquente",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-rioquente-2026-klpo",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080932,
+      "nome_curto": "municipio-ipameri",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-ipameri-2026-1ivo",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080926,
+      "nome_curto": "municipio-cristianopolis",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-cristianopolis-2026-4drz",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080935,
+      "nome_curto": "municipio-mairipotaba",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-mairipotaba-2026-kjyy",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080927,
+      "nome_curto": "municipio-crominia",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-crominia-2026-qeto",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 13586273,
+      "nome_curto": "municipio-indiara",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-indiara-2026-4azl",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080940,
+      "nome_curto": "municipio-palmeirasdegoias",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-palmeirasdegoias-2026-mxpu",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080922,
+      "nome_curto": "municipio-britania",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-britania-2026-xt53",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080943,
+      "nome_curto": "municipio-posse",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-posse-2026-0axr",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080936,
+      "nome_curto": "municipio-marzagao",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-marzagao-2026-qpem",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14243148,
+      "nome_curto": "municipio-gameleiradegoias",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 13728191,
+      "nome_curto": "municipio-aragoiania",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-aragoiania-2026-zcwx",
+      "ativo": true,
+      "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 14080945,
+      "nome_curto": "municipio-santarosadegoias",
+      "departamento": "direito_publico",
+      "slug_url": "painel-municipio-santarosadegoias-2026-xpau",
       "ativo": true,
       "data_cadastro": "2026-05-11"
     }
