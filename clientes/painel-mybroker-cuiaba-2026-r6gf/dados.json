@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:36:01-03:00",
-    "gerado_em_humano": "10/05/2026 08:36",
+    "gerado_em": "2026-05-11T14:33:45-03:00",
+    "gerado_em_humano": "11/05/2026 14:33",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -95,7 +95,58 @@
       "created_at": "2024-09-09 00:00:00",
       "process_date": "2024-08-20",
       "responsible": "LEONARDO VASCONCELOS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2025-03-06",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de Certidão"
+        },
+        {
+          "date": "2024-11-13",
+          "header": "TJMT",
+          "title": "Definitivo\nArquivado Definitivamente"
+        },
+        {
+          "date": "2024-11-13",
+          "header": "TJMT",
+          "title": "Trânsito em julgado\nTransitado em Julgado em 13/11/2024"
+        },
+        {
+          "date": "2024-11-12",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Sentença em 12/11/2024."
+        },
+        {
+          "date": "2024-11-12",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 11/11/2024"
+        },
+        {
+          "date": "2024-11-09",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de YVONE INEZ RICCI BOAVENTURA em 08/11/2024 23:59"
+        },
+        {
+          "date": "2024-11-09",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de MY BROKER IMOVEIS CUIABA LTDA em 08/11/2024 23:59"
+        },
+        {
+          "date": "2024-11-08",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de petição"
+        },
+        {
+          "date": "2024-11-08",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de petição"
+        },
+        {
+          "date": "2024-11-08",
+          "header": "TJMT",
+          "title": "Conclusão\nConclusos para julgamento"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "MARIA CLAUDIA DE FIGUEIREDO LOUREIRO"
@@ -182,15 +233,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 3,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
-      "Diligências": 1,
+      "Acompanhamento": 2,
+      "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-07"
+    "ultima_data": "2026-05-10"
   }
 }

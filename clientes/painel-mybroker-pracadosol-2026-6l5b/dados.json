@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:38:17-03:00",
-    "gerado_em_humano": "10/05/2026 08:38",
+    "gerado_em": "2026-05-11T14:36:04-03:00",
+    "gerado_em_humano": "11/05/2026 14:36",
     "slug_url": "painel-mybroker-pracadosol-2026-6l5b",
     "departamento": "direito_imobiliario"
   },
@@ -30,22 +30,22 @@
         {
           "date": "2025-11-24",
           "header": "TJGO",
-          "title": "Baixa Definitiva -"
+          "title": "Processo Arquivado -"
         },
         {
           "date": "2025-11-24",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Processo Arquivado"
         },
         {
-          "date": "2025-11-12",
+          "date": "2025-11-24",
           "header": "TJGO",
-          "title": "Autos Devolvidos da Instância Superior -"
+          "title": "Baixa Definitiva"
         },
         {
-          "date": "2025-11-12",
+          "date": "2025-11-24",
           "header": "TJGO",
-          "title": "Transitado em Julgado - Transito em Julgado - Devolução Juízo de Origem"
+          "title": "Baixa Definitiva -"
         },
         {
           "date": "2025-11-12",
@@ -63,19 +63,19 @@
           "title": "Decorrido Prazo - para Anderson Lencioni Barbosa em 11/11/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (14/10/2025 15:09:17))"
         },
         {
-          "date": "2025-10-14",
+          "date": "2025-11-12",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Anderson Lencioni Barbosa (Referente à Mov. - )"
+          "title": "Autos Devolvidos da Instância Superior"
         },
         {
-          "date": "2025-10-14",
+          "date": "2025-11-12",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Substabelecimento"
+          "title": "Autos Devolvidos da Instância Superior -"
         },
         {
-          "date": "2025-10-14",
+          "date": "2025-11-12",
           "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 14/10/2025 13:30)"
+          "title": "Transitado em Julgado - Transito em Julgado - Devolução Juízo de Origem"
         }
       ],
       "partes_adversarias": [

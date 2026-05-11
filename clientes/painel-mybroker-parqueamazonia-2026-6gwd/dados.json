@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:35:33-03:00",
-    "gerado_em_humano": "10/05/2026 08:35",
+    "gerado_em": "2026-05-11T14:33:16-03:00",
+    "gerado_em_humano": "11/05/2026 14:33",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -26,7 +26,58 @@
       "created_at": "2026-02-12 12:55:01",
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) - Polo Ativo (Referente à Mov. Nota de Foro Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Nota de Foro Expedida - Ato ordinatorio- Intima parte autora para requerer o que entender de direito."
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (28/02/2025 09:12:33))"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Junta comp. de postagem ref ev.94"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Sarah Aparecida Alcantara Soares"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutoria"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - endereço incompleto"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "SARAH APARECIDA ALCANTARA SOARES"
@@ -143,7 +194,58 @@
       "created_at": "2023-07-31 00:00:00",
       "process_date": "2021-09-17",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2019-04-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2019-04-08",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - 08/03/2019"
+        },
+        {
+          "date": "2019-02-19",
+          "header": "TJGO",
+          "title": "Intimação Realizada em Cartório/Audiência - Para Ana Paula Mariano De Faria (Referente à Mov. Sentença Homologada a Transação (cpc) - )"
+        },
+        {
+          "date": "2019-02-19",
+          "header": "TJGO",
+          "title": "Intimação Realizada em Cartório/Audiência - Para Alessandra Caroline Silvestre Rodrigues (Referente à Mov. Sentença Homologada a Transação (cpc) - )"
+        },
+        {
+          "date": "2019-02-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação"
+        },
+        {
+          "date": "2019-02-18",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Intimação para audiência/endereço - Alessandra"
+        },
+        {
+          "date": "2019-02-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2019-02-15",
+          "header": "TJGO",
+          "title": "Audiência Cancelada - (Conciliação - 15/02/2019 16:00)"
+        },
+        {
+          "date": "2019-02-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Acordo entabulado entre as partes"
+        },
+        {
+          "date": "2019-01-23",
+          "header": "TJGO",
+          "title": "Intimação Via Telefone Efetivada - Para (Polo Passivo) Ana Paula Mariano De Faria (Referente à Mov. Mandado Não Cumprido (17/01/2019 11:56:15))"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CLAUDENOR DE CARVALHO NASCIMENTO"
@@ -211,9 +313,29 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Certidão Expedida (06/05/2026 10:43:33))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - DILAÇÃO DE PRAZO 5 DIAS"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
         },
         {
           "date": "2026-04-09",
@@ -226,19 +348,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
-        },
-        {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Juntada -> Petição - teimosinha"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (24/03/2026 14:05:37))"
         },
         {
           "date": "2026-03-24",
@@ -249,16 +361,6 @@
           "date": "2026-03-24",
           "header": "TJGO",
           "title": "Ato Ordinatório - ATO ORDINATÓRIO ANDAMENTO EXECUÇÕES- PENA SUSPENSÃO ARQUIVAMENTO 6ªUPJ"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Certidão Expedida (13/01/2026 13:48:32))"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida - 13/01/2026 13:48:32)"
         }
       ],
       "partes_adversarias": [
@@ -289,9 +391,9 @@
           "title": "Cálculo de Custas -"
         },
         {
-          "date": "2025-04-15",
+          "date": "2025-05-12",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Cálculo de Custas"
         },
         {
           "date": "2025-04-15",
@@ -309,29 +411,29 @@
           "title": "Alvará Expedido -"
         },
         {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Baixa Definitiva"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-04-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
           "date": "2025-02-17",
           "header": "TJGO",
           "title": "Juntada -> Petição - petição interlocutória"
-        },
-        {
-          "date": "2025-02-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. - )"
-        },
-        {
-          "date": "2025-02-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Broker) (Referente à Mov. - )"
-        },
-        {
-          "date": "2025-02-12",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2025-02-07",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [

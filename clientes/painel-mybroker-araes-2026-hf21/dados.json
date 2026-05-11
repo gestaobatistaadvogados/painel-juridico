@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:34:43-03:00",
-    "gerado_em_humano": "10/05/2026 08:34",
+    "gerado_em": "2026-05-11T14:32:25-03:00",
+    "gerado_em_humano": "11/05/2026 14:32",
     "slug_url": "painel-mybroker-araes-2026-hf21",
     "departamento": "direito_imobiliario"
   },
@@ -26,7 +26,58 @@
       "created_at": "2026-05-08 11:53:59",
       "process_date": "2026-02-19",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de não entregue - mudou-se (ecarta)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJMT",
+          "title": "Recebimento no CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos."
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJMT",
+          "title": "Remessa para o CEJUSC ou Centros de Conciliação/Mediação\nRemetidos os Autos ao CEJUSC"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de entregue (ecarta)"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJMT",
+          "title": "Documento\nJuntada de entregue (ecarta)"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 13/04/2026."
+        },
+        {
+          "date": "2026-04-11",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 10/04/2026"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Aviso de recebimento (AR)"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJMT",
+          "title": "de Conciliação\nAudiência de conciliação designada em/para 11/05/2026 16:00, 1º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CARLOS EDUARDO TRANSACOES IMOBILIARIAS LTDA"
@@ -43,15 +94,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 7,
+    "total": 6,
     "categorias": {
       "Peças": 1,
       "Audiências": 1,
       "Comunicações": 2,
       "Acompanhamento": 2,
       "Diligências": 0,
-      "Outras": 1
+      "Outras": 0
     },
-    "ultima_data": "2026-05-08"
+    "ultima_data": "2026-05-11"
   }
 }

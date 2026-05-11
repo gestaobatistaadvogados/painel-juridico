@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:27:37-03:00",
-    "gerado_em_humano": "10/05/2026 08:27",
+    "gerado_em": "2026-05-11T14:25:12-03:00",
+    "gerado_em_humano": "11/05/2026 14:25",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -101,14 +101,14 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-04-27",
+          "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
+          "title": "Juntada -> Petição - Manifestação"
         },
         {
           "date": "2026-04-27",
@@ -126,6 +126,16 @@
           "title": "Decisão -> Outras Decisões - Exequente manifestar pedido compensação - 5 dias"
         },
         {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
+        },
+        {
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -138,17 +148,7 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Crisley Donizete Da Silva (Referente à Mov. Certidão Expedida (14/04/2026 12:07:59))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Crisley Donizete Da Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - DEPÓSITO VOLUNTÁRIO INTIMA PARTE AUTORA"
         }
       ],
       "partes_adversarias": [
@@ -174,9 +174,29 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARA A PARTE AUTORA COMPROVAR O PAGAMENTO DAS CUSTAS PARA PESQUISA"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 29/04/2026 17:18:55)"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Despacho -> Mero Expediente (29/04/2026 17:18:55))"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-03-16",
@@ -191,7 +211,7 @@
         {
           "date": "2026-02-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Ato Ordinatório (27/02/2026 09:28:46))"
+          "title": "Ato Ordinatório - INTIMAÇÃO DA PARTE AUTORA (SISTEMAS CONVENIADOS)"
         },
         {
           "date": "2026-02-27",
@@ -201,27 +221,7 @@
         {
           "date": "2026-02-27",
           "header": "TJGO",
-          "title": "Ato Ordinatório - INTIMAÇÃO DA PARTE AUTORA (SISTEMAS CONVENIADOS)"
-        },
-        {
-          "date": "2026-02-26",
-          "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PEDIDO CACE"
-        },
-        {
-          "date": "2026-02-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-02-02",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Ato Ordinatório - Recolher guia pesquisa"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Ato Ordinatório (27/02/2026 09:28:46))"
         }
       ],
       "partes_adversarias": [
@@ -318,7 +318,58 @@
       "created_at": "2026-02-11 12:08:46",
       "process_date": "2025-04-03",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2017-01-20",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2016-12-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2016-12-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - CONTESTAÇÃO"
+        },
+        {
+          "date": "2016-11-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Promovido) CELG DISTRIBUIÇÃO S.A,"
+        },
+        {
+          "date": "2016-11-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - MANOEL DE FARIA PAZ (Referente à Mov. SENTENÇA HOMOLOGADA A TRANSAÇÃO ( CPC ) - )"
+        },
+        {
+          "date": "2016-11-25",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação - Sentença homologatória"
+        },
+        {
+          "date": "2016-11-25",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2016-11-25",
+          "header": "TJGO",
+          "title": "Audiência Realizada - (Conciliação - 25/11/2016 09:30)"
+        },
+        {
+          "date": "2016-11-25",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para CELG DISTRIBUIÇÃO S.A, (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA (14/10/2016 10:24:37))"
+        },
+        {
+          "date": "2016-10-24",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Promovente)MANOEL DE FARIA PAZ (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA (14/10/2016 10:24:37))"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "HUGO QUEIROZ ALVES"
@@ -391,6 +442,11 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
           "title": "Processo Arquivado -"
         },
         {
@@ -411,11 +467,6 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Humanae Incorporadora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sousa Andrade Construtora E Incorpora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         },
         {
@@ -431,12 +482,12 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marta Silva De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Humanae Incorporadora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         },
         {
-          "date": "2026-04-09",
+          "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - EXTINÇÃO PELO PAGAMENTO/ ALVARÁ"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marta Silva De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         }
       ],
       "partes_adversarias": [
@@ -462,19 +513,39 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-04-30",
+          "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Juliana D Orville Daher Ferreira (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Juntada de Documento (06/05/2026 14:27:28))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME - Polo Ativo (Referente à Mov. Juntada de Documento (CNJ:581) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada de Documento - ALVARÁ ELABORADO E ENCAMINHADO PARA ASSINATURA"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Roberto Daher (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Roberto Daher Junior (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Cesar Magalhaes Ferreira (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Juliana D Orville Daher Ferreira (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-04-30",
@@ -490,26 +561,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Roberto Daher Junior (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rita Maria Cavalcanti Daher (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Despacho -> Mero Expediente (30/04/2026 14:58:23))"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Paulo Cesar Magalhaes Ferreira (Referente à Mov. Despacho -> Mero Expediente (30/04/2026 14:58:23))"
         }
       ],
       "partes_adversarias": [
@@ -1033,54 +1084,54 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - LINK DE AUDIÊNCIA E ORIENTAÇÕES DO ZOOM"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Audiência de Conciliação Cejusc (07/05/2026 19:12:30))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIARIA LTDA (Referente à Mov. Audiência de Conciliação Cejusc (07/05/2026 19:12:30))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação Cejusc - (Agendada para 24/06/2026 17:30:00)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO CEJUSC MARCADA)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DENER RODRIGUES DE SOUZA - Polo Ativo (Referente à Mov. Despacho -> Determinação de Citação - 03/02/2026 14:40:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIARIA LTDA (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO CEJUSC MARCADA)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Despacho -> Determinação de Citação (03/02/2026 14:40:56))"
+        },
+        {
           "date": "2026-02-03",
           "header": "TJGO",
           "title": "Despacho -> Determinação de Citação -"
         },
         {
-          "date": "2026-01-27",
+          "date": "2026-02-03",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2026-01-19",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Resposta - Resposta ao Despacho"
-        },
-        {
-          "date": "2026-01-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Despacho -> Mero Expediente (08/01/2026 14:43:09))"
-        },
-        {
-          "date": "2026-01-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DENER RODRIGUES DE SOUZA - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-01-08",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2025-11-03",
-          "header": "TJGO",
-          "title": "Mandado Não Cumprido - Para My Broker Silvania (sousa Assessoria De Negocios Imobiliarios Ltda) (Mandado nº 5884503 / Referente à Mov. Juntada -> Petição (15/09/2025 18:10:04))"
-        },
-        {
-          "date": "2025-10-06",
-          "header": "TJGO",
-          "title": "Mandado Não Cumprido - Para MESANIE(I (Mandado nº 5884774 / Referente à Mov. Juntada -> Petição (15/09/2025 18:10:04))"
-        },
-        {
-          "date": "2025-09-25",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2025-09-22",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Retificação Citação"
+          "title": "Despacho -> Determinação de Citação"
         }
       ],
       "partes_adversarias": [
@@ -1138,9 +1189,9 @@
           "title": "Transitado em Julgado - Em 10/01/2025."
         },
         {
-          "date": "2025-01-10",
+          "date": "2025-01-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda-me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (CNJ:466) - )"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2025-01-10",
@@ -1153,6 +1204,16 @@
           "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
+          "date": "2025-01-10",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação"
+        },
+        {
+          "date": "2025-01-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda-me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (CNJ:466) - )"
+        },
+        {
           "date": "2025-01-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - Acordo Judicial"
@@ -1160,22 +1221,12 @@
         {
           "date": "2024-12-16",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda-me (Referente à Mov. Decisão -> Não Conhecimento de Embargos de Declaração (CNJ:15409) - )"
+          "title": "Decisão -> Não Conhecimento de Embargos de Declaração -"
         },
         {
           "date": "2024-12-16",
           "header": "TJGO",
-          "title": "Decisão -> Não Conhecimento de Embargos de Declaração -"
-        },
-        {
-          "date": "2024-12-09",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2024-12-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Embargos de Declaração"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda-me (Referente à Mov. Decisão -> Não Conhecimento de Embargos de Declaração (CNJ:15409) - )"
         }
       ],
       "partes_adversarias": [
@@ -1250,6 +1301,11 @@
           "title": "Autos Conclusos -"
         },
         {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Juntada -> Petição - Pedido de prestação de contas + cumprimento de sentença"
@@ -1257,12 +1313,12 @@
         {
           "date": "2026-03-07",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Helga Stein (Referente à Mov. Decisão -> Outras Decisões (07/03/2026 00:40:22))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Helga Stein (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
           "date": "2026-03-07",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Helga Stein (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Helga Stein (Referente à Mov. Decisão -> Outras Decisões (07/03/2026 00:40:22))"
         },
         {
           "date": "2026-03-07",
@@ -1288,11 +1344,6 @@
           "date": "2025-10-27",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Helga Stein (Referente à Mov. Decisão -> Determinação -> Devolução dos autos à origem (27/10/2025 15:56:30))"
-        },
-        {
-          "date": "2025-10-27",
-          "header": "TJGO",
-          "title": "Decisão -> Determinação -> Devolução dos autos à origem -"
         }
       ],
       "partes_adversarias": [
@@ -1372,9 +1423,9 @@
           "title": "Transitado em Julgado - 19.12.2024 - TRÂNSITO- ARQUIVAMENTO/PETICIONAMENTO NORMAL"
         },
         {
-          "date": "2024-12-04",
+          "date": "2025-01-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Intimação EFETIVADA (WhatsApp) Promovido - Sentença"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2024-12-04",
@@ -1382,9 +1433,24 @@
           "title": "Movimentação Bloqueada -"
         },
         {
+          "date": "2024-12-04",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
+          "date": "2024-12-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Intimação EFETIVADA (WhatsApp) Promovido - Sentença"
+        },
+        {
           "date": "2024-11-26",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de BIL - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+        },
+        {
+          "date": "2024-11-26",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência em Parte"
         },
         {
           "date": "2024-11-26",
@@ -1395,21 +1461,6 @@
           "date": "2024-10-29",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2024-10-29",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Prazo decorrido in albis p/ Mybroker Gold Imobiliaria"
-        },
-        {
-          "date": "2024-10-02",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Citação EFETIVADA (WhatsApp) Requerido"
-        },
-        {
-          "date": "2024-09-23",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutoria"
         }
       ],
       "partes_adversarias": [
@@ -1688,6 +1739,16 @@
           "title": "Citação Não Efetivada - JULIANA MEIRELES BEZERRA"
         },
         {
+          "date": "2025-05-06",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2025-05-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2025-03-07",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Juliana Meireles Bezerra - Código de Rastreamento Correios: YQ609694399BR idPendenciaCorreios109787695432015873961435071idPendenciaCorreios"
@@ -1695,12 +1756,12 @@
         {
           "date": "2025-02-28",
           "header": "TJGO",
-          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+          "title": "Citação Expedida - Citação expedida por e-carta: Juliana Meireles Bezerra"
         },
         {
           "date": "2025-02-28",
           "header": "TJGO",
-          "title": "Citação Expedida - Citação expedida por e-carta: Juliana Meireles Bezerra"
+          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         },
         {
           "date": "2025-02-11",
@@ -1711,16 +1772,6 @@
           "date": "2025-02-03",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Glauciene Lopes Vilela Garcia (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
-        },
-        {
-          "date": "2025-02-03",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinara Lopes Vilela (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
-        },
-        {
-          "date": "2025-02-03",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação não Efetivada (WHATSAPP) Executado / Fornecer novo endereço"
         }
       ],
       "partes_adversarias": [
@@ -1929,6 +1980,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução CENTRAL SISBAJUD - Penhora Parcialmente Frutifera - Transf. de Valores"
+        },
+        {
           "date": "2026-03-19",
           "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
@@ -1941,7 +2002,7 @@
         {
           "date": "2026-03-13",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Certidão Expedida (13/03/2026 10:54:51))"
+          "title": "Certidão Expedida - Intimação p/ parte exequente apresentar planilha de valores atualizados"
         },
         {
           "date": "2026-03-13",
@@ -1951,7 +2012,12 @@
         {
           "date": "2026-03-13",
           "header": "TJGO",
-          "title": "Certidão Expedida - Intimação p/ parte exequente apresentar planilha de valores atualizados"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Certidão Expedida (13/03/2026 10:54:51))"
+        },
+        {
+          "date": "2026-03-12",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Bloqueio/penhora on line - Deferimento de Consulta de Endereço, via Cenopes."
         },
         {
           "date": "2026-03-12",
@@ -1962,21 +2028,6 @@
           "date": "2026-03-12",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. - )"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Decisão -> Determinação -> Bloqueio/penhora on line - Deferimento de Consulta de Endereço, via Cenopes."
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação"
         }
       ],
       "partes_adversarias": [
@@ -2363,14 +2414,14 @@
           "title": "Certidão Expedida - Alvará assinado/pago"
         },
         {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2025-08-15",
           "header": "TJGO",
           "title": "Certidão Expedida - ALVARÁ EXPEDIDO - AGUARDANDO ASSINATURA (SISCONDJ | R$ 24.184,62)"
-        },
-        {
-          "date": "2025-08-13",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valdecir Luiz Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (13/08/2025 17:59:52))"
         },
         {
           "date": "2025-08-13",
@@ -2383,9 +2434,9 @@
           "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença - Expedir alvará para levantamento/transferência de dinheiro."
         },
         {
-          "date": "2025-08-05",
+          "date": "2025-08-13",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valdecir Luiz Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (13/08/2025 17:59:52))"
         },
         {
           "date": "2025-08-05",
@@ -2393,14 +2444,14 @@
           "title": "Juntada -> Petição - ACORDO PACTUADO ENTRE AS PARTES"
         },
         {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
           "date": "2025-07-31",
           "header": "TJGO",
           "title": "Juntada -> Petição - Interlocutória"
-        },
-        {
-          "date": "2025-07-17",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Resposta da busca de endereço - SISBAJUD"
         }
       ],
       "partes_adversarias": [
@@ -2455,11 +2506,6 @@
         {
           "date": "2025-10-29",
           "header": "TJGO",
-          "title": "Arquivado Definitivamente - Arquivamento dos presentes autos"
-        },
-        {
-          "date": "2025-10-29",
-          "header": "TJGO",
           "title": "Transitado em Julgado - Trânsito em julgado da sentença de ev. 96"
         },
         {
@@ -2468,9 +2514,14 @@
           "title": "Juntada de Documento - Comprovante de pagamento de alvará - SISCONDJ (ev. 101)"
         },
         {
-          "date": "2025-10-13",
+          "date": "2025-10-29",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Leda Lopes Da Silva (Referente à Mov. Expedição de Documento (13/10/2025 13:00:00))"
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-10-29",
+          "header": "TJGO",
+          "title": "Arquivado Definitivamente - Arquivamento dos presentes autos"
         },
         {
           "date": "2025-10-13",
@@ -2488,14 +2539,14 @@
           "title": "Juntada de Documento - OAB do escritório jurídico"
         },
         {
+          "date": "2025-10-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Leda Lopes Da Silva (Referente à Mov. Expedição de Documento (13/10/2025 13:00:00))"
+        },
+        {
           "date": "2025-10-07",
           "header": "TJGO",
           "title": "Juntada de Documento - SISBAJUD - desbloqueio - sentença ev. 96"
-        },
-        {
-          "date": "2025-10-02",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
         }
       ],
       "partes_adversarias": [
@@ -2521,6 +2572,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Juntada de Documento - reenvio de ofício"
+        },
+        {
+          "date": "2025-11-28",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
           "date": "2025-11-28",
           "header": "TJGO",
           "title": "Ofício(s) Expedido(s) -"
@@ -2528,12 +2589,22 @@
         {
           "date": "2025-11-27",
           "header": "TJGO",
-          "title": "Juntada de Documento - REMANESCENTE DA PENHORA DO EVENTO 29 - R$ 29,80 - CEF"
+          "title": "Juntada de Documento - Consulta de depósitos judiciais no Banco do Brasil - sem saldo"
         },
         {
           "date": "2025-11-27",
           "header": "TJGO",
-          "title": "Juntada de Documento - Consulta de depósitos judiciais no Banco do Brasil - sem saldo"
+          "title": "Juntada de Documento - REMANESCENTE DA PENHORA DO EVENTO 29 - R$ 29,80 - CEF"
+        },
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2025-11-24",
@@ -2548,27 +2619,7 @@
         {
           "date": "2025-11-24",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2025-11-24",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2025-11-19",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Interlocutória"
-        },
-        {
-          "date": "2025-11-12",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Bruna Cardoso Braga em 11/11/2025 23:59:59 (Referente à Mov. Juntada de Documento (16/09/2025 14:06:56))"
-        },
-        {
-          "date": "2025-11-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - REQUERER O QUE ENTENDER DE DIREITO - 1ª UPJ"
+          "title": "Decisão -> Outras Decisões"
         }
       ],
       "partes_adversarias": [
@@ -2699,9 +2750,9 @@
           "title": "Transitado em Julgado - para My Office Gestao Imobiliaria Ltda em 25/11/2025 23:59:59 (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (05/11/2025 16:19:28))"
         },
         {
-          "date": "2025-11-05",
+          "date": "2025-11-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (05/11/2025 16:19:28))"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2025-11-05",
@@ -2714,6 +2765,11 @@
           "title": "Decisão -> Não Acolhimento de Embargos de Declaração - Arquivar."
         },
         {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (05/11/2025 16:19:28))"
+        },
+        {
           "date": "2025-11-03",
           "header": "TJGO",
           "title": "Certidão Expedida - andamento normal/sem necessidade de novas expedições"
@@ -2721,22 +2777,17 @@
         {
           "date": "2025-09-01",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Certidão Expedida - Embargos de declaração tempestivos"
         },
         {
           "date": "2025-09-01",
           "header": "TJGO",
-          "title": "Certidão Expedida - Embargos de declaração tempestivos"
+          "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
           "date": "2025-08-27",
           "header": "TJGO",
           "title": "Juntada -> Petição - Embargos de Declaração"
-        },
-        {
-          "date": "2025-08-26",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (26/08/2025 22:16:53))"
         }
       ],
       "partes_adversarias": [
@@ -2760,7 +2811,58 @@
       "created_at": "2025-10-06 00:00:00",
       "process_date": "2019-01-18",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-03-31",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJDFT",
+          "title": "Decorrido prazo de MY BROKER IMOBILIARIA LTDA - ME em 23/03/2026 23:59."
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJDFT",
+          "title": "Decorrido prazo de MY BROKER IMOBILIARIA LTDA - ME em 05/03/2026 23:59."
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJDFT",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJDFT",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJDFT",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJDFT",
+          "title": "Declarada decadência ou prescrição"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJDFT",
+          "title": "Recebidos os autos"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "TEREZINHA GOMES DE OLIVEIRA LOPES"
@@ -2914,12 +3016,12 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (15/04/2026 22:20:16))"
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo"
         },
         {
-          "date": "2026-03-30",
+          "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (15/04/2026 22:20:16))"
         }
       ],
       "partes_adversarias": [
@@ -2952,7 +3054,22 @@
         {
           "date": "2025-08-29",
           "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2025-08-29",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-08-29",
+          "header": "TJGO",
           "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-07-31",
+          "header": "TJGO",
+          "title": "Decisão -> Não Acolhimento de Embargos de Declaração -"
         },
         {
           "date": "2025-07-31",
@@ -2962,22 +3079,12 @@
         {
           "date": "2025-07-31",
           "header": "TJGO",
+          "title": "Decisão -> Não Acolhimento de Embargos de Declaração"
+        },
+        {
+          "date": "2025-07-31",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Tp Capital S/a (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (31/07/2025 18:11:33))"
-        },
-        {
-          "date": "2025-07-31",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Guilherme Alves De Lima (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (31/07/2025 18:11:33))"
-        },
-        {
-          "date": "2025-07-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (CNJ:15164) - )"
-        },
-        {
-          "date": "2025-07-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de CS (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (CNJ:15164) - )"
         },
         {
           "date": "2025-07-31",
@@ -2987,12 +3094,7 @@
         {
           "date": "2025-07-31",
           "header": "TJGO",
-          "title": "Decisão -> Não Acolhimento de Embargos de Declaração -"
-        },
-        {
-          "date": "2025-07-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de CS (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (CNJ:15164) - )"
         }
       ],
       "partes_adversarias": [],
@@ -3142,9 +3244,19 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Sentença Homologatória) - 21/10/2024 13:11:02)"
         },
         {
+          "date": "2024-10-22",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2024-10-21",
           "header": "TJGO",
           "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Sentença Homologatória) -"
+        },
+        {
+          "date": "2024-10-21",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Sentença Homologatória)"
         },
         {
           "date": "2024-10-17",
@@ -3165,16 +3277,6 @@
           "date": "2024-09-20",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2024-09-03",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA nao detectou, no sistema Projudi/PJD, outros processos envolvendo as mesmas partes."
-        },
-        {
-          "date": "2024-09-03",
-          "header": "TJGO",
-          "title": "Inclusão no Juízo 100% Digital -"
         }
       ],
       "partes_adversarias": [
@@ -3288,6 +3390,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Decisão -> Cancelamento da distribuição (CNJ:83) - )"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Decisão -> Cancelamento da distribuição (07/05/2026 10:54:17))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Decisão -> Cancelamento da distribuição"
+        },
+        {
           "date": "2026-03-11",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
@@ -3305,6 +3422,11 @@
         {
           "date": "2026-01-09",
           "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
         },
         {
@@ -3316,26 +3438,6 @@
           "date": "2025-10-07",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
-        },
-        {
-          "date": "2025-09-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Despacho -> Mero Expediente (30/09/2025 17:53:08))"
-        },
-        {
-          "date": "2025-09-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. - )"
-        },
-        {
-          "date": "2025-09-30",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2025-09-03",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
         }
       ],
       "partes_adversarias": [
@@ -3437,9 +3539,9 @@
           "title": "Certidão Expedida - CERTIDÃO - TRÂNSITO EM JULGADO - 1ª UPJ"
         },
         {
-          "date": "2025-09-19",
+          "date": "2025-10-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (19/09/2025 20:18:34))"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2025-09-19",
@@ -3462,19 +3564,19 @@
           "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -"
         },
         {
+          "date": "2025-09-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
+        },
+        {
+          "date": "2025-09-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (19/09/2025 20:18:34))"
+        },
+        {
           "date": "2025-09-02",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2025-08-14",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - IMPUGNAÇÃO À CONTESTAÇÃO"
-        },
-        {
-          "date": "2025-08-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Vladimir Rocha (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -3500,14 +3602,14 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - pagamento incompleto multa e honoráriosos devidos, intimação para pgto em 17/03"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Juntada -> Petição - Pagamento integral"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:53:17))"
         },
         {
           "date": "2026-04-23",
@@ -3535,9 +3637,9 @@
           "title": "Decisão -> Outras Decisões - recebimento da inicial - intime-se para pagar"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA nao detectou, no sistema Projudi/PJD, outros processos envolvendo as mesmas partes."
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:53:17))"
         },
         {
           "date": "2026-04-16",
@@ -3560,12 +3662,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 9,
+    "total": 8,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 1,
       "Outras": 2
     },

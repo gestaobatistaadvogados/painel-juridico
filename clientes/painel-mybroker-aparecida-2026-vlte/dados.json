@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:35:04-03:00",
-    "gerado_em_humano": "10/05/2026 08:35",
+    "gerado_em": "2026-05-11T14:32:47-03:00",
+    "gerado_em_humano": "11/05/2026 14:32",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -101,6 +101,31 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
@@ -124,31 +149,6 @@
           "date": "2026-03-06",
           "header": "TJGO",
           "title": "Juntada -> Petição - Alegações Finais"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Carta de preposto"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - certidão link"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Certidão Expedida (09/02/2026 08:58:51))"
         }
       ],
       "partes_adversarias": [
@@ -179,6 +179,11 @@
           "title": "Juntada -> Petição -"
         },
         {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-04-08",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luciana Regina De Souza - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
@@ -201,11 +206,6 @@
         {
           "date": "2026-03-03",
           "header": "TJGO",
-          "title": "Audiência de Conciliação - Realizada sem Acordo - 03/03/2026 13:30"
-        },
-        {
-          "date": "2026-03-03",
-          "header": "TJGO",
           "title": "Juntada -> Petição -"
         },
         {
@@ -214,14 +214,14 @@
           "title": "Juntada -> Petição -> Contestação - Contestação"
         },
         {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - Realizada sem Acordo - 03/03/2026 13:30"
+        },
+        {
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Movimentação Bloqueada -"
-        },
-        {
-          "date": "2026-02-28",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Certidão Expedida (09/02/2026 13:01:38))"
         }
       ],
       "partes_adversarias": [
@@ -271,12 +271,22 @@
         {
           "date": "2026-03-13",
           "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
           "title": "Transitado em Julgado -"
         },
         {
           "date": "2026-03-13",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
         },
         {
           "date": "2026-01-15",
@@ -294,6 +304,11 @@
           "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) -"
         },
         {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado)"
+        },
+        {
           "date": "2025-12-15",
           "header": "TJGO",
           "title": "Audiência de Conciliação CEJUSC Artigo 334 CPC - Realizada com Acordo - 12/12/2025 16:30"
@@ -301,22 +316,7 @@
         {
           "date": "2025-12-12",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Habilitação no processo"
-        },
-        {
-          "date": "2025-12-12",
-          "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2025-12-12",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - ACORDO"
-        },
-        {
-          "date": "2025-10-16",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Certidão Expedida (17/09/2025 17:01:20))"
         }
       ],
       "partes_adversarias": [

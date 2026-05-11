@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:33:36-03:00",
-    "gerado_em_humano": "10/05/2026 08:33",
+    "gerado_em": "2026-05-11T14:31:17-03:00",
+    "gerado_em_humano": "11/05/2026 14:31",
     "slug_url": "painel-mybroker-oeste-2026-8rud",
     "departamento": "direito_imobiliario"
   },
@@ -38,6 +38,16 @@
           "title": "Decisão -> Determinação -> Arquivamento -"
         },
         {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento"
+        },
+        {
           "date": "2024-11-11",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -66,16 +76,6 @@
           "date": "2024-09-19",
           "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
-          "date": "2024-09-18",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Planilha de Débitos Atualizada"
-        },
-        {
-          "date": "2024-09-09",
-          "header": "TJGO",
-          "title": "Decisão -> Determinação -> Bloqueio/penhora on line - Decisão - Sisbajud"
         }
       ],
       "partes_adversarias": [
@@ -130,12 +130,22 @@
         {
           "date": "2026-02-10",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
           "title": "Processo Arquivado -"
         },
         {
           "date": "2026-01-20",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIOL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (20/01/2026 17:34:46))"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
         },
         {
           "date": "2026-01-20",
@@ -145,7 +155,7 @@
         {
           "date": "2026-01-20",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (20/01/2026 17:34:46))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIOL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
         },
         {
           "date": "2025-12-17",
@@ -160,17 +170,7 @@
         {
           "date": "2025-12-09",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Decisão -> Outras Decisões (09/12/2025 16:08:53))"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
         }
       ],
       "partes_adversarias": [

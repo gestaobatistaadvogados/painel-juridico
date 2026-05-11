@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-10T08:39:26-03:00",
-    "gerado_em_humano": "10/05/2026 08:39",
+    "gerado_em": "2026-05-11T14:37:15-03:00",
+    "gerado_em_humano": "11/05/2026 14:37",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -119,9 +119,9 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-04-29",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+          "title": "Intimação Expedida - On-line para Adv(s). de Thaize Pereira Da Silva - Polo Passivo (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo - 29/04/2026 15:37:11)"
         },
         {
           "date": "2026-04-29",
@@ -154,19 +154,19 @@
           "title": "Decisão -> Nomeação -> Defensor Dativo -"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Decisão -> Nomeação -> Defensor Dativo"
         },
         {
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Documento Cumprido - Termo - (Referente à Mov. Juntada de Documento (15/04/2026 09:49:27))"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Documento Expedido - Termo"
         }
       ],
       "partes_adversarias": [
@@ -198,6 +198,16 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
+          "date": "2026-05-09",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para Leila Cristina Vieira Antunes Silva (Referente à Mov. Decisão -> Outras Decisões (11/03/2026 15:58:41))"
+        },
+        {
+          "date": "2026-05-09",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (11/03/2026 15:58:41))"
+        },
+        {
           "date": "2026-04-21",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Maciel Silva - Código de Rastreamento Correios: YH137415278BR idPendenciaCorreios109587605432015873960765851idPendenciaCorreios"
@@ -210,12 +220,12 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
+          "title": "Citação Expedida - E-carta expedido para o executado/Título Extrajudicial"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Citação Expedida - E-carta expedido para o executado/Título Extrajudicial"
+          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
         },
         {
           "date": "2026-04-09",
@@ -236,16 +246,6 @@
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Citação Não Efetivada - Citação NÃO Efetivada (WhatsApp) - ambos promovidos"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Citação Expedida - WhatsApp enviado - Aguardando resposta/ AMBOS PROMOVIDO(A)"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
         }
       ],
       "partes_adversarias": [
@@ -274,49 +274,49 @@
       "responsible": "BERNARDO AMORIM NICARETTO",
       "movements": [
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
+          "title": "Transitado em Julgado - para Aevo Imobiliaria Ltda em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+          "title": "Transitado em Julgado - para Fernanda Lopes Vilarinho Vieira em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -"
+          "title": "Transitado em Julgado - para Diego Guimaraes Gomes em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+          "title": "Processo Arquivado"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raphaela Pacheco Alexandre Linhares (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+          "title": "Transitado em Julgado - para Manoel Lessa Mota em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-05",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fernanda Lopes Vilarinho Vieira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+          "title": "Transitado em Julgado - para Rodrigo Simon Gruszezynski em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Carlos Anderson Oliveira Silva em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Raphaela Pacheco Alexandre Linhares em 04/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
         },
         {
           "date": "2026-04-13",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (13/04/2026 21:49:43))"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
         },
         {
           "date": "2026-04-13",
@@ -400,22 +400,22 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
           "title": "Transitado em Julgado - para Manoel Lessa Mota em 08/04/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (17/03/2026 17:55:16))"
         },
         {
           "date": "2026-03-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
         },
         {
           "date": "2026-03-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Polyana Lopes De Souza (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
         }
       ],
       "partes_adversarias": [
@@ -466,6 +466,11 @@
           "title": "Despacho -> Determinação de Citação -"
         },
         {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Despacho -> Determinação de Citação"
+        },
+        {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -478,32 +483,27 @@
         {
           "date": "2026-03-18",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (18/03/2026 12:48:15))"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Inclusão no Juízo 100% Digital"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO - NÃO HÁ PROCESSOS ENVOLVENDO MESMAS PARTES"
         },
         {
           "date": "2026-03-18",
           "header": "TJGO",
           "title": "Certidão Expedida - CHECK LIST COM PENDÊNCIAS - 1ª UPJ"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota - Polo Ativo (Referente à Mov. Certidão Expedida - 18/03/2026 12:48:15)"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota - Polo Ativo (Referente à Mov. Certidão Expedida - 18/03/2026 12:48:15)"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski - Polo Ativo (Referente à Mov. Certidão Expedida - 18/03/2026 12:48:15)"
         }
       ],
       "partes_adversarias": [
@@ -635,6 +635,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Wellington Gomes Ferreira em 06/05/2026 23:59:59 (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para Anderca Regina Costa Fernandes Gomes (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
+        },
+        {
           "date": "2026-05-02",
           "header": "TJGO",
           "title": "Citação Efetivada - Para Wellington Gomes Ferreira (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
@@ -652,6 +667,11 @@
         {
           "date": "2026-04-12",
           "header": "TJGO",
+          "title": "Despacho -> Determinação de Citação"
+        },
+        {
+          "date": "2026-04-12",
+          "header": "TJGO",
           "title": "Despacho -> Determinação de Citação -"
         },
         {
@@ -663,26 +683,6 @@
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Cesar Ribeiro De Oliveira (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gustavo Crisostomo Nascimento (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -731,12 +731,27 @@
         {
           "date": "2026-03-24",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
           "title": "Processo Arquivado -"
         },
         {
           "date": "2026-03-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (CNJ:460) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (CNJ:460) - )"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (23/03/2026 15:39:13))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada"
         },
         {
           "date": "2026-03-23",
@@ -762,21 +777,6 @@
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (CNJ:460) - )"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (23/03/2026 15:39:13))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (CNJ:460) - )"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Perempção, litispendência ou coisa julgada (CNJ:460) - )"
         }
       ],
       "partes_adversarias": [
@@ -912,7 +912,48 @@
       "created_at": "2026-04-09 11:18:00",
       "process_date": "2026-04-09",
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJDFT",
+          "title": "Publicado Decisão em 22/04/2026."
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJDFT",
+          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Recebidos os autos"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Determinada a emenda à inicial"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
+        },
+        {
+          "date": "2026-04-11",
+          "header": "TJDFT",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJDFT",
+          "title": "Distribuído por sorteio"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CARLOS ANDERSON OLIVEIRA SILVA"
@@ -951,14 +992,19 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-04-27",
+          "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Larissa Borges Goncalves De Almeida (Referente à Mov. Despacho -> Mero Expediente (27/04/2026 16:13:19))"
+          "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Larissa Borges Goncalves De Almeida (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Decorrido Prazo - para Aevo Imobiliaria Ltda em 07/05/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (27/04/2026 16:13:19))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Larissa Borges Goncalves De Almeida em 07/05/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (27/04/2026 16:13:19))"
         },
         {
           "date": "2026-04-27",
@@ -973,32 +1019,27 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Larissa Borges Goncalves De Almeida (Referente à Mov. Despacho -> Mero Expediente (27/04/2026 16:13:19))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente (27/04/2026 16:13:19))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Larissa Borges Goncalves De Almeida (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - NÃO HÁ PROCESSOS ENVOLVENDO MESMAS PARTES"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Inclusão no Juízo 100% Digital -"
         }
       ],
       "partes_adversarias": [
@@ -1014,12 +1055,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },
