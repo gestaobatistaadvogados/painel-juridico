@@ -1,0 +1,687 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-11T15:58:55-03:00",
+    "gerado_em_humano": "11/05/2026 15:58",
+    "slug_url": "painel-mybrokerimoveis-2026-opis",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "MY BROKER IMOVEIS ALUGUEL LTDA",
+    "identification": "**.***.***/****-51",
+    "city": "GOIÂNIA",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13118306,
+      "process_number": "5667114-60.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "RECURSAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-11 12:49:30",
+      "process_date": "2025-08-20",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará expedido pelo pagamento voluntário (comprovante ao evento 81)"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Alvará Entregue - (Referente à Mov. Juntada de Documento (08/04/2026 18:15:46))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Juntada de Documento - MANIFESTAÇÃO DA PARTE AUTORA- APRESENTA DADOS BANCÁRIOS PARA EXPEDIÇÃO DE ALVARÁ"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aluguel Ltda (Referente à Mov. Certidão Expedida (31/03/2026 14:36:10))"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Loft Solucoes Financeiras S/a (Referente à Mov. Certidão Expedida (31/03/2026 14:36:10))"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Transito em julgado - Devolução Juízo de Origem"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADRIANA SANTOS FERREIRA"
+        },
+        {
+          "name": "LOFT SOLUCOES FINANCEIRAS S/A"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13285167,
+      "process_number": "5448235-62.2020.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INVENTÁRIO",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-20 10:21:52",
+      "process_date": "2020-09-09",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Pedro Duarte Silva Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alexandre Ramos Pimenta, representado por NARIA CRISTINA RAMOS DE GODOI - INVENTARIANTE (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Pagamento das custas iniciais/complementares atualizada"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sandra Aparecida De Miranda Nunes (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Angélica De Oliveira Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leticia Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fabiola Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lorena Da Cruz Neves Pimenta Gutierrez (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leonardo Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALEXANDRE RAMOS PIMENTA, REPRESENTADO POR NARIA CRISTINA RAMOS DE GODOI - INVENT"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412567,
+      "process_number": "5554374-62.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3424",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2025-07-14 00:00:00",
+      "created_at": "2025-07-14 00:00:00",
+      "process_date": "2025-07-14",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joao Raphael Reis Araujo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (21/07/2025 13:35:34))"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Raphael Reis Araujo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (CNJ:11378) - )"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial -"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aluguel Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Incompetência territorial (21/07/2025 13:35:34))"
+        },
+        {
+          "date": "2025-07-17",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2025-07-16",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOAO RAPHAEL REIS ARAUJO"
+        },
+        {
+          "name": "JHOSAPHA LIMA DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413501,
+      "process_number": "5566771-90.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "1353",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO",
+      "group": "CÍVEL",
+      "status_closure": "2024-06-27 00:00:00",
+      "created_at": "2024-06-27 00:00:00",
+      "process_date": null,
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
+      "movements": [
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Da Silva Gomes (Referente à Mov. Decisão -> Determinação -> Arquivamento (30/06/2025 17:23:22))"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aline Braga De Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento (30/06/2025 17:23:22))"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Da Silva Gomes (Referente à Mov. Decisão -> Determinação -> Arquivamento - 30/06/2025 17:23:22)"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aline Braga De Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento - 30/06/2025 17:23:22)"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-07-18",
+          "header": "TJGO",
+          "title": "Certidão Expedida - ARQUIVAMENTO/PETICIONAMENTO NORMAL"
+        },
+        {
+          "date": "2025-06-30",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2025-06-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Sem manifestação - Devedores / autores"
+        },
+        {
+          "date": "2025-06-17",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALINE BRAGA DE OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413503,
+      "process_number": "5052260-86.2025.8.13.0702",
+      "protocol_number": null,
+      "folder": "3528",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-08-15 00:00:00",
+      "created_at": "2025-08-15 00:00:00",
+      "process_date": "2025-08-15",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-04-24",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 24/04/2026."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJMG",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-03-29",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 19/03/2026."
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 18/03/2026"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJMG",
+          "title": "Juntada de Carta precatória"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JHOSAFA LIMA DA SILVA"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TJMG"
+    },
+    {
+      "id": 13413504,
+      "process_number": "5743801-78.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3775",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2025-10-09 00:00:00",
+      "created_at": "2025-10-09 00:00:00",
+      "process_date": "2025-09-12",
+      "responsible": "LETÍCIA LIMA AMORIM",
+      "movements": [
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Neuzany Dos Anjos Costa Santos em 05/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (09/01/2026 18:24:18))"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para My Broker Imoveis Aluguel Ltda em 05/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (09/01/2026 18:24:18))"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Valtinho Gomes Dos Santos em 05/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (09/01/2026 18:24:18))"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Neuzany Dos Anjos Costa Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valtinho Gomes Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência -"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valtinho Gomes Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (09/01/2026 18:24:18))"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Neuzany Dos Anjos Costa Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (09/01/2026 18:24:18))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "VALTINHO GOMES DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413505,
+      "process_number": "5844546-03.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "1627",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2024-09-03 00:00:00",
+      "created_at": "2024-09-03 00:00:00",
+      "process_date": "2024-09-03",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MARCIO ANTONIO KALINOSKI"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13605638,
+      "process_number": null,
+      "protocol_number": "2603071400100125301",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2026-04-13 13:41:44",
+      "created_at": "2026-03-10 11:31:18",
+      "process_date": "2026-03-10",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "DIOGENES ANTONELLI DA SILVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14211289,
+      "process_number": "5169244-46.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-14 11:55:05",
+      "process_date": null,
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Ato Ordinatório (30/04/2026 20:20:37))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva - Polo Ativo (Referente a Mov. Ato Ordinatorio - 30/04/2026 20:20:37)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eduardo De Castro Bittencourt - Polo Ativo (Referente a Mov. Ato Ordinatorio - 30/04/2026 20:20:37)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Ato Automatizado pela BERNA IA: Ato Ordinatorio."
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - Contestação"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Ato Ordinatório (30/04/2026 20:20:37))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por dias)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Juntada de Documento (16/04/2026 13:01:17))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Juntada de Documento - 16/04/2026 13:01:17)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIELLE DE MEDEIROS SILVA"
+        },
+        {
+          "name": "EDUARDO DE CASTRO BITTENCOURT"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14211396,
+      "process_number": "5285317-04.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-14 12:00:11",
+      "process_date": null,
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agrevo de Instrumento"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração - 16/04/2026 08:59:21)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração - 16/04/2026 08:59:21)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração (16/04/2026 08:59:21))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração (16/04/2026 08:59:21))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIELLE DE MEDEIROS SILVA"
+        },
+        {
+          "name": "EDUARDO DE CASTRO BITTENCOURT"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14524995,
+      "process_number": "5279151-34.2018.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ATENDENDO EXIGÊNCIAS",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-04-28 15:39:09",
+      "process_date": "2026-04-28",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-04"
+  }
+}

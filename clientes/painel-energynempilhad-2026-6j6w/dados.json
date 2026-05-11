@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-11T15:58:21-03:00",
+    "gerado_em_humano": "11/05/2026 15:58",
+    "slug_url": "painel-energynempilhad-2026-6j6w",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "ENERGYN EMPILHADEIRAS E COMPONENTES LTDA | GLOBAL WF COMERCIO LTDA",
+    "identification": "**.***.***/****-23",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 14540953,
+      "process_number": "0802182-43.2025.8.10.0050",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-04-29 10:20:19",
+      "process_date": "2025-08-25",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-29",
+          "header": "TJMA",
+          "title": "Mandado devolvido entregue ao destinatário"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJMA",
+          "title": "Juntada de Petição de diligência"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJMA",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJMA",
+          "title": "Enviado ao Diário da Justiça Eletrônico"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJMA",
+          "title": "Expedição de Mandado."
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJMA",
+          "title": "Juntada de Certidão"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJMA",
+          "title": "Audiência de conciliação   designada conduzida por #Não preenchido# em/para 08/06/2026 10:00,  Juizado Especial Cível e Criminal de Paço do Lumiar."
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJMA",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJMA",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-01-12",
+          "header": "TJMA",
+          "title": "Juntada de Certidão"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LEONARDO SERRA CANTANHEDE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMA"
+    }
+  ],
+  "atividade_90d": {
+    "total": 9,
+    "categorias": {
+      "Peças": 2,
+      "Audiências": 1,
+      "Comunicações": 3,
+      "Acompanhamento": 1,
+      "Diligências": 2,
+      "Outras": 0
+    },
+    "ultima_data": "2026-04-29"
+  }
+}

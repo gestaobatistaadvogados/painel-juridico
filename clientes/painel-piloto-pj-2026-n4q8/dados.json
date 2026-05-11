@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T14:19:34-03:00",
-    "gerado_em_humano": "11/05/2026 14:19",
+    "gerado_em": "2026-05-11T15:37:28-03:00",
+    "gerado_em_humano": "11/05/2026 15:37",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_publico"
   },
@@ -2468,21 +2468,21 @@
       "process_number": "5219639-42.2026.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "ARQUIVADO/ENCERRADO",
-      "step": "ARQUIVAMENTO",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
       "type": "AGRAVO DE INSTRUMENTO",
       "group": "PRIVADO",
       "status_closure": null,
       "created_at": "2026-03-19 17:22:32",
       "process_date": "2026-03-13",
-      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "responsible": "FELLIPE LOPES",
       "movements": [],
       "partes_adversarias": [
         {
           "name": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A"
         }
       ],
-      "fase_grupo": "arquivados",
+      "fase_grupo": "recursal",
       "tribunal": "TJGO"
     },
     {
@@ -4233,9 +4233,9 @@
     }
   ],
   "atividade_90d": {
-    "total": 320,
+    "total": 321,
     "categorias": {
-      "Peças": 49,
+      "Peças": 50,
       "Audiências": 47,
       "Comunicações": 81,
       "Acompanhamento": 107,

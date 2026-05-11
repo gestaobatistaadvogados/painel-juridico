@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-11T15:58:02-03:00",
+    "gerado_em_humano": "11/05/2026 15:58",
+    "slug_url": "painel-luisfernandodeo-2026-c3bx",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "LUIS FERNANDO DE OLIVEIRA - ME",
+    "identification": "**.***.***/****-20",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

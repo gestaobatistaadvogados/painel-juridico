@@ -1,0 +1,788 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-11T15:57:48-03:00",
+    "gerado_em_humano": "11/05/2026 15:57",
+    "slug_url": "painel-luisfernandodeo-2026-bmow",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "LUIS FERNANDO DE OLIVEIRA",
+    "identification": "***.***.***-18",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 12997459,
+      "process_number": "5756355-45.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ARQUIVADO POR DETERMINAÇÃO JUDICIAL",
+      "step": "ARQUIVAMENTO",
+      "type": "INDENIZAÇÃO POR DANOS MATERIAIS C/C DANOS MORAIS",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-05 09:34:10",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "TRACBEL SA"
+        }
+      ],
+      "fase_grupo": "arquivados",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13154995,
+      "process_number": "5522154-50.2021.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "CITAÇÃO DO DEVEDOR PARA PAGAMENTO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-12 16:55:46",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação - impossibilidade de retorno ao rito monitório"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tracbel S/a (Referente à Mov. Juntada de Documento - 16/04/2026 14:16:56)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resposta Ofício - CRI e 1º Tabelionato de Notas de Aparecida de Goiânia/GO"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Juntada de Documento (16/04/2026 14:16:56))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Tracbel S/a (Referente à Mov. Juntada de Documento (16/04/2026 14:16:56))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Juntada de Documento - 16/04/2026 14:16:56)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Ofício encaminhado ao Cartório de Reg de ImóvTabel 1º de Notas Aparecida Goiâni"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "TRACBEL SA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13183834,
+      "process_number": "5130932-35.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DE COBRANÇA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-13 10:36:16",
+      "process_date": "2025-02-19",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento -"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "RENATO COSTA RODRIGUES"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412765,
+      "process_number": null,
+      "protocol_number": "2025/0480642-5",
+      "folder": "3939",
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DE IMISSÃO DE POSSE COM PEDIDO LIMINARC/C ADJUDICAÇÃO COMPULSÓRIAC/C DANOS MATERIAIS E MORAIS",
+      "group": "PRIVADO",
+      "status_closure": "2025-12-11 00:00:00",
+      "created_at": "2025-12-11 00:00:00",
+      "process_date": "2025-12-03",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "HUDSON PRATA JUNIOR"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "—"
+    },
+    {
+      "id": 13412766,
+      "process_number": "5057497-38.2019.8.09.0051",
+      "protocol_number": null,
+      "folder": "2257",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "CÍVEL",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2019-02-06",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412767,
+      "process_number": "5017891-03.2019.8.09.0051",
+      "protocol_number": null,
+      "folder": "2255",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "CÍVEL",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2019-01-17",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2011-07-20",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2011-07-20",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2011-03-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por FABIANA CANDIDO MAXIMO (Referente à Mov. SENTENÇA EXTINTA A PUNIBILIDADE POR PRESCRIÇÃO, DECADÊNCIA OU PEREMPÇÃO (06/01/2011 22:45:00))"
+        },
+        {
+          "date": "2011-03-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Promotoria dos Juizados de Uruaçu (Referente à Mov. SENTENÇA EXTINTA A PUNIBILIDADE POR PRESCRIÇÃO, DECADÊNCIA OU PEREMPÇÃO)"
+        },
+        {
+          "date": "2011-01-06",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> prescrição, decadência ou perempção"
+        },
+        {
+          "date": "2010-12-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2010-12-17",
+          "header": "TJGO",
+          "title": "Juntada de Documento"
+        },
+        {
+          "date": "2010-12-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por FABIANA CANDIDO MAXIMO (Referente à Mov. CERTIDÃO EXPEDIDA (14/12/2010 15:20:56))"
+        },
+        {
+          "date": "2010-12-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Promotoria dos Juizados de Uruaçu (Referente à Mov. CERTIDÃO EXPEDIDA)"
+        },
+        {
+          "date": "2010-12-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MAVY FERREIRA OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412768,
+      "process_number": "5846144-55.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3805",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "PRIVADO",
+      "status_closure": "2025-10-15 00:00:00",
+      "created_at": "2025-10-15 00:00:00",
+      "process_date": "2025-10-15",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hudson Prata Junior (Referente à Mov. Decisão -> Concessão -> Liminar (27/04/2026 17:42:40))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Decisão -> Concessão -> Liminar (27/04/2026 17:42:40))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hudson Prata Junior (Referente à Mov. Decisão -> Concessão -> Liminar (CNJ:339) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Decisão -> Concessão -> Liminar (CNJ:339) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão -> Liminar - DECISÃO - TUTELA DE URGÊNCIA - DEFERIMENTO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA - Polo Ativo (Referente à Mov. Mandado Cumprido - 24/03/2026 20:30:36)"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - INTIMA EXEQUENTE PARA PRESTAR CAUÇÃO"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HUDSON PRATA JUNIOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412769,
+      "process_number": "5284578-36.2023.8.09.0051",
+      "protocol_number": "5284578-36.2023.8.09.0051",
+      "folder": "1744",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "IMISSÃO NA POSSE",
+      "group": "CÍVEL",
+      "status_closure": "2024-11-12 00:00:00",
+      "created_at": "2024-11-12 00:00:00",
+      "process_date": "2023-05-08",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-02-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Interlocutória Hudson x Luis Fernando"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO DE REMESSA DOS AUTOS AO STJ"
+        },
+        {
+          "date": "2025-10-31",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de Desabilitação do(s) Advogado(s)"
+        },
+        {
+          "date": "2025-10-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - DESABILITAÇÃO"
+        },
+        {
+          "date": "2025-10-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contraminuta - Contraminuta ao Agravo em RESP"
+        },
+        {
+          "date": "2025-10-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Intimação Expedida (20/10/2025 17:12:40))"
+        },
+        {
+          "date": "2025-10-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2025-10-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTA AO AG/STJ."
+        },
+        {
+          "date": "2025-10-20",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HUDSON PRATA JUNIOR"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412770,
+      "process_number": "5672191-89.2021.8.09.0051",
+      "protocol_number": null,
+      "folder": "1723",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "MEDIDAS CAUTELARES",
+      "group": "CRIMINAL",
+      "status_closure": "2024-11-01 00:00:00",
+      "created_at": "2024-11-01 00:00:00",
+      "process_date": "2021-12-16",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Para 03 DDP DE GOIANIA GO"
+        },
+        {
+          "date": "2026-03-04",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Devolução dos autos à origem -"
+        },
+        {
+          "date": "2026-03-04",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Devolução dos autos à origem"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido -"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Trânsito em julgado para Renato Marcelino De Oliveira, Luis Fernando e MP"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - CERTIDÃO DE TRÂNSITO EM JULGADO"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SECRETARIA DE SEGURANÇA PÚBLICA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412771,
+      "process_number": null,
+      "protocol_number": "000065/25",
+      "folder": "1848",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "COBRANÇA",
+      "group": "PRIVADO",
+      "status_closure": "2024-01-23 00:00:00",
+      "created_at": "2024-01-23 00:00:00",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "RENATO COSTA RODRIGUES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13412772,
+      "process_number": "5058869-51.2021.8.09.0051",
+      "protocol_number": null,
+      "folder": "2261",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2021-02-08",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2025-12-20",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 180 dias)"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Alexandre Moreira Lima (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS BIZCAPITAL EMPIRICA PME (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de GOIÂNIA SERVICE EIRELI (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS BIZCAPITAL EMPIRICA PME (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Suspender-180 dias"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Alexandre Moreira Lima (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2025-12-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Distribuição IDPJ"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GOIÂNIA SERVICE EIRELI"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412773,
+      "process_number": "5080337-71.2021.8.09.0051",
+      "protocol_number": null,
+      "folder": "2262",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2021-02-19",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Despacho -> Mero Expediente (22/04/2026 13:27:45))"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Despacho - intima autor p/ manifestar sobre possível prescrição"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada - 26/02/2026 01:52:25)"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (19/01/2026 12:21:19))"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada (26/02/2026 01:52:25))"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada (19/02/2026 00:48:22))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GOIÂNIA SERVICE EIRELI"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412774,
+      "process_number": "5029673-36.2021.8.09.0051",
+      "protocol_number": null,
+      "folder": "2260",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2021-01-23",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Bradesco Financiamentos S/a (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada (26/02/2026 08:15:52))"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada (CNJ:276) - )"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Bradesco Financiamentos S/a (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada (26/02/2026 08:15:52))"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Banco Bradesco Financiamentos S/a (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada (CNJ:276) - )"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Execução Frustrada"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - PETIÇÃO"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412775,
+      "process_number": "0010929-56.2020.5.18.0005",
+      "protocol_number": null,
+      "folder": "2970",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "RECLAMATÓRIA TRABALHISTA",
+      "group": "TRABALHISTA",
+      "status_closure": "2025-06-05 00:00:00",
+      "created_at": "2025-06-05 00:00:00",
+      "process_date": "2020-07-30",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "D. B. C. B."
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    }
+  ],
+  "atividade_90d": {
+    "total": 3,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 1,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-11"
+  }
+}

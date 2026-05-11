@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T14:25:12-03:00",
-    "gerado_em_humano": "11/05/2026 14:25",
+    "gerado_em": "2026-05-11T15:43:42-03:00",
+    "gerado_em_humano": "11/05/2026 15:43",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -1074,10 +1074,10 @@
       "process_number": "6113610-31.2024.8.09.0144",
       "protocol_number": null,
       "folder": "1819",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO AUDIÊNCIA",
       "step": "JUDICIAL",
-      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
-      "group": "CÍVEL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "IMOBILIÁRIO",
       "status_closure": "2024-12-26 00:00:00",
       "created_at": "2024-12-26 00:00:00",
       "process_date": "2024-12-09",
@@ -1136,7 +1136,13 @@
       ],
       "partes_adversarias": [
         {
+          "name": "SOUSA ASSESSORIA DE NEGOCIOS IMOBILIARIOS LTDA"
+        },
+        {
           "name": "DENER RODRIGUES DE SOUZA"
+        },
+        {
+          "name": "MENEZES E SOUSA ASSESSORIA DE NEGOCIOS IMOBILIARIOS LTDA"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -3662,15 +3668,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 8,
+    "total": 12,
     "categorias": {
       "Peças": 2,
-      "Audiências": 0,
-      "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Audiências": 1,
+      "Comunicações": 2,
+      "Acompanhamento": 4,
       "Diligências": 1,
       "Outras": 2
     },
-    "ultima_data": "2026-05-08"
+    "ultima_data": "2026-05-11"
   }
 }

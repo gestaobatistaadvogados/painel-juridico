@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-11T15:58:14-03:00",
+    "gerado_em_humano": "11/05/2026 15:58",
+    "slug_url": "painel-globaltekwindow-2026-94ar",
+    "departamento": "direito_privado"
+  },
+  "cliente": {
+    "name": "GLOBALTEK WINDOW FILMS BRASIL - IMPORTACAO E DISTRIBUICAO LTDA",
+    "identification": "**.***.***/****-41",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13066786,
+      "process_number": "5709837-94.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-02-09 15:22:13",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MARCEL SIMOES PINTO E AMARAL"
+        }
+      ],
+      "fase_grupo": "arquivados",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412363,
+      "process_number": "0816950-73.2024.8.19.0206",
+      "protocol_number": null,
+      "folder": "2213",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "CÍVEL",
+      "status_closure": "2025-03-06 00:00:00",
+      "created_at": "2025-03-06 00:00:00",
+      "process_date": "2024-07-26",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "EVERTON PONTES TEIXEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJRJ"
+    },
+    {
+      "id": 13412364,
+      "process_number": "0897403-40.2024.8.10.0001",
+      "protocol_number": null,
+      "folder": "1810",
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2024-12-16 00:00:00",
+      "created_at": "2024-12-16 00:00:00",
+      "process_date": "2024-12-12",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2025-12-02",
+          "header": "TJMA",
+          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 01/12/2025 23:59."
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJMA",
+          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 01/12/2025 23:59."
+        },
+        {
+          "date": "2025-11-18",
+          "header": "TJMA",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJMA",
+          "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJMA",
+          "title": "Publicado Intimação em 06/11/2025."
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJMA",
+          "title": "Juntada de Petição de contrarrazões"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJMA",
+          "title": "Juntada de Petição de contrarrazões"
+        },
+        {
+          "date": "2025-11-04",
+          "header": "TJMA",
+          "title": "Enviado ao Diário da Justiça Eletrônico"
+        },
+        {
+          "date": "2025-11-02",
+          "header": "TJMA",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2025-06-02",
+          "header": "TJMA",
+          "title": "Conclusos para despacho"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EMPRESA MARANHENSE DE SERVIÇOS HOSPITALARES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJMA"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}
