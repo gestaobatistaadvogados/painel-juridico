@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:51:56-03:00",
-    "gerado_em_humano": "12/05/2026 11:51",
+    "gerado_em": "2026-05-12T13:52:17-03:00",
+    "gerado_em_humano": "12/05/2026 13:52",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -247,9 +247,14 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Certidão Expedida - exequente informar dados bancários para alvará (não pix)"
         },
         {
           "date": "2026-04-29",
@@ -259,22 +264,12 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Certidão Expedida - exequente informar dados bancários para alvará (não pix)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (15/04/2026 19:19:50))"
         },
         {
           "date": "2026-04-15",
@@ -287,14 +282,19 @@
           "title": "Decisão -> Outras Decisões -"
         },
         {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (15/04/2026 19:19:50))"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
           "date": "2026-03-25",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição"
         }
       ],
       "partes_adversarias": [

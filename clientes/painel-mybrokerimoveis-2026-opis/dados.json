@@ -1,12 +1,12 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:54:56-03:00",
-    "gerado_em_humano": "12/05/2026 11:54",
+    "gerado_em": "2026-05-12T13:55:18-03:00",
+    "gerado_em_humano": "12/05/2026 13:55",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
   "cliente": {
-    "name": "MY BROKER IMOVEIS ALUGUEL LTDA",
+    "name": "MY BROKER IMOVEIS ALUGUEL LTDA - 52.734.564/0001-51",
     "identification": "**.***.***/****-51",
     "city": "GOIÂNIA",
     "state": "GO",
@@ -668,6 +668,31 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [],
       "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14786525,
+      "process_number": "5131352-06.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO RESCISÓRIA DE CONTRATO DE LOCAÇÃO C/C INDENIZATÓRIA POR DANOS MATERIAIS E DANO MORAL COM TUTELA DE URGÊNCIA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-12 13:49:13",
+      "process_date": "2026-02-15",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GABRIELLE FERREIRA GONZAGA"
+        },
+        {
+          "name": "STELLA PORTO DO CARMO"
+        }
+      ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:44:39-03:00",
-    "gerado_em_humano": "12/05/2026 11:44",
+    "gerado_em": "2026-05-12T13:45:00-03:00",
+    "gerado_em_humano": "12/05/2026 13:45",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -5963,9 +5963,9 @@
     }
   ],
   "atividade_90d": {
-    "total": 58,
+    "total": 57,
     "categorias": {
-      "Peças": 9,
+      "Peças": 8,
       "Audiências": 5,
       "Comunicações": 8,
       "Acompanhamento": 29,

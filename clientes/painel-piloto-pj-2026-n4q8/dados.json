@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:35:37-03:00",
-    "gerado_em_humano": "12/05/2026 11:35",
+    "gerado_em": "2026-05-12T13:35:53-03:00",
+    "gerado_em_humano": "12/05/2026 13:35",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -2839,7 +2839,58 @@
       "created_at": "2026-03-31 17:09:57",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 12/05/2026"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 12/05/2026"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 11/05/2026"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 11/05/2026"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (07/07/2026 08:30 Dra. Rosana Padovani - INS e ENI - PAR - 9ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (07/05/2026 14:20 CEJUSC - 9ª VARA - 9ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (07/07/2026 08:30 Dra. Rosana Padovani - INS e ENI - PAR - 9ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Conclusos os autos para despacho (genérica) a ROSANA RABELLO PADOVANI MESSIAS"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT18",
+          "title": "Audiência de instrução (rito sumaríssimo) por videoconferência designada (07/07/2026 08:30 Dra. Rosana Padovani - INS e ENI - PAR - 9ª VARA DO TRABALHO DE GOIÂNIA)"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "STEFANY GUIMARAES PINTO"
@@ -4412,13 +4463,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 318,
+    "total": 322,
     "categorias": {
-      "Peças": 46,
-      "Audiências": 47,
-      "Comunicações": 83,
-      "Acompanhamento": 106,
-      "Diligências": 30,
+      "Peças": 45,
+      "Audiências": 48,
+      "Comunicações": 81,
+      "Acompanhamento": 111,
+      "Diligências": 31,
       "Outras": 6
     },
     "ultima_data": "2026-05-12"

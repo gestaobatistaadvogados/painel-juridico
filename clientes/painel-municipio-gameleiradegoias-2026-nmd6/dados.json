@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T12:13:25-03:00",
-    "gerado_em_humano": "12/05/2026 12:13",
+    "gerado_em": "2026-05-12T14:13:35-03:00",
+    "gerado_em_humano": "12/05/2026 14:13",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -1887,6 +1887,21 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos de declaração - EMBARGOS DE DECLARAÇÃO - integrativo"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (30/04/2026 12:42:41))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Embargos de declaração"
@@ -1899,7 +1914,7 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 30/04/2026 12:42:41)"
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 27/04/2026 10:00)"
         },
         {
           "date": "2026-04-30",
@@ -1909,7 +1924,7 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 27/04/2026 10:00)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 30/04/2026 12:42:41)"
         },
         {
           "date": "2026-04-30",
@@ -1920,21 +1935,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (30/04/2026 12:42:41))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (31/03/2026 18:17:45))"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 31/03/2026 18:17:45)"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 31/03/2026 18:17:45)"
         }
       ],
       "partes_adversarias": [

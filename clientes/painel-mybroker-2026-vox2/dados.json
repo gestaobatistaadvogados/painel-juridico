@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:41:15-03:00",
-    "gerado_em_humano": "12/05/2026 11:41",
+    "gerado_em": "2026-05-12T13:41:37-03:00",
+    "gerado_em_humano": "12/05/2026 13:41",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -3665,18 +3665,40 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 14786067,
+      "process_number": null,
+      "protocol_number": "2603071400100105301",
+      "folder": null,
+      "stage": "ATENDENDO EXIGÊNCIAS",
+      "step": "ADMINISTRATIVO",
+      "type": "PROCON",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-12 13:25:56",
+      "process_date": "2026-05-11",
+      "responsible": "ANA LUIZA REIS MARTINS DA COSTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BRUNO DE SÁ JESUS BOTELHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 12,
+    "total": 14,
     "categorias": {
       "Peças": 2,
       "Audiências": 1,
       "Comunicações": 2,
-      "Acompanhamento": 4,
+      "Acompanhamento": 5,
       "Diligências": 1,
-      "Outras": 2
+      "Outras": 3
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-12"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T11:37:41-03:00",
-    "gerado_em_humano": "12/05/2026 11:37",
+    "gerado_em": "2026-05-12T13:38:00-03:00",
+    "gerado_em_humano": "12/05/2026 13:38",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -1723,15 +1723,40 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TRT18"
+    },
+    {
+      "id": 14785069,
+      "process_number": "0000426-45.2026.5.18.0011",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "SOCIAL (PREVIDENCIÁRIO E TRABALHISTA)",
+      "status_closure": null,
+      "created_at": "2026-05-12 12:08:38",
+      "process_date": "2026-05-12",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "AMANDA TELES CARDOSO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
     }
   ],
   "atividade_90d": {
-    "total": 64,
+    "total": 69,
     "categorias": {
-      "Peças": 7,
-      "Audiências": 6,
-      "Comunicações": 10,
-      "Acompanhamento": 31,
+      "Peças": 8,
+      "Audiências": 7,
+      "Comunicações": 11,
+      "Acompanhamento": 33,
       "Diligências": 3,
       "Outras": 7
     },
