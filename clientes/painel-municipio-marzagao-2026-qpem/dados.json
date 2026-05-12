@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T12:10:48-03:00",
+    "gerado_em_humano": "12/05/2026 12:10",
+    "slug_url": "painel-municipio-marzagao-2026-qpem",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICIPIO DE MARZAGAO",
+    "identification": "**.***.***/****-04",
+    "city": "MARZAGÃO",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13746429,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 16:12:38",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14543086,
+      "process_number": null,
+      "protocol_number": "2244/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-29 11:40:02",
+      "process_date": "2026-04-29",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

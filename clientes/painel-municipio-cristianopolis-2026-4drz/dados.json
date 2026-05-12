@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T11:58:04-03:00",
+    "gerado_em_humano": "12/05/2026 11:58",
+    "slug_url": "painel-municipio-cristianopolis-2026-4drz",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICÍPIO DE CRISTIANOPOLIS",
+    "identification": "**.***.***/****-16",
+    "city": "CRISTIANÓPOLIS",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13413092,
+      "process_number": "1005520-45.2017.4.01.3400",
+      "protocol_number": null,
+      "folder": "23",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "FUNDEF / FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO",
+      "group": "CÍVEL",
+      "status_closure": "2023-07-31 00:00:00",
+      "created_at": "2023-07-31 00:00:00",
+      "process_date": "2017-06-14",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2022-11-28",
+          "header": "TRF01",
+          "title": "Processo Suspenso ou Sobrestado por Por decisão judicial"
+        },
+        {
+          "date": "2022-11-28",
+          "header": "TRF01",
+          "title": "Processo Suspenso ou Sobrestado por Por decisão judicial"
+        },
+        {
+          "date": "2022-08-16",
+          "header": "TRF01",
+          "title": "Juntada de manifestação"
+        },
+        {
+          "date": "2022-08-16",
+          "header": "TRF01",
+          "title": "Juntada de manifestação"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Processo Suspenso ou Sobrestado por Por decisão judicial"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Levantada a suspensão ou sobrestamento dos autos"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2022-08-03",
+          "header": "TRF01",
+          "title": "Juntada de Certidão"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "UNIÃO FEDERAL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13413093,
+      "process_number": "5625564-77.2023.8.09.0141",
+      "protocol_number": null,
+      "folder": "3950",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-12-16 00:00:00",
+      "created_at": "2025-12-16 00:00:00",
+      "process_date": "2023-09-20",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Juntada de Documento - SEMAD - demanda em andamento"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Recibo - solicita resposta SEMAD"
+        },
+        {
+          "date": "2026-02-20",
+          "header": "TJGO",
+          "title": "Ofício Respondido - OFÍCIO Nº 9416/2026/CBM - Defesa Civil"
+        },
+        {
+          "date": "2026-01-22",
+          "header": "TJGO",
+          "title": "Ofício Efetivado - (Referente à Mov. Despacho -> Mero Expediente (10/10/2025 16:27:49))"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Despacho -> Mero Expediente (18/12/2025 16:24:34))"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Ofício Efetivado - (Referente à Mov. Despacho -> Mero Expediente (10/10/2025 16:27:49))"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Decisão -> deferimento (16/12/2025 13:13:07))"
+        },
+        {
+          "date": "2026-01-19",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CARTORIO DE REGISTROS PUBLICOS E NOTAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413094,
+      "process_number": "6047190-19.2025.8.09.0141",
+      "protocol_number": null,
+      "folder": "3957",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-12-17 00:00:00",
+      "created_at": "2025-12-17 00:00:00",
+      "process_date": "2025-12-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Sessão Julgamento Adiado - (Adiado em razão do Pedido de Sustentação Oral Deferido na sessão de: 27/04/2026 10:00 - Próxima sessão prevista: 16/06/2026 09:00)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Cristianopolis (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Waldir Lara Cardoso (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Tiago Santana Gonçalves (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 27/04/2026 10:00:00 (Virtual) - Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Relatório -> Pauta -> Pedido de inclusão em pauta -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413095,
+      "process_number": "5352259-28.2020.8.09.0051",
+      "protocol_number": null,
+      "folder": "3742",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-09-26 00:00:00",
+      "created_at": "2025-09-26 00:00:00",
+      "process_date": "2020-07-20",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Estado De Goias (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (07/04/2026 20:59:43))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Cristianópolis (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (07/04/2026 20:59:43))"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (CNJ:14233) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento - Homologação quantum debeatur - Homologa cálculos CUC - Expedir precatório"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Cristianópolis (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (CNJ:14233) - )"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição - Manifestação"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Cristianópolis (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (09/12/2025 19:03:51))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413630,
+      "process_number": "1020951-71.2021.4.01.3500",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "NULIDADE / ATO ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2021-03-29 00:00:00",
+      "created_at": "2021-01-28 00:00:00",
+      "process_date": "2021-05-28",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-02-28",
+          "header": "TRF01",
+          "title": "Decorrido prazo de MUNICIPIO DE CRISTIANOPOLIS em 27/02/2026 23:59."
+        },
+        {
+          "date": "2026-02-28",
+          "header": "TRF01",
+          "title": "Decorrido prazo de MUNICIPIO DE CRISTIANOPOLIS em 27/02/2026 23:59."
+        },
+        {
+          "date": "2026-01-13",
+          "header": "TRF01",
+          "title": "Juntada de embargos de declaração"
+        },
+        {
+          "date": "2026-01-13",
+          "header": "TRF01",
+          "title": "Juntada de embargos de declaração"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TRF01",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TRF01",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRF01",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRF01",
+          "title": "Declarada decadência ou prescrição"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRF01",
+          "title": "Julgado improcedente o pedido"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRF01",
+          "title": "Declarada decadência ou prescrição"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        },
+        {
+          "name": "UNIÃO FEDERAL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13745897,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 15:52:56",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244291,
+      "process_number": null,
+      "protocol_number": "3932/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:44:27",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244556,
+      "process_number": null,
+      "protocol_number": "1245/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:07:59",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244583,
+      "process_number": null,
+      "protocol_number": "4656/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:10:54",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244614,
+      "process_number": null,
+      "protocol_number": "6030/23",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:13:48",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244649,
+      "process_number": null,
+      "protocol_number": "8365/22",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:16:23",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244679,
+      "process_number": null,
+      "protocol_number": "6641/22",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:18:36",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244707,
+      "process_number": null,
+      "protocol_number": "167/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 13:20:20",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14250586,
+      "process_number": null,
+      "protocol_number": "5773/2021",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 16:04:33",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438000,
+      "process_number": null,
+      "protocol_number": "5773/21",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 11:59:43",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 2,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 1
+    },
+    "ultima_data": "2026-05-12"
+  }
+}

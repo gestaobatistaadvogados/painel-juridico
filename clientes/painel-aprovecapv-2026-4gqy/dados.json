@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T15:47:32-03:00",
-    "gerado_em_humano": "11/05/2026 15:47",
+    "gerado_em": "2026-05-12T11:44:39-03:00",
+    "gerado_em_humano": "12/05/2026 11:44",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -26,7 +26,58 @@
       "created_at": "2026-02-02 12:01:07",
       "process_date": null,
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-04-04",
+          "header": "TJGO",
+          "title": "Despacho Autos ao Contador -"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação do Cálculo -"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcus Vinicius Alves Moraes (Referente à Mov. Juntada -> Petição (30/01/2026 09:28:08))"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associação de Apoio aos Proprietários de Veículos e Benefícios Mútuos (Referente à Mov. Juntada -> Petição (30/01/2026 09:28:08))"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcus Vinicius Alves Moraes - Polo Passivo (Referente à Mov. Juntada -> Petição - 30/01/2026 09:28:08)"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação de Apoio aos Proprietários de Veículos e Benefícios Mútuos - Polo Passivo (Referente à Mov. Juntada -> Petição - 30/01/2026 09:28:08)"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luiz Augusto Velloso Pires (Referente à Mov. Cálculo de Custas - 29/01/2026 11:41:26)"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcus Vinicius Alves Moraes (Referente à Mov. Cálculo de Custas - 29/01/2026 11:41:26)"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação de Apoio aos Proprietários de Veículos e Benefícios Mútuos (Referente à Mov. Cálculo de Custas - 29/01/2026 11:41:26)"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "LUIZ AUGUSTO VELLOSO PIRES"
@@ -5912,12 +5963,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 60,
+    "total": 58,
     "categorias": {
       "Peças": 9,
       "Audiências": 5,
       "Comunicações": 8,
-      "Acompanhamento": 31,
+      "Acompanhamento": 29,
       "Diligências": 3,
       "Outras": 4
     },

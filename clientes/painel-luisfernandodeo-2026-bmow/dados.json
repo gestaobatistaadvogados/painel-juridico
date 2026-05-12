@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T15:57:48-03:00",
-    "gerado_em_humano": "11/05/2026 15:57",
+    "gerado_em": "2026-05-12T11:53:55-03:00",
+    "gerado_em_humano": "12/05/2026 11:53",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -179,6 +179,88 @@
         }
       ],
       "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412725,
+      "process_number": "5230894-36.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": "2779",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PRIVADO",
+      "status_closure": "2025-05-08 00:00:00",
+      "created_at": "2025-05-08 00:00:00",
+      "process_date": "2022-04-22",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Itau Unibanco S/a (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Itau Unibanco S/a (Referente à Mov. Decisão -> Decisão Interlocutória de Mérito (07/05/2026 17:31:26))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LM de Oliveira e Silva (Referente à Mov. Decisão -> Decisão Interlocutória de Mérito (07/05/2026 17:31:26))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Decisão -> Decisão Interlocutória de Mérito - REJEITA IDPJ. PROSSIGA A EXECUÇÃO EM FACE DOS DEVEDORES PRIMEVOS."
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LM de Oliveira e Silva (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Itau Unibanco S/a em 29/01/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 08:20:02))"
+        },
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Alegações finais"
+        },
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Alegações finais -"
+        },
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Itau Unibanco S/a (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 08:20:02))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LM DE OLIVEIRA E SILVA"
+        },
+        {
+          "name": "GOIÂNIA SERVICE EIRELI"
+        },
+        {
+          "name": "ITAÚ UNIBANCO S/A"
+        },
+        {
+          "name": "LUCAS MATHEUS DE OLIVEIRA E SILVA"
+        }
+      ],
+      "fase_grupo": "execucao",
       "tribunal": "TJGO"
     },
     {
@@ -774,12 +856,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 1,
       "Outras": 0
     },

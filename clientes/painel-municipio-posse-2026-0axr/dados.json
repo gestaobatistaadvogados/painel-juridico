@@ -1,0 +1,3678 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T12:10:40-03:00",
+    "gerado_em_humano": "12/05/2026 12:10",
+    "slug_url": "painel-municipio-posse-2026-0axr",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICIPIO DE POSSE",
+    "identification": "**.***.***/****-62",
+    "city": "POSSE",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13410878,
+      "process_number": "5974849-56.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ANULAÇÃO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-08-19 00:00:00",
+      "created_at": "2024-06-20 00:00:00",
+      "process_date": "2024-10-18",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Prazo Decorrido"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Prazo Decorrido -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 09/03/2026 23:59:59 (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - comprovante de recebimento/email/Procuradoria Federal"
+        },
+        {
+          "date": "2026-03-01",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Adebora Rodrigues De Sousa em 27/02/2026 23:59:59 (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - comprovante/envio - email/ à Procuradoria Federal em Goiás (PF/GO - AGU)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ADEBORA RODRIGUES DE SOUSA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13410934,
+      "process_number": "5857106-25.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROGRESSÃO FUNCIONAL COM INTERSTÍCIO DE DOZE MESES",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-07-08 00:00:00",
+      "created_at": "2024-05-09 00:00:00",
+      "process_date": "2024-09-06",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-12-19",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comp. envio e-mail BB"
+        },
+        {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2025-12-03",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - expedir alvará/perito - importe de 50% - decisão ev. 25"
+        },
+        {
+          "date": "2025-11-25",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício/Sec. Economia - comprovante de depósito/honorários periciais"
+        },
+        {
+          "date": "2025-07-08",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2025-07-08",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
+          "date": "2025-07-08",
+          "header": "TJGO",
+          "title": "Ofício Efetivado - (Referente à Mov. Despacho -> Mero Expediente (14/05/2025 16:26:44))"
+        },
+        {
+          "date": "2025-05-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida -"
+        },
+        {
+          "date": "2025-05-14",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "AILTON RODRIGUES DE ALMEIDA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411007,
+      "process_number": "5415764-02.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-03-25 00:00:00",
+      "created_at": "2024-01-25 00:00:00",
+      "process_date": "2024-05-24",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Aluzair Pereira De Souza Mesquita em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aluzair Pereira De Souza Mesquita (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aluzair Pereira De Souza Mesquita (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-01-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comprovante/alvará pago"
+        },
+        {
+          "date": "2026-01-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALUZAIR PEREIRA DE SOUZA MESQUITA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411013,
+      "process_number": "6048992-16.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "VALORIZAÇÃO DO MAGISTÉRIO E DOS PROFISSIONAIS DA EDUCAÇÃO / ABSENTEÍSMO DOCENTE / LICENÇAS",
+      "group": "CÍVEL",
+      "status_closure": "2024-09-15 00:00:00",
+      "created_at": "2024-07-17 00:00:00",
+      "process_date": "2024-11-14",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 09/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (18/02/2026 16:55:59))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (18/02/2026 16:55:59))"
+        },
+        {
+          "date": "2026-02-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Alves Dos Santos Sobrinha (Referente à Mov. Ato Ordinatório (18/02/2026 16:55:59))"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Ofício Precatório"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - intimar as partes/inteiro teor do ofício precatório expedido"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANA ALVES DOS SANTOS SOBRINHA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411018,
+      "process_number": "5414574-04.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-03-24 00:00:00",
+      "created_at": "2024-01-24 00:00:00",
+      "process_date": "2024-05-23",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (28/04/2026 14:41:29))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Caroline Faneco Tolari De Souza (Referente à Mov. Ato Ordinatório (28/04/2026 14:41:29))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Caroline Faneco Tolari De Souza (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANA CAROLINE FANECO TOLARI DE SOUZA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411021,
+      "process_number": "5842268-77.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-07-04 00:00:00",
+      "created_at": "2024-05-05 00:00:00",
+      "process_date": "2024-09-02",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Comprovante de protocolo do RPV"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimem-se as partes do inteiro teor do(s) ofício(s) precatório(s)/RPV's"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Certidão Expedida - expedição de documento"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Ofício Precatório"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - ato ordinatório - expedir RPV"
+        },
+        {
+          "date": "2025-09-22",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANA LUCIA MUNIZ DA ROCHA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411031,
+      "process_number": "5362054-67.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "HORAS EXTRAS",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-03-09 00:00:00",
+      "created_at": "2024-01-09 00:00:00",
+      "process_date": "2024-05-08",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 27/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - intimar as partes/sobre cálculo"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Cálculo de Liquidaçao ( Cpc e Clt ) -"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Ronnie Falco Dos Reis em 09/02/2026 23:59:59 (Referente à Mov. Decisão -> deferimento (15/12/2025 20:08:57))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANA PAULA DE LIMA CASTRO"
+        },
+        {
+          "name": "RONNIE FALCO DOS REIS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411039,
+      "process_number": "5805215-62.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "NÃO PADRONIZADO",
+      "group": "CÍVEL",
+      "status_closure": "2024-06-22 00:00:00",
+      "created_at": "2024-04-23 00:00:00",
+      "process_date": "2024-08-21",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-11-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-11-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 12/09/2025 23:59:59 (Referente à Mov. Ato Ordinatório (26/08/2025 06:02:03))"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para em 12/09/2025 23:59:59 (Referente à Mov. Ato Ordinatório (26/08/2025 06:02:03))"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-09-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANA SANTOS DA CONCEICAO"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "FREDERICO RAMOS MACHADO"
+        },
+        {
+          "name": "GOIAS MP PROCURADORIA GERAL DE JUSTICA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411068,
+      "process_number": "5624723-75.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROGRESSÃO FUNCIONAL COM INTERSTÍCIO DE DOZE MESES",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-04-27 00:00:00",
+      "created_at": "2024-02-27 00:00:00",
+      "process_date": "2024-06-26",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Antonio Guedes Gomes (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Antonio Guedes Gomes (Referente à Mov. Ato Ordinatório (08/05/2026 03:59:51))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimem-se as partes do inteiro teor do(s) ofício(s) precatório(s)/RPV's"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Comprovante de protocolo do RPV"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida -"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Certidão Expedida - expedição de documento"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Ofício Precatório"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Dados bancários"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Antonio Guedes Gomes (Referente à Mov. Ato Ordinatório (14/04/2026 06:07:31))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANTONIO GUEDES GOMES"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411434,
+      "process_number": "5844830-59.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-07-05 00:00:00",
+      "created_at": "2024-05-06 00:00:00",
+      "process_date": "2024-09-03",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada de Documento - extrato/alvará PAGO"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comp. protocolo Alvará Sucumbência"
+        },
+        {
+          "date": "2025-11-11",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - expedir alvará - conforme determinado na decisão ev. 14"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - manifestação"
+        },
+        {
+          "date": "2025-11-09",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2025-11-07",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 05/11/2025 23:59:59 (Referente à Mov. Ato Ordinatório (17/10/2025 16:08:27))"
+        },
+        {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 20/10/2025 23:59:59 (Referente à Mov. Juntada -> Petição (23/07/2025 09:59:20))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "AURENI RODRIGUES DE SOUSA BORGES"
+        },
+        {
+          "name": "CRISTIAN ASSIS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411574,
+      "process_number": "5853756-29.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-07-07 00:00:00",
+      "created_at": "2024-05-08 00:00:00",
+      "process_date": "2024-09-05",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comprovante/alvará pago"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comp. protocolo alvará"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (17/12/2025 13:27:18))"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - ato ordinatório - Expedir alvará"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - manifestação"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - manifestação"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CELMA PEREIRA BRANCO DE ALMEIDA SANTOS"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411728,
+      "process_number": "5808577-72.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PAGAMENTO EM PECÚNIA",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-06-23 00:00:00",
+      "created_at": "2024-04-24 00:00:00",
+      "process_date": "2024-08-22",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Posse - Central de Mandados (Mandado nº 6965728 / Para: Municipio De Posse)"
+        },
+        {
+          "date": "2026-03-01",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 26/02/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:47))"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) JARMES ALVES DE OLIVEIRA JUNIOR (Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:47))"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 29/01/2026 20:31:47)"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão intimação não efetivada"
+        },
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2025-06-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) JARMES ALVES DE OLIVEIRA JUNIOR (Referente à Mov. Despacho -> Mero Expediente (18/06/2025 15:13:14))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CREMILDA DA SILVA"
+        },
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411745,
+      "process_number": "6050871-58.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PLANO DE CLASSIFICAÇÃO DE CARGOS",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-09-15 00:00:00",
+      "created_at": "2024-07-17 00:00:00",
+      "process_date": "2024-11-14",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Daniela Costa Oliveira em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniela Costa Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daniela Costa Oliveira (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2025-12-11",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2025-12-11",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "DANIELA COSTA OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411746,
+      "process_number": "5602730-73.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-04-21 00:00:00",
+      "created_at": "2024-02-21 00:00:00",
+      "process_date": "2024-06-20",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 12/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Eleni Evangelista De Oliveira em 04/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eleni Evangelista De Oliveira (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - extrato/pagto. alvará referente aos honorários sucumbenciais"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eleni Evangelista De Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício juntado no ev. 48."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "ELENI EVANGELISTA DE OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411747,
+      "process_number": "6018266-59.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-09-05 00:00:00",
+      "created_at": "2024-07-07 00:00:00",
+      "process_date": "2024-11-04",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Cálculo de Custas"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-01",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-01",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Providencias - RPV e PECATÓRIO"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fernando Costa Santos (Referente à Mov. Cálculo de Custas (23/03/2026 12:21:39))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fernando Costa Santos (Referente à Mov. Cálculo de Custas (23/03/2026 12:21:39) - Prazo de 15 (quinze) dias para pagar a guia mencionada, sob pena de início das providências para protesto.)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Cálculo de Custas - - Certidão de Crédito Judicial: Guia 09380319250"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "FERNANDO COSTA SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411748,
+      "process_number": "5608391-33.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-04-22 00:00:00",
+      "created_at": "2024-02-22 00:00:00",
+      "process_date": "2024-06-21",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 30/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (13/03/2026 05:23:17))"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Iracy Antonio Da Silva em 25/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (13/03/2026 05:23:17))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (13/03/2026 05:23:17))"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Iracy Antonio Da Silva (Referente à Mov. Ato Ordinatório (13/03/2026 05:23:17))"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício juntado no ev. retro."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "IRACY ANTONIO DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411749,
+      "process_number": "0444472-07.2011.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CITAÇÃO",
+      "group": "CÍVEL",
+      "status_closure": "2011-09-01 00:00:00",
+      "created_at": "2011-07-03 00:00:00",
+      "process_date": "2011-10-31",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Despacho -> Mero Expediente (23/04/2026 17:19:35))"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Troca de Responsável - MP Responsável Anterior: FREDERICO RAMOS MACHADO MP Responsável Atual: FREDERICO RAMOS MACHADO"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Posse - Promotoria das Fazendas Públicas (Referente à Mov. Despacho -> Mero Expediente - 23/04/2026 17:19:35)"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 19/02/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (26/11/2025 19:50:15))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Procurador Responsável Anterior: SILVIA MARIA CHEMET KANSO Procurador Responsável Atual: ROBERTO ALVES GOMES"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Despacho -> Mero Expediente (26/11/2025 19:50:15))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "MARAGATO INDUSTRIA E CONSTRUCOES LTDA"
+        },
+        {
+          "name": "THIAGO LEANDRO DIAS PINHEIRO"
+        },
+        {
+          "name": "UNIÃO DA NACIONAL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411750,
+      "process_number": "5716956-91.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-05-25 00:00:00",
+      "created_at": "2024-03-26 00:00:00",
+      "process_date": "2024-07-24",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada de Documento - extrato/alvará PAGO"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comp. protocolo Alvará Sucumbência"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - expedir alvará - conforme determinado na decisão ev. 39"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - MANIFESTAÇÃO"
+        },
+        {
+          "date": "2025-09-16",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "MARIA EUFRASIA GUEDES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411751,
+      "process_number": "5437398-54.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-04-01 00:00:00",
+      "created_at": "2024-02-01 00:00:00",
+      "process_date": "2024-05-31",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada de Documento - extrato/alvará PAGO"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comp. protocolo Alvará Sucumbência"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - expedir alvará - conforme determinado na decisão ev. 37"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - MANIFESTAÇÃO"
+        },
+        {
+          "date": "2025-09-16",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "NERÍCIA DE SANTANA RIBEIRO DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411752,
+      "process_number": "5414453-73.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2024-03-24 00:00:00",
+      "created_at": "2024-01-24 00:00:00",
+      "process_date": "2024-05-23",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Raquel Teixeira Dos Santos Bomfim em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raquel Teixeira Dos Santos Bomfim (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Raquel Teixeira Dos Santos Bomfim (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-01-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "RAQUEL TEIXEIRA DOS SANTOS BOMFIM"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411753,
+      "process_number": "5252515-69.2024.8.09.0132",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROGRESSÃO FUNCIONAL COM INTERSTÍCIO DE DOZE MESES",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-02-04 00:00:00",
+      "created_at": "2023-12-06 00:00:00",
+      "process_date": "2024-04-04",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comprovante/alvará pago"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comp. protocolo alvará"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 12/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 13:56:27))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (26/01/2026 13:56:27))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Simone Peixoto Dos Santos Oliveira em 04/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 13:56:27))"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Simone Peixoto Dos Santos Oliveira (Referente à Mov. Ato Ordinatório (26/01/2026 13:56:27))"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício juntado no ev. 92."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL LUCAS LEITE COSTA"
+        },
+        {
+          "name": "SIMONE PEIXOTO DOS SANTOS OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413301,
+      "process_number": "5020628-17.2025.8.09.0132",
+      "protocol_number": null,
+      "folder": "3431",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2025-07-16 00:00:00",
+      "created_at": "2025-07-16 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 19/03/2026 23:59:59 (Referente à Mov. Intimação Expedida (24/01/2026 21:41:38))"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Intimação Expedida (24/01/2026 21:41:38))"
+        },
+        {
+          "date": "2026-01-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2026-01-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTA AO AG/STJ."
+        },
+        {
+          "date": "2026-01-24",
+          "header": "TJGO",
+          "title": "Certidão - Agravo em recurso especial autuado - AGRAVO STJ MOV. 99"
+        },
+        {
+          "date": "2026-01-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Agravo em recurso especial -"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (17/12/2025 16:27:02))"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lauro Ronei Domingues Barbosa (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (17/12/2025 16:27:02))"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 17/12/2025 16:27:02)"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lauro Ronei Domingues Barbosa (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 17/12/2025 16:27:02)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LAURO RONEI DOMINGUES BARBOSA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413302,
+      "process_number": null,
+      "protocol_number": "04317/25",
+      "folder": "2686",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CAUTELAR",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2025-04-16 00:00:00",
+      "created_at": "2025-04-16 00:00:00",
+      "process_date": null,
+      "responsible": "PLINIO BORGES DE FREITAS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MENDES E SILVA PAISAGISMO LTDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13413303,
+      "process_number": "5826423-68.2025.8.09.0132",
+      "protocol_number": null,
+      "folder": "3825",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE IMPROBIDADE ADMINISTRATIVA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-10-21 00:00:00",
+      "created_at": "2025-10-21 00:00:00",
+      "process_date": "2025-10-21",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "G"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413304,
+      "process_number": "5828141-03.2025.8.09.0132",
+      "protocol_number": null,
+      "folder": "3826",
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE IMPROBIDADE ADMINISTRATIVA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-10-21 00:00:00",
+      "created_at": "2025-10-21 00:00:00",
+      "process_date": "2025-10-09",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - manifestação"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (06/03/2026 17:34:04))"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 06/03/2026 17:34:04)"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 01/12/2025 23:59:59 (Referente à Mov. Certidão Expedida (10/11/2025 16:58:57))"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Certidão Expedida (10/11/2025 16:58:57))"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HELDER SILVA BONFIM PREFEITO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413305,
+      "process_number": "0293854-35.2008.8.09.0171",
+      "protocol_number": null,
+      "folder": "3261",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZATÓRIA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada de documento - Decisão do STJ - Manutenção do Acórdão - Juntada de Decisão STJ/STF - Remessa para Serventia de Origem"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Transitado em Julgado"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2025-11-06",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de remessa dos autos ao STJ"
+        },
+        {
+          "date": "2025-10-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agravo em Recurso Especial"
+        },
+        {
+          "date": "2025-09-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EULANDA MARIA NEPOMUCENA GOMES CARDOSO (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EULANDA MARIA NEPOMUCENA GOMES CARDOSO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413933,
+      "process_number": "5251564-51.2019.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "DESAPROPRIAÇÃO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2019-05-10",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Do Carmo Silva Luz (Referente à Mov. Despacho -> Mero Expediente (28/04/2026 16:39:00))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente (28/04/2026 16:39:00))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Do Carmo Silva Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - PROVIDÊNCIAS DOS REQUERIDOS - FALECIMENTO DO RÉU"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 25/11/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (20/10/2025 17:57:54))"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-10-31",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (20/10/2025 17:57:54))"
+        },
+        {
+          "date": "2025-10-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 20/10/2025 17:57:54)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413945,
+      "process_number": "5142442-35.2021.8.09.0132",
+      "protocol_number": null,
+      "folder": "3296",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE EXECUÇÃO FISCAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2021-03-22",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 02/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:45))"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Posse - Central de Mandados (Mandado nº 6927964 / Para: Municipio De Posse)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:45))"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente - 29/01/2026 20:31:45)"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 15/12/2025 23:59:59 (Referente à Mov. Ato Ordinatório (18/11/2025 10:51:24))"
+        },
+        {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2025-11-28",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Ato Ordinatório (18/11/2025 10:51:24))"
+        },
+        {
+          "date": "2025-11-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413946,
+      "process_number": "5126491-69.2019.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE EXECUÇÃO FISCAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2019-03-12",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (29/01/2026 20:31:45))"
+        },
+        {
+          "date": "2026-04-02",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) L H Produtos Eletronicos Ltda Epp - Código de Rastreamento Correios: YH107293743BR idPendenciaCorreios109587605432015873960793049idPendenciaCorreios"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Citação Expedida - e-carta/postal"
+        },
+        {
+          "date": "2026-03-28",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (29/01/2026 20:31:45))"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) L H Produtos Eletronicos Ltda Epp - Código de Rastreamento Correios: YH077156211BR idPendenciaCorreios109687675432015873960920888idPendenciaCorreios"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Citação Expedida - e-carta"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-01-25",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-01-25",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 13/11/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (08/10/2025 18:20:55))"
+        },
+        {
+          "date": "2025-10-20",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (08/10/2025 18:20:55))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413947,
+      "process_number": "5251520-32.2019.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE EXECUÇÃO FISCAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2019-05-10",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 05/05/2026 22:03:35)"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Baixa de dívida/Serasajud"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - certidão trânsito em julgado"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 16/04/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Pronúncia de Decadência ou Prescrição (19/02/2026 16:38:33))"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Valdeci Antonio De Almeida em 23/03/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Pronúncia de Decadência ou Prescrição (19/02/2026 16:38:33))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Valdeci Antonio De Almeida (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Pronúncia de Decadência ou Prescrição (19/02/2026 16:38:33))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Pronúncia de Decadência ou Prescrição (19/02/2026 16:38:33))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413948,
+      "process_number": "5473149-78.2019.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE EXECUÇÃO FISCAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2019-08-09",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada -"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
+          "date": "2025-02-14",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Procurador Responsável Anterior: ESTER MARY GARCÊZ DE MENDONÇA Procurador Responsável Atual: Bruna Carolina Krauspenhar Parreira"
+        },
+        {
+          "date": "2024-12-09",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Posse - Central de Mandados (Mandado nº 3986066 / Para: Paulo Roberto Marques De Souza)"
+        },
+        {
+          "date": "2024-09-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Certidão Expedida (05/09/2024 12:06:02))"
+        },
+        {
+          "date": "2024-09-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Juntada de comprovante de pagamento"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada -"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão atualização da data de vencimento da guia"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Certidão Expedida - 05/09/2024 12:06:02)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413949,
+      "process_number": "5591312-51.2018.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE EXECUÇÃO FISCAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2018-12-12",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Mbs Empreendimentos Imobiliários Ltda (residencial Estrela D Alva) em 27/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (12/12/2025 18:59:31))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse-go em 11/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (12/12/2025 18:59:31))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Mbs Empreendimentos Imobiliários Ltda (residencial Estrela D Alva) em 19/12/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (25/11/2025 16:33:16))"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse-go (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (12/12/2025 18:59:31))"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mbs Empreendimentos Imobiliários Ltda (residencial Estrela D Alva) (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença - 12/12/2025 18:59:31)"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse-go (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença - 12/12/2025 18:59:31)"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mbs Empreendimentos Imobiliários Ltda (residencial Estrela D Alva) (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença (12/12/2025 18:59:31))"
+        },
+        {
+          "date": "2025-12-12",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Acordo em Execução ou em Cumprimento de Sentença -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413960,
+      "process_number": "5378808-89.2021.8.09.0132",
+      "protocol_number": null,
+      "folder": "POSSE",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE IMPROBIDADE ADMINISTRATIVA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-03 00:00:00",
+      "created_at": "2025-07-03 00:00:00",
+      "process_date": "2021-07-22",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Município De Posse em 01/12/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/09/2025 22:19:22))"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-11-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Wilton Barbosa De Andrade em 29/10/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/09/2025 22:19:22))"
+        },
+        {
+          "date": "2025-10-13",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Município De Posse (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/09/2025 22:19:22))"
+        },
+        {
+          "date": "2025-10-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Posse - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 30/09/2025 22:19:22)"
+        },
+        {
+          "date": "2025-10-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Wilton Barbosa De Andrade (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/09/2025 22:19:22))"
+        },
+        {
+          "date": "2025-10-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wilton Barbosa De Andrade - Polo Passivo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 30/09/2025 22:19:22)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414442,
+      "process_number": null,
+      "protocol_number": "4481/25",
+      "folder": "3352",
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-08 00:00:00",
+      "created_at": "2025-07-08 00:00:00",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "PAULO CEZAR KRAUSPENHAR"
+        },
+        {
+          "name": "PODER EXECUTIVO"
+        }
+      ],
+      "fase_grupo": "arquivados",
+      "tribunal": "—"
+    },
+    {
+      "id": 13745925,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": "2026-05-12 11:10:15",
+      "created_at": "2026-03-18 15:54:12",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14178893,
+      "process_number": null,
+      "protocol_number": "2322/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 13:46:32",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14178931,
+      "process_number": null,
+      "protocol_number": "11897/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 13:48:30",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14178963,
+      "process_number": null,
+      "protocol_number": "11730/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 13:50:11",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14179034,
+      "process_number": null,
+      "protocol_number": "11304/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO RECURSO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 13:53:46",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "recursal",
+      "tribunal": "—"
+    },
+    {
+      "id": 14179264,
+      "process_number": null,
+      "protocol_number": "1542/26",
+      "folder": null,
+      "stage": "DECISÃO DO RECURSO PROFERIDA (ENTRE EM CONTATO CONOSCO)",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:04:50",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "recursal",
+      "tribunal": "—"
+    },
+    {
+      "id": 14180392,
+      "process_number": null,
+      "protocol_number": "10060/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:09:03",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14183169,
+      "process_number": null,
+      "protocol_number": "1205/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:25:59",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14183388,
+      "process_number": null,
+      "protocol_number": "9511/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:35:17",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14183715,
+      "process_number": null,
+      "protocol_number": "9382/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:46:04",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14183781,
+      "process_number": null,
+      "protocol_number": "9219/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:48:04",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14183970,
+      "process_number": null,
+      "protocol_number": "9171/25",
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": "2026-05-12 11:12:52",
+      "created_at": "2026-04-13 14:55:37",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14184095,
+      "process_number": null,
+      "protocol_number": "9141/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 14:59:55",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14184170,
+      "process_number": null,
+      "protocol_number": "8834/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:02:44",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14184628,
+      "process_number": null,
+      "protocol_number": "8459/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:19:33",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14184685,
+      "process_number": null,
+      "protocol_number": "8365/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:21:32",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185090,
+      "process_number": null,
+      "protocol_number": "7728/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:35:44",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185152,
+      "process_number": null,
+      "protocol_number": "7602/25",
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": "2026-04-23 09:59:58",
+      "created_at": "2026-04-13 15:37:52",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "recursal",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185192,
+      "process_number": null,
+      "protocol_number": "7441/25",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:39:36",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185291,
+      "process_number": null,
+      "protocol_number": "7190/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:43:02",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185405,
+      "process_number": null,
+      "protocol_number": "7188/25",
+      "folder": null,
+      "stage": "DECISÃO DO RECURSO PROFERIDA (ENTRE EM CONTATO CONOSCO)",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:47:00",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "recursal",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185645,
+      "process_number": null,
+      "protocol_number": "6913/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 15:55:02",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185858,
+      "process_number": null,
+      "protocol_number": "6595/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:02:01",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14185908,
+      "process_number": null,
+      "protocol_number": "6550/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:03:47",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186046,
+      "process_number": null,
+      "protocol_number": "6548/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:08:51",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186089,
+      "process_number": null,
+      "protocol_number": "6398/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:10:48",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186273,
+      "process_number": null,
+      "protocol_number": "5852/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:16:58",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186386,
+      "process_number": null,
+      "protocol_number": "5830/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:20:54",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186485,
+      "process_number": null,
+      "protocol_number": "5578/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:24:44",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186547,
+      "process_number": null,
+      "protocol_number": "5577/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:26:56",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186664,
+      "process_number": null,
+      "protocol_number": "5427/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:30:24",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186783,
+      "process_number": null,
+      "protocol_number": "5299/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:34:34",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14186826,
+      "process_number": null,
+      "protocol_number": "5297/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:36:13",
+      "process_date": "2026-04-13",
+      "responsible": "SOFIA ROCHA RAMOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14187201,
+      "process_number": null,
+      "protocol_number": "4482/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 16:51:25",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14189800,
+      "process_number": null,
+      "protocol_number": "4662/25",
+      "folder": null,
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:22:28",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "arquivados",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193181,
+      "process_number": null,
+      "protocol_number": "6138/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:24:13",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193236,
+      "process_number": null,
+      "protocol_number": "6341/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:26:05",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193262,
+      "process_number": null,
+      "protocol_number": "406/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:27:21",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193288,
+      "process_number": null,
+      "protocol_number": "9749/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:28:37",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193322,
+      "process_number": null,
+      "protocol_number": "9057/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:30:26",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193675,
+      "process_number": null,
+      "protocol_number": "4317/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 17:49:50",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193941,
+      "process_number": null,
+      "protocol_number": "521/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:10:34",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193964,
+      "process_number": null,
+      "protocol_number": "10474/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:12:09",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193981,
+      "process_number": null,
+      "protocol_number": "6080/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:13:41",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14193993,
+      "process_number": null,
+      "protocol_number": "3475/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:15:19",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14194006,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:16:59",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14194013,
+      "process_number": null,
+      "protocol_number": "3460/23",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-13 18:18:49",
+      "process_date": "2026-04-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204276,
+      "process_number": null,
+      "protocol_number": "9024/22",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:00:51",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204311,
+      "process_number": null,
+      "protocol_number": "6251/22",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:02:33",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204393,
+      "process_number": null,
+      "protocol_number": "9883/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:05:57",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204429,
+      "process_number": null,
+      "protocol_number": "7796/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:07:25",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204466,
+      "process_number": null,
+      "protocol_number": "7795/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:09:00",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14204504,
+      "process_number": null,
+      "protocol_number": "6860/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-14 10:10:25",
+      "process_date": "2026-04-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14244437,
+      "process_number": null,
+      "protocol_number": "4586/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:55:49",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14257306,
+      "process_number": null,
+      "protocol_number": "3412/2025",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 16:59:34",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14260525,
+      "process_number": null,
+      "protocol_number": "3420/2025",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 17:01:58",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14262459,
+      "process_number": null,
+      "protocol_number": "3422/2025",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 17:03:22",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14264270,
+      "process_number": null,
+      "protocol_number": "9802/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 17:08:16",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14269153,
+      "process_number": null,
+      "protocol_number": "6395/2025",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 17:18:20",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14273948,
+      "process_number": null,
+      "protocol_number": "346/2026",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-16 09:16:27",
+      "process_date": "2026-04-16",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14434857,
+      "process_number": null,
+      "protocol_number": "3222/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 10:21:17",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14434916,
+      "process_number": null,
+      "protocol_number": "9283/20",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 10:23:15",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438249,
+      "process_number": null,
+      "protocol_number": "3412/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:13:44",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438272,
+      "process_number": null,
+      "protocol_number": "3420/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:15:20",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438287,
+      "process_number": null,
+      "protocol_number": "3422/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:16:33",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438332,
+      "process_number": null,
+      "protocol_number": "6395/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:19:55",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438422,
+      "process_number": null,
+      "protocol_number": "346/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:26:05",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14438438,
+      "process_number": null,
+      "protocol_number": "2551/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-23 12:27:29",
+      "process_date": "2026-04-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14486625,
+      "process_number": null,
+      "protocol_number": "1405/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-27 10:11:47",
+      "process_date": "2026-04-27",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 8,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 2,
+      "Acompanhamento": 3,
+      "Diligências": 0,
+      "Outras": 3
+    },
+    "ultima_data": "2026-05-12"
+  }
+}

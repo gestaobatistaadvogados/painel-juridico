@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T15:39:41-03:00",
-    "gerado_em_humano": "11/05/2026 15:39",
+    "gerado_em": "2026-05-12T11:37:41-03:00",
+    "gerado_em_humano": "12/05/2026 11:37",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -931,7 +931,58 @@
       "created_at": "2026-03-12 11:32:20",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-01-12",
+          "header": "TRT18",
+          "title": "Conclusos os autos para julgamento Proferir sentença a HELVAN DOMINGOS PREGO"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (09/12/2025 11:30 SALA 3 - CEJUSC - 12ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (09/12/2025 11:30 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (09/12/2025 11:30 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "GRUPO RICARO LTDA"
@@ -1500,7 +1551,58 @@
       "created_at": "2026-05-06 17:14:22",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 04/05/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 30/04/2026"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) ROBSON GORITO PORTES"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) ADAILTO ANTONIO LEITE"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) WAGNER MIRANDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) SIDERLEY DE SOUZA CARNEIRO"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) JOAO CLAUDIO FERREIRA MIRANDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "BRESSED PARTICIPACOES EIRELI"
@@ -1587,18 +1689,52 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TRT18"
+    },
+    {
+      "id": 14781518,
+      "process_number": "0000651-44.2026.5.18.0018",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "SOCIAL (PREVIDENCIÁRIO E TRABALHISTA)",
+      "status_closure": null,
+      "created_at": "2026-05-12 09:54:09",
+      "process_date": "2026-05-12",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "NIEDA RAMOS MONTALVAO RODART"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
     }
   ],
   "atividade_90d": {
-    "total": 61,
+    "total": 64,
     "categorias": {
       "Peças": 7,
-      "Audiências": 5,
-      "Comunicações": 8,
+      "Audiências": 6,
+      "Comunicações": 10,
       "Acompanhamento": 31,
       "Diligências": 3,
       "Outras": 7
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-12"
   }
 }

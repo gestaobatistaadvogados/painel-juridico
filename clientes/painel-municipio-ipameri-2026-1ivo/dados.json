@@ -1,0 +1,4045 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T11:57:27-03:00",
+    "gerado_em_humano": "12/05/2026 11:57",
+    "slug_url": "painel-municipio-ipameri-2026-1ivo",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICIPIO DE IPAMERI",
+    "identification": "**.***.***/****-41",
+    "city": "IPAMERI",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13410982,
+      "process_number": "1013804-91.2021.4.01.3500",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ONCOLÓGICO",
+      "group": "CÍVEL",
+      "status_closure": "2021-02-28 00:00:00",
+      "created_at": "2020-12-30 00:00:00",
+      "process_date": "2021-04-29",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TRF01",
+          "title": "Publicado Intimação em 06/05/2026."
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRF01",
+          "title": "Disponibilizado no DJ Eletrônico em 05/05/2026"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Juntada de Certidão"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Expedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TRF01",
+          "title": "Cancelada a conclusão"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TRF01",
+          "title": "Conclusos para decisão"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TRF01",
+          "title": "Redistribuído por encaminhamento em razão de Determinação judicial"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALLAN KARDEC SILVA RIBEIRO"
+        },
+        {
+          "name": "ESTADO DE GOIAS"
+        },
+        {
+          "name": "UNIÃO FEDERAL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13411430,
+      "process_number": "5222925-95.2022.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "GRATIFICAÇÕES MUNICIPAIS ESPECÍFICAS",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2022-02-17 00:00:00",
+      "created_at": "2021-12-19 00:00:00",
+      "process_date": "2022-04-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-08-21",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2025-08-21",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de remessa dos autos ao STJ"
+        },
+        {
+          "date": "2025-08-07",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - NÃO APRESENTAÇÃO DE CONTRAMINUTA AOS AGRAVOS PARA O STJ/STF"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Elisangela De Souza Rosa E OUTROS (Referente à Mov. Intimação Expedida (11/07/2025 14:05:44))"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Elisangela De Souza Rosa E OUTROS (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTAS AOS AGRAVOS STJ E STF"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stf)"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - AGRAVO EM RECURSO EXTRAORDINÁRIO"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - AGRAVO EM RECURSO ESPECIAL"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ATILA NAVES AMARAL"
+        },
+        {
+          "name": "ELISANGELA DE SOUZA ROSA"
+        },
+        {
+          "name": "HELEN DOS SANTOS MOREIRA"
+        },
+        {
+          "name": "LIDIANE MACHADO DIONIZIO"
+        },
+        {
+          "name": "MARIA DOLIZETE GUIMARÃES JERÔNIMO"
+        },
+        {
+          "name": "MARILDA HELENA DOS SANTOS"
+        },
+        {
+          "name": "THAMIRES FERREIRA GENERALI BERNARDES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411544,
+      "process_number": "5560809-51.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PISO SALARIAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-06-26 00:00:00",
+      "created_at": "2023-04-27 00:00:00",
+      "process_date": "2023-08-25",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-04-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-04-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-04-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2025-04-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-04-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Leonardo Pimenta Cury (Referente à Mov. Requisição de Pequeno Valor Expedida (08/04/2025 13:37:30))"
+        },
+        {
+          "date": "2025-04-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Aguardando assinatura do(a) Magistrado(a)"
+        },
+        {
+          "date": "2025-04-08",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2025-04-08",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-04-08",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida"
+        },
+        {
+          "date": "2025-04-08",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CATIA SANTOS DIAS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411571,
+      "process_number": "5725155-19.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CONVÊNIO / SUS",
+      "group": "CÍVEL",
+      "status_closure": "2023-08-31 00:00:00",
+      "created_at": "2023-07-02 00:00:00",
+      "process_date": "2023-10-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-01",
+          "header": "TJGO",
+          "title": "Diligência Concluída  Processo Devolvido - Ipameri - Vara das Fazendas Públicas (Retornado para: YVAN SANTANA FERREIRA)"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Requisição de Pequeno Valor Expedida (16/04/2026 08:04:04))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Requisição de Pequeno Valor Expedida (16/04/2026 08:04:04))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/04/2026 08:04:04)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cecilia Pereira Valverde (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/04/2026 08:04:04)"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cecilia Pereira Valverde (Referente à Mov. Requisição de Pequeno Valor Expedida (16/04/2026 08:04:04))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/04/2026 08:04:04)"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Processo em diligência (Primeiro Grau/CEJUSC/Outros) - Goiânia - Central de Controle, Automação e Expedição de RPVs (Encaminhado para: Carlos Eduardo Martins da Cunha)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CECILIA PEREIRA VALVERDE"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411612,
+      "process_number": "5617437-02.2019.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CAUSAS SUPERVENIENTES À SENTENÇA",
+      "group": "CÍVEL",
+      "status_closure": "2019-08-24 00:00:00",
+      "created_at": "2019-06-25 00:00:00",
+      "process_date": "2019-10-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2023-09-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2023-09-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento -"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento -"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento"
+        },
+        {
+          "date": "2023-09-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cleide Batista Borges Dos Santos - Polo Ativo (Referente à Mov. Juntada de Documento - 04/09/2023 18:57:16)"
+        },
+        {
+          "date": "2023-07-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CLEIDE BATISTA BORGES DOS SANTOS"
+        },
+        {
+          "name": "CLEUZA BATISTA DA SILVA"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411618,
+      "process_number": "5172572-17.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AUTOFALÊNCIA",
+      "group": "CÍVEL",
+      "status_closure": "2023-01-20 00:00:00",
+      "created_at": "2022-11-21 00:00:00",
+      "process_date": "2023-03-21",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-06-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-06-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Massa Falida da Clinica Santa Maria - Polo Ativo (Referente à Mov. Juntada de Documento - 10/06/2025 14:02:44)"
+        },
+        {
+          "date": "2025-06-10",
+          "header": "TJGO",
+          "title": "Juntada de Documento - alvara dux"
+        },
+        {
+          "date": "2025-06-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Massa Falida da Clinica Santa Maria (Referente à Mov. Juntada de Documento (10/06/2025 14:02:44))"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/06/2025 16:40:30))"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença"
+        },
+        {
+          "date": "2025-06-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CLÍNICA SANTA MARIA"
+        },
+        {
+          "name": "CLINICA SANTA MARIA LTDA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411619,
+      "process_number": "5241534-68.2018.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AUTOFALÊNCIA",
+      "group": "CÍVEL",
+      "status_closure": "2018-03-25 00:00:00",
+      "created_at": "2018-01-24 00:00:00",
+      "process_date": "2018-05-24",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DUX ADMINISTRAÇÃO JUDICIAL S S LTDA (Referente à Mov. Certidão Expedida (29/04/2026 17:43:13))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DAJSSL (Referente à Mov. Certidão Expedida - 29/04/2026 17:43:13)"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Clínica Santa Maria Ltda. Epp (Referente à Mov. Certidão Expedida - 29/04/2026 17:43:13)"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão Informativa -> Contas Judiciais BB"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Clínica Santa Maria Ltda. Epp (Referente à Mov. Certidão Expedida (29/04/2026 17:43:13))"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - 22 Manifestação Dux - ofício extratos bancários"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)PROCURADORIA DO ESTADO DE GOIAS (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)PROCURADORIA DA UNIÃO (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESCRITORIO DO DETRAN (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
+        },
+        {
+          "date": "2026-03-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Leonardo Pimenta Cury (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CLINICA SANTA MARIA LTDA"
+        },
+        {
+          "name": "DUX ADMINISTRAÇÃO JUDICIAL S S LTDA"
+        },
+        {
+          "name": "SIMONE SOCRATES DE BASTOS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411757,
+      "process_number": "0089038-23.2010.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "DANO AO ERÁRIO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2010-01-09 00:00:00",
+      "created_at": "2009-11-10 00:00:00",
+      "process_date": "2010-03-10",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Municipio De Ipameri (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (27/02/2026 15:21:50))"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Luan Vitor de Almeida Santana (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (27/02/2026 15:21:50))"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Ipameri - Promotoria das Fazendas Públicas (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) - 27/02/2026 15:21:50)"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daniela Vaz Carneiro - Inventariante (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (27/02/2026 15:21:50))"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JANIO ANTONIO CARNEIRO (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (27/02/2026 15:21:50))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIELA VAZ CARNEIRO"
+        },
+        {
+          "name": "JANIO ANTONIO CARNEIRO"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411864,
+      "process_number": "5467660-06.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2020-07-24 00:00:00",
+      "created_at": "2020-05-25 00:00:00",
+      "process_date": "2020-09-22",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-11-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-11-13",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2024-11-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-11-13",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2023-07-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2023-07-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2022-08-05",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Oficio DEPRE"
+        },
+        {
+          "date": "2022-08-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - Adv(s). de Ediana Aparecida Da Silva Inácio (Referente à Mov. Juntada de Documento (CNJ:581) - )"
+        },
+        {
+          "date": "2022-07-13",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Aguardar pagamento precatório"
+        },
+        {
+          "date": "2022-07-04",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EDIANA APARECIDA DA SILVA INACIO"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411876,
+      "process_number": "5214452-91.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SERVIÇOS DE SAÚDE",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2020-03-13 00:00:00",
+      "created_at": "2020-01-13 00:00:00",
+      "process_date": "2020-05-12",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Conclusão com parecer da PGJ"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer -"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por ALTAMIR RODRIGUES VIEIRA JUNIOR (Referente à Mov. Autos Vista ao MP (09/03/2026 09:07:09))"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: ALTAMIR RODRIGUES VIEIRA JUNIOR"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Autos Vista ao MP (CNJ:60) - )"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Autos Vista ao MP - Vista PGJ"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Pendência Verificada - CEJUSC 2º Grau"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EDIVALDO MACHADO DE LIMA"
+        },
+        {
+          "name": "GUSTAVO DE ALMEIDA MACHADO"
+        },
+        {
+          "name": "SIMONE SOCRATES DE BASTOS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412167,
+      "process_number": "5770192-06.2022.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "DATA BASE",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2022-10-20 00:00:00",
+      "created_at": "2022-08-21 00:00:00",
+      "process_date": "2022-12-19",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício Remetido"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ELITA APARECIDA MARTINS"
+        },
+        {
+          "name": "EUCLISLEI GARCIA"
+        },
+        {
+          "name": "JOSIANE SILVA PICOLO REIS"
+        },
+        {
+          "name": "MARSANI KLASMANN WERNKE"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        },
+        {
+          "name": "VALDIVINO ROSA MARQUES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412174,
+      "process_number": "5068672-47.2025.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PISO SALARIAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-12-01 00:00:00",
+      "created_at": "2024-10-02 00:00:00",
+      "process_date": "2025-01-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Elizane Vieira Barbosa (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida -"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Elizane Vieira Barbosa (Referente à Mov. Certidão Expedida (02/02/2026 15:57:47))"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Prazo decorrido"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Certidão Expedida (17/12/2025 15:24:28))"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - cincia instrução precatório"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ELIZANE VIEIRA BARBOSA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412184,
+      "process_number": "5366027-44.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "BASE DE CÁLCULO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-04-14 00:00:00",
+      "created_at": "2023-02-13 00:00:00",
+      "process_date": "2023-06-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ERICA SANTOS DA SILVA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412203,
+      "process_number": "0217053-63.2017.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2017-07-02 00:00:00",
+      "created_at": "2017-05-03 00:00:00",
+      "process_date": "2017-08-31",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 27/04/2026 10:00)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 27/04/2026 10:00)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EVA MARIA DE JESUS PEREIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (30/04/2026 12:22:57))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOSE CARLOS DUARTE (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (30/04/2026 12:22:57))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOSE CARLOS DUARTE (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (30/04/2026 12:22:57))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EVA MARIA DE JESUS PEREIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (30/04/2026 12:22:57))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE IPAMERI (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 30/04/2026 12:22:57)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EVA MARIA DE JESUS PEREIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 30/04/2026 12:22:57)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOSE CARLOS DUARTE (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 30/04/2026 12:22:57)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EVA MARIA DE JESUS PEREIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 30/04/2026 12:22:57)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EVA MARIA DE JESUS PEREIRA"
+        },
+        {
+          "name": "JOSE CARLOS DUARTE"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412242,
+      "process_number": "5285540-24.2022.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "FUNCIONAMENTO DE ESTABELECIMENTOS EMPRESARIAIS",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2022-03-17 00:00:00",
+      "created_at": "2022-01-16 00:00:00",
+      "process_date": "2022-05-16",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-07-14",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-07-14",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-06-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jr Servicos E Locacao De Som Iluminacao E Palco Ltda Me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (18/06/2025 16:56:20))"
+        },
+        {
+          "date": "2025-06-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Leonardo Pimenta Cury (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (18/06/2025 16:56:20))"
+        },
+        {
+          "date": "2025-06-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jr Servicos E Locacao De Som Iluminacao E Palco Ltda Me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 18/06/2025 16:56:20)"
+        },
+        {
+          "date": "2025-06-18",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2025-06-18",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença"
+        },
+        {
+          "date": "2025-06-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 18/06/2025 16:56:20)"
+        },
+        {
+          "date": "2025-06-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Prazo decorrido"
+        },
+        {
+          "date": "2025-06-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "FERNANDO CÉSAR RODRIGUES SALGADO"
+        },
+        {
+          "name": "JR SERVICOS E LOCACAO DE SOM ILUMINACAO E PALCO LTDA"
+        },
+        {
+          "name": "JR SERVIÇOS E LOCAÇÃO DE SOM, ILUMINAÇÃO E PALCO LTDA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412315,
+      "process_number": "5043791-40.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO / TERÇO CONSTITUCIONAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-11-24 00:00:00",
+      "created_at": "2023-09-25 00:00:00",
+      "process_date": "2024-01-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gabriel Martins Nunes (Referente à Mov. Certidão Expedida (08/08/2025 14:08:21))"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gabriel Martins Nunes (Referente à Mov. Certidão Expedida - 08/08/2025 14:08:21)"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará Confeccionado"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gabriel Martins Nunes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença"
+        },
+        {
+          "date": "2025-08-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gabriel Martins Nunes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (05/08/2025 18:02:00))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GABRIEL MARTINS NUNES"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412343,
+      "process_number": "5261189-84.2022.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2022-03-06 00:00:00",
+      "created_at": "2022-01-05 00:00:00",
+      "process_date": "2022-05-05",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-10-08",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2025-10-05",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2025-10-05",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo -"
+        },
+        {
+          "date": "2025-09-25",
+          "header": "TJGO",
+          "title": "Certidão Expedida - HABILITAÇÃO DE ADVOGADO"
+        },
+        {
+          "date": "2025-09-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Habilitação Requerida"
+        },
+        {
+          "date": "2025-09-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Habilitação Requerida -"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de remessa dos autos ao STJ"
+        },
+        {
+          "date": "2024-10-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão Preparo dos Autos Para Remessa aos Tribunais Superiores"
+        },
+        {
+          "date": "2024-09-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Ipameri (Referente à Mov. Decisão -> Admissão -> Recurso especial (16/09/2024 15:28:53))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GERSON SANTANA CINTRA"
+        },
+        {
+          "name": "RODRIGO DE SILVEIRA"
+        },
+        {
+          "name": "SANEAMENTO DE GOIAS S/A"
+        },
+        {
+          "name": "ZACARIAS NEVES COÊLHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412344,
+      "process_number": "5583355-04.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PAGAMENTO",
+      "group": "CÍVEL",
+      "status_closure": "2025-05-24 00:00:00",
+      "created_at": "2025-03-25 00:00:00",
+      "process_date": "2025-07-23",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Processo Arquivado - Processo precatório arquivado para continuidade no PROAD"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de arquivamento do precatório"
+        },
+        {
+          "date": "2025-07-23",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Departamento de Precatórios - DEPRE - Normal"
+        },
+        {
+          "date": "2025-07-23",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2025-07-23",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GESMAR AMADOR CARRIJO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412345,
+      "process_number": "5587917-56.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PAGAMENTO",
+      "group": "CÍVEL",
+      "status_closure": "2025-05-26 00:00:00",
+      "created_at": "2025-03-27 00:00:00",
+      "process_date": "2025-07-25",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Processo Arquivado - Processo precatório arquivado para continuidade no PROAD"
+        },
+        {
+          "date": "2026-01-20",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de arquivamento do precatório"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Departamento de Precatórios - DEPRE - Normal"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GESMAR AMADOR CARRIJO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412346,
+      "process_number": "5065951-59.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE REPETIÇÃO DE INDÉBITO",
+      "group": "IMOBILIÁRIO",
+      "status_closure": "2023-12-03 00:00:00",
+      "created_at": "2023-10-04 00:00:00",
+      "process_date": "2024-02-01",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício DEPRE -> Formulação do Precatório 202601000703842"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-07-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gesmar Amador Carrijo (Referente à Mov. Precatório Enviado ao Tribunal - 23/07/2025 18:48:10)"
+        },
+        {
+          "date": "2025-07-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gesmar Amador Carrijo (Referente à Mov. Precatório Enviado ao Tribunal (23/07/2025 18:48:10))"
+        },
+        {
+          "date": "2025-07-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Precatório Enviado ao Tribunal - 23/07/2025 18:48:10)"
+        },
+        {
+          "date": "2025-07-23",
+          "header": "TJGO",
+          "title": "Juntada de Documento - alvara municipio"
+        },
+        {
+          "date": "2025-07-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri - Polo Passivo (Referente à Mov. Juntada de Documento - 23/07/2025 15:44:52)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GESMAR AMADOR CARRIJO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412424,
+      "process_number": "5483180-11.2017.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2017-10-12 00:00:00",
+      "created_at": "2017-08-13 00:00:00",
+      "process_date": "2017-12-11",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "HÉBER CARLOS DE OLIVEIRA"
+        },
+        {
+          "name": "MARIA DAS GRAÇAS CARNEIRO REQUI"
+        },
+        {
+          "name": "SANDRA BEATRIZ FEITOSA DE PAULA DIAS"
+        },
+        {
+          "name": "SARAH DO CARMO BORGES DA SILVA"
+        },
+        {
+          "name": "VIVIANE LUIZ DO CARMO LIMA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412426,
+      "process_number": "5197308-07.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "IPTU IMPOSTO PREDIAL E TERRITORIAL URBANO",
+      "group": "TRIBUTÁRIO",
+      "status_closure": "2020-03-01 00:00:00",
+      "created_at": "2020-01-01 00:00:00",
+      "process_date": "2020-04-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2017-08-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2017-08-10",
+          "header": "TJGO",
+          "title": "Baixa Definitiva"
+        },
+        {
+          "date": "2017-08-10",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2017-07-31",
+          "header": "TJGO",
+          "title": "Audiência Realizada - (Conciliação - 31/07/2017 13:00)"
+        },
+        {
+          "date": "2017-07-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ALDA JACINTA DE MORAES - Polo Ativo (Referente à Mov. Sentença Extinto o Processo Sem Resolução do Mérito - )"
+        },
+        {
+          "date": "2017-07-25",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
+        },
+        {
+          "date": "2017-07-21",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2017-07-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Interlocutória"
+        },
+        {
+          "date": "2017-06-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ALDA JACINTA DE MORAES - Polo Ativo (Referente à Mov. DESPACHO - )"
+        },
+        {
+          "date": "2017-06-30",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HELENA CANDIDA SOBRINHO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412427,
+      "process_number": "5197872-83.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "IPTU IMPOSTO PREDIAL E TERRITORIAL URBANO",
+      "group": "TRIBUTÁRIO",
+      "status_closure": "2020-03-01 00:00:00",
+      "created_at": "2020-01-01 00:00:00",
+      "process_date": "2020-04-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        },
+        {
+          "date": "2025-12-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        },
+        {
+          "date": "2025-11-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-11-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2025-11-17",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        },
+        {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-11-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para HELENA CANDIDA SOBRINHO em 04/11/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (15/10/2025 15:40:44))"
+        },
+        {
+          "date": "2025-10-24",
+          "header": "TJGO",
+          "title": "Intimação Lida - Para (Polo Passivo) HELENA CANDIDA SOBRINHO (Referente à Mov. Cálculo de Custas (08/09/2025 11:36:23))"
+        },
+        {
+          "date": "2025-10-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de HELENA CANDIDA SOBRINHO (Referente à Mov. Decisão -> deferimento (15/10/2025 15:40:44))"
+        },
+        {
+          "date": "2025-10-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de HELENA CANDIDA SOBRINHO - Polo Passivo (Referente à Mov. Decisão -> deferimento - 15/10/2025 15:40:44)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "HELENA CANDIDA SOBRINHO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412566,
+      "process_number": "5322591-98.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "NÃO PADRONIZADO",
+      "group": "CÍVEL",
+      "status_closure": "2024-02-25 00:00:00",
+      "created_at": "2023-12-27 00:00:00",
+      "process_date": "2024-04-25",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JOAO PEDRO VAZ GONCALVES"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412569,
+      "process_number": "5627446-28.2024.8.09.0048",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ACIDENTE DE TRÂNSITO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-04-28 00:00:00",
+      "created_at": "2024-02-28 00:00:00",
+      "process_date": "2024-06-27",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - RESPOSTA DESPACHO EVENTO 158 - PLANILHA RETIFICADA - EXPEDIR RPV"
+        },
+        {
+          "date": "2026-03-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joao Victor Silva Raimundo (Referente à Mov. Despacho -> Mero Expediente (15/03/2026 14:38:17))"
+        },
+        {
+          "date": "2026-03-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Victor Silva Raimundo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-03-15",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Determina a retificação dos cálculos pela parte exequente"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - JUNTADA DE PLANILHA ATUALIZADA - RESPOSTA EVENTO 153"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joao Victor Silva Raimundo (Referente à Mov. Despacho -> Mero Expediente (27/02/2026 17:28:05))"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Victor Silva Raimundo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Mero expediente"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOÃO VICTOR SILVA RAIMUNDO"
+        },
+        {
+          "name": "LUIZ ANTONIO AFONSO JUNIOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412617,
+      "process_number": "0077766-56.2015.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2015-01-05 00:00:00",
+      "created_at": "2014-11-06 00:00:00",
+      "process_date": "2015-03-06",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-04-22",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-03-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ODALICE HELENA RODRIGUES CARNEIRO-ESPOLIO (Referente à Mov. Juntada de Documento (CNJ:581) - )"
+        },
+        {
+          "date": "2025-03-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ESPÓLIO DE JOSÉ PERFEITO CARNEIRO E OUTRO (Referente à Mov. Juntada de Documento (CNJ:581) - )"
+        },
+        {
+          "date": "2025-03-20",
+          "header": "TJGO",
+          "title": "Juntada de Documento - E-mail"
+        },
+        {
+          "date": "2025-03-20",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2023-11-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2023-11-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE IPAMERI (Referente à Mov. Decisão -> Outras Decisões - 09/11/2023 19:31:33)"
+        },
+        {
+          "date": "2023-11-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ODALICE HELENA RODRIGUES CARNEIRO-ESPOLIO (Referente à Mov. Decisão -> Outras Decisões - 09/11/2023 19:31:33)"
+        },
+        {
+          "date": "2023-11-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ESPÓLIO DE JOSÉ PERFEITO CARNEIRO E OUTRO (Referente à Mov. Decisão -> Outras Decisões - 09/11/2023 19:31:33)"
+        },
+        {
+          "date": "2023-11-09",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSÉ PERFEITO CARNEIRO"
+        },
+        {
+          "name": "ODALICE HELENA RODRIGUES CARNEIRO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412626,
+      "process_number": "5236663-82.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "NÃO PADRONIZADO",
+      "group": "CÍVEL",
+      "status_closure": "2024-02-01 00:00:00",
+      "created_at": "2023-12-03 00:00:00",
+      "process_date": "2024-04-01",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jose Vicente Da Silva Junior - Polo Ativo (Referente à Mov. Juntada de Documento - 10/02/2026 16:45:03)"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Juntada de Documento - alvara"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jose Vicente Da Silva Junior (Referente à Mov. Juntada de Documento (10/02/2026 16:45:03))"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-02-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação com Pedidos"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSÉ VICENTE DA SILVA JÚNIOR"
+        },
+        {
+          "name": "LEILA RIBEIRO DA SILVEIRA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412712,
+      "process_number": "5393203-61.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO / TERÇO CONSTITUCIONAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-03-18 00:00:00",
+      "created_at": "2024-01-18 00:00:00",
+      "process_date": "2024-05-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-05-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonel Nascimento Carvalho Junior - Polo Ativo (Referente à Mov. Certidão Expedida - 13/05/2025 14:03:12)"
+        },
+        {
+          "date": "2025-05-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará Confeccionado"
+        },
+        {
+          "date": "2025-05-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-05-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 09/05/2025 17:41:42)"
+        },
+        {
+          "date": "2025-05-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonel Nascimento Carvalho Junior (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 09/05/2025 17:41:42)"
+        },
+        {
+          "date": "2025-05-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2025-05-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença"
+        },
+        {
+          "date": "2025-05-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geraldo Dias Carneiro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 09/05/2025 17:41:42)"
+        },
+        {
+          "date": "2025-05-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LEONEL NASCIMENTO CARVALHO JUNIOR"
+        },
+        {
+          "name": "GERALDO DIAS CARNEIRO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412739,
+      "process_number": "5234786-10.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROGRESSÃO FUNCIONAL COM INTERSTÍCIO DE DOZE MESES",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-02-01 00:00:00",
+      "created_at": "2023-12-03 00:00:00",
+      "process_date": "2024-04-01",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-08-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-08-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) Leonardo Pimenta Cury (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (25/07/2025 09:03:45))"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucas Batista Dos Reis (Referente à Mov. Juntada de Documento (28/07/2025 14:06:32))"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucas Batista Dos Reis - Polo Ativo (Referente à Mov. Juntada de Documento - 28/07/2025 14:06:32)"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - alvara lucas"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucas Batista Dos Reis (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (25/07/2025 09:03:45))"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 25/07/2025 09:03:45)"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucas Batista Dos Reis (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 25/07/2025 09:03:45)"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2025-07-21",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - dados bancários para alvará"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCAS BATISTA DOS REIS"
+        },
+        {
+          "name": "NETO AZEVEDO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412748,
+      "process_number": "5088782-05.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PAGAMENTO",
+      "group": "CÍVEL",
+      "status_closure": "2025-12-05 00:00:00",
+      "created_at": "2025-10-06 00:00:00",
+      "process_date": "2026-02-03",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Departamento de Precatórios - DEPRE - Normal"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCELIO CARDOSO VAZ"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412749,
+      "process_number": "5594863-44.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PAGAMENTO",
+      "group": "CÍVEL",
+      "status_closure": "2025-05-29 00:00:00",
+      "created_at": "2025-03-30 00:00:00",
+      "process_date": "2025-07-28",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-10-01",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-09-30",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Departamento de Precatórios - DEPRE - Normal"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCELIO CARDOSO VAZ"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412750,
+      "process_number": "5197895-87.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "GRATIFICAÇÃO NATALINA / SALÁRIO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-01-20 00:00:00",
+      "created_at": "2023-11-21 00:00:00",
+      "process_date": "2024-03-20",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucelio Cardoso Vaz (Referente à Mov. Precatório Enviado ao Tribunal (03/02/2026 13:53:52))"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Precatório Enviado ao Tribunal - 03/02/2026 13:53:52)"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucelio Cardoso Vaz (Referente à Mov. Precatório Enviado ao Tribunal - 03/02/2026 13:53:52)"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão Informativa"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Transcorreu in albis"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCELIO CARDOSO VAZ"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412753,
+      "process_number": "5365938-21.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "BASE DE CÁLCULO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-04-14 00:00:00",
+      "created_at": "2023-02-13 00:00:00",
+      "process_date": "2023-06-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-10-14",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-10-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciana De Morais Trombeta (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por Grupo de Representativos - STF - 11/10/2024 18:30:44)"
+        },
+        {
+          "date": "2024-10-14",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-10-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por Grupo de Representativos - STF - 11/10/2024 18:30:44)"
+        },
+        {
+          "date": "2024-10-11",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Grupo de Representativos - STF"
+        },
+        {
+          "date": "2024-10-11",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Grupo de Representativos - STF -"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LUCIANA DE MORAIS TROMBETA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412830,
+      "process_number": "5116983-16.2018.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2018-01-14 00:00:00",
+      "created_at": "2017-11-15 00:00:00",
+      "process_date": "2018-03-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-09-04",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-09-04",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará Remetido"
+        },
+        {
+          "date": "2024-09-04",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2024-09-04",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2024-09-03",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de Deposito Honorários Periciais Pela Secretaria da Economia"
+        },
+        {
+          "date": "2024-08-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2024-08-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida - nao houve pg honorarios"
+        },
+        {
+          "date": "2024-04-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Ofício encaminhado."
+        },
+        {
+          "date": "2024-04-11",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) -"
+        },
+        {
+          "date": "2024-04-01",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARCIO WENDER DOS SANTOS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412845,
+      "process_number": "5195546-53.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "IPTU IMPOSTO PREDIAL E TERRITORIAL URBANO",
+      "group": "TRIBUTÁRIO",
+      "status_closure": "2020-02-29 00:00:00",
+      "created_at": "2019-12-31 00:00:00",
+      "process_date": "2020-04-29",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de Transferência"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Alvará Remetido"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2026-01-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARIA AMELIA CAIXETA ESTRELA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412892,
+      "process_number": "5366313-22.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "BASE DE CÁLCULO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-04-14 00:00:00",
+      "created_at": "2023-02-13 00:00:00",
+      "process_date": "2023-06-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maryellen Camilo De Rezende (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - IRDR - 19/11/2024 18:46:49)"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - IRDR - 19/11/2024 18:46:49)"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - SIRDR"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - SIRDR -"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2024-11-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidao decurso de prazo"
+        },
+        {
+          "date": "2024-10-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Despacho -> Mero Expediente (08/10/2024 18:44:43))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARYELLEN CAMILO DE REZENDE"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413264,
+      "process_number": "5832581-74.2023.8.09.0047",
+      "protocol_number": null,
+      "folder": "1444",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2024-07-02 00:00:00",
+      "created_at": "2024-07-02 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413265,
+      "process_number": "5796560-81.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": "1608",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "DESAPROPRIAÇÃO",
+      "group": "CÍVEL",
+      "status_closure": "2024-08-29 00:00:00",
+      "created_at": "2024-08-29 00:00:00",
+      "process_date": "2024-08-19",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-03-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-03-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-03-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de trânsito em julgado"
+        },
+        {
+          "date": "2025-02-03",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência -"
+        },
+        {
+          "date": "2025-02-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-02-03",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência"
+        },
+        {
+          "date": "2025-02-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Ipameri - Polo Ativo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência - 03/02/2025 14:55:02)"
+        },
+        {
+          "date": "2025-01-31",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-01-31",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-01-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Diligencia Requerida -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOAO ESTRELLA SOBRINHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413266,
+      "process_number": "5729192-89.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": "1656",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "RECURSO INOMINADO CÍVEL",
+      "group": "CÍVEL",
+      "status_closure": "2024-09-25 00:00:00",
+      "created_at": "2024-09-25 00:00:00",
+      "process_date": "2023-10-31",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-03-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-03-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-03-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2025-03-10",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-02-28",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Transitado em Julgado (17/02/2025 22:21:15))"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fauze Abdala Da Silva Junior (Referente à Mov. Transitado em Julgado - 17/02/2025 22:21:15)"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Transitado em Julgado - 17/02/2025 22:21:15)"
+        },
+        {
+          "date": "2025-02-17",
+          "header": "TJGO",
+          "title": "Autos Devolvidos da Instância Superior -"
+        },
+        {
+          "date": "2025-02-17",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-01-24",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação de seguimento (14/01/2025 19:13:42))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "FAUZE ABDALA DA SILVA JUNIOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413267,
+      "process_number": "1056020-96.2023.4.01.3500",
+      "protocol_number": null,
+      "folder": "2692",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-04-22 00:00:00",
+      "created_at": "2025-04-22 00:00:00",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-03-13",
+          "header": "TRF01",
+          "title": "Remetidos os Autos (em grau de recurso) para Tribunal"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRF01",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRF01",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TRF01",
+          "title": "Remetidos os Autos (em grau de recurso) para Tribunal"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TRF01",
+          "title": "Juntada de Informação"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TRF01",
+          "title": "Juntada de Informação"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TRF01",
+          "title": "Juntada de Informação"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TRF01",
+          "title": "Juntada de Informação"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TRF01",
+          "title": "Decorrido prazo de ESTADO DE GOIAS em 04/03/2026 23:59."
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TRF01",
+          "title": "Decorrido prazo de ESTADO DE GOIAS em 04/03/2026 23:59."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "VALERIA DE OLIVEIRA BASTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13413268,
+      "process_number": "1037309-48.2020.4.01.3500",
+      "protocol_number": null,
+      "folder": "2868",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DE IMPROBIDADE ADMINISTRATIVA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-05-20 00:00:00",
+      "created_at": "2025-05-20 00:00:00",
+      "process_date": "2020-10-29",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TRF01",
+          "title": "Juntada de ciência"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRF01",
+          "title": "Disponibilizado no DJ Eletrônico em 27/04/2026"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRF01",
+          "title": "Publicado Intimação em 28/04/2026."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Juntada de Certidão"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TRF01",
+          "title": "Conhecido o recurso de WILSON GERALDO SUGAI - CPF: 096.977.481-87 (APELANTE) e provido"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TRF01",
+          "title": "Deliberado em Sessão - Julgado - Mérito"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTÉRIO PÚBLICO FEDERAL"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13413269,
+      "process_number": "1021039-41.2023.4.01.3500",
+      "protocol_number": null,
+      "folder": "2486",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-25 00:00:00",
+      "created_at": "2025-03-25 00:00:00",
+      "process_date": "2023-04-19",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-09-17",
+          "header": "TRF01",
+          "title": "Arquivado Definitivamente"
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TRF01",
+          "title": "Juntada de Certidão"
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TRF01",
+          "title": "Juntada de Certidão"
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TRF01",
+          "title": "Arquivado Definitivamente"
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de CAUA VINICIUS GONCALO NUNES DA ROCHA em 12/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de CAUA VINICIUS GONCALO NUNES DA ROCHA em 12/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de CAUA VINICIUS GONCALO NUNES DA ROCHA em 12/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de JOSEFA CRISTINA MARIA GONCALO DA SILVA em 12/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de JOSEFA CRISTINA MARIA GONCALO DA SILVA em 12/09/2025 23:59."
+        },
+        {
+          "date": "2025-09-13",
+          "header": "TRF01",
+          "title": "Decorrido prazo de JOSEFA CRISTINA MARIA GONCALO DA SILVA em 12/09/2025 23:59."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSEFA CRISTINA MARIA GONCALO DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
+    },
+    {
+      "id": 13413714,
+      "process_number": "5669607-03.2024.8.09.0000",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SEQUESTRO DE VERBAS PÚBLICAS",
+      "group": "CÍVEL",
+      "status_closure": "2024-05-11 00:00:00",
+      "created_at": "2024-03-12 00:00:00",
+      "process_date": "2024-07-10",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-12-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-12-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - TRÂNSITO EM JULGADO DA DECISÃO DE EV. 11"
+        },
+        {
+          "date": "2024-12-02",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Ipameri (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial (30/09/2024 16:10:47))"
+        },
+        {
+          "date": "2024-09-30",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial -"
+        },
+        {
+          "date": "2024-09-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri - Polo Ativo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial - 30/09/2024 16:10:47)"
+        },
+        {
+          "date": "2024-09-30",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial"
+        },
+        {
+          "date": "2024-08-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - 03191218106"
+        },
+        {
+          "date": "2024-08-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2024-08-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - 03191218106"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        },
+        {
+          "name": "PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413715,
+      "process_number": null,
+      "protocol_number": "0566960-73.2024.8.09.0000",
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SEQUESTRO DE VERBAS PÚBLICAS",
+      "group": "CÍVEL",
+      "status_closure": "2024-05-11 00:00:00",
+      "created_at": "2024-03-12 00:00:00",
+      "process_date": "2024-07-10",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        },
+        {
+          "name": "PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13414038,
+      "process_number": "5366134-88.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "BASE DE CÁLCULO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-04-14 00:00:00",
+      "created_at": "2023-02-13 00:00:00",
+      "process_date": "2023-06-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Neiliane De Souza E Silva Santos (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - IRDR - 19/11/2024 18:46:49)"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente à Mov. Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - IRDR - 19/11/2024 18:46:49)"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - SIRDR"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por decisão do Presidente do STJ - SIRDR -"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2024-11-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2024-11-14",
+          "header": "TJGO",
+          "title": "Certidão Expedida - decurso de prazo"
+        },
+        {
+          "date": "2024-10-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Ipameri (Referente à Mov. Despacho -> Mero Expediente (08/10/2024 18:44:36))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NEILIANE DE SOUZA E SILVA SANTOS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414452,
+      "process_number": "5195182-47.2021.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SERVIÇOS DE SAÚDE",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2021-02-21 00:00:00",
+      "created_at": "2020-12-23 00:00:00",
+      "process_date": "2021-04-22",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - E-mail: Comprovante"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Alvará Remetido"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Reexpedição de Alvará"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-08-22",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2025-08-22",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Alvará Remetido"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "PAULO ROBERTO GERTRUDES ROMANO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414507,
+      "process_number": "0167581-74.2009.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZAÇÃO TRABALHISTA",
+      "group": "TRABALHISTA",
+      "status_closure": "2009-02-26 00:00:00",
+      "created_at": "2008-12-28 00:00:00",
+      "process_date": "2009-04-27",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de RAEL RIBEIRO SILVA (Referente à Mov. Juntada de Documento (24/02/2026 12:47:29))"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de RAEL RIBEIRO SILVA - Polo Ativo (Referente à Mov. Juntada de Documento - 24/02/2026 12:47:29)"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Alvará Remetido"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2026-02-20",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2026-02-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de RAEL RIBEIRO SILVA - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - 20/02/2026 15:16:07)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "RAEL RIBEIRO SILVA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414532,
+      "process_number": "5505786-23.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2023-06-04 00:00:00",
+      "created_at": "2023-04-05 00:00:00",
+      "process_date": "2023-08-03",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-04-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2024-04-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-04-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2024-04-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2024-03-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Saneamento de Goiás S/A (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (15/03/2024 12:55:55))"
+        },
+        {
+          "date": "2024-03-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município de Ipameri (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (15/03/2024 12:55:55))"
+        },
+        {
+          "date": "2024-03-19",
+          "header": "TJGO",
+          "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - Publicado no DJE ANO XVII - EDIÇÃO Nº 3913 - SEÇÃO no dia 19/03/2024"
+        },
+        {
+          "date": "2024-03-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Saneamento de Goiás S/A - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 15/03/2024 12:55:55)"
+        },
+        {
+          "date": "2024-03-15",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Ofício Juiz 1º Grau."
+        },
+        {
+          "date": "2024-03-15",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 11/03/2024 10:00)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "REINALDO ALVES FERREIRA"
+        },
+        {
+          "name": "RODOLFO PEREIRA LIMA JÚNIOR"
+        },
+        {
+          "name": "SANEAMENTO DE GOIAS S/A"
+        },
+        {
+          "name": "VDM OPERACOES LOGISTICAS"
+        },
+        {
+          "name": "ZACARIAS NEVES COÊLHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414535,
+      "process_number": "5531101-24.2021.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SERVIÇOS DE SAÚDE",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2021-08-09 00:00:00",
+      "created_at": "2021-06-10 00:00:00",
+      "process_date": "2021-10-08",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Aparecido Rosa Correa (Referente à Mov. Decisão -> Indeferimento (30/04/2026 18:39:37))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Aparecido Rosa Correa (Referente à Mov. Decisão -> Indeferimento - 30/04/2026 18:39:37)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Decisão -> Indeferimento -"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Decisão -> Indeferimento"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - ARRESTO/SEQUESTRO REQUERIDO"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2025-10-29",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "RENATO APARECIDO ROSA CORREA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414554,
+      "process_number": "5197050-94.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "IPTU IMPOSTO PREDIAL E TERRITORIAL URBANO",
+      "group": "TRIBUTÁRIO",
+      "status_closure": "2020-03-01 00:00:00",
+      "created_at": "2020-01-01 00:00:00",
+      "process_date": "2020-04-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - AR de Citação - ev.100 - YQ624056425BR"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-01-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Exceção de pré-executividade -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "RICARDO VAZ DE CARVALHO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414599,
+      "process_number": "5047054-80.2024.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROGRESSÃO FUNCIONAL COM INTERSTÍCIO DE DOZE MESES",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-11-25 00:00:00",
+      "created_at": "2023-09-26 00:00:00",
+      "process_date": "2024-01-24",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão - Contadoria."
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Remessa Contadoria"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Despacho -> Mero Expediente (11/03/2026 18:40:27))"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Despacho -> Mero Expediente - 11/03/2026 18:40:27)"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão - Prazo."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "RONIZZE CRISTINA SILVA PEIXOTO"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414606,
+      "process_number": "5190688-76.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "APOSENTADORIA POR INCAPACIDADE PERMANENTE",
+      "group": "PREVIDENCIÁRIO",
+      "status_closure": "2020-02-27 00:00:00",
+      "created_at": "2019-12-29 00:00:00",
+      "process_date": "2020-04-27",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Diligência Concluída  Processo Devolvido - Ipameri - Vara das Fazendas Públicas (Retornado para: YVAN SANTANA FERREIRA)"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Requer transferência do valor depositado"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Ipameri (Referente à Mov. Requisição de Pequeno Valor Expedida (16/03/2026 22:25:24))"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Pagamento RPV"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fundo Municipal De Previdência De Ipameri - Fumpi (Referente à Mov. Requisição de Pequeno Valor Expedida (16/03/2026 22:25:24))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rosmar Pires Da Silva (Referente à Mov. Requisição de Pequeno Valor Expedida (16/03/2026 22:25:24))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fundo Municipal De Previdência De Ipameri - Fumpi (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/03/2026 22:25:24)"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Ipameri (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/03/2026 22:25:24)"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rosmar Pires Da Silva (Referente à Mov. Requisição de Pequeno Valor Expedida - 16/03/2026 22:25:24)"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ROSMAR PIRES DA SILVA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414687,
+      "process_number": "5195073-67.2020.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "IPTU IMPOSTO PREDIAL E TERRITORIAL URBANO",
+      "group": "TRIBUTÁRIO",
+      "status_closure": "2020-02-29 00:00:00",
+      "created_at": "2019-12-31 00:00:00",
+      "process_date": "2020-04-29",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "SIGILOSO"
+        },
+        {
+          "name": "VINICIUS CARNEIRO COSTA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414691,
+      "process_number": "5391534-80.2018.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": "2018-06-23 00:00:00",
+      "created_at": "2018-04-24 00:00:00",
+      "process_date": "2018-08-22",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 05/05/2026 21:23:43)"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Ipameri - Promotoria das Fazendas Públicas (Referente à Mov. Juntada -> Petição - 27/04/2026 10:00:49)"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SIMONE SOCRATES DE BASTOS"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        },
+        {
+          "name": "DANIELA VAZ CARNEIRO"
+        },
+        {
+          "name": "MINISTERIO PUBLICO PROCURADORIA ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414697,
+      "process_number": "5678507-49.2021.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PISO SALARIAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2021-10-18 00:00:00",
+      "created_at": "2021-08-19 00:00:00",
+      "process_date": "2021-12-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Juntada - Comprovante de Pagamento - Custas Processuais"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MUNICIPIO DE IPAMERI - Polo Passivo (Referente à Mov. Juntada de Documento - 19/02/2026 16:46:32)"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Juntada de Documento - alvara municipio"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MUNICIPIO DE IPAMERI (Referente à Mov. Juntada de Documento (19/02/2026 16:46:32))"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MUNICIPIO DE IPAMERI (Referente à Mov. Decisão -> deferimento (18/02/2026 14:22:58))"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento - restituir todos os valores depositados em favor da parte executada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SINDICATO DOS SERVIDORES PUBLICOS MUNICIPAIS DE IPAMERI GOIAS SINDIPAMERI"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414698,
+      "process_number": "5678480-66.2021.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PISO SALARIAL",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2021-10-18 00:00:00",
+      "created_at": "2021-08-19 00:00:00",
+      "process_date": "2021-12-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2025-06-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-06-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-05-12",
+          "header": "TJGO",
+          "title": "Juntada de Documento - resposta"
+        },
+        {
+          "date": "2025-05-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida - resposta"
+        },
+        {
+          "date": "2025-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Servidores Públicos Municipais De Ipameri - Polo Ativo (Referente à Mov. Certidão Expedida - 12/05/2025 14:49:46)"
+        },
+        {
+          "date": "2025-04-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará remetido // Parte Manifestar"
+        },
+        {
+          "date": "2025-04-10",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
+        },
+        {
+          "date": "2025-04-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará reexpedido sra. Cleide"
+        },
+        {
+          "date": "2025-04-10",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2025-04-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Servidores Públicos Municipais De Ipameri (Referente à Mov. Certidão Expedida - 10/04/2025 15:48:06)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SINDICATO DOS SERVIDORES PUBLICOS MUNICIPAIS DE IPAMERI"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414718,
+      "process_number": "0451134-59.2014.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "TAXA SELIC",
+      "group": "CÍVEL",
+      "status_closure": "2014-10-04 00:00:00",
+      "created_at": "2014-08-05 00:00:00",
+      "process_date": "2014-12-03",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "TELEVISAO PIRAPITINGA LTDA"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414802,
+      "process_number": "5366194-61.2023.8.09.0074",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "BASE DE CÁLCULO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2023-04-14 00:00:00",
+      "created_at": "2023-02-13 00:00:00",
+      "process_date": "2023-06-13",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Ipameri (Referente à Mov. Decisão -> Outras Decisões - 19/11/2024 18:46:50)"
+        },
+        {
+          "date": "2024-11-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Verony Da Silva Gonçalves (Referente à Mov. Decisão -> Outras Decisões - 19/11/2024 18:46:50)"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Mantém suspensão - tema 1218"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2024-11-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Prazo decorrido"
+        },
+        {
+          "date": "2024-10-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Ipameri (Referente à Mov. Despacho -> Mero Expediente (11/10/2024 18:32:00))"
+        },
+        {
+          "date": "2024-10-11",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2024-10-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Verony Da Silva Gonçalves (Referente à Mov. Despacho -> Mero Expediente - 11/10/2024 18:32:00)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "VERONY DA SILVA GONCALVES"
+        },
+        {
+          "name": "YVAN SANTANA FERREIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13745878,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 15:52:07",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 1,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-04-28"
+  }
+}

@@ -1,0 +1,3383 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T12:06:53-03:00",
+    "gerado_em_humano": "12/05/2026 12:06",
+    "slug_url": "painel-municipio-britania-2026-xt53",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICIPIO DE BRITANIA",
+    "identification": "**.***.***/****-99",
+    "city": "BRITÂNIA",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13412984,
+      "process_number": "0000619-46.2025.5.18.0221",
+      "protocol_number": null,
+      "folder": "3153",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "COBRANÇA",
+      "group": "PRIVADO",
+      "status_closure": "2025-06-26 00:00:00",
+      "created_at": "2025-06-26 00:00:00",
+      "process_date": "2025-04-29",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "AMANDA BOTTCHER"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 13412985,
+      "process_number": "5669311-09.2022.8.09.0175",
+      "protocol_number": null,
+      "folder": "2221",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2022-10-31",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Alan Conceição De Lima em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 14:17:22))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Mayara Maria De Carvalho em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 14:30:22))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Ray Valdeci De Carvalho em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 14:24:28))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 14:24:28))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 14:42:48))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 14:30:22))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 14:17:22))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Requer Individualização de Credito Sucumbenciais"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALAN CONCEIÇÃO DE LIMA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412986,
+      "process_number": "5324338-52.2016.8.09.0175",
+      "protocol_number": null,
+      "folder": "2219",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2016-12-09",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - MANIFESTAÇÃO"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APARECIDO MORAES SANTOS (Referente à Mov. Ato Ordinatório (31/03/2026 10:17:11))"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de APARECIDO MORAES SANTOS - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE EXEQUENTE MANIFESTAR-SE SOBRE IMPUGNAÇÃO DE MOV. 122"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Impugnação"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para APARECIDO MORAES SANTOS em 05/03/2026 23:59:59 (Referente à Mov. Decisão -> deferimento (06/02/2026 22:49:32))"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> deferimento (06/02/2026 22:49:32))"
+        },
+        {
+          "date": "2026-02-08",
+          "header": "TJGO",
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"1283-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de Sentença contra a Fazenda Pública\""
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "APARECIDO MORAES SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412987,
+      "process_number": "5308861-42.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2282",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2023-05-17",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Desarquivamento - Cumprimento de Sentença"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"1283-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de Sentença contra a Fazenda Pública\""
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-01-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Área Agrícola Ltda Me (Referente à Mov. Ato Ordinatório (23/01/2026 12:08:16))"
+        },
+        {
+          "date": "2026-01-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Área Agrícola Ltda Me (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-01-23",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Área Agrícola Ltda Me em 22/01/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (27/11/2025 22:36:34))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ÁREA AGRÍCOLA LTDA ME"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412988,
+      "process_number": "5517266-88.2020.8.09.0175",
+      "protocol_number": null,
+      "folder": "2277",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2020-10-19",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Regina Helena Viana (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Britânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 24/03/2026 13:00)"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 24/03/2026 13:00)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ASSOCIACAO DOS SERVIDORES PUBLICOS MUNICIPAIS DE BRITANIA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412989,
+      "process_number": "5392308-88.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2235",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-05-17",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-02-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - 05.02.2026"
+        },
+        {
+          "date": "2026-02-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para BANCO BRADESCO S/A em 12/12/2025 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto (14/11/2025 17:50:28))"
+        },
+        {
+          "date": "2025-11-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto (14/11/2025 17:50:28))"
+        },
+        {
+          "date": "2025-11-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de PREFEITURA MUNICIPAL DE BRITÂNIA/GO (Referente à Mov. Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto (CNJ:12325) - )"
+        },
+        {
+          "date": "2025-11-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BANCO BRADESCO S/A (Referente à Mov. Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto (CNJ:12325) - )"
+        },
+        {
+          "date": "2025-11-14",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto - Extinção pela perda superveniente do objeto"
+        },
+        {
+          "date": "2025-11-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de BANCO BRADESCO S/A (Referente à Mov. Julgamento -> Sem Resolução do Mérito -> Extinção -> Perda do objeto (14/11/2025 17:50:28))"
+        },
+        {
+          "date": "2025-10-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "BANCO BRADESCO S/A"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412990,
+      "process_number": "5463835-66.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3009",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-06-12 00:00:00",
+      "created_at": "2025-06-12 00:00:00",
+      "process_date": "2025-06-12",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Municipio De Britania em 26/03/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:32))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Municipio De Britania em 26/03/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:31))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Banco Bradesco S.a. em 19/03/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:32))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Banco Bradesco S.a. em 19/03/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:31))"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício Comunicatório"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:32))"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (31/01/2026 23:49:31))"
+        },
+        {
+          "date": "2026-01-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Banco Bradesco S.a. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "BANCO BRADESCO S/A"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412991,
+      "process_number": "6089612-38.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2225",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-11-29",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer de Mérito (MP)"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer de Mérito (MP) -"
+        },
+        {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Ato Ordinatório (25/02/2026 09:31:16))"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - MINISTÉRIO PÚBLICO MANIFESTAR-SE E REQUERER O QUE ENTENDER DE DIREITO"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Britania em 24/02/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (20/01/2026 16:21:11))"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Estado De Goias em 24/02/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (20/01/2026 16:21:11))"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Hernandes Rodrigo De Castro Silva Tavares em 12/02/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (20/01/2026 16:21:11))"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Cleidimar Morais Dos Santos em 12/02/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (20/01/2026 16:21:11))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DANIEL JANUARIO DE SOUZA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412992,
+      "process_number": "5168670-44.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2280",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2023-03-20",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2015-09-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2015-09-15",
+          "header": "TJGO",
+          "title": "Mandado Não Cumprido - Para ESCOLA DE AVIAÇÃO GOLDEN WINGS LTDA (Referente à Mov. PETICÃO ENVIADA (19/08/2015 15:45:26))"
+        },
+        {
+          "date": "2015-08-19",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para ESCOLA DE AVIAÇÃO GOLDEN WINGS LTDA"
+        },
+        {
+          "date": "2015-08-19",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Anápolis - 1º Juizado Especial Cível - Normal"
+        },
+        {
+          "date": "2015-08-19",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "DIVINA VERA SOUZA LEITE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412993,
+      "process_number": "5211339-38.2019.8.09.0051",
+      "protocol_number": null,
+      "folder": "2246",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DECLARATÓRIA DE OBRIGAÇÃO CONSTITUCIONAL DE FAZER",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2019-04-24",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contraminuta -"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contraminuta"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Município De Britânia (Referente à Mov. Intimação Expedida (03/02/2026 08:48:35))"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTA AO AGRAVO AO STJ"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Certidão - Agravo em recurso especial autuado - CERTIDÃO DE AUTUAÇÃO DE AGRAVO PARA O STJ MOV 129"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Britânia (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Agravo em recurso especial - Estado de Goiás"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goiás (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 28/01/2026 10:41:41)"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Decisão -> Não-Admissão -> Recurso Especial - Recurso Especial Inadmitido (Súmula 7/STJ)"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Britânia (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 28/01/2026 10:41:41)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412994,
+      "process_number": "5002853-14.2020.8.09.0051",
+      "protocol_number": null,
+      "folder": "2259",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2020-01-07",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Britania (Referente à Mov. Decisão -> Concessão de efeito suspensivo -> Impugnação ao cumprimento de sentença (18/03/2026 09:31:33))"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual -"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual -"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Decisão -> Concessão de efeito suspensivo -> Impugnação ao cumprimento de sentença (CNJ:383) - )"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão de efeito suspensivo -> Impugnação ao cumprimento de sentença - Intime-se fazenda pública - impugnar cumprimento de sentença - Art. 535, CPC"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Inversão de Pólos - (UPJ) - INVERSÃO DE POLOS - PROCESSO EM FASE DE CUMP. SENTENÇA"
+        },
+        {
+          "date": "2026-02-25",
+          "header": "TJGO",
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412995,
+      "process_number": "5630039-37.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2232",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-06-28",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 60 dias)"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Outras Decisões (17/03/2026 22:44:29))"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (17/03/2026 22:44:29))"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Decisão -> Outras Decisões - 17/03/2026 22:44:29)"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Decisão -> Outras Decisões - 17/03/2026 22:44:29)"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por João Gabriel Lima Portugal (Referente à Mov. Despacho -> Mero Expediente (02/12/2025 14:53:53))"
+        },
+        {
+          "date": "2026-01-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Despacho -> Mero Expediente - 02/12/2025 14:53:53)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GO GOV GABINETE DO PROCURADOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412996,
+      "process_number": "5601839-54.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2241",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2023-09-11",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para 01ª Promotoria em 12/12/2025 23:59:59 (Referente à Mov. Juntada de Documento (26/11/2025 13:26:13))"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Manifestação do Município"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-11-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por João Gabriel Lima Portugal (Referente à Mov. Juntada de Documento (26/11/2025 13:26:13))"
+        },
+        {
+          "date": "2025-11-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer"
+        },
+        {
+          "date": "2025-11-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer -"
+        },
+        {
+          "date": "2025-11-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resposta da Secretaria de Saúde"
+        },
+        {
+          "date": "2025-11-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Juntada de Documento (CNJ:581) - )"
+        },
+        {
+          "date": "2025-11-24",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Lean Ribeiro De Souza em 19/11/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (29/10/2025 14:23:37))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GO GOV GABINETE DO PROCURADOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412997,
+      "process_number": "5686105-37.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2231",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-07-15",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412998,
+      "process_number": "5557317-05.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2233",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-06-10",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412999,
+      "process_number": "5713431-06.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2240",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE RECONHECIMENTO DE ATIVIDADE ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2023-10-25",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:17:39))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Juntada de Documento - COMPROVANTE DE ENVIO DE INTIMAÇÃO AO PERITO NOMEADO"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Decisão -> Outras Decisões - 07/04/2026 17:17:39)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leonel Pedro Correia Filho (Referente à Mov. Decisão -> Outras Decisões - 07/04/2026 17:17:39)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonel Pedro Correia Filho (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:17:39))"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Britania (Referente à Mov. Juntada de Documento (08/02/2026 17:34:50))"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Solicitação Intimação Perito"
+        },
+        {
+          "date": "2026-02-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "LEONEL PEDRO CORREIA FILHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413000,
+      "process_number": "0094887-61.2010.8.09.0175",
+      "protocol_number": null,
+      "folder": "2258",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2010-03-12",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de COMPANHIA ENERGETICA DE GOIAS SA CELG (Referente à Mov. Juntada de Documento - 17/04/2026 14:42:42)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Juntada de Documento - 17/04/2026 14:42:42)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comunica Formalização de Precatório"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de COMPANHIA ENERGETICA DE GOIAS SA CELG (Referente à Mov. Juntada de Documento (17/04/2026 14:42:42))"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PROCEDO O ARQUIVAMENTO DOS AUTOS - NOTA TÉCNICA 04/2023"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413001,
+      "process_number": "5868192-92.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2238",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2023-12-22",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (06/04/2026 13:44:00))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Agentes Comunitarios De Saude E Agentes De Combate As Endemias Do Oeste Goiano (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (06/04/2026 13:44:00))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 06/04/2026 13:44:00)"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SACSEACEOG (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 06/04/2026 13:44:00)"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Decisão -> Não-Admissão -> Recurso Especial - Súmula 7/STJ"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O VICE PRESIDENTE DO TRIBUNAL DE JUSTIÇA"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos - CONCLUSO AO VICE-PRESIDENTE"
+        },
+        {
+          "date": "2026-02-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Contrarrazões"
+        },
+        {
+          "date": "2025-12-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Intimação Expedida (28/11/2025 18:23:22))"
+        },
+        {
+          "date": "2025-11-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRARRAZÕES"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SINDACS/ACE DO OESTE GOIANO"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413002,
+      "process_number": "5304467-21.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3218",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-07-02 00:00:00",
+      "created_at": "2025-07-02 00:00:00",
+      "process_date": "2025-04-20",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2018-01-31",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2018-01-31",
+          "header": "TJGO",
+          "title": "Intimação Realizada em Cartório/Audiência - Para WANDERSON LUIZ DA SILVA (Referente à Mov. Audiência Realizada com Sentença de Homologação - )"
+        },
+        {
+          "date": "2018-01-31",
+          "header": "TJGO",
+          "title": "Intimação Realizada em Cartório/Audiência - Para Advgs. de MADEIREIRA PARANAPOLIS LTDA (Referente à Mov. Audiência Realizada com Sentença de Homologação - )"
+        },
+        {
+          "date": "2018-01-31",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Audiência Realizada com Sentença de Homologação) - (Conciliação - 31/01/2018 13:10)"
+        },
+        {
+          "date": "2017-10-18",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para WANDERSON LUIZ DA SILVA (Referente à Mov. Audiência de Conciliação Marcada (25/08/2017 18:00:20))"
+        },
+        {
+          "date": "2017-08-29",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) WANDERSON LUIZ DA SILVA"
+        },
+        {
+          "date": "2017-08-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - On-line para AGENOR PEDRO DA SILVA JÚNIOR (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA)"
+        },
+        {
+          "date": "2017-08-25",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - (Agendada para 31/01/2018 13:10:00)"
+        },
+        {
+          "date": "2017-08-25",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Anápolis - 4º Juizado Especial Cível (Normal) - Distribuído para: MARIA LUCIA FONSECA"
+        },
+        {
+          "date": "2017-08-25",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SINDICATO DOS AGENTES COMUNITARIOS DE SAUDE E AGENTES DE COMBATE AS ENDEMIAS DO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413003,
+      "process_number": "5822712-57.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2228",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-08-27",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "SINDICATO DOS TRABALHADORES EM EDUCACAO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413004,
+      "process_number": "5735886-34.2025.8.09.0000",
+      "protocol_number": null,
+      "folder": "3748",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-09-26 00:00:00",
+      "created_at": "2025-09-26 00:00:00",
+      "process_date": "2025-09-10",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - CERTIDÃO-TRÂNSITO EM JULGADO, 18/02/2026"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Municipio De Britania em 18/02/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Recurso prejudicado (11/02/2026 18:23:14))"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Recurso prejudicado (11/02/2026 18:23:14))"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Retirado de Pauta - (Sessão do dia 23/02/2026 10:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo de Instrumento)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Comunicatório"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Recurso prejudicado - 11/02/2026 18:23:14)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Banco Bradesco S.a - Polo Ativo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Recurso prejudicado - 11/02/2026 18:23:14)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Bradesco S.a (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Recurso prejudicado (11/02/2026 18:23:14))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "BANCO BRADESCO S/A"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413005,
+      "process_number": "5972686-37.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "4009",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PÚBLICO",
+      "status_closure": "2026-01-20 00:00:00",
+      "created_at": "2026-01-20 00:00:00",
+      "process_date": "2025-11-25",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por FERNANDO AURVALLE KREBS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (27/03/2026 14:52:12))"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (27/03/2026 14:52:12))"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MECL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 27/03/2026 14:52:12)"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 23/03/2026 10:00)"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 23/03/2026 10:00)"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE BRITÂNIA - Litisconsorte (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 27/03/2026 14:52:12)"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 27/03/2026 14:52:12)"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MOURA E CARVALHO LTDA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (27/03/2026 14:52:12))"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413006,
+      "process_number": null,
+      "protocol_number": "305214-18.2014.8.09.0183",
+      "folder": "3704",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "AGRAVO EM RECURSO ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-09-15 00:00:00",
+      "created_at": "2025-09-15 00:00:00",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JUSSARA FRUTUOSO BARCELOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13413007,
+      "process_number": "5369939-03.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2236",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "APELAÇÃO / REMESSA NECESSÁRIA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-05-10",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença -"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de ESTADO DE GOIÁS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Outras Decisões (26/03/2026 20:11:35))"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESTADO DE GOIÁS (Referente à Mov. Decisão -> Outras Decisões (26/03/2026 20:11:35))"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para ESTADO DE GOIÁS (Mandado nº 7088136 / Referente à Mov. Decisão -> Outras Decisões (26/03/2026 20:11:35))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413008,
+      "process_number": "5324247-59.2016.8.09.0175",
+      "protocol_number": null,
+      "folder": "2217",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2016-12-09",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - EXPEDIÇÃO DE PRECATÓRIO"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Diligência Concluída  Processo Devolvido - Aruanã - Vara das Fazendas Públicas (Retornado para: THIAGO BRITO DE FARIAS)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Ato Ordinatório (14/04/2026 11:48:31))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOÃO PEREIRA SALGADO - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE EXEQUENTE MANIFESTAR-SE SOBRE CERTIDÃO DE MOV. 172"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Requisição de Pequeno Valor Expedida (30/03/2026 17:50:31))"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CCARPV - Informação - RPV sucumbencial"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Requisição de Pequeno Valor Expedida -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOÃO PEREIRA SALGADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413009,
+      "process_number": "5670221-36.2022.8.09.0175",
+      "protocol_number": null,
+      "folder": "2278",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2022-10-31",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Bloqueio/penhora on line"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PROCEDO O ARQUIVAMENTO DOS AUTOS - NOTA TÉCNICA 04/2023"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-12-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Diligência Concluída  Processo Devolvido (09/12/2025 10:45:47))"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413010,
+      "process_number": "0188121-11.2008.8.09.0097",
+      "protocol_number": null,
+      "folder": "2256",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2008-04-30",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de HEBERVAL PINTO DE OLIVEIRA (Referente à Mov. Juntada de Documento (17/04/2026 13:55:10))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ANISIO GUEDES DOS SANTOS (Referente à Mov. Juntada de Documento (17/04/2026 13:55:10))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Juntada de Documento - 17/04/2026 13:55:10)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de HEBERVAL PINTO DE OLIVEIRA (Referente à Mov. Juntada de Documento - 17/04/2026 13:55:10)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ANISIO GUEDES DOS SANTOS (Referente à Mov. Juntada de Documento - 17/04/2026 13:55:10)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comunica Formalização de Precatório"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ANISIO GUEDES DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413011,
+      "process_number": "5324272-72.2016.8.09.0175",
+      "protocol_number": null,
+      "folder": "2218",
+      "stage": "RECURSO",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2016-12-09",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 27/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (05/03/2026 18:05:35))"
+        },
+        {
+          "date": "2026-03-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 12/03/2026 23:59:59 (Referente à Mov. Despacho -> Expedição de alvará de levantamento (10/02/2026 23:28:43))"
+        },
+        {
+          "date": "2026-03-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para EUCLIDES GAMA DOS SANTOS em 09/03/2026 23:59:59 (Referente à Mov. Despacho -> Expedição de alvará de levantamento (10/02/2026 23:28:43))"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Despacho -> Mero Expediente (05/03/2026 18:05:35))"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Despacho -> Mero Expediente (05/03/2026 18:05:35))"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EUCLIDES GAMA DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413012,
+      "process_number": "5324316-91.2016.8.09.0175",
+      "protocol_number": null,
+      "folder": "3503",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-11 00:00:00",
+      "created_at": "2025-08-11 00:00:00",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Transitado em Julgado (05/12/2025 12:29:44))"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOSIMAR NUNES DA SILVA (Referente à Mov. Transitado em Julgado (05/12/2025 12:29:44))"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Transitado em Julgado - 05/12/2025 12:29:44)"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOSIMAR NUNES DA SILVA (Referente à Mov. Transitado em Julgado - 05/12/2025 12:29:44)"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido -"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-11-11",
+          "header": "TJGO",
+          "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - PUBLICAÇÃO DIÁRIO Nº 4314/2025 DO DIA 11/11/2025"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (07/11/2025 12:45:46))"
+        },
+        {
+          "date": "2025-11-07",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 03/11/2025 10:00)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSIMAR NUNES DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413013,
+      "process_number": "5693309-19.2024.8.09.0051",
+      "protocol_number": null,
+      "folder": "2230",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-07-17",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - Processo Suspenso ou Sobrestado por Recurso Repetitivo / Recurso de Repercussão Geral"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo -"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Incidente de Assunção de Competência - IAC -"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Incidente de Assunção de Competência - IAC"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 365 dias)"
+        },
+        {
+          "date": "2025-10-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE MOSSAMEDES em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+        },
+        {
+          "date": "2025-10-21",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-10-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Município De Caiapônia em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+        },
+        {
+          "date": "2025-10-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE JATAI em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MUNICIPIO DE APARECIDA DE GOIANIA - ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413014,
+      "process_number": "0425805-09.2009.8.09.0175",
+      "protocol_number": null,
+      "folder": "2252",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2009-10-14",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-12-15",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - PARA APRESENTAÇÃO DAS PLANILHAS INDIVIDUALIZADAS"
+        },
+        {
+          "date": "2025-12-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> deferimento (29/11/2025 00:51:04))"
+        },
+        {
+          "date": "2025-11-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ASSOCIACAO DOS SERVIDORES PUBLICOS MUNICIPAIS DE BRITANIA (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
+        },
+        {
+          "date": "2025-11-29",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento -"
+        },
+        {
+          "date": "2025-11-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413015,
+      "process_number": "0001173-13.2011.8.09.0175",
+      "protocol_number": null,
+      "folder": "2245",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2011-01-07",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - FICAM AS PARTES INTIMADAS PARA MANIFESTAREM-SE SOBRE CERTIDÃO E CÁLCULOS"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Atualização de Conta -"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Certidão Expedida (17/03/2026 16:23:27))"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Certidão Expedida (17/03/2026 16:23:27))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - DADOS SOLICITADOS PELA SEMAD PARA EXPEDIÇÃO DO DARE"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Outras Decisões (06/03/2026 21:39:21))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Certidão Expedida - IREI EXPEDIR OFÍCIO APÓS ATUALIZAÇÃO DO DÉBITO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        },
+        {
+          "name": "FUNDO ESTADUAL DO MEIO AMBIENTE - FEMA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413016,
+      "process_number": "0001210-40.2011.8.09.0175",
+      "protocol_number": null,
+      "folder": "3908",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-11-27 00:00:00",
+      "created_at": "2025-11-27 00:00:00",
+      "process_date": "2011-01-07",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:17:38))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:17:38))"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE BRITÂNIA (Referente à Mov. Decisão -> Outras Decisões - 07/04/2026 17:17:38)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Decisão -> Outras Decisões - 07/04/2026 17:17:38)"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Ato Ordinatório (19/12/2025 09:21:58))"
+        },
+        {
+          "date": "2026-01-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação e documentos"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413017,
+      "process_number": "0198833-49.2015.8.09.0183",
+      "protocol_number": null,
+      "folder": "2250",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INTERDIÇÃO / CURATELA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2015-06-03",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - OFICIO 88 2026"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - 19.02.2026"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIMONE GAMA DOS SANTOS - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SIMONE GAMA DOS SANTOS (Referente à Mov. Certidão Expedida (23/02/2026 12:30:08))"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 18/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (04/12/2025 21:50:37))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413019,
+      "process_number": "5352421-97.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "3722",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INVENTÁRIO E PARTILHA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-09-23 00:00:00",
+      "created_at": "2025-09-23 00:00:00",
+      "process_date": "2024-05-05",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Evento 165 - 16/04/2026"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJGO",
+          "title": "Intimação Lida - Para Andreia Alves Batista Schimieder (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologado o Pedido (15/12/2025 19:16:31))"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para Andreia Alves Batista Schimieder - Código de Rastreamento Correios: YH057407882BR idPendenciaCorreios109087635432015873960947067idPendenciaCorreios"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Apresentação do Endereço da Herdeira Andreia Alves Batista Schimieder"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Willians Alves Batista (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Francisca Alves De Almeida Santos (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sebastiao De Almeida Fonseca (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eliana Alves De Almeida (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jorge Alves Almeida (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Dalveri Alves Ferreira (Referente à Mov. Intimação Não Efetivada - 23/02/2026 08:58:30)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESPÓLIO DE ALDENORA MARTINS DE ALMEIDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413020,
+      "process_number": "5773883-11.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3763",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-10-02 00:00:00",
+      "created_at": "2025-10-02 00:00:00",
+      "process_date": "2025-09-23",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Britania em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Ana Maria Mendes Galvao em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para RESTAURANTE CENTRAL EIRELI em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Aruanã - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: THIAGO BRITO DE FARIAS"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Agencia Goiana De Infraestrutura E Transportes (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Ciente. Aguarda regular andamento do feito."
+        },
+        {
+          "date": "2026-03-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Maria Mendes Galvao - Polo Ativo (Referente à Mov. Decisão -> Declaração -> Incompetência - 04/03/2026 11:32:10)"
+        },
+        {
+          "date": "2026-03-04",
+          "header": "TJGO",
+          "title": "Decisão -> Declaração -> Incompetência -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "AGENCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES"
+        },
+        {
+          "name": "ANA MARIA MENDES GALVAO"
+        },
+        {
+          "name": "RESTAURANTE CENTRAL EIRELI - ANA MARIA MENDES GALVAO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413021,
+      "process_number": "5127757-49.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "2220",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2025-02-18",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-06-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-06-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - 18.04.2025"
+        },
+        {
+          "date": "2025-06-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Elizete Maria De Carvalho (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial (CNJ:454) - )"
+        },
+        {
+          "date": "2025-06-02",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial -"
+        },
+        {
+          "date": "2025-06-02",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial"
+        },
+        {
+          "date": "2025-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Elizete Maria De Carvalho (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial (02/06/2025 17:20:12))"
+        },
+        {
+          "date": "2025-03-31",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2025-03-20",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - PARA PARTE AUTORA REGULARIZAR REPRESENTAR E JUNTAR COMP. DE END. ATUALIZADO"
+        },
+        {
+          "date": "2025-02-19",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE AUTORA JUNTAR COMP. DE END. ATUALIZADO E SUBSTABELECIMENTO ASSINADO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ELIZETE MARIA DE CARVALHO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413022,
+      "process_number": "5902915-06.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2227",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-09-23",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Gildete Lima Carvalho Oliveira em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - GILDETE LIMA CARVALHO OLIVEIRA"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Dados Bancários"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE EXEQUENTE APRESENTAR DADOS BANCÁRIOS PRÓPRIOS OU DE SEU ADVOGADO"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (30/03/2026 14:00:54))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GILDETE LIMA CARVALHO OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413023,
+      "process_number": "5068447-26.2023.8.09.0000",
+      "protocol_number": null,
+      "folder": "2279",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "RECURSO ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2023-02-06",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-07-15",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2025-07-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO REMESSA DOS AUTOS AO STJ"
+        },
+        {
+          "date": "2025-07-01",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Resp. e RE. remessa ao STJ"
+        },
+        {
+          "date": "2025-06-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O VICE PRESIDENTE DO TRIBUNAL DE JUSTIÇA"
+        },
+        {
+          "date": "2025-06-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - CONCLUSO AO VICE-PRESIDENTE"
+        },
+        {
+          "date": "2025-04-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goiás (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2025-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTAS AOS AGRAVOS (MOV. 158/159)"
+        },
+        {
+          "date": "2025-04-27",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stf)"
+        },
+        {
+          "date": "2025-04-27",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413024,
+      "process_number": "0001560-62.2010.8.09.0175",
+      "protocol_number": null,
+      "folder": "2254",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "REMESSA NECESSÁRIA CÍVEL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2010-01-07",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICÍPIO DE BRITÂNIA em 04/11/2025 23:59:59 (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral (05/09/2025 16:50:57))"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - Processo Suspenso ou Sobrestado por Recurso Repetitivo / Recurso de Repercussão Geral"
+        },
+        {
+          "date": "2025-11-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para ESTADO DE GOIÁS em 04/11/2025 23:59:59 (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral (05/09/2025 16:50:57))"
+        },
+        {
+          "date": "2025-09-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICÍPIO DE BRITÂNIA (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral (05/09/2025 16:50:57))"
+        },
+        {
+          "date": "2025-09-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESTADO DE GOIÁS (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral (05/09/2025 16:50:57))"
+        },
+        {
+          "date": "2025-09-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de ESTADO DE GOIÁS (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral - 05/09/2025 16:50:57)"
+        },
+        {
+          "date": "2025-09-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE BRITÂNIA (Referente à Mov. Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral - 05/09/2025 16:50:57)"
+        },
+        {
+          "date": "2025-09-05",
+          "header": "TJGO",
+          "title": "Levantamento da Causa Suspensiva ou de Sobrestamento -> Suspensão/Sobrestamento por Recurso Extraordinário com Repercussão Geral - TEMA 1.255 STF"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos - CONCLUSO AO VICE PRESIDENTE"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O VICE PRESIDENTE DO TRIBUNAL DE JUSTIÇA"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413025,
+      "process_number": "5588860-02.2019.8.09.0175",
+      "protocol_number": null,
+      "folder": "2247",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "REMESSA NECESSÁRIA CÍVEL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2019-10-08",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Marluce Lazara De Jesus Antunes em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
+        },
+        {
+          "date": "2026-05-02",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - MARLUCE LAZARA DE JESUS ANTUNES"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição dados bancários"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE EXEQUENTE INFORMAR DADOS BANCÁRIOS PARA EXPEDIÇÃO DE PRECATÓRIO"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (06/04/2026 14:04:50))"
+        }
+      ],
+      "partes_adversarias": [],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413026,
+      "process_number": "0392162-26.2015.8.09.0183",
+      "protocol_number": null,
+      "folder": "2251",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "REMESSA NECESSÁRIA CÍVEL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2015-10-29",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413836,
+      "process_number": "5477854-77.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3389",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-10 00:00:00",
+      "created_at": "2025-07-10 00:00:00",
+      "process_date": "2025-06-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Juntada de Documento - 07/05/2026 09:25:23)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Francisco De Assis Lopes Da Silva (Referente à Mov. Juntada de Documento - 07/05/2026 09:25:23)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Juntada de Documento - AGENDAMENTO DE PERICIA"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Francisco De Assis Lopes Da Silva (Referente à Mov. Juntada de Documento (07/05/2026 09:25:23))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - PARA O MUNICÍPIO DE BRITÂNIA JUNTAR DOCUMENTOS"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Juntada de Documento - REITERAÇÃO DE INTIMAÇÃO DO PERITO NOMEADO"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Britania em 30/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (07/04/2026 09:13:30))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Francisco De Assis Lopes Da Silva em 27/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (07/04/2026 09:12:25))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (07/04/2026 09:13:30))"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (06/04/2026 23:28:21))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "FRANCISCO DE ASSIS LOPES DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413904,
+      "process_number": "5482974-04.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3502",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-11 00:00:00",
+      "created_at": "2025-08-11 00:00:00",
+      "process_date": "2025-06-18",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-09-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-09-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-09-08",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para JOÃO PEREIRA SALGADO em 05/09/2025 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (13/08/2025 12:56:56))"
+        },
+        {
+          "date": "2025-08-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PUBLICAÇÃO - DJE n. 4255 - Seção I - 15/08/2025"
+        },
+        {
+          "date": "2025-08-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (13/08/2025 12:56:56))"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 11/08/2025 10:00)"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 11/08/2025 10:00)"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (13/08/2025 12:56:56))"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOÃO PEREIRA SALGADO - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 13/08/2025 12:56:56)"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 13/08/2025 12:56:56)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413988,
+      "process_number": "5420432-18.2023.8.09.0175",
+      "protocol_number": null,
+      "folder": "2285",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "MANDADO DE SEGURANÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-10 00:00:00",
+      "created_at": "2025-03-10 00:00:00",
+      "process_date": "2023-07-05",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13413999,
+      "process_number": "5510724-78.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": "3501",
+      "stage": "RECURSO",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE COBRANÇA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-11 00:00:00",
+      "created_at": "2025-08-11 00:00:00",
+      "process_date": "2025-06-30",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (10/04/2026 18:00:53))"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 01/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Inominado Cível - Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 10/04/2026 18:00:53)"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de CBL (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 10/04/2026 18:00:53)"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual -"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Construgama Britania Ltda (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (10/04/2026 18:00:53))"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Recurso Autuado - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Inominado Cível)"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CONSTRUGAMA BRITANIA LTDA - CLEUVIO GAMA DE LIMA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414001,
+      "process_number": "5327196-75.2024.8.09.0175",
+      "protocol_number": null,
+      "folder": "2237",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-03-07 00:00:00",
+      "created_at": "2025-03-07 00:00:00",
+      "process_date": "2024-04-26",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "NÃO INFORMADO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13741589,
+      "process_number": "6058479-41.2025.8.09.0175",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO",
+      "step": "JUDICIAL",
+      "type": "MANDADO DE SEGURANÇA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 12:35:58",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associação Dos Servidores Municipal De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (07/05/2026 16:43:13))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência - Decisão Monocrática"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação Dos Servidores Municipal De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Desistencia Requerida -"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer -"
+        },
+        {
+          "date": "2026-05-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Bernardo Morais Cavalcanti (Referente à Mov. Decisão -> Não-Concessão -> Liminar (07/01/2026 14:31:17))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: Bernardo Morais Cavalcanti"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Promotoria da 4ª Turma Recursal dos Juizados Especiais (Referente à Mov. Decisão -> Não-Concessão -> Liminar - 07/01/2026 14:31:17)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ARUANÃ - JUIZADO DAS FAZENDAS PÚBLICAS"
+        },
+        {
+          "name": "ASSOCIACAO DOS SERVIDORES MUNICIPAL DE BRITANIA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13742700,
+      "process_number": "5149010-59.2026.8.09.0175",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AGRAVO DE INSTRUMENTO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 13:57:36",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-04-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Contrarrazões"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Despacho -> Mero Expediente (23/02/2026 17:22:45))"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 23/02/2026 17:22:45)"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão -> Gratuidade da Justiça -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de Saneamento"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Autos Conclusos -"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Processo Distribuído - 8ª Câmara Cível (Normal) - Distribuído para: ALEXANDRE DE MORAIS KAFURI"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "EUCLIDES GAMA DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13745641,
+      "process_number": "5002465-20.2026.8.09.0175",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO ANULATÓRIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 15:43:38",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Decisão -> Outras Decisões (08/05/2026 20:45:42))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Réplica - RÉPLICA À CONTESTAÇÃO MUNICÍPIO DE BRITÂNIA"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício Comunicatório"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - FICA A PARTE AUTORA INTIMADA APRESENTAR IMPUGNAÇÃO À CONTESTAÇÃO DE MOV. 23"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Ato Ordinatório (25/03/2026 10:27:19))"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sinval Solidade Da Silva - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - CONTESTAÇÃO"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "SINVAL SOLIDADE DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13745941,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 15:54:47",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243571,
+      "process_number": null,
+      "protocol_number": "173/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 11:59:06",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243648,
+      "process_number": null,
+      "protocol_number": "172/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:02:07",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243698,
+      "process_number": null,
+      "protocol_number": "11037/25",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:04:30",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243741,
+      "process_number": null,
+      "protocol_number": "9251/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:07:23",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243790,
+      "process_number": null,
+      "protocol_number": "7251/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:10:14",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243856,
+      "process_number": null,
+      "protocol_number": "6265/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:12:55",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243900,
+      "process_number": null,
+      "protocol_number": "880/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:15:24",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 14243915,
+      "process_number": null,
+      "protocol_number": "9812/24",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-04-15 12:16:41",
+      "process_date": "2026-04-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

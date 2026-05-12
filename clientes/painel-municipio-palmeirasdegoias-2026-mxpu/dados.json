@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T12:04:35-03:00",
+    "gerado_em_humano": "12/05/2026 12:04",
+    "slug_url": "painel-municipio-palmeirasdegoias-2026-mxpu",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICIPIO DE PALMEIRAS DE GOIAS",
+    "identification": "**.***.***/****-32",
+    "city": "PALMEIRAS DE GOIÁS",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13414414,
+      "process_number": "0600170-62.2024.6.09.0020",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "ABUSO DE PODER POLÍTICO / AUTORIDADE",
+      "group": "ELEITORAL",
+      "status_closure": "2024-06-02 00:00:00",
+      "created_at": "2024-04-03 00:00:00",
+      "process_date": "2024-08-01",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "PALMEIRAS DE GOIÁS GO"
+        },
+        {
+          "name": "PARTIDO LIBERAL"
+        },
+        {
+          "name": "TAIS CARDOSO LOPES"
+        },
+        {
+          "name": "ZONA ELEITORAL DE PALMEIRAS DE GOIÁS GO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13719585,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": "PALMEIRAS DE GOIÁS",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": "2026-03-17 12:58:50",
+      "created_at": "2026-03-17 12:40:59",
+      "process_date": "2026-03-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

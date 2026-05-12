@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T15:58:55-03:00",
-    "gerado_em_humano": "11/05/2026 15:58",
+    "gerado_em": "2026-05-12T11:54:56-03:00",
+    "gerado_em_humano": "12/05/2026 11:54",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -673,15 +673,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 0,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-04"
+    "ultima_data": null
   }
 }

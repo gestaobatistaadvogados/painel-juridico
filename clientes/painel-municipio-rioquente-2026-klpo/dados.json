@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-12T11:55:07-03:00",
+    "gerado_em_humano": "12/05/2026 11:55",
+    "slug_url": "painel-municipio-rioquente-2026-klpo",
+    "departamento": "direito_publico"
+  },
+  "cliente": {
+    "name": "MUNICÍPIO DE RIO QUENTE",
+    "identification": "**.***.***/****-27",
+    "city": "RIO QUENTE",
+    "state": "GO",
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 13203879,
+      "process_number": "5731183-56.2023.8.09.0024",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "TRANSITO EM JULGADO/NÃO CABE MAIS RECURSO",
+      "step": "RECURSAL",
+      "type": "MANDADO DE SEGURANÇA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-02-16 22:28:03",
+      "process_date": "2023-11-01",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-02-21",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-02-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Paulo Josue Fonseca - Presidente Do Conselho Municipal Dos Direitos Da Criança E Do Adolescente Do Município De Rio Quente/go em 18/02/2026 23:59:59 (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
+        },
+        {
+          "date": "2026-02-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Maria Oneide Da Silva Oliveira em 18/02/2026 23:59:59 (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
+        },
+        {
+          "date": "2026-02-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go em 18/02/2026 23:59:59 (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Josue Fonseca - Presidente Do Conselho Municipal Dos Direitos Da Criança E Do Adolescente Do Município De Rio Quente/go (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Oneide Da Silva Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Oneide Da Silva Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MARIA ONEIDE DA SILVA OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13719816,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-17 13:00:11",
+      "process_date": "2026-03-17",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 13745779,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-03-18 15:48:24",
+      "process_date": "2026-03-18",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
+  "atividade_90d": {
+    "total": 3,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 1,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 1
+    },
+    "ultima_data": "2026-05-04"
+  }
+}

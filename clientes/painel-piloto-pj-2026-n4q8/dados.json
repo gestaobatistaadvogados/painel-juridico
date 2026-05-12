@@ -1,9 +1,9 @@
 {
   "meta": {
-    "gerado_em": "2026-05-11T15:37:28-03:00",
-    "gerado_em_humano": "11/05/2026 15:37",
+    "gerado_em": "2026-05-12T11:35:37-03:00",
+    "gerado_em_humano": "12/05/2026 11:35",
     "slug_url": "painel-piloto-pj-2026-n4q8",
-    "departamento": "direito_publico"
+    "departamento": "direito_privado"
   },
   "cliente": {
     "name": "HOSPITAL AMPARO LTDA",
@@ -2476,7 +2476,58 @@
       "created_at": "2026-03-19 17:22:32",
       "process_date": "2026-03-13",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Contrarrazões ao Agravo Interno"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 07/05/2026 19:46:45)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 19:46:45))"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestacao"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a (Referente à Mov. Despacho -> Mero Expediente (15/04/2026 19:27:18))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 15/04/2026 19:27:18)"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Processo Reativado -"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Processo Reativado"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "EQUATORIAL GOIAS DISTRIBUIDORA DE ENERGIA S/A"
@@ -3886,7 +3937,58 @@
       "created_at": "2026-05-06 12:20:21",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 07/05/2026"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ANA MARIA SILVERIO DE SA CRUS"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência cancelada (26/05/2026 11:01 CEJUSC - GRUPO 1 - 1ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (28/05/2026 15:05 CEJUSC - GRUPO 1 - 1ª VARA DO TRABALHO DE GOIÂNIA)"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "ADAILTO ANTONIO LEITE"
@@ -3925,6 +4027,21 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Neguev Comercial E Servicos Ltda (Referente à Mov. Certidão Expedida (11/05/2026 09:00:37))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Intimação - Exequente manifestar"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NCESL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -3957,22 +4074,7 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NCESL (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação - Citar p/ pgto 3 dias"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Neguev Comercial E Servicos Ltda (Referente à Mov. Despacho -> Determinação de Citação (23/04/2026 19:06:08))"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Autos Conclusos -"
         }
       ],
       "partes_adversarias": [
@@ -3996,7 +4098,58 @@
       "created_at": "2026-05-06 17:14:22",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 04/05/2026"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 30/04/2026"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) ROBSON GORITO PORTES"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) ADAILTO ANTONIO LEITE"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) WAGNER MIRANDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) SIDERLEY DE SOUZA CARNEIRO"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) JOAO CLAUDIO FERREIRA MIRANDA"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "BRESSED PARTICIPACOES EIRELI"
@@ -4039,7 +4192,33 @@
       "created_at": "2026-05-06 17:25:58",
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TRT18",
+          "title": "Incluídos os autos no Juízo 100% Digital"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (19/05/2026 11:20 CEJUSC - AUDIÊNCIAIS INICIAIS - 6ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TRT18",
+          "title": "Distribuído por sorteio"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "FRANCILEIA RIBEIRO DA SILVA SOUZA"
@@ -4233,15 +4412,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 321,
+    "total": 318,
     "categorias": {
-      "Peças": 50,
+      "Peças": 46,
       "Audiências": 47,
-      "Comunicações": 81,
-      "Acompanhamento": 107,
+      "Comunicações": 83,
+      "Acompanhamento": 106,
       "Diligências": 30,
       "Outras": 6
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-12"
   }
 }
