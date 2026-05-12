@@ -468,6 +468,22 @@
       "slug_url": "painel-municipio-santarosadegoias-2026-xpau",
       "ativo": true,
       "data_cadastro": "2026-05-11"
+    },
+    {
+      "id_advbox": 13729412,
+      "nome_curto": "sharks",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-sharks-2026-5v4p",
+      "ativo": true,
+      "data_cadastro": "2026-05-12"
+    },
+    {
+      "id_advbox": 14080989,
+      "nome_curto": "mybroker-setorsul",
+      "departamento": "direito_imobiliario",
+      "slug_url": "painel-mybroker-setorsul-2026-b38h",
+      "ativo": true,
+      "data_cadastro": "2026-05-12"
     }
   ]
 }

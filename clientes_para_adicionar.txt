@@ -1,17 +1,6 @@
-# Cadastro em lote — 13 municípios — Direito Público
+# Cadastro em lote — 2 pendentes — Direito Imobiliário
 # Formato: CPF/CNPJ ; departamento ; nome_curto
 # Departamentos: 1=Privado, 2=Imobiliário, 3=Público
 
-24.852.675/0001-27 ; 3 ; municipio-rioquente
-01.763.606/0001-41 ; 3 ; municipio-ipameri
-01.180.645/0001-16 ; 3 ; municipio-cristianopolis
-01.067.842/0001-23 ; 3 ; municipio-mairipotaba
-02.073.211/0001-80 ; 3 ; municipio-crominia
-00.005.959/0001-10 ; 3 ; municipio-indiara
-02.394.757/0001-32 ; 3 ; municipio-palmeirasdegoias
-02.296.325/0001-99 ; 3 ; municipio-britania
-01.743.335/0001-62 ; 3 ; municipio-posse
-01.174.580/0001-04 ; 3 ; municipio-marzagao
-04.223.461/0001-84 ; 3 ; municipio-gameleiradegoias
-01.215.474/0001-13 ; 3 ; municipio-aragoiania
-01.761.113/0001-72 ; 3 ; municipio-santarosadegoias
+32.728.605/0001-90 ; 2 ; sharks
+50.816.450/0001-25 ; 2 ; mybroker-setorsul
