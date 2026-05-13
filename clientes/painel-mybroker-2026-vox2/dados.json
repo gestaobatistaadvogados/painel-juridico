@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:41:37-03:00",
-    "gerado_em_humano": "12/05/2026 13:41",
+    "gerado_em": "2026-05-13T13:46:00-03:00",
+    "gerado_em_humano": "13/05/2026 13:46",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -1876,12 +1876,12 @@
         {
           "date": "2026-02-06",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO DE TRANSITO"
+          "title": "Processo Arquivado"
         },
         {
-          "date": "2026-01-13",
+          "date": "2026-02-06",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Edinalva Piedade Gouveia Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (13/01/2026 17:25:54))"
+          "title": "Certidão Expedida - CERTIDÃO DE TRANSITO"
         },
         {
           "date": "2026-01-13",
@@ -1899,6 +1899,11 @@
           "title": "Autos Conclusos - P/ DESPACHO"
         },
         {
+          "date": "2026-01-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Edinalva Piedade Gouveia Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (13/01/2026 17:25:54))"
+        },
+        {
           "date": "2025-11-13",
           "header": "TJGO",
           "title": "Movimentação Bloqueada -"
@@ -1912,11 +1917,6 @@
           "date": "2025-11-03",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
-        },
-        {
-          "date": "2025-11-02",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO INTIMAÇÃO PARTE AUTORA"
         }
       ],
       "partes_adversarias": [
@@ -2269,9 +2269,9 @@
           "title": "Processo Arquivado -"
         },
         {
-          "date": "2026-02-26",
+          "date": "2026-02-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (26/02/2026 18:47:31))"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2026-02-26",
@@ -2282,6 +2282,11 @@
           "date": "2026-02-26",
           "header": "TJGO",
           "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis - Indefere penhora cota consórcio - Extinção- art. 53, § 4º da Lei 9.099/95"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (26/02/2026 18:47:31))"
         },
         {
           "date": "2026-02-25",
@@ -2296,11 +2301,6 @@
         {
           "date": "2026-01-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda (Referente à Mov. Decisão -> Deferimento em Parte (27/01/2026 11:46:02))"
-        },
-        {
-          "date": "2026-01-27",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imobiliária Ltda - Polo Ativo (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
         },
         {
@@ -2309,9 +2309,9 @@
           "title": "Decisão -> Deferimento em Parte - Exequente indicar bens à penhora"
         },
         {
-          "date": "2026-01-24",
+          "date": "2026-01-27",
           "header": "TJGO",
-          "title": "Juntada de Documento - PREVJUD: Consulta CNIS | Dados Executada"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda (Referente à Mov. Decisão -> Deferimento em Parte (27/01/2026 11:46:02))"
         }
       ],
       "partes_adversarias": [
@@ -2347,9 +2347,9 @@
           "title": "Transitado em Julgado - para Vera Lucia Lopes Lima em 19/11/2025 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (03/11/2025 16:13:35))"
         },
         {
-          "date": "2025-11-03",
+          "date": "2025-11-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vera Lucia Lopes Lima (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (03/11/2025 16:13:35))"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2025-11-03",
@@ -2360,6 +2360,16 @@
           "date": "2025-11-03",
           "header": "TJGO",
           "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis -"
+        },
+        {
+          "date": "2025-11-03",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
+        },
+        {
+          "date": "2025-11-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vera Lucia Lopes Lima (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (03/11/2025 16:13:35))"
         },
         {
           "date": "2025-10-31",
@@ -2374,17 +2384,7 @@
         {
           "date": "2025-10-24",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vera Lucia Lopes Lima (Referente à Mov. Decisão -> Indeferimento (24/10/2025 06:33:20))"
-        },
-        {
-          "date": "2025-10-24",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Vera Lucia Lopes Lima (Referente à Mov. Decisão -> Indeferimento (CNJ:12455) - )"
-        },
-        {
-          "date": "2025-10-24",
-          "header": "TJGO",
-          "title": "Decisão -> Indeferimento -"
         }
       ],
       "partes_adversarias": [
@@ -2680,7 +2680,17 @@
         {
           "date": "2025-09-22",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-09-22",
+          "header": "TJGO",
           "title": "Transitado em Julgado - 19/09/2025"
+        },
+        {
+          "date": "2025-09-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> abandono da causa - 02/09/2025 19:42:44)"
         },
         {
           "date": "2025-09-03",
@@ -2688,9 +2698,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> abandono da causa (02/09/2025 19:42:44))"
         },
         {
-          "date": "2025-09-03",
+          "date": "2025-09-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> abandono da causa - 02/09/2025 19:42:44)"
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> abandono da causa"
         },
         {
           "date": "2025-09-02",
@@ -2700,22 +2710,12 @@
         {
           "date": "2025-09-02",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Prazo Decorrido - P/ autor/exequente manifestar"
         },
         {
           "date": "2025-09-02",
           "header": "TJGO",
-          "title": "Prazo Decorrido - P/ autor/exequente manifestar"
-        },
-        {
-          "date": "2025-08-22",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Determinação -> Emenda à Inicial (22/08/2025 20:24:06))"
-        },
-        {
-          "date": "2025-08-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Determinação -> Emenda à Inicial (CNJ:15085) - )"
+          "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
           "date": "2025-08-22",
@@ -3489,7 +3489,58 @@
       "created_at": "2024-09-02 00:00:00",
       "process_date": "2024-08-30",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2024-09-24",
+          "header": "TRT18",
+          "title": "Transitado em julgado em 23/09/2024"
+        },
+        {
+          "date": "2024-09-24",
+          "header": "TRT18",
+          "title": "Arquivados os autos definitivamente"
+        },
+        {
+          "date": "2024-09-12",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
+          "date": "2024-09-12",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2024-09-06",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ANA JESSICA DE JESUS SILVA"
+        },
+        {
+          "date": "2024-09-06",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 09/09/2024"
+        },
+        {
+          "date": "2024-09-06",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/09/2024"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) MY BROKER IMOBILIARIA LTDA"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TRT18",
+          "title": "Sentença"
+        },
+        {
+          "date": "2024-09-05",
+          "header": "TRT18",
+          "title": "Extinto o processo por ausência de legitimidade ou de interesse processual"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "A. J. J. S."
@@ -3511,7 +3562,58 @@
       "created_at": "2025-05-30 00:00:00",
       "process_date": "2025-05-13",
       "responsible": "LETÍCIA LIMA AMORIM",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2025-12-10",
+          "header": "TRT18",
+          "title": "Arquivados os autos definitivamente"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 10/12/2025"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 09/12/2025"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 10/12/2025"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 09/12/2025"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) MY BROKER IMOBILIARIA LTDA"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) SABRINA RAMOS PARREIRA"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRT18",
+          "title": "Sentença"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TRT18",
+          "title": "Extinta a execução ou o cumprimento da sentença por cumprimento integral do acordo"
+        },
+        {
+          "date": "2025-12-04",
+          "header": "TRT18",
+          "title": "Encerrada a conclusão"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "SABRINA RAMOS PARREIRA"
@@ -3671,11 +3773,11 @@
       "process_number": null,
       "protocol_number": "2603071400100105301",
       "folder": null,
-      "stage": "ATENDENDO EXIGÊNCIAS",
-      "step": "ADMINISTRATIVO",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
       "type": "PROCON",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-12 13:40:45",
       "created_at": "2026-05-12 13:25:56",
       "process_date": "2026-05-11",
       "responsible": "ANA LUIZA REIS MARTINS DA COSTA",
@@ -3690,12 +3792,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 14,
+    "total": 18,
     "categorias": {
       "Peças": 2,
-      "Audiências": 1,
-      "Comunicações": 2,
-      "Acompanhamento": 5,
+      "Audiências": 2,
+      "Comunicações": 4,
+      "Acompanhamento": 6,
       "Diligências": 1,
       "Outras": 3
     },

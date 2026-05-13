@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:55:29-03:00",
-    "gerado_em_humano": "12/05/2026 13:55",
+    "gerado_em": "2026-05-13T13:59:43-03:00",
+    "gerado_em_humano": "13/05/2026 13:59",
     "slug_url": "painel-municipio-rioquente-2026-klpo",
     "departamento": "direito_publico"
   },
@@ -45,12 +45,27 @@
         {
           "date": "2026-02-21",
           "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-21",
+          "header": "TJGO",
           "title": "Decorrido Prazo - para Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go em 18/02/2026 23:59:59 (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
         },
         {
           "date": "2026-02-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Josue Fonseca - Presidente Do Conselho Municipal Dos Direitos Da Criança E Do Adolescente Do Município De Rio Quente/go (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
+          "title": "Decisão -> Determinação -> Arquivamento -"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
+        },
+        {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Arquivamento"
         },
         {
           "date": "2026-02-11",
@@ -61,21 +76,6 @@
           "date": "2026-02-11",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Oneide Da Silva Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
-        },
-        {
-          "date": "2026-02-11",
-          "header": "TJGO",
-          "title": "Decisão -> Determinação -> Arquivamento -"
-        },
-        {
-          "date": "2026-02-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go (Referente à Mov. Decisão -> Determinação -> Arquivamento (CNJ:12430) - )"
-        },
-        {
-          "date": "2026-02-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Oneide Da Silva Oliveira (Referente à Mov. Decisão -> Determinação -> Arquivamento (11/02/2026 16:29:45))"
         }
       ],
       "partes_adversarias": [

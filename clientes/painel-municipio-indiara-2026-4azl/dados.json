@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T14:04:47-03:00",
-    "gerado_em_humano": "12/05/2026 14:04",
+    "gerado_em": "2026-05-13T14:09:01-03:00",
+    "gerado_em_humano": "13/05/2026 14:09",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -612,9 +612,34 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência - Sentença"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ivanete De Fatima Maciel Duarte (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Ativo) Ivanete De Fatima Maciel Duarte - Código de Rastreamento Correios: YH168206133BR idPendenciaCorreios109287695432015873960330306idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ivanete De Fatima Maciel Duarte (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (11/05/2026 20:56:45))"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ivanete De Fatima Maciel Duarte - Polo Ativo (Referente à Mov. Ato Ordinatório - 07/05/2026 15:47:15)"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Juntada de Documento - E-carta / inventariante"
         },
         {
           "date": "2026-05-07",
@@ -632,34 +657,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ivanete De Fatima Maciel Duarte (Referente à Mov. Ato Ordinatório (07/05/2026 15:47:15))"
         },
         {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Juntada de Documento - E-carta / inventariante"
-        },
-        {
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ivanete De Fatima Maciel Duarte (Referente à Mov. Ato Ordinatório (30/03/2026 14:55:25))"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ivanete De Fatima Maciel Duarte - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Inventariante. Assinar o termo de compromisso de inventariante (evento 18)."
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Resposta"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Resposta -"
         }
       ],
       "partes_adversarias": [
@@ -707,6 +707,16 @@
         {
           "date": "2026-03-26",
           "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-03-26",
+          "header": "TJGO",
           "title": "Certidão Expedida - Envio Contadoria Judicial."
         },
         {
@@ -720,19 +730,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Carlos Dorneles Lima (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
           "date": "2026-03-12",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 11/03/2026 23:59:59 (Referente à Mov. Entrega em carga/vista (05/02/2026 14:19:32))"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Autos Conclusos - Rito determinado (evento 30)."
+          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [
@@ -911,11 +911,6 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Projetar Engenharia E Construções - Polo Ativo (Referente à Mov. Ato Ordinatório - 29/04/2026 14:12:14)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
           "title": "Ato Ordinatório - Contrarrazões ao Recurso de Apelação."
         },
         {
@@ -924,14 +919,19 @@
           "title": "Juntada -> Petição -> Apelação -"
         },
         {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Apelação"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Projetar Engenharia E Construções - Polo Ativo (Referente à Mov. Ato Ordinatório - 29/04/2026 14:12:14)"
+        },
+        {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Indiara (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (14/04/2026 22:48:06))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Projetar Engenharia E Construções (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (14/04/2026 22:48:06))"
         },
         {
           "date": "2026-04-14",
@@ -949,9 +949,9 @@
           "title": "Julgamento -> Com Resolução do Mérito -> Procedência -"
         },
         {
-          "date": "2026-03-13",
+          "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Município De Indiara em 12/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (09/02/2026 05:46:02))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Projetar Engenharia E Construções (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (14/04/2026 22:48:06))"
         }
       ],
       "partes_adversarias": [
@@ -977,6 +977,26 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Nilva Rosa Da Silva Carvalho - Polo Ativo (Referente à Mov. Certidão Expedida - 11/05/2026 18:46:00)"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará expedido - Aguardando assinatura."
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Nilva Rosa Da Silva Carvalho (Referente à Mov. Certidão Expedida (11/05/2026 18:46:00))"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Nilva Rosa Da Silva Carvalho em 04/05/2026 23:59:59 (Referente à Mov. Intimação Expedida (22/04/2026 15:21:09))"
@@ -989,21 +1009,6 @@
         {
           "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Nilva Rosa Da Silva Carvalho - Polo Ativo (Referente à Mov. Intimação Expedida - 22/04/2026 15:21:09)"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Soicito dados bancários para expedição alvará judicial"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Novo responsável: HERMES PEREIRA VIDIGAL"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Nilva Rosa Da Silva Carvalho (Referente à Mov. Intimação Expedida (22/04/2026 15:21:09))"
         },
         {
@@ -1012,19 +1017,14 @@
           "title": "Juntada de Documento - Extrato SISCONDJ"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 10/04/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:16))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Nilva Rosa Da Silva Carvalho - Polo Ativo (Referente à Mov. Intimação Expedida - 22/04/2026 15:21:09)"
         },
         {
-          "date": "2026-04-08",
+          "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Diligencia Requerida -"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Nilva Rosa Da Silva Carvalho em 30/03/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:16))"
+          "title": "Intimação Expedida - Soicito dados bancários para expedição alvará judicial"
         }
       ],
       "partes_adversarias": [
@@ -1050,6 +1050,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Indiara em 11/05/2026 23:59:59 (Referente à Mov. Juntada -> Petição (14/04/2026 11:31:09))"
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Wennia Cordeiro Da Silva em 29/04/2026 23:59:59 (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 14:59:08))"
@@ -1062,12 +1067,12 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Passivo (Referente à Mov. Juntada -> Petição - 14/04/2026 11:31:09)"
+          "title": "Juntada -> Petição - MANIFESTAÇÃO - multa - honorário"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Juntada -> Petição - MANIFESTAÇÃO - multa - honorário"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Passivo (Referente à Mov. Juntada -> Petição - 14/04/2026 11:31:09)"
         },
         {
           "date": "2026-04-13",
@@ -1077,12 +1082,12 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Wennia Cordeiro Da Silva (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 14:59:08))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wennia Cordeiro Da Silva - Polo Ativo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida - 08/04/2026 14:59:08)"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wennia Cordeiro Da Silva - Polo Ativo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida - 08/04/2026 14:59:08)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Wennia Cordeiro Da Silva (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 14:59:08))"
         },
         {
           "date": "2026-04-08",
@@ -1093,11 +1098,6 @@
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Wennia Cordeiro Da Silva em 30/03/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:16))"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 16/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (12/02/2026 09:52:20))"
         }
       ],
       "partes_adversarias": [
@@ -1196,9 +1196,34 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EDINAMAR EMIDIA LOPES (Referente à Mov. Decisão -> Outras Decisões (11/05/2026 21:43:51))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EDINAMAR EMIDIA LOPES (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE INDIARA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Transitado em Julgado - TRÂNSITO EM JULGADO"
+          "title": "Processo baixado à origem/devolvido"
         },
         {
           "date": "2026-05-07",
@@ -1218,32 +1243,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Processo baixado à origem/devolvido"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE INDIARA (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Apelação (31/03/2026 21:31:37))"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EDINAMAR EMIDIA LOPES (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Apelação - 31/03/2026 21:31:37)"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EDINAMAR EMIDIA LOPES (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Apelação (31/03/2026 21:31:37))"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE INDIARA (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Apelação - 31/03/2026 21:31:37)"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Apelação -"
+          "title": "Transitado em Julgado - TRÂNSITO EM JULGADO"
         }
       ],
       "partes_adversarias": [
@@ -1437,7 +1437,12 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wellington Teles De Melo Filho (Referente à Mov. Certidão Expedida - 15/04/2026 12:30:43)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Amanda Emilly Oliveira Teles (Referente à Mov. Certidão Expedida - 15/04/2026 12:30:43)"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Link da audiêcia."
         },
         {
           "date": "2026-04-15",
@@ -1458,11 +1463,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wellington Teles De Melo Filho (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO MARCADA)"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geraldo Teles De Almeida (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO MARCADA)"
         }
       ],
       "partes_adversarias": [
@@ -2118,6 +2118,11 @@
           "date": "2025-08-28",
           "header": "TJGO",
           "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
         }
       ],
       "partes_adversarias": [
@@ -2676,14 +2681,39 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Arquivado Definitivamente - Arquivamento conforme sentença."
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - 12/05/2026"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Transitado em Julgado - para Geraldo Borges Ferreira em 30/04/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (09/03/2026 17:38:56))"
         },
         {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
           "date": "2026-04-08",
           "header": "TJGO",
           "title": "Transitado em Julgado - para Goias Mp Procuradoria Geral De Justica em 07/04/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (09/03/2026 17:38:56))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
         },
         {
           "date": "2026-03-23",
@@ -2699,31 +2729,6 @@
           "date": "2026-03-16",
           "header": "TJGO",
           "title": "Decorrido Prazo - para 01ª Promotoria em 13/03/2026 23:59:59 (Referente à Mov. Juntada -> Petição (27/11/2025 15:48:09))"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) JOÃO LUIZ DE MORAIS VIEIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (09/03/2026 17:38:56))"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geraldo Borges Ferreira - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - HONORÁRIOS UHD'S - DRA. AMANDA DUARTE SOUSA BUENO"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geraldo Borges Ferreira (Referente à Mov. Certidão Expedida (10/03/2026 13:00:37))"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Procedência -"
         }
       ],
       "partes_adversarias": [
@@ -2822,6 +2827,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Laura Bianca Alves De Oliveira em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
@@ -2849,17 +2859,12 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Laura Bianca Alves De Oliveira (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
         },
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Laura Bianca Alves De Oliveira (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-03-27",
@@ -2867,9 +2872,9 @@
           "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
-          "date": "2026-03-16",
+          "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (06/03/2026 17:16:54))"
+          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -2968,6 +2973,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos Para Decisão - Pedido (evento 92)."
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Livia Fagundes Alves De Araujo em 29/04/2026 23:59:59 (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 15:04:59))"
@@ -3000,22 +3015,12 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Livia Fagundes Alves De Araujo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 15:04:59))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Livia Fagundes Alves De Araujo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida - 08/04/2026 15:04:59)"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Livia Fagundes Alves De Araujo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida - 08/04/2026 15:04:59)"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Diligencia Requerida -"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Livia Fagundes Alves De Araujo em 30/03/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:31))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Livia Fagundes Alves De Araujo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (08/04/2026 15:04:59))"
         }
       ],
       "partes_adversarias": [
@@ -3041,14 +3046,19 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-04-30",
+          "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Intimação - Município Comprovar Pagamento"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Ato Ordinatório (30/04/2026 13:51:36))"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimação - Município Comprovar Pagamento"
         },
         {
           "date": "2026-02-04",
@@ -3068,6 +3078,11 @@
         {
           "date": "2025-12-09",
           "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:30:09)"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luciana Siqueira Lopes Barbosa (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:30:09)"
         },
         {
@@ -3076,19 +3091,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciana Siqueira Lopes Barbosa (Referente à Mov. Diligência Concluída  Processo Devolvido (05/11/2025 16:30:09))"
         },
         {
-          "date": "2025-12-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:30:09)"
-        },
-        {
           "date": "2025-11-05",
           "header": "TJGO",
           "title": "Diligência Concluída  Processo Devolvido - Jandaia - Vara das Fazendas Públicas (Retornado para: Fernando Marney Oliveira de Carvalho)"
-        },
-        {
-          "date": "2025-10-30",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Requisição de Pequeno Valor Expedida (17/10/2025 09:27:52))"
         }
       ],
       "partes_adversarias": [
@@ -3194,12 +3199,17 @@
         {
           "date": "2026-02-12",
           "header": "TJGO",
-          "title": "Arquivado Definitivamente - Arquivamento conforme sentença."
+          "title": "Decorrido Prazo - para 01ª Promotoria em 11/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito (19/01/2026 19:53:23))"
         },
         {
           "date": "2026-02-12",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para 01ª Promotoria em 11/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito (19/01/2026 19:53:23))"
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-12",
+          "header": "TJGO",
+          "title": "Arquivado Definitivamente - Arquivamento conforme sentença."
         },
         {
           "date": "2026-02-11",
@@ -3224,17 +3234,12 @@
         {
           "date": "2026-01-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE INDIARA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito (CNJ:1049) - )"
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito -"
         },
         {
           "date": "2026-01-19",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito -"
-        },
-        {
-          "date": "2026-01-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por JOÃO LUIZ DE MORAIS VIEIRA (Referente à Mov. Entrega em carga/vista (15/12/2025 12:40:06))"
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE INDIARA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito (CNJ:1049) - )"
         }
       ],
       "partes_adversarias": [
@@ -3552,14 +3557,19 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-05-08",
+          "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Juntada -> Petição - Juntada do comprovante de pagamento da RPV"
         },
         {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-05-07",
@@ -3585,11 +3595,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Juntada -> Petição - Pedido de fixação de honoráriso sucumbênciais - decisão dos autos principais"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Requisição de Pequeno Valor Expedida - 22/04/2026 20:54:29)"
         },
         {
           "date": "2026-04-22",
@@ -4103,6 +4108,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Juntada do comprovante de pagamento da RPV"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Certidão Expedida - PEDIDO CACE"
@@ -4135,22 +4145,17 @@
         {
           "date": "2026-03-31",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Divina Aparecida Souza De Oliveira (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
         },
         {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Divina Aparecida Souza De Oliveira (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Divina Aparecida Souza De Oliveira (Referente à Mov. Decisão -> Outras Decisões (31/03/2026 20:51:47))"
         }
       ],
       "partes_adversarias": [
@@ -4249,6 +4254,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Marilene Pereira De Santana Farias em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
@@ -4276,17 +4286,12 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marilene Pereira De Santana Farias (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
         },
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marilene Pereira De Santana Farias (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-04-07",
@@ -4294,9 +4299,9 @@
           "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
-          "date": "2026-03-16",
+          "date": "2026-04-07",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:29))"
+          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -4607,6 +4612,26 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Destilaria Nova União S/A - DENUSA (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) - 11/05/2026 15:01:56)"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Cálculo de Liquidaçao ( Cpc e Clt )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Destilaria Nova União S/A - DENUSA (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (11/05/2026 15:01:56))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de PREFEITURA MUNICIPAL DE INDIARA (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) - 11/05/2026 15:01:56)"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Remetidos os Autos da Contadoria - Certidão."
@@ -4635,26 +4660,6 @@
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)PREFEITURA MUNICIPAL DE INDIARA (Referente à Mov. Decisão -> Outras Decisões (18/03/2026 21:25:49))"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Ofício Banco do Brasil"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Ofício(s) Expedido(s) -"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Destilaria Nova União S/A - DENUSA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [
@@ -4990,6 +4995,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Rozane Luzia Fernandes Ferreira em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
@@ -5017,17 +5027,12 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rozane Luzia Fernandes Ferreira (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
         },
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rozane Luzia Fernandes Ferreira (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-03-26",
@@ -5035,9 +5040,9 @@
           "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
-          "date": "2026-03-16",
+          "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (05/03/2026 17:36:30))"
+          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -5063,14 +5068,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Sirlene Souza Barbosa Santos em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sirlene Souza Barbosa Santos (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
         },
         {
           "date": "2026-04-10",
@@ -5093,9 +5098,9 @@
           "title": "Decisão -> Outras Decisões"
         },
         {
-          "date": "2026-04-08",
+          "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Certidão Expedida - Autos Conclusos - Rito determinado (evento 86)."
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sirlene Souza Barbosa Santos (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
         },
         {
           "date": "2026-04-08",
@@ -5108,9 +5113,9 @@
           "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
-          "date": "2026-03-26",
+          "date": "2026-04-08",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 25/03/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (29/01/2026 19:45:28))"
+          "title": "Certidão Expedida - Autos Conclusos - Rito determinado (evento 86)."
         }
       ],
       "partes_adversarias": [
@@ -5355,14 +5360,19 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-04-30",
+          "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Ato Ordinatório (30/04/2026 13:49:26))"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Ato Ordinatório - Intimação - Município Comprovar Pagamento"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-02-04",
@@ -5382,6 +5392,11 @@
         {
           "date": "2025-12-09",
           "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:26:48)"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Dyeinifer Lorrany Silva Galvao Duartes (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:26:48)"
         },
         {
@@ -5390,19 +5405,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dyeinifer Lorrany Silva Galvao Duartes (Referente à Mov. Diligência Concluída  Processo Devolvido (05/11/2025 16:26:48))"
         },
         {
-          "date": "2025-12-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Diligência Concluída  Processo Devolvido - 05/11/2025 16:26:48)"
-        },
-        {
           "date": "2025-11-05",
           "header": "TJGO",
           "title": "Diligência Concluída  Processo Devolvido - Jandaia - Vara das Fazendas Públicas (Retornado para: Fernando Marney Oliveira de Carvalho)"
-        },
-        {
-          "date": "2025-10-30",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Processo em diligência (Primeiro Grau/CEJUSC/Outros) (04/09/2025 12:44:14))"
         }
       ],
       "partes_adversarias": [
@@ -5428,6 +5433,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Kamylla De Oliveira Dias Santos em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
@@ -5450,6 +5460,16 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Kamylla De Oliveira Dias Santos (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
         },
         {
@@ -5460,22 +5480,7 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Kamylla De Oliveira Dias Santos (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:16))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Kamylla De Oliveira Dias Santos (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [
@@ -5501,6 +5506,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Simone Maria Silva Aguiaria em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
@@ -5523,6 +5533,11 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Simone Maria Silva Aguiaria (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 15:27:15))"
         },
         {
@@ -5539,16 +5554,6 @@
           "date": "2026-03-19",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (09/03/2026 18:49:40))"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
         }
       ],
       "partes_adversarias": [
@@ -5574,6 +5579,31 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sirley Dos Reis Faria (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sirley Dos Reis Faria (Referente à Mov. Decisão -> Outras Decisões (11/05/2026 21:43:46))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Prazo Decorrido - Indiara inerte."
@@ -5582,11 +5612,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Indiara em 29/04/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (24/03/2026 20:26:10))"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-04-06",
@@ -5602,26 +5627,6 @@
           "date": "2026-03-24",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - sequestro - honorários reconsideração"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-02-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sirley Dos Reis Faria (Referente à Mov. Diligência Concluída  Processo Devolvido (10/11/2025 13:21:13))"
         }
       ],
       "partes_adversarias": [
@@ -6954,9 +6959,9 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-04-29",
+          "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE INDIARA - Polo Ativo (Referente à Mov. Ato Ordinatório - 29/04/2026 12:56:01)"
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE INDIARA (Referente à Mov. Ato Ordinatório (29/04/2026 12:56:01))"
         },
         {
           "date": "2026-04-29",
@@ -6967,6 +6972,11 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Término da Suspensão do Processo -"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE INDIARA - Polo Ativo (Referente à Mov. Ato Ordinatório - 29/04/2026 12:56:01)"
         },
         {
           "date": "2026-04-29",
@@ -6986,17 +6996,12 @@
         {
           "date": "2025-10-29",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Prazo Decorrido (14/10/2025 12:10:59))"
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Juntada -> Petição (16/10/2025 15:56:12))"
         },
         {
           "date": "2025-10-29",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Juntada -> Petição (16/10/2025 15:56:12))"
-        },
-        {
-          "date": "2025-10-16",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Prazo Decorrido (14/10/2025 12:10:59))"
         },
         {
           "date": "2025-10-16",
@@ -7100,9 +7105,34 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE INDIARA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mauro Leandro (Referente à Mov. Decisão -> Outras Decisões (11/05/2026 21:43:51))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mauro Leandro (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Decorrido Prazo - para 01ª Promotoria em 30/03/2026 23:59:59 (Referente à Mov. Entrega em carga/vista (26/02/2026 00:37:01))"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer"
         },
         {
           "date": "2026-03-18",
@@ -7115,11 +7145,6 @@
           "title": "Juntada -> Petição -> Parecer -"
         },
         {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer"
-        },
-        {
           "date": "2026-03-09",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Entrega em carga/vista (26/02/2026 00:37:01))"
@@ -7128,26 +7153,6 @@
           "date": "2026-02-26",
           "header": "TJGO",
           "title": "Entrega em carga/vista - Vista ao Parquet."
-        },
-        {
-          "date": "2026-02-26",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 25/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (28/01/2026 09:45:33))"
-        },
-        {
-          "date": "2026-02-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Jandaia - Promotoria das Fazendas Públicas (Referente à Mov. Entrega em carga/vista (CNJ:493) - )"
-        },
-        {
-          "date": "2026-02-25",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Ato Ordinatório (28/01/2026 09:45:33))"
         }
       ],
       "partes_adversarias": [],
@@ -7471,12 +7476,17 @@
         {
           "date": "2026-05-08",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tone Venancio Borges (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
         },
         {
           "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tone Venancio Borges (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-04-24",
@@ -7963,6 +7973,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Thathir Lopes De Faria em 08/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (09/04/2026 21:00:53))"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -7995,22 +8010,17 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-04-10",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Thathir Lopes De Faria (Referente à Mov. Decisão -> Outras Decisões (09/04/2026 21:00:53))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Thathir Lopes De Faria (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [
@@ -8794,6 +8804,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-09",
+          "header": "TRF01",
+          "title": "Juntada de petição intercorrente"
+        },
+        {
           "date": "2026-05-04",
           "header": "TRF01",
           "title": "Publicado Intimação em 04/05/2026."
@@ -8826,7 +8841,43 @@
       "created_at": "2026-05-09 15:28:56",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Simone Maria Silva Aguiaria (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 23:06:30))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Simone Maria Silva Aguiaria (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "SIMONE MARIA SILVA AGUIARIA"
@@ -8848,7 +8899,48 @@
       "created_at": "2026-05-09 15:39:46",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Waldirene Alves Fernandes Oliveira (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:02:12))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Waldirene Alves Fernandes Oliveira (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "WALDIRENE ALVES FERNANDES OLIVEIRA"
@@ -8870,7 +8962,48 @@
       "created_at": "2026-05-09 15:42:15",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luzia De Fatima De Lima (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:01:36))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luzia De Fatima De Lima (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "LUZIA DE FATIMA DE LIMA"
@@ -8892,7 +9025,48 @@
       "created_at": "2026-05-09 15:44:35",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carmelita De Araujo Silva (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:01:36))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carmelita De Araujo Silva (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CARMELITA DE ARAUJO SILVA"
@@ -8914,7 +9088,48 @@
       "created_at": "2026-05-09 15:48:22",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sandra Tavares De Oliveira Morais (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:01:36))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sandra Tavares De Oliveira Morais (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "SANDRA TAVARES DE OLIVEIRA MORAIS"
@@ -8936,7 +9151,48 @@
       "created_at": "2026-05-09 15:53:10",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renata Soares Silva (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:01:37))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renata Soares Silva (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "RENATA SOARES SILVA"
@@ -8958,7 +9214,48 @@
       "created_at": "2026-05-09 15:55:14",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sonia Aparecida Pires (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 21:02:12))"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sonia Aparecida Pires (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-01",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "SONIA APARECIDA PIRES"
@@ -8980,7 +9277,48 @@
       "created_at": "2026-05-09 19:11:50",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ileuza Do Carmo Sobrinha Barros (Referente à Mov. Despacho -> Mero Expediente (05/05/2026 00:03:57))"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ileuza Do Carmo Sobrinha Barros (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-04",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-04",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "ILEUZA DO CARMO SOBRINHA BARROS"
@@ -9002,7 +9340,58 @@
       "created_at": "2026-05-11 10:51:46",
       "process_date": "2023-01-17",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-09",
+          "header": "TRT2",
+          "title": "Certidão de Publicação no DJEN | Certidão (RESTRITO)"
+        },
+        {
+          "date": "2026-05-09",
+          "header": "TRT2",
+          "title": "Publicado(a) o(a) intimação em 07/05/2026"
+        },
+        {
+          "date": "2026-05-09",
+          "header": "TRT2",
+          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRT2",
+          "title": "Aviso de Crédito no BB | Certidão (RESTRITO)"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Expedido(a) intimação a(o) SHIRLEY MARIA BEZERRA"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Conclusos os autos para despacho (genérica) a FERNANDA CARDARELLI"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Despacho para prosseguimento | Despacho"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Intimação | Intimação (RESTRITO)"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TRT2",
+          "title": "Penhora de imóvel | Indicação de Bens à Penhora (RESTRITO)"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "ARIOSVANDO ALMEIDA FREIRE"
@@ -9036,7 +9425,48 @@
       "created_at": "2026-05-11 16:50:21",
       "process_date": "2026-05-11",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Paulo Henrique Serafim Santana (Referente à Mov. Decisão -> Outras Decisões (07/05/2026 14:55:28))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Henrique Serafim Santana (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Jandaia - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: GABRIELA DE ALMEIDA GOMES"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - Central de Controle, Automação e Expedição de RPVs (Dependente) - Distribuído para: Carlos Eduardo Martins da Cunha"
+        },
+        {
+          "date": "2025-09-02",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "PAULO HENRIQUE SERAFIM SANTANA"
@@ -9081,14 +9511,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 51,
+    "total": 50,
     "categorias": {
       "Peças": 6,
       "Audiências": 5,
       "Comunicações": 8,
       "Acompanhamento": 22,
       "Diligências": 6,
-      "Outras": 4
+      "Outras": 3
     },
     "ultima_data": "2026-05-12"
   }

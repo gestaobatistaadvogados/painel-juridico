@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T14:10:59-03:00",
-    "gerado_em_humano": "12/05/2026 14:10",
+    "gerado_em": "2026-05-13T14:15:11-03:00",
+    "gerado_em_humano": "13/05/2026 14:15",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -220,14 +220,14 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2026-01-27",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Juntada de Documento - comprovante/alvará pago"
+          "title": "Processo Desarquivado"
         },
         {
           "date": "2026-01-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+          "title": "Processo Arquivado -"
         }
       ],
       "partes_adversarias": [
@@ -986,14 +986,14 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2025-12-11",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+          "title": "Processo Desarquivado"
         },
         {
           "date": "2025-12-11",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
         }
       ],
       "partes_adversarias": [
@@ -1029,12 +1029,22 @@
         {
           "date": "2026-02-13",
           "header": "TJGO",
-          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+          "title": "Decorrido Prazo - para Municipio De Posse em 12/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
         },
         {
           "date": "2026-02-13",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 12/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Eleni Evangelista De Oliveira em 04/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
         },
         {
           "date": "2026-02-05",
@@ -1042,9 +1052,9 @@
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
         },
         {
-          "date": "2026-02-05",
+          "date": "2026-01-26",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Eleni Evangelista De Oliveira em 04/02/2026 23:59:59 (Referente à Mov. Ato Ordinatório (26/01/2026 14:07:58))"
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício juntado no ev. 48."
         },
         {
           "date": "2026-01-26",
@@ -1054,22 +1064,12 @@
         {
           "date": "2026-01-26",
           "header": "TJGO",
-          "title": "Juntada de Documento - extrato/pagto. alvará referente aos honorários sucumbenciais"
-        },
-        {
-          "date": "2026-01-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-01-26",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eleni Evangelista De Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-01-26",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício juntado no ev. 48."
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         }
       ],
       "partes_adversarias": [
@@ -1758,6 +1758,11 @@
           "title": "Autos Conclusos -"
         },
         {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Juntada -> Petição - manifestação"
@@ -1778,9 +1783,9 @@
           "title": "Despacho -> Mero Expediente -"
         },
         {
-          "date": "2026-02-11",
+          "date": "2026-03-06",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 01/12/2025 23:59:59 (Referente à Mov. Certidão Expedida (10/11/2025 16:58:57))"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-02-11",
@@ -1788,19 +1793,14 @@
           "title": "Autos Conclusos -"
         },
         {
+          "date": "2026-02-11",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 01/12/2025 23:59:59 (Referente à Mov. Certidão Expedida (10/11/2025 16:58:57))"
+        },
+        {
           "date": "2025-11-24",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Certidão Expedida (10/11/2025 16:58:57))"
-        },
-        {
-          "date": "2025-11-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - certidão"
-        },
-        {
-          "date": "2025-11-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -3664,12 +3664,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 8,
+    "total": 7,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 3
     },

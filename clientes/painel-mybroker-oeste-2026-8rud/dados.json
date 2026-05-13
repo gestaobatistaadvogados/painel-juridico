@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:47:41-03:00",
-    "gerado_em_humano": "12/05/2026 13:47",
+    "gerado_em": "2026-05-13T13:52:01-03:00",
+    "gerado_em_humano": "13/05/2026 13:52",
     "slug_url": "painel-mybroker-oeste-2026-8rud",
     "departamento": "direito_imobiliario"
   },
@@ -211,9 +211,9 @@
           "title": "Certidão Expedida - Trânsito em Julgado"
         },
         {
-          "date": "2025-06-13",
+          "date": "2025-06-24",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) (13/06/2025 14:20:41))"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2025-06-13",
@@ -231,6 +231,11 @@
           "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
+          "date": "2025-06-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Oeste Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Acordo Homologado) (13/06/2025 14:20:41))"
+        },
+        {
           "date": "2025-06-11",
           "header": "TJGO",
           "title": "Juntada -> Petição - petição interlocutória"
@@ -239,11 +244,6 @@
           "date": "2025-06-09",
           "header": "TJGO",
           "title": "Certidão Expedida - transcorreu em branco"
-        },
-        {
-          "date": "2025-05-30",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para Rafael Alves Viana Porto (Referente à Mov. Decisão -> Outras Decisões (05/05/2025 14:04:04))"
         }
       ],
       "partes_adversarias": [],

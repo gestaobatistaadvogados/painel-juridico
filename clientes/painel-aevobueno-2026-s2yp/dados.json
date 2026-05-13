@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:53:05-03:00",
-    "gerado_em_humano": "12/05/2026 13:53",
+    "gerado_em": "2026-05-13T13:57:21-03:00",
+    "gerado_em_humano": "13/05/2026 13:57",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -462,9 +462,9 @@
       "responsible": "BERNARDO AMORIM NICARETTO",
       "movements": [
         {
-          "date": "2026-04-30",
+          "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Inclusão no Juízo 100% Digital"
+          "title": "Juntada -> Petição - Petição Interlocutória"
         },
         {
           "date": "2026-04-30",
@@ -474,7 +474,12 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Thiago Fernandes Goncalves (Referente à Mov. Certidão Expedida (30/04/2026 14:45:30))"
+          "title": "Inclusão no Juízo 100% Digital"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-30",
@@ -504,12 +509,7 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mauricio Santos Dias - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Thiago Fernandes Goncalves (Referente à Mov. Certidão Expedida (30/04/2026 14:45:30))"
         }
       ],
       "partes_adversarias": [
@@ -540,12 +540,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 9,
+    "total": 7,
     "categorias": {
-      "Peças": 3,
+      "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 2
     },

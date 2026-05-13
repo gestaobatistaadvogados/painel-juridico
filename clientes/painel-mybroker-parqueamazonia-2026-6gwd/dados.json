@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:49:40-03:00",
-    "gerado_em_humano": "12/05/2026 13:49",
+    "gerado_em": "2026-05-13T13:53:59-03:00",
+    "gerado_em_humano": "13/05/2026 13:53",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Decisão -> Outras Decisões (11/05/2026 20:43:41))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -40,12 +55,7 @@
         {
           "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) - Polo Ativo (Referente à Mov. Nota de Foro Expedida (CNJ:60) - )"
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (28/02/2025 09:12:33))"
         },
         {
           "date": "2026-03-27",
@@ -55,27 +65,17 @@
         {
           "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (28/02/2025 09:12:33))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) - Polo Ativo (Referente à Mov. Nota de Foro Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-03-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
         },
         {
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Juntada de Documento - Junta comp. de postagem ref ev.94"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Sarah Aparecida Alcantara Soares"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutoria"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - endereço incompleto"
         }
       ],
       "partes_adversarias": [
@@ -469,9 +469,9 @@
           "title": "Certidão Expedida - arquivamento sem impacto no trânsito / peticionamento normal"
         },
         {
-          "date": "2024-10-10",
+          "date": "2024-10-16",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2024-10-10",
@@ -482,6 +482,16 @@
           "date": "2024-10-10",
           "header": "TJGO",
           "title": "Julgamento -> Com Resolução do Mérito -> Improcedência -"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
+        },
+        {
+          "date": "2024-10-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
         },
         {
           "date": "2024-09-30",
@@ -497,16 +507,6 @@
           "date": "2024-09-24",
           "header": "TJGO",
           "title": "Audiência de Conciliação - Realizada sem Acordo - 24/09/2024 14:00"
-        },
-        {
-          "date": "2024-09-20",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Carta de Preposto"
-        },
-        {
-          "date": "2024-09-13",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contestação - Contestação"
         }
       ],
       "partes_adversarias": [

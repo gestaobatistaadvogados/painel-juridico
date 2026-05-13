@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:49:11-03:00",
-    "gerado_em_humano": "12/05/2026 13:49",
+    "gerado_em": "2026-05-13T13:53:30-03:00",
+    "gerado_em_humano": "13/05/2026 13:53",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -40,11 +40,6 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
         },
         {
@@ -63,9 +58,14 @@
           "title": "Decisão -> Deferimento em Parte -"
         },
         {
-          "date": "2026-03-27",
+          "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Decisão -> Deferimento em Parte"
+        },
+        {
+          "date": "2026-03-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
         },
         {
           "date": "2026-03-27",
@@ -73,9 +73,9 @@
           "title": "Juntada -> Petição - Petição Interlocutória"
         },
         {
-          "date": "2026-03-25",
+          "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Transitado em Julgado -"
+          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [

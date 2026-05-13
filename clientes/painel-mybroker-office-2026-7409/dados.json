@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:52:17-03:00",
-    "gerado_em_humano": "12/05/2026 13:52",
+    "gerado_em": "2026-05-13T13:56:33-03:00",
+    "gerado_em_humano": "13/05/2026 13:56",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -330,6 +330,11 @@
           "title": "Processo Arquivado -"
         },
         {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Juntada de Documento - Resultado RENAJUD"
@@ -352,7 +357,7 @@
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Juntada de Documento - Resultado RENAJUD"
+          "title": "Certidão Expedida - CENTRAL RENAJUD"
         },
         {
           "date": "2026-03-16",
@@ -363,11 +368,6 @@
           "date": "2026-03-16",
           "header": "TJGO",
           "title": "Juntada de Documento - Resultado RENAJUD"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CENTRAL RENAJUD"
         }
       ],
       "partes_adversarias": [
@@ -1571,15 +1571,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 8,
+    "total": 6,
     "categorias": {
-      "Peças": 4,
+      "Peças": 3,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-07"
   }
 }

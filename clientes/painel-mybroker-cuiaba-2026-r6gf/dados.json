@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-12T13:50:09-03:00",
-    "gerado_em_humano": "12/05/2026 13:50",
+    "gerado_em": "2026-05-13T13:54:27-03:00",
+    "gerado_em_humano": "13/05/2026 13:54",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -170,6 +170,11 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de manifestação"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJMT",
           "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 05/05/2026"
@@ -192,17 +197,17 @@
         {
           "date": "2026-05-01",
           "header": "TJMT",
-          "title": "Documento\nJuntada de não entregue - não existe o número (ecarta)"
+          "title": "Documento\nJuntada de entregue (ecarta)"
         },
         {
           "date": "2026-05-01",
           "header": "TJMT",
-          "title": "Documento\nJuntada de entregue (ecarta)"
+          "title": "Documento\nJuntada de não entregue - não existe o número (ecarta)"
         },
         {
           "date": "2026-04-30",
           "header": "TJMT",
-          "title": "de Conciliação\nAudiência de conciliação realizada em/para 30/04/2026 17:00, 6º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+          "title": "Petição\nJuntada de Petição de outros documentos"
         },
         {
           "date": "2026-04-30",
@@ -212,12 +217,7 @@
         {
           "date": "2026-04-30",
           "header": "TJMT",
-          "title": "Recebimento do CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJMT",
-          "title": "Remessa\nRemetidos os Autos outros motivos para o Órgao julgador de origem"
+          "title": "de Conciliação\nAudiência de conciliação realizada em/para 30/04/2026 17:00, 6º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
         }
       ],
       "partes_adversarias": [
@@ -233,15 +233,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 1,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-12"
+    "ultima_data": "2026-05-13"
   }
 }
