@@ -1,0 +1,1518 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Painel do Gestor — Direito Público — L Batista Advogados Associados">
+<meta name="robots" content="noindex, nofollow">
+<title>Painel do Gestor — Direito Público — L Batista Advogados Associados</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<style>
+:root {
+    --cor-primaria: #0A1628;
+    --cor-primaria-clara: #1e3358;
+    --cor-secundaria: #C9A84C;
+    --cor-dourado-claro: #e0c373;
+    --cor-dourado-escuro: #a8893b;
+    --cor-branco: #ffffff;
+    --cor-creme: #f8f5ee;
+    --cor-fundo: #f6f7f9;
+    --cor-superficie: #ffffff;
+    --cor-cinza-medio: #e2e6ec;
+    --cor-borda: #e8e4d8;
+    --cor-texto-primario: #0A1628;
+    --cor-texto-secundario: #6b7280;
+    --cor-texto-suave: #9ca3af;
+    --cor-urgente: #c0392b;
+    --cor-urgente-fundo: #fdecea;
+    --cor-atencao: #d68910;
+    --cor-atencao-fundo: #fef5e7;
+    --cor-favoravel: #1e8449;
+    --cor-favoravel-fundo: #e8f5e9;
+    --cor-info: #2874a6;
+    --cor-info-fundo: #ebf3fb;
+    --fonte-corpo: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --fonte-titulo: 'Cormorant Garamond', Georgia, serif;
+    --fonte-mono: 'SF Mono', 'Consolas', 'Monaco', monospace;
+    --raio-borda: 8px;
+    --raio-borda-grande: 14px;
+    --sombra-suave: 0 2px 8px rgba(10,22,40,0.06);
+    --sombra-media: 0 4px 12px rgba(10,22,40,0.08);
+    --sombra-forte: 0 10px 30px rgba(10,22,40,0.12);
+    --transicao-suave: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+    font-family: var(--fonte-corpo);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto-primario);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image:
+        radial-gradient(circle at 20% 10%, rgba(201,168,76,0.03) 0%, transparent 40%),
+        radial-gradient(circle at 80% 90%, rgba(10,22,40,0.025) 0%, transparent 40%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* CABECALHO */
+.cabecalho {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    padding: 2rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 4px solid var(--cor-secundaria);
+}
+.cabecalho::after {
+    content: '';
+    position: absolute;
+    top: -50px; right: -50px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(201,168,76,0.15) 0%, transparent 70%);
+    pointer-events: none;
+}
+.cabecalho-conteudo {
+    max-width: 1400px; margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 2rem;
+    position: relative; z-index: 1;
+}
+.logo-container { display: flex; align-items: center; justify-content: center; min-height: 88px; }
+.logo-container img {
+    max-height: 72px; max-width: 280px;
+    width: auto; height: auto; display: block;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.15));
+}
+.titulo-cabecalho { text-align: center; }
+.titulo-cabecalho h1 {
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.5rem, 3vw, 2.25rem);
+    line-height: 1.2;
+    margin-bottom: 4px;
+    letter-spacing: 0.02em;
+}
+.titulo-cabecalho .subtitulo {
+    font-size: 0.875rem; font-weight: 300;
+    opacity: 0.85; letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.aviso-restricao {
+    display: inline-block;
+    background: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    font-weight: 700;
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    padding: 4px 12px;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+.info-atualizacao {
+    text-align: right;
+    font-size: 0.8rem;
+    font-weight: 300;
+    opacity: 0.85;
+    line-height: 1.5;
+}
+.info-atualizacao .data {
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    letter-spacing: 0.03em;
+    font-size: 0.95rem;
+}
+
+/* CONTAINER */
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    position: relative; z-index: 1;
+}
+
+/* PAINEL DE PRODUTIVIDADE GLOBAL */
+.painel-produtividade {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    border-radius: var(--raio-borda-grande);
+    padding: 2rem 1.75rem;
+    margin-bottom: 2.5rem;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--cor-dourado-escuro);
+}
+.painel-produtividade::before {
+    content: ''; position: absolute;
+    top: 0; left: 0; right: 0; height: 4px;
+    background: linear-gradient(90deg, transparent 0%, var(--cor-secundaria) 50%, transparent 100%);
+}
+.painel-produtividade::after {
+    content: ''; position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(201,168,76,0.18) 0%, transparent 70%);
+    pointer-events: none;
+}
+.produtividade-rotulo {
+    text-align: center;
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cor-dourado-claro);
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+.painel-produtividade h2 {
+    text-align: center;
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.01em;
+}
+.produtividade-numero-grande { text-align: center; margin-bottom: 1.75rem; position: relative; z-index: 1; }
+.produtividade-numero-grande .valor {
+    font-size: clamp(3.2rem, 7vw, 4.5rem);
+    font-weight: 200;
+    color: var(--cor-secundaria);
+    line-height: 1;
+    display: block;
+}
+.produtividade-numero-grande .legenda {
+    font-size: 0.875rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    color: var(--cor-dourado-claro);
+}
+.produtividade-categorias {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    position: relative; z-index: 1;
+}
+@media (max-width: 720px) { .produtividade-categorias { grid-template-columns: repeat(2, 1fr); } }
+.produtividade-categoria {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: var(--raio-borda);
+    padding: 0.85rem 0.5rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.produtividade-categoria:hover { background: rgba(255,255,255,0.14); transform: translateY(-2px); }
+.produtividade-categoria .num {
+    font-size: 1.625rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    line-height: 1.1;
+}
+.produtividade-categoria .lbl {
+    font-size: 0.65rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-top: 4px;
+}
+.produtividade-rodape {
+    border-top: 1px solid rgba(255,255,255,0.12);
+    padding-top: 0.85rem;
+    text-align: center;
+    font-size: 0.82rem;
+    opacity: 0.85;
+    position: relative; z-index: 1;
+}
+.produtividade-rodape strong { color: var(--cor-secundaria); font-weight: 600; }
+
+/* SECAO TITULO */
+.secao-titulo {
+    margin: 1.75rem 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.secao-titulo h2 {
+    font-family: var(--fonte-titulo);
+    font-size: clamp(1.5rem, 2.4vw, 1.85rem);
+    font-weight: 600;
+    color: var(--cor-primaria);
+    position: relative;
+    padding-left: 16px;
+}
+.secao-titulo h2::before {
+    content: ''; position: absolute; left: 0; top: 50%;
+    width: 4px; height: 28px;
+    background: var(--cor-secundaria);
+    transform: translateY(-50%);
+    border-radius: 2px;
+}
+.ornamento-titulo {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, var(--cor-borda), transparent);
+    max-width: 320px;
+}
+
+/* GRADE KPIs GLOBAIS */
+.grade-kpis {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 2rem;
+}
+.card-kpi {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-top: 4px solid var(--cor-secundaria);
+    border-radius: var(--raio-borda);
+    padding: 1.5rem 1rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.card-kpi:hover { box-shadow: var(--sombra-media); transform: translateY(-2px); }
+.card-kpi-rotulo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 0.5rem;
+}
+.card-kpi-numero {
+    font-family: var(--fonte-titulo);
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    line-height: 1.1;
+    margin-bottom: 0.25rem;
+}
+.card-kpi-detalhe { font-size: 0.78rem; color: var(--cor-texto-suave); }
+.card-kpi.dourado   { border-top-color: var(--cor-secundaria); }
+.card-kpi.dourado .card-kpi-numero { color: var(--cor-dourado-escuro); }
+.card-kpi.info      { border-top-color: var(--cor-info); }
+.card-kpi.info .card-kpi-numero { color: var(--cor-info); }
+.card-kpi.urgente   { border-top-color: var(--cor-urgente); }
+.card-kpi.urgente .card-kpi-numero { color: var(--cor-urgente); }
+.card-kpi.favoravel { border-top-color: var(--cor-favoravel); }
+.card-kpi.favoravel .card-kpi-numero { color: var(--cor-favoravel); }
+
+/* CONTROLES DE FILTRO */
+.controles-filtros {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 1rem;
+    align-items: center;
+}
+@media (max-width: 720px) { .controles-filtros { grid-template-columns: 1fr; } }
+.busca-input {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    font-family: inherit;
+    font-size: 0.95rem;
+    background: var(--cor-fundo);
+    transition: var(--transicao-suave);
+}
+.busca-input:focus {
+    border-color: var(--cor-primaria);
+    background: var(--cor-superficie);
+    box-shadow: 0 0 0 3px rgba(10,22,40,0.08);
+    outline: none;
+}
+.filtros-departamento { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.filtro-dep {
+    padding: 7px 14px;
+    border: 1px solid var(--cor-borda);
+    background: var(--cor-superficie);
+    border-radius: 999px;
+    font-family: inherit;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--cor-texto-secundario);
+    cursor: pointer;
+    transition: var(--transicao-suave);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.filtro-dep:hover { border-color: var(--cor-secundaria); color: var(--cor-primaria); }
+.filtro-dep.ativo { background: var(--cor-primaria); border-color: var(--cor-primaria); color: var(--cor-secundaria); }
+
+#contador-resultado {
+    margin-left: auto;
+    font-size: 0.85rem;
+    color: var(--cor-texto-secundario);
+    font-weight: 500;
+}
+
+/* GRADE DE CLIENTES */
+.grade-clientes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    gap: 1.5rem;
+}
+.card-cliente {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda-grande);
+    padding: 1.5rem 1.25rem;
+    box-shadow: var(--sombra-suave);
+    transition: var(--transicao-suave);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.card-cliente::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--cor-secundaria) 0%, var(--cor-dourado-claro) 100%);
+}
+.card-cliente:hover { box-shadow: var(--sombra-forte); transform: translateY(-3px); }
+.cliente-tag-departamento {
+    display: inline-block;
+    align-self: flex-start;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 0.85rem;
+}
+.cliente-tag-departamento.dep-direito_privado    { background: var(--cor-info-fundo); color: var(--cor-info); }
+.cliente-tag-departamento.dep-direito_imobiliario{ background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+.cliente-tag-departamento.dep-direito_publico    { background: #f3e6f6; color: #884ea0; }
+.cliente-tag-departamento.dep-geral              { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+.cliente-cabecalho { margin-bottom: 1rem; }
+.cliente-nome {
+    font-family: var(--fonte-titulo);
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--cor-primaria);
+    line-height: 1.2;
+    margin-bottom: 4px;
+}
+.cliente-tipo {
+    display: inline-block;
+    background: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    font-weight: 700;
+    font-size: 0.6rem;
+    letter-spacing: 0.06em;
+    padding: 2px 7px;
+    border-radius: 3px;
+    margin-left: 6px;
+    vertical-align: middle;
+    font-family: var(--fonte-corpo);
+}
+.cliente-doc {
+    font-family: var(--fonte-mono);
+    font-size: 0.78rem;
+    color: var(--cor-texto-secundario);
+    letter-spacing: 0.02em;
+}
+
+/* MINI-KPIs DO CARD CLIENTE */
+.cliente-kpis {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+    margin: 0.85rem 0 1.25rem;
+    padding: 0.85rem 0;
+    border-top: 1px solid var(--cor-borda);
+    border-bottom: 1px solid var(--cor-borda);
+}
+.cliente-kpi { text-align: center; }
+.cliente-kpi .num {
+    font-family: var(--fonte-titulo);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    line-height: 1.1;
+}
+.cliente-kpi .lbl {
+    font-size: 0.62rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--cor-texto-secundario);
+    margin-top: 2px;
+}
+.cliente-kpi.urgente .num  { color: var(--cor-urgente); }
+.cliente-kpi.atencao .num  { color: var(--cor-atencao); }
+.cliente-kpi.info .num     { color: var(--cor-info); }
+
+/* ACOES */
+.cliente-acoes {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0.5rem;
+    margin-top: auto;
+}
+.btn {
+    padding: 9px 14px;
+    border-radius: var(--raio-borda);
+    font-family: inherit;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--transicao-suave);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+}
+.btn-primario {
+    background: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    border-color: var(--cor-primaria);
+}
+.btn-primario:hover {
+    background: var(--cor-primaria-clara);
+    color: var(--cor-dourado-claro);
+}
+.btn-secundario {
+    background: var(--cor-superficie);
+    color: var(--cor-texto-secundario);
+    border-color: var(--cor-borda);
+}
+.btn-secundario:hover {
+    border-color: var(--cor-secundaria);
+    color: var(--cor-primaria);
+}
+
+/* MENSAGEM VAZIA */
+.mensagem-vazia {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 3rem 1rem;
+    color: var(--cor-texto-suave);
+    font-style: italic;
+    background: var(--cor-superficie);
+    border: 1px dashed var(--cor-borda);
+    border-radius: var(--raio-borda);
+}
+
+/* TOAST */
+.toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    padding: 12px 24px;
+    border-radius: var(--raio-borda);
+    font-size: 0.9rem;
+    font-weight: 600;
+    box-shadow: var(--sombra-forte);
+    z-index: 1000;
+    opacity: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    pointer-events: none;
+}
+.toast.visivel {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* RODAPE */
+.rodape {
+    background: var(--cor-primaria);
+    color: rgba(255,255,255,0.85);
+    padding: 2.5rem 1.5rem 1.5rem;
+    margin-top: 3rem;
+    border-top: 4px solid var(--cor-secundaria);
+}
+.rodape-conteudo {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 2rem;
+}
+@media (max-width: 880px) { .rodape-conteudo { grid-template-columns: 1fr; } }
+.rodape h4 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.1rem;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+.rodape-coluna p, .rodape-coluna a {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+}
+.rodape-coluna a:hover { color: var(--cor-secundaria); text-decoration: underline; }
+.rodape-final {
+    max-width: 1400px;
+    margin: 1.5rem auto 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.12);
+    text-align: center;
+    font-size: 0.8rem;
+    opacity: 0.7;
+    line-height: 1.6;
+}
+.rodape-final strong { color: var(--cor-secundaria); }
+
+/* RESPONSIVO */
+@media (max-width: 880px) {
+    .cabecalho-conteudo { grid-template-columns: 1fr; text-align: center; }
+    .info-atualizacao { text-align: center; }
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--cor-fundo); }
+::-webkit-scrollbar-thumb { background: var(--cor-cinza-medio); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cor-texto-suave); }
+</style>
+</head>
+<body>
+
+<header class="cabecalho">
+    <div class="cabecalho-conteudo">
+        <div class="logo-container">
+            <img src="../../config/logo.png" alt="Logo L Batista Advogados Associados">
+        </div>
+        <div class="titulo-cabecalho">
+            <h1>Painel do Gestor — Direito Público</h1>
+            <div class="subtitulo">Gestão de Clientes do Escritório</div>
+            <div class="aviso-restricao">🔒 Acesso Restrito aos Sócios</div>
+        </div>
+        <div class="info-atualizacao">
+            <div>Última atualização</div>
+            <div class="data">14/05/2026 às 15:31</div>
+        </div>
+    </div>
+</header>
+
+<main class="container">
+
+    
+    <div class="painel-produtividade">
+        <div class="produtividade-rotulo">📊 ATIVIDADE GLOBAL DO ESCRITÓRIO</div>
+        <h2>Trabalho realizado nos últimos 90 dias</h2>
+
+        <div class="produtividade-numero-grande">
+            <span class="valor">102</span>
+            <span class="legenda">Tarefas Realizadas</span>
+        </div>
+
+        <div class="produtividade-categorias">
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">9</div>
+                <div class="lbl">Peças</div>
+            </div>
+            
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">8</div>
+                <div class="lbl">Audiências</div>
+            </div>
+            
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">11</div>
+                <div class="lbl">Comunicações</div>
+            </div>
+            
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">49</div>
+                <div class="lbl">Acompanhamento</div>
+            </div>
+            
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">8</div>
+                <div class="lbl">Diligências</div>
+            </div>
+            
+            
+            
+            <div class="produtividade-categoria">
+                <div class="num">17</div>
+                <div class="lbl">Outras</div>
+            </div>
+            
+            
+        </div>
+
+        
+        <div class="produtividade-rodape">
+            ▸ Última atividade: <strong>14/05/2026</strong>
+        </div>
+        
+    </div>
+
+    
+    <div class="secao-titulo">
+        <h2>Visão Geral do Escritório</h2>
+        <span class="ornamento-titulo"></span>
+    </div>
+    <div class="grade-kpis">
+        <div class="card-kpi dourado">
+            <div class="card-kpi-rotulo">Total de Clientes</div>
+            <div class="card-kpi-numero">13</div>
+            <div class="card-kpi-detalhe">13 ativos</div>
+        </div>
+        <div class="card-kpi info">
+            <div class="card-kpi-rotulo">Total de Processos</div>
+            <div class="card-kpi-numero">603</div>
+            <div class="card-kpi-detalhe">em todos os clientes</div>
+        </div>
+        <div class="card-kpi urgente">
+            <div class="card-kpi-rotulo">Alertas Críticos</div>
+            <div class="card-kpi-numero">4</div>
+            <div class="card-kpi-detalhe">requerem ação imediata</div>
+        </div>
+        <div class="card-kpi favoravel">
+            <div class="card-kpi-rotulo">Tarefas 90 Dias</div>
+            <div class="card-kpi-numero">102</div>
+            <div class="card-kpi-detalhe">soma de todos os clientes</div>
+        </div>
+    </div>
+
+    
+    <div class="controles-filtros">
+        <input type="search" class="busca-input" id="busca"
+               placeholder="🔍 Buscar cliente por nome, CPF/CNPJ ou cidade..."
+               oninput="filtrarClientes()">
+        <div class="filtros-departamento">
+            <button class="filtro-dep ativo" data-dep="todos" type="button"
+                    onclick="filtrarPorDepartamento('todos', this)">
+                Todos (13)
+            </button>
+            
+            <button class="filtro-dep" data-dep="direito_publico" type="button"
+                    onclick="filtrarPorDepartamento('direito_publico', this)">
+                Direito Público (13)
+            </button>
+            
+        </div>
+    </div>
+
+    
+    <div class="secao-titulo">
+        <h2>Clientes do Escritório</h2>
+        <span id="contador-resultado">
+            13 clientes
+        </span>
+    </div>
+
+    <div class="grade-clientes" id="grade-clientes">
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de rio quente rio quente 24852675000127">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICÍPIO DE RIO QUENTE
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-27</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">3</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">3</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-rioquente-2026-klpo/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-rioquente-2026-klpo/index.html"
+                        data-nome="MUNICÍPIO DE RIO QUENTE"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de ipameri ipameri 01763606000141">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE IPAMERI
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-41</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">59</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">1</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-ipameri-2026-1ivo/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-ipameri-2026-1ivo/index.html"
+                        data-nome="MUNICIPIO DE IPAMERI"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de cristianopolis cristianopolis 01180645000116">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICÍPIO DE CRISTIANOPOLIS
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-16</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">15</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">9</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">2</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-cristianopolis-2026-4drz/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-cristianopolis-2026-4drz/index.html"
+                        data-nome="MUNICÍPIO DE CRISTIANOPOLIS"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de mairipotaba mairipotaba 01067842000123">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE MAIRIPOTABA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-23</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">11</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">9</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-mairipotaba-2026-kjyy/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-mairipotaba-2026-kjyy/index.html"
+                        data-nome="MUNICIPIO DE MAIRIPOTABA"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de crominia crominia 02073211000180">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE CROMINIA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-80</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">1</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-crominia-2026-qeto/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-crominia-2026-qeto/index.html"
+                        data-nome="MUNICIPIO DE CROMINIA"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de indiara indiara 00005959000110">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE INDIARA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-10</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">149</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">3</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">6</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">50</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-indiara-2026-4azl/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-indiara-2026-4azl/index.html"
+                        data-nome="MUNICIPIO DE INDIARA"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de palmeiras de goias palmeiras de goias 02394757000132">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE PALMEIRAS DE GOIAS
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-32</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">2</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-palmeirasdegoias-2026-mxpu/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-palmeirasdegoias-2026-mxpu/index.html"
+                        data-nome="MUNICIPIO DE PALMEIRAS DE GOIAS"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de britania britania 02296325000199">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE BRITANIA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-99</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">59</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">7</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-britania-2026-xt53/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-britania-2026-xt53/index.html"
+                        data-nome="MUNICIPIO DE BRITANIA"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de posse posse 01743335000162">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE POSSE
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-62</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">103</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">62</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">6</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-posse-2026-0axr/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-posse-2026-0axr/index.html"
+                        data-nome="MUNICIPIO DE POSSE"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de marzagao marzagao 01174580000104">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE MARZAGAO
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-04</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">2</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">1</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-marzagao-2026-qpem/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-marzagao-2026-qpem/index.html"
+                        data-nome="MUNICIPIO DE MARZAGAO"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de gameleira de goias  04223461000184">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE GAMELEIRA DE GOIAS
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-84</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">62</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">9</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">10</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-gameleiradegoias-2026-nmd6/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-gameleiradegoias-2026-nmd6/index.html"
+                        data-nome="MUNICIPIO DE GAMELEIRA DE GOIAS"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de aragoiania aragoiania 01215474000113">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE ARAGOIANIA
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-13</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">136</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">1</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">22</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">30</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-aragoiania-2026-zcwx/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-aragoiania-2026-zcwx/index.html"
+                        data-nome="MUNICIPIO DE ARAGOIANIA"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <article class="card-cliente"
+                 data-departamento="direito_publico"
+                 data-busca="municipio de santa rosa de goias  01761113000172">
+            <span class="cliente-tag-departamento dep-direito_publico">
+                Direito Público
+            </span>
+
+            <div class="cliente-cabecalho">
+                <div class="cliente-nome">
+                    MUNICIPIO DE SANTA ROSA DE GOIAS
+                    <span class="cliente-tipo">PJ</span>
+                </div>
+                <div class="cliente-doc">**.***.***/****-72</div>
+            </div>
+
+            <div class="cliente-kpis">
+                <div class="cliente-kpi">
+                    <div class="num">1</div>
+                    <div class="lbl">Processos</div>
+                </div>
+                <div class="cliente-kpi urgente">
+                    <div class="num">0</div>
+                    <div class="lbl">Críticos</div>
+                </div>
+                <div class="cliente-kpi atencao">
+                    <div class="num">0</div>
+                    <div class="lbl">Atenção</div>
+                </div>
+                <div class="cliente-kpi info">
+                    <div class="num">0</div>
+                    <div class="lbl">Tarefas 90d</div>
+                </div>
+            </div>
+
+            <div class="cliente-acoes">
+                <a href="../painel-municipio-santarosadegoias-2026-xpau/index.html"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primario">
+                    🔗 Abrir Painel
+                </a>
+                <button class="btn btn-secundario" type="button"
+                        data-url="../painel-municipio-santarosadegoias-2026-xpau/index.html"
+                        data-nome="MUNICIPIO DE SANTA ROSA DE GOIAS"
+                        onclick="copiarLink(this)"
+                        title="Copiar link do painel">
+                    📋
+                </button>
+            </div>
+        </article>
+        
+        <div class="mensagem-vazia" id="mensagem-vazia" style="display:none">
+            Nenhum cliente encontrado com os filtros aplicados.
+        </div>
+    </div>
+
+</main>
+
+<footer class="rodape">
+    <div class="rodape-conteudo">
+        <div class="rodape-coluna">
+            <h4>L Batista Advogados Associados</h4>
+            <p>Rua 124, nº 328, Qd. F-28, Lt. 44, Setor Sul, Goiânia/GO<br>CEP 74.093-060</p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Contato</h4>
+            <p>
+                (62) 3030-0003<br>(62) 9 9971-7000<br>
+                <a href="mailto:leonardo@leobatistaadvogados.com.br">leonardo@leobatistaadvogados.com.br</a>
+            </p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Web</h4>
+            <p><a href="https://leonardobatistadvogados.com.br" target="_blank" rel="noopener">leonardobatistadvogados.com.br</a></p>
+        </div>
+    </div>
+    <div class="rodape-final">
+        ⚠️ <strong>Documento confidencial</strong> — uso restrito aos sócios e equipe interna do escritório.
+        Não compartilhe este arquivo com clientes ou terceiros.<br>
+        Painel gerado em 14/05/2026 às 15:31.
+    </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function () {
+    'use strict';
+
+    function normalizarBusca(s) {
+        return (s || '').toLowerCase()
+            .normalize('NFD').replace(/[̀-ͯ]/g, '');
+    }
+
+    var filtroDepartamentoAtual = 'todos';
+
+    function aplicarFiltros() {
+        var input = document.getElementById('busca');
+        var termo = normalizarBusca(input ? input.value : '');
+        var cards = document.querySelectorAll('.card-cliente');
+        var visiveis = 0;
+        for (var i = 0; i < cards.length; i++) {
+            var card = cards[i];
+            var dep = card.getAttribute('data-departamento') || '';
+            var busca = card.getAttribute('data-busca') || '';
+            var passaDep = (filtroDepartamentoAtual === 'todos') || (dep === filtroDepartamentoAtual);
+            var passaBusca = !termo || busca.indexOf(termo) !== -1;
+            if (passaDep && passaBusca) {
+                card.style.display = '';
+                visiveis++;
+            } else {
+                card.style.display = 'none';
+            }
+        }
+        var contador = document.getElementById('contador-resultado');
+        if (contador) {
+            contador.textContent = visiveis + ' cliente' + (visiveis !== 1 ? 's' : '');
+        }
+        var vazia = document.getElementById('mensagem-vazia');
+        if (vazia) {
+            vazia.style.display = (visiveis === 0) ? 'block' : 'none';
+        }
+    }
+
+    function filtrarPorDepartamento(dep, btn) {
+        filtroDepartamentoAtual = dep;
+        var grupo = btn.parentElement;
+        grupo.querySelectorAll('.filtro-dep').forEach(function (b) {
+            b.classList.remove('ativo');
+        });
+        btn.classList.add('ativo');
+        aplicarFiltros();
+    }
+
+    function filtrarClientes() { aplicarFiltros(); }
+
+    function mostrarToast(mensagem) {
+        var t = document.getElementById('toast');
+        if (!t) return;
+        t.textContent = mensagem;
+        t.classList.add('visivel');
+        setTimeout(function () { t.classList.remove('visivel'); }, 2500);
+    }
+
+    function fallbackCopia(text, ok, erro) {
+        try {
+            var el = document.createElement('textarea');
+            el.value = text;
+            el.style.position = 'fixed';
+            el.style.opacity = '0';
+            document.body.appendChild(el);
+            el.select();
+            var sucesso = document.execCommand('copy');
+            document.body.removeChild(el);
+            if (sucesso) ok(); else erro();
+        } catch (e) { erro(); }
+    }
+
+    function copiarLink(btn) {
+        var url = btn.getAttribute('data-url') || '';
+        var nome = btn.getAttribute('data-nome') || 'cliente';
+        var base = window.location.href.split('#')[0].split('?')[0];
+        var href = base.replace(/[^/]*$/, '') + url.replace(/^\.\//, '');
+        function ok() { mostrarToast('🔗 Link de ' + nome + ' copiado!'); }
+        function erro() { mostrarToast('❌ Não foi possível copiar.'); }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(href).then(ok, function () { fallbackCopia(href, ok, erro); });
+        } else {
+            fallbackCopia(href, ok, erro);
+        }
+    }
+
+    window.filtrarPorDepartamento = filtrarPorDepartamento;
+    window.filtrarClientes = filtrarClientes;
+    window.copiarLink = copiarLink;
+})();
+</script>
+
+</body>
+</html>
