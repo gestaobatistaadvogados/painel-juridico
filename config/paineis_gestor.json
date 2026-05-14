@@ -1,0 +1,33 @@
+{
+  "_comentario": "Decisao D12 — slugs dos paineis-gestor por departamento. Gerados uma unica vez e persistidos; o gerador reaproveita este arquivo e NUNCA regenera os slugs.",
+  "paineis": [
+    {
+      "departamento": "direito_privado",
+      "departamento_label": "Direito Privado",
+      "slug": "painel-gestor-privado-2026-46d8",
+      "ativo": true,
+      "criado_em": "2026-05-14T11:50:54-03:00"
+    },
+    {
+      "departamento": "direito_imobiliario",
+      "departamento_label": "Direito Imobiliário",
+      "slug": "painel-gestor-imobiliario-2026-18fe",
+      "ativo": true,
+      "criado_em": "2026-05-14T11:50:54-03:00"
+    },
+    {
+      "departamento": "direito_publico",
+      "departamento_label": "Direito Público",
+      "slug": "painel-gestor-publico-2026-ba37",
+      "ativo": true,
+      "criado_em": "2026-05-14T11:50:54-03:00"
+    },
+    {
+      "departamento": "direito_criminal",
+      "departamento_label": "Direito Criminal",
+      "slug": "painel-gestor-criminal-2026-9bd1",
+      "ativo": true,
+      "criado_em": "2026-05-14T11:50:54-03:00"
+    }
+  ]
+}

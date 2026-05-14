@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Painel Interno — {{ escritorio.nome }}">
+<meta name="description" content="{{ cabecalho_titulo }} — {{ escritorio.nome }}">
 <meta name="robots" content="noindex, nofollow">
-<title>Painel Interno — {{ escritorio.nome }}</title>
+<title>{{ cabecalho_titulo }} — {{ escritorio.nome }}</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -601,10 +601,10 @@ body::before {
 <header class="cabecalho">
     <div class="cabecalho-conteudo">
         <div class="logo-container">
-            <img src="config/logo.png" alt="{{ escritorio.logo.alt }}">
+            <img src="{{ logo_src }}" alt="{{ escritorio.logo.alt }}">
         </div>
         <div class="titulo-cabecalho">
-            <h1>Painel Interno</h1>
+            <h1>{{ cabecalho_titulo }}</h1>
             <div class="subtitulo">Gestão de Clientes do Escritório</div>
             <div class="aviso-restricao">🔒 Acesso Restrito aos Sócios</div>
         </div>
@@ -737,13 +737,13 @@ body::before {
             </div>
 
             <div class="cliente-acoes">
-                <a href="./clientes/{{ c.slug_url }}/index.html"
+                <a href="{{ caminho_cliente_base }}{{ c.slug_url }}/index.html"
                    target="_blank" rel="noopener"
                    class="btn btn-primario">
                     🔗 Abrir Painel
                 </a>
                 <button class="btn btn-secundario" type="button"
-                        data-url="./clientes/{{ c.slug_url }}/index.html"
+                        data-url="{{ caminho_cliente_base }}{{ c.slug_url }}/index.html"
                         data-nome="{{ c.nome }}"
                         onclick="copiarLink(this)"
                         title="Copiar link do painel">

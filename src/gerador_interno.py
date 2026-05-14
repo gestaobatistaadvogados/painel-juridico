@@ -1,12 +1,16 @@
 """
-Gerador do painel-interno.html — hub do escritorio L Batista.
+Gerador dos paineis internos do escritorio L Batista:
+  - painel-interno.html (+ index.html): hub com TODOS os clientes ativos
+  - 4 paineis-gestor (Decisao D12): um por departamento, mesmo template,
+    filtrado para os clientes daquele departamento
 
 Diferente de gerador_producao.py:
   - Lista TODOS os clientes ativos do config/clientes.json
   - NAO agrupa por area (visao por cliente)
   - Agrega atividade 90d de todos os clientes (escritorio inteiro)
-  - Saida: painel-interno.html na RAIZ do projeto
-  - Visualizado APENAS pelos socios — nunca enviado a clientes
+  - Saida: painel-interno.html + index.html na RAIZ; paineis-gestor em
+    clientes/painel-gestor-<depto>-<ano>-<4hex>/index.html
+  - Visualizado APENAS pelos socios e gestores — nunca enviado a clientes
 
 Reaproveita helpers de gerador_producao.py:
   - carregar_clientes_ativos, carregar_escritorio
@@ -18,6 +22,7 @@ Reaproveita helpers de gerador_producao.py:
 """
 
 import json
+import secrets
 import sys
 import unicodedata
 from collections import Counter
@@ -55,6 +60,20 @@ SAIDA_HTML = RAIZ / 'painel-interno.html'
 SAIDA_HTML_INDEX = RAIZ / 'index.html'
 TEMPLATE_NAME = 'painel_interno.html'
 
+# === DECISAO D12 — PAINEIS-GESTOR POR DEPARTAMENTO ===
+# Um painel-gestor por departamento, mesmo template do painel-interno,
+# filtrado para os clientes daquele departamento. Slugs gerados UMA vez
+# e persistidos em config/paineis_gestor.json (nunca regerados).
+CONFIG_PAINEIS_GESTOR = RAIZ / 'config' / 'paineis_gestor.json'
+
+# (chave snake_case, rotulo de exibicao). Ordem fixa para o JSON/relatorio.
+DEPARTAMENTOS_GESTOR = [
+    ('direito_privado', 'Direito Privado'),
+    ('direito_imobiliario', 'Direito Imobiliário'),
+    ('direito_publico', 'Direito Público'),
+    ('direito_criminal', 'Direito Criminal'),
+]
+
 
 # ---------------------------------------------------------------------------
 # Helpers locais
@@ -91,6 +110,70 @@ def _coletar_lawsuits_cached(client, cid):
     if isinstance(envelope, list):
         return envelope
     return []
+
+
+# ---------------------------------------------------------------------------
+# Config dos paineis-gestor (Decisao D12)
+# ---------------------------------------------------------------------------
+
+def _slugs_existentes_clientes():
+    """Set de todos os slug_url ja registrados em config/clientes.json.
+
+    Usado para garantir que um slug de painel-gestor recem-gerado nao colida
+    com nenhum slug de painel-cliente.
+    """
+    try:
+        with (RAIZ / 'config' / 'clientes.json').open(encoding='utf-8') as f:
+            cfg = json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return set()
+    return {c.get('slug_url') for c in cfg.get('clientes', []) if c.get('slug_url')}
+
+
+def carregar_ou_criar_paineis_gestor():
+    """Le config/paineis_gestor.json; cria na primeira execucao e persiste.
+
+    Decisao D12 (restricao): os slugs sao gerados UMA unica vez. Se o arquivo
+    ja existe, os slugs sao reaproveitados — nunca regerados. Cada slug usa
+    `secrets.token_hex(2)` (4 chars hex) e e verificado contra os slugs ja
+    presentes em config/clientes.json antes de ser persistido.
+    """
+    if CONFIG_PAINEIS_GESTOR.exists():
+        with CONFIG_PAINEIS_GESTOR.open(encoding='utf-8') as f:
+            return json.load(f)
+
+    ocupados = _slugs_existentes_clientes()
+    ano = datetime.now(FUSO_BRT).year
+    criado_em = datetime.now(FUSO_BRT).isoformat(timespec='seconds')
+
+    paineis = []
+    for dep_key, dep_label in DEPARTAMENTOS_GESTOR:
+        depto_curto = dep_key.replace('direito_', '')
+        while True:
+            slug = f'painel-gestor-{depto_curto}-{ano}-{secrets.token_hex(2)}'
+            if slug not in ocupados:
+                ocupados.add(slug)
+                break
+        paineis.append({
+            'departamento': dep_key,
+            'departamento_label': dep_label,
+            'slug': slug,
+            'ativo': True,
+            'criado_em': criado_em,
+        })
+
+    dados = {
+        '_comentario': (
+            'Decisao D12 — slugs dos paineis-gestor por departamento. '
+            'Gerados uma unica vez e persistidos; o gerador reaproveita este '
+            'arquivo e NUNCA regenera os slugs.'
+        ),
+        'paineis': paineis,
+    }
+    CONFIG_PAINEIS_GESTOR.write_text(
+        json.dumps(dados, indent=2, ensure_ascii=False) + '\n', encoding='utf-8'
+    )
+    return dados
 
 
 # ---------------------------------------------------------------------------
@@ -164,40 +247,110 @@ def construir_resumo_cliente(cliente_cfg, client):
     }
 
 
-def construir_atividade_global(clientes_resumo, client):
-    """Re-categoriza posts globalmente unindo lawsuit_ids de TODOS os clientes."""
-    todos_ids = set()
+def montar_dados_painel(clientes_resumo, posts_brutos, escritorio,
+                        cabecalho_titulo, escopo='completo'):
+    """Monta o dict de contexto Jinja de UM painel (interno ou gestor).
+
+    Funcao reutilizavel — base da Decisao D12. Recebe a lista de clientes JA
+    filtrada para o escopo desejado e recalcula TUDO sobre esse subconjunto:
+      - KPIs (total clientes/processos/criticos/tarefas 90d)
+      - counts por departamento
+      - bloco "Tarefas Realizadas 90 dias": cruza `posts_brutos` apenas com os
+        `lawsuit_ids` dos clientes do escopo — nenhum processo de cliente fora
+        do escopo entra no bloco (filtragem estrita por departamento).
+
+    escopo='completo' -> painel-interno (todos os clientes ativos).
+    escopo='gestor'   -> painel-gestor (clientes ja filtrados por departamento).
+
+    `posts_brutos` e baixado UMA vez pelo chamador e reaproveitado por todos
+    os paineis.
+    """
+    # Bloco 90d: cruza posts globais com os lawsuit_ids SO deste escopo.
+    ids_do_escopo = set()
     for c in clientes_resumo:
-        todos_ids.update(c.get('lawsuit_ids') or set())
-
-    posts = _baixar_posts_paginado(client)
+        ids_do_escopo.update(c.get('lawsuit_ids') or set())
     limite_90d = datetime.now().date() - timedelta(days=90)
-    return _categorizar_posts(posts, todos_ids, limite_90d)
+    atividade = _categorizar_posts(posts_brutos, ids_do_escopo, limite_90d)
 
-
-def construir_contexto_global(clientes_resumo, atividade_global, escritorio):
-    """KPIs agregados + meta para o template."""
     total_clientes = len(clientes_resumo)
     total_processos = sum(c['qtd_processos'] for c in clientes_resumo)
     total_alertas_criticos = sum(c['qtd_urgentes'] for c in clientes_resumo)
     total_tarefas_90d = sum(c['tarefas_90d'] for c in clientes_resumo)
 
     counts_por_dep = Counter(c['departamento'] for c in clientes_resumo)
-    # Remove keys vazias
     counts_por_dep = {k: v for k, v in counts_por_dep.items() if k}
 
+    # Caminhos relativos: o painel-interno fica na RAIZ; os paineis-gestor
+    # ficam em clientes/<slug>/. Logo e links de cliente precisam de prefixo
+    # distinto para resolver a partir de cada localizacao.
+    if escopo == 'gestor':
+        logo_src = '../../config/logo.png'
+        caminho_cliente_base = '../'
+    else:
+        logo_src = 'config/logo.png'
+        caminho_cliente_base = './clientes/'
+
     return {
+        'cabecalho_titulo': cabecalho_titulo,
+        'escopo': escopo,
+        'logo_src': logo_src,
+        'caminho_cliente_base': caminho_cliente_base,
         'kpis': {
             'total_clientes': total_clientes,
             'total_processos': total_processos,
             'total_alertas_criticos': total_alertas_criticos,
             'total_tarefas_90d': total_tarefas_90d,
         },
-        'atividade_global': atividade_global,
+        'atividade_global': atividade,
         'counts_por_departamento': counts_por_dep,
         'escritorio': escritorio,
         'data_geracao': datetime.now(FUSO_BRT).strftime('%d/%m/%Y às %H:%M'),
+        'clientes': clientes_resumo,
     }
+
+
+def gerar_painel_interno(clientes_resumo, posts_brutos, escritorio, env):
+    """Painel-interno: TODOS os clientes ativos. Escrito na raiz em
+    painel-interno.html + index.html (pagina default do GitHub Pages).
+    Comportamento original — inalterado pela Decisao D12.
+    """
+    dados = montar_dados_painel(
+        clientes_resumo, posts_brutos, escritorio,
+        cabecalho_titulo='Painel Interno', escopo='completo',
+    )
+    html = env.get_template(TEMPLATE_NAME).render(**dados)
+    SAIDA_HTML.write_text(html, encoding='utf-8')
+    SAIDA_HTML_INDEX.write_text(html, encoding='utf-8')
+    return dados
+
+
+def gerar_paineis_gestor(clientes_resumo, posts_brutos, escritorio, env):
+    """Decisao D12: um painel-gestor por departamento, mesmo template do
+    painel-interno, filtrado ESTRITAMENTE por cliente['departamento'].
+
+    Cada painel e escrito em clientes/<slug>/index.html, com o slug
+    persistido em config/paineis_gestor.json. Retorna lista de
+    (painel_cfg, qtd_clientes) para o relatorio final.
+    """
+    paineis_cfg = carregar_ou_criar_paineis_gestor()
+    template = env.get_template(TEMPLATE_NAME)
+    resultados = []
+    for painel in paineis_cfg.get('paineis', []):
+        if not painel.get('ativo'):
+            continue
+        dep = painel['departamento']
+        filtrados = [c for c in clientes_resumo if c.get('departamento') == dep]
+        dados = montar_dados_painel(
+            filtrados, posts_brutos, escritorio,
+            cabecalho_titulo=f"Painel do Gestor — {painel['departamento_label']}",
+            escopo='gestor',
+        )
+        html = template.render(**dados)
+        pasta = RAIZ / 'clientes' / painel['slug']
+        pasta.mkdir(parents=True, exist_ok=True)
+        (pasta / 'index.html').write_text(html, encoding='utf-8')
+        resultados.append((painel, len(filtrados)))
+    return resultados
 
 
 # ---------------------------------------------------------------------------
@@ -205,7 +358,7 @@ def construir_contexto_global(clientes_resumo, atividade_global, escritorio):
 # ---------------------------------------------------------------------------
 
 def main():
-    print('Gerador do painel interno — hub do escritorio')
+    print('Gerador de paineis internos — hub + paineis-gestor (D12)')
     print()
 
     try:
@@ -215,12 +368,10 @@ def main():
         return 1
 
     if not clientes_cfg:
-        print('Nenhum cliente ativo. Painel-interno nao sera gerado.')
+        print('Nenhum cliente ativo. Paineis nao serao gerados.')
         return 0
 
     print(f'Clientes ativos: {len(clientes_cfg)}')
-    for c in clientes_cfg:
-        print(f'  - {c["nome_curto"]} (id_advbox={c["id_advbox"]})')
     print()
 
     try:
@@ -235,7 +386,7 @@ def main():
         print(f'ERRO ao inicializar AdvboxClient: {e}')
         return 1
 
-    # Resumo por cliente
+    # Resumo por cliente (cache local; sem refetch no mesmo dia)
     clientes_resumo = []
     for cli_cfg in clientes_cfg:
         try:
@@ -256,50 +407,50 @@ def main():
         print('Nenhum resumo de cliente gerado. Abortando.')
         return 1
 
-    # Atividade global agregada
+    # Posts brutos globais — baixados UMA vez e reaproveitados por todos os
+    # paineis (interno + 4 gestor). Cache TTL 24h via _baixar_posts_paginado.
     print()
-    print('Calculando atividade global agregada...')
-    atividade_global = construir_atividade_global(clientes_resumo, client)
-    print(
-        f'  Atividade global 90d: {atividade_global["total"]} tarefas, '
-        f'ultima_data={atividade_global["ultima_data"]}'
-    )
+    print('Baixando posts globais (atividade 90d)...')
+    posts_brutos = _baixar_posts_paginado(client)
 
-    # Contexto Jinja
-    contexto = construir_contexto_global(
-        clientes_resumo, atividade_global, escritorio
-    )
-    contexto['clientes'] = clientes_resumo
-
-    # Renderizacao
     env = construir_jinja_env()
-    template = env.get_template(TEMPLATE_NAME)
-    html = template.render(**contexto)
 
-    # Antes de gravar, remover o campo lawsuit_ids dos resumos (set nao
-    # serializa em json e a gente nao precisa no front; ja foi consumido).
-    # Isso ja foi consumido em runtime — o template nao usa.
+    # 1) Painel-interno (todos os clientes ativos) — comportamento original
+    dados_interno = gerar_painel_interno(
+        clientes_resumo, posts_brutos, escritorio, env
+    )
 
-    # Grava AMBOS os arquivos com o mesmo HTML.
-    # painel-interno.html: nome semantico, usado em `start painel-interno.html`.
-    # index.html: nome convencional do GitHub Pages — sem ele, a URL raiz do
-    # site retornaria 404. Os dois ficam sincronizados via este gerador.
-    SAIDA_HTML.write_text(html, encoding='utf-8')
-    SAIDA_HTML_INDEX.write_text(html, encoding='utf-8')
+    # 2) Paineis-gestor (Decisao D12) — um por departamento, filtrados
+    resultados_gestor = gerar_paineis_gestor(
+        clientes_resumo, posts_brutos, escritorio, env
+    )
 
+    # Relatorio
     print()
     print('=' * 64)
-    print('PAINEL INTERNO GERADO')
+    print('PAINEIS GERADOS')
     print('=' * 64)
-    print(f'  {SAIDA_HTML.relative_to(RAIZ)} '
+    print(f'  [interno] {SAIDA_HTML.relative_to(RAIZ)} '
           f'({SAIDA_HTML.stat().st_size / 1024:.1f} KB)')
-    print(f'  {SAIDA_HTML_INDEX.relative_to(RAIZ)}            '
-          f'({SAIDA_HTML_INDEX.stat().st_size / 1024:.1f} KB) — para GitHub Pages')
-    print(f'  Clientes: {len(clientes_resumo)}')
-    print(f'  Processos totais: {contexto["kpis"]["total_processos"]}')
-    print(f'  Alertas criticos: {contexto["kpis"]["total_alertas_criticos"]}')
-    print(f'  Tarefas 90d (soma por cliente): {contexto["kpis"]["total_tarefas_90d"]}')
-    print(f'  Tarefas 90d (agregado global): {atividade_global["total"]}')
+    print(f'            {SAIDA_HTML_INDEX.relative_to(RAIZ)} — para GitHub Pages')
+    print(f'            {dados_interno["kpis"]["total_clientes"]} clientes, '
+          f'{dados_interno["kpis"]["total_processos"]} processos, '
+          f'{dados_interno["atividade_global"]["total"]} tarefas 90d')
+    print()
+    soma_gestor = 0
+    for painel, qtd in resultados_gestor:
+        soma_gestor += qtd
+        print(f'  [gestor]  clientes/{painel["slug"]}/index.html')
+        print(f'            {painel["departamento_label"]}: {qtd} cliente(s)')
+    print()
+    total_interno = dados_interno['kpis']['total_clientes']
+    print(f'  Soma de clientes nos {len(resultados_gestor)} paineis-gestor: {soma_gestor}')
+    print(f'  Total de clientes no painel-interno          : {total_interno}')
+    if soma_gestor == total_interno:
+        print('  Validacao OK: soma dos gestores == total do interno.')
+    else:
+        print('  AVISO: soma dos gestores != total do interno '
+              '(cliente ativo sem departamento valido?).')
     return 0
 
 

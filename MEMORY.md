@@ -1,6 +1,6 @@
 # MEMORY.md — Documento de Retomada (Fase 2)
 
-**Ultima atualizacao:** 2026-05-14 (Decisao D11 — tratamento da area criminal: departamento 4, sigilo de parte adversaria, prefixo de slug `pc-`; carteira criminal cadastrada em lote — 28 de 41)
+**Ultima atualizacao:** 2026-05-14 (Decisao D12 — paineis-gestor por departamento: 4 paineis filtrados reaproveitando o template do painel-interno; slugs persistidos em config/paineis_gestor.json. Antes: Decisao D11 — area criminal)
 **Proxima sessao:** retomar a partir da secao "ESTADO ATUAL DA SESSAO E PROXIMOS PASSOS" no fim deste arquivo.
 
 ---
@@ -104,6 +104,46 @@ Clientes criminais usam `nome_curto` com prefixo `pc-` (ex.: `pc-maidalcione`). 
 Arquivo de entrada: `clientes_criminal.txt` (41 entradas). Resultado de `adicionar_clientes_lote.py`: **28 cadastrados, 13 NAO_ENCONTRADO no ADVBox, 0 duplicados, 0 erros**. Os 13 nao encontrados sao CPFs ausentes na base ADVBox — precisam de verificacao de cadastro pelo escritorio antes de re-tentar.
 
 **Pendencia:** **Everton Ramos Lopes** ficou de fora deste lote por ausencia de CPF — cadastrar quando o documento for fornecido.
+
+---
+
+## DECISAO D12 — PAINEIS-GESTOR POR DEPARTAMENTO (implementada em 2026-05-14)
+
+**Decisao cravada pela lideranca. Cada departamento do escritorio tem um gestor; a D12 cria UM painel gerencial por departamento, espelhando o painel-interno mas filtrado para os clientes daquele departamento.**
+
+### Quatro pontos consolidados
+
+1. **Template reaproveitado** — os 4 paineis-gestor usam EXATAMENTE o mesmo template do painel-interno (`src/templates/painel_interno.html`). Nenhum template novo foi criado. A filtragem acontece em `gerador_interno.py`, antes da renderizacao.
+2. **Filtragem estrita por departamento** — cada painel-gestor recebe apenas `clientes` cujo `departamento == depto_cfg['departamento']`. O bloco "Tarefas Realizadas 90 dias" e RECALCULADO cruzando os posts globais somente com os `lawsuit_ids` dos clientes do departamento. KPIs (total de clientes / processos) sao agregados sobre o subconjunto filtrado. Nenhum dado de outro departamento entra no painel de um gestor.
+3. **Conteudo de cada painel-gestor** — KPI total de clientes do depto, KPI total de processos do depto, bloco 90d filtrado (mesmas 5 categorias), cards de cliente do depto com link para o painel-cliente individual.
+4. **Cabecalho** — "Painel do Gestor — {Nome Completo do Departamento}" (ex.: "Painel do Gestor — Direito Criminal"). Rodape mantem o nome do escritorio normalmente. O painel-interno (com TODOS os clientes) permanece INTACTO e em paralelo — nao foi removido nem alterado.
+
+### Arquitetura no codigo
+
+`gerador_interno.py` foi refatorado extraindo `montar_dados_painel(clientes_resumo, posts_brutos, escritorio, cabecalho_titulo, escopo)` — funcao reutilizavel que monta o contexto Jinja de UM painel. `gerar_painel_interno()` chama com todos os clientes (`escopo='completo'`); `gerar_paineis_gestor()` itera `config/paineis_gestor.json` e chama uma vez por departamento (`escopo='gestor'`). `main()` invoca os dois, nessa ordem. Os posts globais sao baixados UMA vez e reaproveitados pelos 5 paineis.
+
+O template recebeu 3 variaveis minimas (sem reorganizacao): `cabecalho_titulo`, `logo_src` e `caminho_cliente_base` — as duas ultimas necessarias porque os paineis-gestor ficam em `clientes/<slug>/` e precisam de prefixo relativo distinto para o logo (`../../config/logo.png`) e para os links de cliente (`../<slug>/`).
+
+### Slugs — config/paineis_gestor.json
+
+Slugs gerados UMA unica vez via `secrets.token_hex(2)` (4 chars hex), verificados contra colisao com `config/clientes.json`, e persistidos em `config/paineis_gestor.json`. `carregar_ou_criar_paineis_gestor()` reaproveita o arquivo se ele ja existe — **nunca regenera os slugs**. Slugs desta sessao:
+
+| Departamento | Slug |
+|---|---|
+| Direito Privado | `painel-gestor-privado-2026-46d8` |
+| Direito Imobiliario | `painel-gestor-imobiliario-2026-18fe` |
+| Direito Publico | `painel-gestor-publico-2026-ba37` |
+| Direito Criminal | `painel-gestor-criminal-2026-9bd1` |
+
+Contagem de clientes por painel-gestor (validada na geracao de 2026-05-14): Privado 9, Imobiliario 31, Publico 13, Criminal 28 — soma 81 = total de clientes ativos no painel-interno.
+
+### Sensibilidade do link
+
+O link de um painel-gestor contem **dados operacionais agregados do departamento inteiro** (carteira de clientes, volume de processos, produtividade 90d). Tratar com a **mesma confidencialidade do painel-interno** — uso restrito ao gestor/socios, nunca compartilhar com clientes ou terceiros. O template ja marca `noindex,nofollow` e exibe o aviso de acesso restrito.
+
+### Workflow
+
+`.github/workflows/atualizar-paineis.yml` ja roda `gerador_interno.py` e o `git add 'clientes/painel-*-2026-*/index.html'` ja casa com os slugs `painel-gestor-*` — nenhuma alteracao no workflow foi necessaria. A nova logica roda automaticamente as 5h BRT e nos disparos manuais.
 
 ---
 
