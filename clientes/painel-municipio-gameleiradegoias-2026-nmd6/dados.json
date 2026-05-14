@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-14T10:56:54-03:00",
-    "gerado_em_humano": "14/05/2026 10:56",
+    "gerado_em": "2026-05-14T14:03:16-03:00",
+    "gerado_em_humano": "14/05/2026 14:03",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -326,6 +326,11 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": null,
+          "title": "saiu sentença, agendar prazo apelação"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (23/04/2026 16:17:19))"
@@ -369,11 +374,6 @@
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Troca de Responsável - Procurador Responsável Anterior: DOUGLAS NUNES ALMEIDA Procurador Responsável Atual: LEONEL NASCIMENTO CARVALHO JUNIOR"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: EDUARDO COSTA FERREIRA Procurador Responsável Atual: DOUGLAS NUNES ALMEIDA"
         }
       ],
       "partes_adversarias": [
@@ -3860,15 +3860,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 9,
+    "total": 10,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 5,
-      "Diligências": 0,
+      "Diligências": 1,
       "Outras": 4
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-14"
   }
 }

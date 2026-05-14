@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-14T10:48:06-03:00",
-    "gerado_em_humano": "14/05/2026 10:48",
+    "gerado_em": "2026-05-14T13:54:07-03:00",
+    "gerado_em_humano": "14/05/2026 13:54",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -7459,14 +7459,14 @@
       "process_number": "5704024-66.2025.8.09.0090",
       "protocol_number": null,
       "folder": "3925",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
-      "type": "PROCEDIMENTO COMUM CIVEL",
-      "group": "PRIVADO",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "PÚBLICO",
       "status_closure": "2025-12-08 00:00:00",
       "created_at": "2025-12-08 00:00:00",
       "process_date": "2025-09-01",
-      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
           "date": "2026-05-08",
@@ -7516,10 +7516,10 @@
       ],
       "partes_adversarias": [
         {
-          "name": "NÃO INFORMADO"
+          "name": "TONE VENANCIO BORGES"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "execucao",
       "tribunal": "TJGO"
     },
     {
@@ -9562,15 +9562,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 49,
+    "total": 50,
     "categorias": {
       "Peças": 6,
       "Audiências": 5,
       "Comunicações": 8,
-      "Acompanhamento": 21,
+      "Acompanhamento": 22,
       "Diligências": 6,
       "Outras": 3
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-14"
   }
 }

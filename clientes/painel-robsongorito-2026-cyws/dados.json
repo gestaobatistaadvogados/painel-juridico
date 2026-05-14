@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-14T10:21:08-03:00",
-    "gerado_em_humano": "14/05/2026 10:21",
+    "gerado_em": "2026-05-14T13:25:56-03:00",
+    "gerado_em_humano": "14/05/2026 13:25",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -2875,18 +2875,73 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TRT18"
+    },
+    {
+      "id": 14845766,
+      "process_number": "0000817-30.2026.5.18.0001",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "SOCIAL (PREVIDENCIÁRIO E TRABALHISTA)",
+      "status_closure": null,
+      "created_at": "2026-05-14 11:04:58",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "HOSPITAL AMPARO LTDA"
+        },
+        {
+          "name": "ADAILTO ANTONIO LEITE"
+        },
+        {
+          "name": "JOAO CLAUDIO FERREIRA MIRANDA"
+        },
+        {
+          "name": "JOSE FABIO DA SILVA"
+        },
+        {
+          "name": "LUIZ CARLOS PEDREIRA BARROS"
+        },
+        {
+          "name": "NELIO CUSTODIO LOURENCO JUNIOR"
+        },
+        {
+          "name": "PEDRO ERNESTO FERREIRA MIRANDA"
+        },
+        {
+          "name": "SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "name": "SIDERLEY DE SOUZA CARNEIRO"
+        },
+        {
+          "name": "WAGNER MIRANDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
     }
   ],
   "atividade_90d": {
-    "total": 69,
+    "total": 75,
     "categorias": {
-      "Peças": 10,
+      "Peças": 12,
       "Audiências": 7,
-      "Comunicações": 10,
-      "Acompanhamento": 32,
+      "Comunicações": 12,
+      "Acompanhamento": 34,
       "Diligências": 2,
       "Outras": 8
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-14"
   }
 }
