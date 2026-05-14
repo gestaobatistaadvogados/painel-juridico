@@ -1,0 +1,45 @@
+# Carteira criminal — lote 13/05/2026
+# Departamento: 4 = Direito Criminal
+# Prefixo slug: pc- (neutro)
+
+350.312.201-04 ; 4 ; pc-maidalcione
+036.280.751-57 ; 4 ; pc-alexpereira
+053.368.071-92 ; 4 ; pc-alanaluisa
+704.220.591-02 ; 4 ; pc-daniellykarlla
+047.171.991-97 ; 4 ; pc-jeffersonpereira
+023.997.451-40 ; 4 ; pc-saulooliveira
+105.047.748-08 ; 4 ; pc-marcelocanassa
+031.248.071-70 ; 4 ; pc-danilloqueiroz
+700.129.131-54 ; 4 ; pc-nandaaiara
+705.534.011-06 ; 4 ; pc-guilhermecardoso
+076.759.461-46 ; 4 ; pc-nataliagabriela
+035.284.401-98 ; 4 ; pc-silvoyne
+354.314.901-68 ; 4 ; pc-lucianomarques
+477.029.231-72 ; 4 ; pc-renatotuma
+835.599.731-04 ; 4 ; pc-analidiagoncalves
+030.941.731-79 ; 4 ; pc-cristianoalmeida
+875.776.661-49 ; 4 ; pc-fabianoluiz
+813.203.617-49 ; 4 ; pc-clesiocampos
+926.520.341-20 ; 4 ; pc-edgarpacheco
+041.913.561-86 ; 4 ; pc-marcelorodrigues
+037.138.451-66 ; 4 ; pc-jessicalorrani
+011.956.711-30 ; 4 ; pc-anapaulaferreira
+976.942.151-00 ; 4 ; pc-geovannymagalhaes
+614.023.622-34 ; 4 ; pc-simonevidal
+634.289.461-20 ; 4 ; pc-humbertocampos
+394.103.581-91 ; 4 ; pc-denilsonmartins
+15.635.464/0001-41 ; 4 ; pc-marplan
+037.302.941-13 ; 4 ; pc-yaralourenco
+106.818.253-91 ; 4 ; pc-osvaldocassiano
+254.420.401-00 ; 4 ; pc-constantinopires
+025.547.691-41 ; 4 ; pc-abelantonio
+031.627.651-02 ; 4 ; pc-thiagobastos
+030.818.191-30 ; 4 ; pc-rafaelalmeida
+585.997.031-53 ; 4 ; pc-valdomirogoncalves
+430.566.361-91 ; 4 ; pc-pauloroberto
+033.971.851-06 ; 4 ; pc-josevenicio
+40.374.297/0001-70 ; 4 ; pc-jaspeconstrutora
+047.757.411-44 ; 4 ; pc-luryancristina
+029.041.331-19 ; 4 ; pc-weldisommarcos
+015.542.741-50 ; 4 ; pc-laianebatista
+263.420.061-72 ; 4 ; pc-lazaroantonio

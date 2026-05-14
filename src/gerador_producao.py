@@ -21,8 +21,10 @@ Endpoints PROIBIDOS no painel publico (jamais usados aqui):
 
 import hashlib
 import json
+import re
 import shutil
 import sys
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -161,7 +163,59 @@ def normalizar_digitos(valor):
     return ''.join(c for c in str(valor) if c.isdigit())
 
 
-def extrair_partes_adversarias(lawsuit_bruto, cliente_ident_digitos):
+# === DECISAO D11 — TRATAMENTO DA AREA CRIMINAL ===
+# Departamento (em config/clientes.json) que dispara o tratamento de sigilo
+# da parte adversaria. Ver MEMORY.md > "DECISAO D11 — TRATAMENTO CRIMINAL".
+DEPARTAMENTO_CRIMINAL = 'direito_criminal'
+
+# Substituto exibido quando a parte adversaria de processo criminal NAO e
+# orgao de acusacao publica (queixa-crime / acao penal privada).
+PARTE_SOB_SIGILO = 'Parte sob sigilo legal'
+
+# Termos que caracterizam orgao de acusacao publica (acao penal publica).
+# Comparados contra o nome normalizado (lower + sem acento). 'mp' fica de
+# fora desta tupla porque exige match por TOKEN (ver funcao abaixo) para
+# nao gerar falso-positivo dentro de nomes comuns como "Campos".
+_TERMOS_PARTE_PUBLICA_CRIMINAL = (
+    'ministerio publico',
+    'estado de',
+    'uniao',
+    'fazenda publica',
+    'fazenda nacional',
+    'procuradoria',
+    'promotoria',
+    'defensoria publica',
+)
+
+
+def _normalizar_texto_busca(texto):
+    """lower() + remove acentos. Para comparacao tolerante a acentuacao."""
+    nfkd = unicodedata.normalize('NFKD', str(texto or ''))
+    sem_acento = ''.join(c for c in nfkd if not unicodedata.combining(c))
+    return sem_acento.lower()
+
+
+def parte_adversaria_publica_em_criminal(nome_parte):
+    """True se a parte adversaria for orgao de acusacao publica (Decisao D11).
+
+    Acao penal publica (MP, Estado, Uniao, Fazenda Publica, Procuradoria,
+    Promotoria, Defensoria Publica) -> nome PODE ser exibido. Caso contrario
+    (queixa-crime / acao penal privada) -> nome fica sob sigilo.
+
+    Comparacao case-insensitive e tolerante a acento. 'MP' e casado como
+    token isolado (\\bmp\\b) — substring casaria dentro de "Campos", "tempo".
+    """
+    norm = _normalizar_texto_busca(nome_parte)
+    if not norm:
+        return False
+    if any(termo in norm for termo in _TERMOS_PARTE_PUBLICA_CRIMINAL):
+        return True
+    if re.search(r'\bmp\b', norm):
+        return True
+    return False
+
+
+def extrair_partes_adversarias(lawsuit_bruto, cliente_ident_digitos, eh_criminal=False):
     """Devolve lista de {'name': ...} dos adversarios do processo.
 
     Identifica o proprio cliente comparando `identification` (so digitos) —
@@ -169,6 +223,13 @@ def extrair_partes_adversarias(lawsuit_bruto, cliente_ident_digitos):
     Excluidos: o proprio cliente; itens com `name` vazio.
     Whitelist por item: apenas `name`. Demais campos
     (identification, origin, customer_id) sao descartados.
+
+    Decisao D11: quando `eh_criminal` e True (cliente do departamento
+    direito_criminal), o nome da parte adversaria so e exibido se ela for
+    orgao de acusacao publica (acao penal publica). Caso contrario o nome
+    e substituido por PARTE_SOB_SIGILO — protege a parte em queixa-crime e
+    acao penal privada. Para clientes nao-criminais o comportamento original
+    (mostrar o nome) permanece intacto.
     """
     adversarios = []
     custs = lawsuit_bruto.get('customers') or []
@@ -180,6 +241,8 @@ def extrair_partes_adversarias(lawsuit_bruto, cliente_ident_digitos):
         nome = c.get('name') or ''
         if not nome.strip():
             continue  # exclui sem nome (decisao do socio em 2026-05-07)
+        if eh_criminal and not parte_adversaria_publica_em_criminal(nome):
+            nome = PARTE_SOB_SIGILO
         # construcao explicita do dict garante whitelist
         adversarios.append({'name': nome})
     return adversarios
@@ -348,7 +411,8 @@ def montar_cliente_publico(customer_bruto):
     return pub
 
 
-def montar_lawsuit_publico(lawsuit_bruto, movements_brutos, cliente_ident_digitos):
+def montar_lawsuit_publico(lawsuit_bruto, movements_brutos, cliente_ident_digitos,
+                           eh_criminal=False):
     """Aplica whitelist no processo e nos movements + adiciona derivados publicos.
 
     Movements sao ordenados por `date` DESC e cortados aos
@@ -358,6 +422,8 @@ def montar_lawsuit_publico(lawsuit_bruto, movements_brutos, cliente_ident_digito
       - movements          : list filtrada e cortada
       - partes_adversarias : list de {'name': ...} (so name, ver Regra v2)
       - fase_grupo         : str em {'conhecimento','execucao','recursal','arquivados'}
+
+    `eh_criminal` propaga a Decisao D11 ate extrair_partes_adversarias.
     """
     pub = filtrar(lawsuit_bruto, CAMPOS_LAWSUIT_PUBLICOS)
     movs_filtrados = [filtrar(m, CAMPOS_MOVEMENT_PUBLICOS) for m in movements_brutos]
@@ -367,7 +433,9 @@ def montar_lawsuit_publico(lawsuit_bruto, movements_brutos, cliente_ident_digito
         reverse=True,
     )
     pub['movements'] = movs_ordenados[:MAX_MOVIMENTOS_POR_LAWSUIT]
-    pub['partes_adversarias'] = extrair_partes_adversarias(lawsuit_bruto, cliente_ident_digitos)
+    pub['partes_adversarias'] = extrair_partes_adversarias(
+        lawsuit_bruto, cliente_ident_digitos, eh_criminal
+    )
     pub['fase_grupo'] = fase_grupo(pub.get('stage'))
     pub['tribunal'] = decodificar_tribunal(pub.get('process_number'))
     return pub
@@ -386,6 +454,9 @@ def montar_dados_publicos(cliente_config, customer_bruto, lawsuits_brutos,
     """
     agora = datetime.now(FUSO_BRT)
     cliente_ident_digitos = normalizar_digitos(customer_bruto.get('identification'))
+    # Decisao D11: o tratamento de sigilo da parte adversaria so se aplica
+    # a clientes do departamento criminal. Demais areas: comportamento original.
+    eh_criminal = cliente_config.get('departamento') == DEPARTAMENTO_CRIMINAL
     return {
         'meta': {
             'gerado_em': agora.isoformat(timespec='seconds'),
@@ -399,6 +470,7 @@ def montar_dados_publicos(cliente_config, customer_bruto, lawsuits_brutos,
                 law,
                 movements_por_lawsuit.get(law.get('id'), []),
                 cliente_ident_digitos,
+                eh_criminal,
             )
             for law in lawsuits_brutos
         ],

@@ -13,6 +13,7 @@ Departamentos:
   1 = direito_privado
   2 = direito_imobiliario
   3 = direito_publico
+  4 = direito_criminal
 
 A ferramenta:
   - Le todas as linhas validas do arquivo

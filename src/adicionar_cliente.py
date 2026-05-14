@@ -46,11 +46,13 @@ DEPARTAMENTOS = {
     '1': 'direito_privado',
     '2': 'direito_imobiliario',
     '3': 'direito_publico',
+    '4': 'direito_criminal',
 }
 DEPARTAMENTOS_LABEL = {
     'direito_privado': 'Direito Privado',
     'direito_imobiliario': 'Direito Imobiliario',
     'direito_publico': 'Direito Publico',
+    'direito_criminal': 'Direito Criminal',
 }
 
 
@@ -243,11 +245,12 @@ def main():
     print('  1 = Direito Privado')
     print('  2 = Direito Imobiliario')
     print('  3 = Direito Publico')
+    print('  4 = Direito Criminal')
     dep_num = perguntar(
-        'Departamento (1/2/3): ',
+        'Departamento (1/2/3/4): ',
         validador=lambda r: (
             (True, '') if r in DEPARTAMENTOS
-            else (False, 'Digite 1, 2 ou 3.')
+            else (False, 'Digite 1, 2, 3 ou 4.')
         ),
     )
     departamento = DEPARTAMENTOS[dep_num]

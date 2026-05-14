@@ -1,6 +1,6 @@
 # MEMORY.md — Documento de Retomada (Fase 2)
 
-**Ultima atualizacao:** 2026-05-07 (mapping de categorias 90d revisto — 5 categorias acentuadas + Outras catch-all; bug de matching com acento corrigido; 263 → 0 em Outras)
+**Ultima atualizacao:** 2026-05-14 (Decisao D11 — tratamento da area criminal: departamento 4, sigilo de parte adversaria, prefixo de slug `pc-`; carteira criminal cadastrada em lote — 28 de 41)
 **Proxima sessao:** retomar a partir da secao "ESTADO ATUAL DA SESSAO E PROXIMOS PASSOS" no fim deste arquivo.
 
 ---
@@ -74,6 +74,36 @@ partes_adversarias = [
 Se a API entregar `name` vazio para alguma parte, usar `''` (nao quebrar). A lista pode ser vazia (caso o lawsuit nao tenha adversarios cadastrados).
 
 **Defesa em profundidade (assert):** atualizar para PERMITIR a chave `partes_adversarias` e a chave `name` dentro dela. Continuar bloqueando todas as outras chaves do schema de customer (identification, email, phone, etc.).
+
+---
+
+## DECISAO D11 — TRATAMENTO DA AREA CRIMINAL (registrada em 2026-05-13)
+
+**Decisao cravada pela lideranca do escritorio. Implementada no codigo em 2026-05-14.**
+
+Com a entrada da carteira de Direito Criminal no projeto, a Decisao D11 estabelece quatro pontos consolidados:
+
+### 1. Novo departamento: 4 = Direito Criminal
+Adicionado em `DEPARTAMENTOS` / `DEPARTAMENTOS_LABEL` de `src/adicionar_cliente.py` (importados por `src/adicionar_clientes_lote.py`). Valor de `departamento` em `config/clientes.json`: `direito_criminal`. Departamentos 1/2/3 permanecem intocados. O gerador exibe o rotulo "Direito Criminal" via fallback `.title()` de `filtro_rotulo_departamento`.
+
+### 2. Segredo de justica: exibir tudo, como nas demais areas
+Processos criminais em segredo de justica sao exibidos no painel exatamente como os das demais areas — **risco assumido e registrado pela lideranca**. Nenhum tratamento especial de ocultacao alem do ponto 3.
+
+### 3. Parte adversaria em processo criminal: publica vs sob sigilo
+A Regra de Ouro de partes adversarias por nome (REVISAO 2026-05-07) recebe uma **excecao para clientes do departamento criminal**:
+- **Exibir o nome** quando a parte adversaria for orgao de acusacao publica (acao penal publica): Ministerio Publico / MP, Estado de (UF), Uniao / Uniao Federal, Fazenda Publica / Fazenda Nacional, Procuradoria, Promotoria, Defensoria Publica.
+- **Ocultar o nome** (substituir por `"Parte sob sigilo legal"`) em queixa-crime e acao penal privada — qualquer parte que nao seja orgao de acusacao publica.
+- Para clientes **nao-criminais**, o comportamento original (mostrar o nome) permanece inalterado.
+
+**Implementacao:** `parte_adversaria_publica_em_criminal(nome_parte)` em `src/gerador_producao.py` (case-insensitive, tolerante a acento; `MP` casado por token `\bmp\b` para nao gerar falso-positivo em nomes como "Campos"). A regra e aplicada em `extrair_partes_adversarias` via flag `eh_criminal`, derivada de `cliente_config['departamento'] == 'direito_criminal'` em `montar_dados_publicos`. A Regra de Ouro segue intacta: whitelist `CAMPOS_PARTE_ADVERSARIA = ['name']`, construcao explicita do dict e `assert_sem_termos_proibidos` inalterados — D11 troca apenas o **valor** do `name`, nunca a estrutura.
+
+### 4. Prefixo de slug `pc-` (neutro, nao revela a area)
+Clientes criminais usam `nome_curto` com prefixo `pc-` (ex.: `pc-maidalcione`). Enquanto o repositorio for publico, um prefixo `criminal-` exporia a natureza sensivel da causa apenas pela listagem da pasta `clientes/` no GitHub. O `pc-` e neutro e nao denuncia a area.
+
+### Cadastro em lote da carteira criminal (2026-05-14)
+Arquivo de entrada: `clientes_criminal.txt` (41 entradas). Resultado de `adicionar_clientes_lote.py`: **28 cadastrados, 13 NAO_ENCONTRADO no ADVBox, 0 duplicados, 0 erros**. Os 13 nao encontrados sao CPFs ausentes na base ADVBox — precisam de verificacao de cadastro pelo escritorio antes de re-tentar.
+
+**Pendencia:** **Everton Ramos Lopes** ficou de fora deste lote por ausencia de CPF — cadastrar quando o documento for fornecido.
 
 ---
 

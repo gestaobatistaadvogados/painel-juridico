@@ -484,6 +484,230 @@
       "slug_url": "painel-mybroker-setorsul-2026-b38h",
       "ativo": true,
       "data_cadastro": "2026-05-12"
+    },
+    {
+      "id_advbox": 14080746,
+      "nome_curto": "pc-maidalcione",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-maidalcione-2026-h38g",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13989002,
+      "nome_curto": "pc-alanaluisa",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-alanaluisa-2026-b2ih",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080375,
+      "nome_curto": "pc-jeffersonpereira",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-jeffersonpereira-2026-q8gm",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080760,
+      "nome_curto": "pc-marcelocanassa",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-marcelocanassa-2026-oe39",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13733324,
+      "nome_curto": "pc-nandaaiara",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-nandaaiara-2026-ssr6",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13733328,
+      "nome_curto": "pc-guilhermecardoso",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-guilhermecardoso-2026-bwu1",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13733332,
+      "nome_curto": "pc-nataliagabriela",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-nataliagabriela-2026-1i3t",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13733345,
+      "nome_curto": "pc-silvoyne",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-silvoyne-2026-848u",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080705,
+      "nome_curto": "pc-lucianomarques",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-lucianomarques-2026-deu2",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14081381,
+      "nome_curto": "pc-renatotuma",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-renatotuma-2026-b7gt",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13775531,
+      "nome_curto": "pc-fabianoluiz",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-fabianoluiz-2026-ingf",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13775551,
+      "nome_curto": "pc-clesiocampos",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-clesiocampos-2026-pxd0",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13908074,
+      "nome_curto": "pc-edgarpacheco",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-edgarpacheco-2026-rebz",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080759,
+      "nome_curto": "pc-marcelorodrigues",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-marcelorodrigues-2026-75tk",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080391,
+      "nome_curto": "pc-jessicalorrani",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-jessicalorrani-2026-607k",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13650016,
+      "nome_curto": "pc-anapaulaferreira",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-anapaulaferreira-2026-k118",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13650027,
+      "nome_curto": "pc-geovannymagalhaes",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13908544,
+      "nome_curto": "pc-simonevidal",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-simonevidal-2026-zobs",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 13908852,
+      "nome_curto": "pc-humbertocampos",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-humbertocampos-2026-0240",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14309470,
+      "nome_curto": "pc-denilsonmartins",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-denilsonmartins-2026-17fv",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14802757,
+      "nome_curto": "pc-marplan",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-marplan-2026-9rdj",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14081054,
+      "nome_curto": "pc-osvaldocassiano",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-osvaldocassiano-2026-uhts",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14081313,
+      "nome_curto": "pc-rafaelalmeida",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-rafaelalmeida-2026-j1yp",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14081674,
+      "nome_curto": "pc-valdomirogoncalves",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-valdomirogoncalves-2026-ojyc",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14081218,
+      "nome_curto": "pc-pauloroberto",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-pauloroberto-2026-trxd",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14812196,
+      "nome_curto": "pc-josevenicio",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-josevenicio-2026-tgpq",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14080373,
+      "nome_curto": "pc-jaspeconstrutora",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-jaspeconstrutora-2026-kb82",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
+    },
+    {
+      "id_advbox": 14582931,
+      "nome_curto": "pc-weldisommarcos",
+      "departamento": "direito_criminal",
+      "slug_url": "painel-pc-weldisommarcos-2026-eg5e",
+      "ativo": true,
+      "data_cadastro": "2026-05-14"
     }
   ]
 }
