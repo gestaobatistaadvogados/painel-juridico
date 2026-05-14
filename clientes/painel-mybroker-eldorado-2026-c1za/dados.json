@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-13T13:54:45-03:00",
-    "gerado_em_humano": "13/05/2026 13:54",
+    "gerado_em": "2026-05-14T10:33:38-03:00",
+    "gerado_em_humano": "14/05/2026 10:33",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -101,9 +101,9 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-05-11",
+          "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões"
+          "title": "Juntada -> Petição - CONTRARRAZÕES AO AGRAVO INTERNO"
         },
         {
           "date": "2026-05-11",
@@ -111,9 +111,24 @@
           "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contrarrazões"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EBGIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Paulo Ernesto De Moraes Silva Filho (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 17:53:49))"
         },
         {
           "date": "2026-04-14",
@@ -134,21 +149,6 @@
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de S1BIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Proenca Santos (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
         }
       ],
       "partes_adversarias": [
@@ -161,12 +161,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 5,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },

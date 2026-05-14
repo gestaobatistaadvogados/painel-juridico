@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:06:08-03:00",
+    "gerado_em_humano": "14/05/2026 11:06",
+    "slug_url": "painel-pc-jeffersonpereira-2026-q8gm",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "JEFFERSON PEREIRA E SILVA",
+    "identification": "***.***.***-97",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13412552,
+      "process_number": "5239109-73.2024.8.09.0166",
+      "protocol_number": null,
+      "folder": "834",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "FALSIDADE IDEOLÓGICA",
+      "group": "CRIMINAL",
+      "status_closure": "2024-05-07 00:00:00",
+      "created_at": "2024-05-07 00:00:00",
+      "process_date": "2024-04-01",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13412553,
+      "process_number": "5908302-29.2024.8.09.0166",
+      "protocol_number": null,
+      "folder": "1733",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "RESTITUIÇÃO DE COISAS APREENDIDAS",
+      "group": "CRIMINAL",
+      "status_closure": "2024-11-06 00:00:00",
+      "created_at": "2024-11-06 00:00:00",
+      "process_date": "2024-09-25",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GOIAS MP PROCURADORIA GERAL DE JUSTICA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

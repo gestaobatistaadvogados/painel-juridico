@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:12-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-marplan-2026-9rdj",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "MARPLAN PROJETOS E ASSESSORIA RURAL LTDA",
+    "identification": "**.***.***/****-41",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PJ"
+  },
+  "processos": [
+    {
+      "id": 14177634,
+      "process_number": "5319106-32.2026.8.09.0006",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "REQUERIMENTO - AUTOS APARTADOS",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-04-13 12:16:04",
+      "process_date": "2026-04-13",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Peticão Enviada (13/04/2026 12:02:02))"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão Geral: Habilitação de Advogados"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: Juan Borges de Abreu"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da Vara Relativa Organização Criminosa (Referente à Mov. Peticão Enviada - 13/04/2026 12:02:02)"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Goiânia - UPJ Varas dos Feitos Relativos a Organização Criminosa: 1ª e 2ª (Dependente) - Distribuído para: ALESSANDRO PEREIRA PACHECO"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14177751,
+      "process_number": "5567736-77.2022.8.09.0006",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INTERCEPTAÇÃO TELEFÔNICA, INTERCEPTAÇÃO TELEMÁTICA, QUEBRA DE SIGILO TELEMÁTICO E AÇÃO CONTROLADA",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-04-13 12:24:19",
+      "process_date": "2022-09-16",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 1,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 1
+    },
+    "ultima_data": "2026-04-27"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:52-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-pauloroberto-2026-trxd",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "PAULO ROBERTO BARBOSA SILVA",
+    "identification": "***.***.***-91",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13414449,
+      "process_number": "5593859-45.2025.8.09.0156",
+      "protocol_number": null,
+      "folder": "3875",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "CUMPRIMENTO DE SENTENÇA",
+      "group": "CÍVEL",
+      "status_closure": "2025-11-11 00:00:00",
+      "created_at": "2025-11-11 00:00:00",
+      "process_date": "2025-07-28",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2023-02-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2023-02-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão - trânsito em julgado"
+        },
+        {
+          "date": "2021-09-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada a Ser Publicada No Diário Eletrônico Nos Próximos 2 (Dois) Dias Úteis - Intimação para parte executada: NELSON GALDINO DA SILVA - CPF: 001.034.068-83"
+        },
+        {
+          "date": "2021-07-09",
+          "header": "TJGO",
+          "title": "Intimação Não Efetivada - (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (27/05/2021 12:51:50)) (Polo Passivo)"
+        },
+        {
+          "date": "2021-06-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Passivo) NELSON GALDINO DA SILVA - Código de Rastreamento Correios: BH281930605BR idPendenciaCorreios109587605432015873962943195idPendenciaCorreios"
+        },
+        {
+          "date": "2021-06-07",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE GOIANIA (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (27/05/2021 12:51:50))"
+        },
+        {
+          "date": "2021-05-31",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Procurador Responsável Anterior: Natasha Palma Garcia Procurador Responsável Atual: Savio Hercilio Vieira Torres"
+        },
+        {
+          "date": "2021-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Advgs. de MUNICIPIO DE GOIANIA (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (CNJ:385) - )"
+        },
+        {
+          "date": "2021-05-27",
+          "header": "TJGO",
+          "title": "Sentença Extinto o Processo com Resolução de Mérito"
+        },
+        {
+          "date": "2021-05-26",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414450,
+      "process_number": "5067969-64.2025.8.09.0156",
+      "protocol_number": null,
+      "folder": "2761",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CRIMES DE CALÚNIA, INJÚRIA E DIFAMAÇÃO / COMPETÊNCIA DO JUIZ SINGULAR",
+      "group": "PÚBLICO",
+      "status_closure": "2025-05-07 00:00:00",
+      "created_at": "2025-05-07 00:00:00",
+      "process_date": "2025-01-30",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2025-07-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-07-07",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2025-07-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-07-07",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valtenir Goncalves Da Silva (Referente à Mov. Decisão -> Indeferimento (02/07/2025 15:58:32))"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Varjão - Promotoria dos Juizados (Referente à Mov. Decisão -> Indeferimento - 02/07/2025 15:58:32)"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valtenir Goncalves Da Silva - Polo Ativo (Referente à Mov. Decisão -> Indeferimento - 02/07/2025 15:58:32)"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por PAULO DE THARSO BRONDI DE PAULA RODRIGUES (Referente à Mov. Decisão -> Indeferimento (02/07/2025 15:58:32))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

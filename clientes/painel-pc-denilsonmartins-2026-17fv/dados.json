@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:03-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-denilsonmartins-2026-17fv",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "DENILSON MARTINS ARRUDA",
+    "identification": "***.***.***-91",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13649097,
+      "process_number": "5214212-64.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "QUEIXA-CRIME",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-03-12 14:32:00",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

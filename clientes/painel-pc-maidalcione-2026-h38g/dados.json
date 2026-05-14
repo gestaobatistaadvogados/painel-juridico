@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:05:48-03:00",
+    "gerado_em_humano": "14/05/2026 11:05",
+    "slug_url": "painel-pc-maidalcione-2026-h38g",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "MAID ALCIONE M S FARIA",
+    "identification": "***.***.***-04",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13412802,
+      "process_number": "5397684-98.2025.8.09.0117",
+      "protocol_number": null,
+      "folder": "3695",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "TUTELA ANTECIPADA ANTECEDENTE",
+      "group": "CÍVEL",
+      "status_closure": "2025-09-12 00:00:00",
+      "created_at": "2025-09-12 00:00:00",
+      "process_date": "2025-05-22",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Facebook Servicos Online Do Brasil Ltda. (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (09/04/2026 10:04:00))"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (09/04/2026 10:04:00))"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de FSOBL (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (CNJ:15164) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Decisão -> Não Acolhimento de Embargos de Declaração (CNJ:15164) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Decisão -> Não Acolhimento de Embargos de Declaração -"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Decisão -> Não Acolhimento de Embargos de Declaração"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Maid Alcione Macedo E Silva Faria em 29/10/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (14/10/2025 18:58:51))"
+        },
+        {
+          "date": "2026-01-26",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-10-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 14/10/2025 18:58:51)"
+        },
+        {
+          "date": "2025-10-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Despacho -> Mero Expediente (14/10/2025 18:58:51))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

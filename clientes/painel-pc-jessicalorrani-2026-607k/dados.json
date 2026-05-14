@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:07:20-03:00",
+    "gerado_em_humano": "14/05/2026 11:07",
+    "slug_url": "painel-pc-jessicalorrani-2026-607k",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "JESSICA LORRANI DE OLIVEIRA",
+    "identification": "***.***.***-66",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13412560,
+      "process_number": "5658076-92.2023.8.09.0051",
+      "protocol_number": null,
+      "folder": "3580",
+      "stage": "DESABILITADO - NÃO É MAIS CLIENTE",
+      "step": "ARQUIVAMENTO",
+      "type": "PROCEDIMENTO ORDINÁRIO",
+      "group": "CRIMINAL",
+      "status_closure": "2025-08-29 00:00:00",
+      "created_at": "2025-08-29 00:00:00",
+      "process_date": "2023-10-02",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "GOIAS MP PROCURADORIA GERAL DE JUSTICA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

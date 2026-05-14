@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:36-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-rafaelalmeida-2026-j1yp",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "RAFAEL DE ALMEIDA SILVA",
+    "identification": "***.***.***-30",
+    "city": "GOIÂNIA",
+    "state": "GO",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13414508,
+      "process_number": "5567318-96.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3684",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "MEDIDAS PROTETIVAS DE URGÊNCIA",
+      "group": "CRIMINAL",
+      "status_closure": "2025-09-10 00:00:00",
+      "created_at": "2025-09-10 00:00:00",
+      "process_date": "2025-07-17",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414509,
+      "process_number": "5607424-03.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3558",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "TERMO CIRCUNSTANCIADO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-27 00:00:00",
+      "created_at": "2025-08-27 00:00:00",
+      "process_date": "2025-07-31",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Distribuição"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Denúncia"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada de Documento -"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada de Documento"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Juntada de Documento (14/04/2026 15:38:59))"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria das Varas das Garantias (Referente à Mov. Juntada de Documento - 14/04/2026 15:38:59)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Juntada de Documento - CONCLUÍDO COM AUTORIA DEFINIDA"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

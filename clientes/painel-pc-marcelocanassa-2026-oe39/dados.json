@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:06:14-03:00",
+    "gerado_em_humano": "14/05/2026 11:06",
+    "slug_url": "painel-pc-marcelocanassa-2026-oe39",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "MARCELO GRACIA CANASSA",
+    "identification": "***.***.***-08",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13412814,
+      "process_number": "5714566-80.2023.8.09.0166",
+      "protocol_number": null,
+      "folder": "2176",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "PECULATO / CP",
+      "group": "CRIMINAL",
+      "status_closure": "2025-02-27 00:00:00",
+      "created_at": "2025-02-27 00:00:00",
+      "process_date": "2023-10-26",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "POLÍCIA CIVIL DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

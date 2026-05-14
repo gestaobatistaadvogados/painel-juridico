@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-13T13:54:36-03:00",
-    "gerado_em_humano": "13/05/2026 13:54",
+    "gerado_em": "2026-05-14T10:33:29-03:00",
+    "gerado_em_humano": "14/05/2026 10:33",
     "slug_url": "painel-mybroker-curitiba-2026-isx9",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,26 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJPR",
+          "title": "ATO ORDINATÓRIO PRATICADO Distribuição realizada referente ao Mandado expedido (seq. 129) em 13/05/2026 16:13:09. Tipo: Distribuição Inicial Automática. Oficial de Justiça Designado: Cleber Sandro Afonso. Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK. Distribuição de cumprimento por vínculo (Cumprimento no mesmo endereço)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJPR",
+          "title": "ATO ORDINATÓRIO PRATICADO Distribuição realizada referente ao Mandado expedido (seq. 130) em 13/05/2026 16:13:39. Tipo: Distribuicão Inicial por Vínculo. Oficial de Justiça Designado: Cleber Sandro Afonso. Parte: LEONARDO VICENTE SCHEWTSCHIK. Distribuição de cumprimento por vínculo (Cumprimento no mesmo endereço)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJPR",
+          "title": "EXPEDIÇÃO DE MANDADO Prazo de 15 dias úteis. Referente ao evento (seq. 128) JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE(13/04/2026 14:19:53). Natureza: Citação. Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK. Identificador do Cumprimento: 0016"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJPR",
+          "title": "EXPEDIÇÃO DE MANDADO Prazo de 15 dias úteis. Referente ao evento (seq. 128) JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE(13/04/2026 14:19:53). Natureza: Citação. Parte: LEONARDO VICENTE SCHEWTSCHIK. Identificador do Cumprimento: 0017"
+        },
+        {
           "date": "2026-04-13",
           "header": "TJPR",
           "title": "JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE Cumprimento de intimações - Referente aos eventos JUNTADA DE ATO ORDINATÓRIO (24/03/2026), NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)"
@@ -50,32 +70,12 @@
         {
           "date": "2026-03-24",
           "header": "TJPR",
-          "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 124) JUNTADA DE ATO ORDINATÓRIO (24/03/2026)."
+          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Claro/net/embratel lido(a) em 24/03/2026 - Referente ao evento de expedição (seq. 117) EXPEDIÇÃO DE BUSCA CLARO/NET/EMBRATEL (11/03/2026 17:40:04)"
         },
         {
           "date": "2026-03-24",
           "header": "TJPR",
           "title": "JUNTADA DE ATO ORDINATÓRIO"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJPR",
-          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Claro/net/embratel lido(a) em 24/03/2026 - Referente ao evento de expedição (seq. 117) EXPEDIÇÃO DE BUSCA CLARO/NET/EMBRATEL (11/03/2026 17:40:04)"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJPR",
-          "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 113) NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)."
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJPR",
-          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Portal Jud lido(a) em 19/03/2026 - Referente ao evento de expedição (seq. 116) EXPEDIÇÃO DE BUSCA PORTAL JUD (11/03/2026 17:37:35)"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJPR",
-          "title": "CONFIRMADA A COMUNICAÇÃO ELETRÔNICA Busca Tim lido(a) em 18/03/2026 - Referente ao evento de expedição (seq. 118) EXPEDIÇÃO DE BUSCA TIM (11/03/2026 17:42:23)"
         }
       ],
       "partes_adversarias": [

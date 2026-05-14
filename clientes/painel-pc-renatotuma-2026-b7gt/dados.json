@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:06:45-03:00",
+    "gerado_em_humano": "14/05/2026 11:06",
+    "slug_url": "painel-pc-renatotuma-2026-b7gt",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "RENATO JOSE TUMA",
+    "identification": "***.***.***-72",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

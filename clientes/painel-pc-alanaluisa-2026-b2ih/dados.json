@@ -1,0 +1,146 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:05:59-03:00",
+    "gerado_em_humano": "14/05/2026 11:05",
+    "slug_url": "painel-pc-alanaluisa-2026-b2ih",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "ALANA LUISA DE JESUS ROCHA",
+    "identification": "***.***.***-92",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13314038,
+      "process_number": "5558321-58.2025.8.09.0073",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO",
+      "group": "CÍVEL",
+      "status_closure": null,
+      "created_at": "2026-02-23 11:28:39",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de envio de malote digital para a Comarca de Campinas-SP"
+        },
+        {
+          "date": "2026-01-12",
+          "header": "TJGO",
+          "title": "Carta Precatória Expedida"
+        },
+        {
+          "date": "2026-01-12",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para RMS (Mandado nº 6518902 / Referente à Mov. Decisão -> Recebimento -> Denúncia (01/12/2025 17:37:15))"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Anicuns - Central de Mandados (Mandado nº 6518902 / Para: RMS)"
+        },
+        {
+          "date": "2025-12-03",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de Recebimento de e-mail para o Instituto de Identificação"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Comprovante de envio de E-mail para o Instituto de Identificação"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual"
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"374-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Sumário\" para a classe \"295-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Ordinário\""
+        },
+        {
+          "date": "2025-12-02",
+          "header": "TJGO",
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"129-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Inquérito Policial\" para a classe \"374-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Sumário\""
+        },
+        {
+          "date": "2025-12-01",
+          "header": "TJGO",
+          "title": "Decisão -> Recebimento -> Denúncia"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13410937,
+      "process_number": "5532954-35.2025.8.09.0072",
+      "protocol_number": null,
+      "folder": "3776",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "LEI MARIA DA PENHA",
+      "group": "CRIMINAL",
+      "status_closure": "2025-10-09 00:00:00",
+      "created_at": "2025-10-09 00:00:00",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13506134,
+      "process_number": "5166330-40.2026.8.09.0073",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCESSO EM SEGREDO DE JUSTIÇA",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-03-04 14:14:37",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 6,
+    "categorias": {
+      "Peças": 1,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 3,
+      "Diligências": 0,
+      "Outras": 2
+    },
+    "ultima_data": "2026-05-13"
+  }
+}

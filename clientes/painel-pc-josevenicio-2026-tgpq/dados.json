@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:59-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-josevenicio-2026-tgpq",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "JOSE VENICIO MENDES DA SILVA",
+    "identification": "***.***.***-06",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 14187509,
+      "process_number": "5726723-67.2025.8.09.0117",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
+      "type": "AÇÃO DECLARATÓRIA E ANULATÓRIA C/C OBRIGAÇÃO DE FAZER",
+      "group": "CRIMINAL",
+      "status_closure": "2026-04-20 17:33:29",
+      "created_at": "2026-04-13 17:00:46",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Certidão - Agravo Interno autuado (22/04/2026 14:59:47))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (16/04/2026 16:01:50))"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Certidão - Agravo Interno autuado - Apresentar as Contrarrazões ao Agravo Interno"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível)"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Agravo (inominado/ legal) - AGRAVO INTERNO"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Despacho -> Mero Expediente (09/04/2026 11:58:14))"
+        },
+        {
+          "date": "2026-04-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Certidão - Agravo Interno autuado (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento Monocrático -"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jose Venicio Mendes Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (16/04/2026 16:01:50))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (CNJ:972) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 1,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-04-16"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-13T13:57:21-03:00",
-    "gerado_em_humano": "13/05/2026 13:57",
+    "gerado_em": "2026-05-14T10:36:17-03:00",
+    "gerado_em_humano": "14/05/2026 10:36",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - SEM MANIFESTAÇÃO DO EXECUTADO P/ PAGAR A DÍVIDA EM 03 DIAS/REQUERER PARCELAMENTO"
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Citação Efetivada - Citação Efetivada ( WhatsApp) - GABRIEL VASCONCELOS SILVA"
@@ -50,32 +55,27 @@
         {
           "date": "2026-03-12",
           "header": "TJGO",
-          "title": "Citação Expedida - E-carta ao(s) requerido(s)."
+          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         },
         {
           "date": "2026-03-12",
           "header": "TJGO",
-          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+          "title": "Citação Expedida - E-carta ao(s) requerido(s)."
         },
         {
           "date": "2026-03-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
+        },
+        {
+          "date": "2026-03-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Despacho -> Determinação de Citação (11/03/2026 15:45:36))"
         },
         {
           "date": "2026-03-11",
           "header": "TJGO",
           "title": "Despacho -> Determinação de Citação - Citar para pagar."
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIBL (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Henrique De Morais Almeida (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
         }
       ],
       "partes_adversarias": [
@@ -540,15 +540,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 7,
+    "total": 6,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-05-11"
+    "ultima_data": "2026-05-13"
   }
 }

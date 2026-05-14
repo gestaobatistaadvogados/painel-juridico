@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:07:50-03:00",
+    "gerado_em_humano": "14/05/2026 11:07",
+    "slug_url": "painel-pc-simonevidal-2026-zobs",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "SIMONE VIDAL DO PORTO NEVES",
+    "identification": "***.***.***-34",
+    "city": null,
+    "state": null,
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13207875,
+      "process_number": "6036394-45.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "QUEIXA-CRIME",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-18 10:22:26",
+      "process_date": "2025-12-15",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Ouça-se o MP."
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação -"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alice Cesarino De Paula Rodrigues (Referente à Mov. Ato Ordinatório (27/04/2026 13:13:10))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alice Cesarino De Paula Rodrigues - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Vista ao querelante"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Resposta à acusação - Resposta Acusação"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
+          "title": "Intimação Realizada em Cartório/Audiência - Para Adv(s). de Simone Vidal Do Porto Neves - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 14/04/2026 12:43:22)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13208272,
+      "process_number": "6071221-82.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "QUEIXA-CRIME",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-18 10:52:05",
+      "process_date": "2025-12-29",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2026-03-03",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Decisão -> Rejeição -> Queixa -"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Decisão -> Rejeição -> Queixa"
+        },
+        {
+          "date": "2026-02-26",
+          "header": "TJGO",
+          "title": "Audiência de Conciliação - Realizada com Sentença - 24/02/2026 15:40"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 24/02/2026 - 15:40 - MÍDIA - AUDIÊNCIA DE CONCILIAÇÃO"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Intimação Não Efetivada - Intimação Não efetivada via whatsapp - Querelada Simone Vidal Do Porto Neves"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Vista Querelante - Urgente!"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13208464,
+      "process_number": "6009496-92.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "DIFAMAÇÃO E INJÚRIA",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-18 11:05:16",
+      "process_date": "2025-12-05",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria das Varas das Garantias (Referente à Mov. Despacho -> Mero Expediente - 10/04/2026 20:00:56)"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Queixa Crime"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - DOCUMENTOS"
+        },
+        {
+          "date": "2026-04-10",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - OFICIAR DELEGACIA"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para 21ª PJ Goiânia em 25/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (06/03/2026 17:34:56))"
+        },
+        {
+          "date": "2026-03-17",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"128-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Termo Circunstanciado\" para a classe \"129-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Inquérito Policial\""
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer de Mérito (MP) - Remeter DP - instaurar IP"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por DANIEL ROBERTO DIAS DO AMARAL (Referente à Mov. Despacho -> Mero Expediente (06/03/2026 17:34:56))"
+        },
+        {
+          "date": "2026-03-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria das Varas das Garantias (Referente à Mov. - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 1,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-04-22"
+  }
+}

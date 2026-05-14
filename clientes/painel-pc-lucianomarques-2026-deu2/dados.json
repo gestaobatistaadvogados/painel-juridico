@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:06:41-03:00",
+    "gerado_em_humano": "14/05/2026 11:06",
+    "slug_url": "painel-pc-lucianomarques-2026-deu2",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "LUCIANO MARQUES RIBEIRO",
+    "identification": "***.***.***-68",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13412757,
+      "process_number": "5184686-10.2025.8.09.0141",
+      "protocol_number": null,
+      "folder": "3006",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO PENAL",
+      "group": "CRIMINAL",
+      "status_closure": "2025-06-12 00:00:00",
+      "created_at": "2025-06-12 00:00:00",
+      "process_date": "2025-03-11",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Desabilitação de Responsável - Promotor Responsável Desabilitado: Tiago Santana Gonçalves"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Audiência de Instrução - (Agendada para 20/05/2026 13:00)"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dario Fonseca Faustino (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Jose Tuma (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dario Fonseca Faustino (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 4,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 1,
+      "Comunicações": 1,
+      "Acompanhamento": 1,
+      "Diligências": 1,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-13"
+  }
+}

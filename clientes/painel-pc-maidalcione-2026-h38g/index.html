@@ -1,0 +1,1726 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Painel Processual — L Batista Advogados Associados">
+<meta name="robots" content="noindex, nofollow">
+<title>Portal Jurídico — MAID ALCIONE M S FARIA</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+
+<style>
+:root {
+    --cor-primaria: #0A1628;
+    --cor-primaria-clara: #1e3358;
+    --cor-secundaria: #C9A84C;
+    --cor-dourado-claro: #e0c373;
+    --cor-dourado-escuro: #a8893b;
+    --cor-branco: #ffffff;
+    --cor-creme: #f8f5ee;
+    --cor-fundo: #f6f7f9;
+    --cor-superficie: #ffffff;
+    --cor-cinza-medio: #e2e6ec;
+    --cor-borda: #e8e4d8;
+    --cor-texto-primario: #0A1628;
+    --cor-texto-secundario: #6b7280;
+    --cor-texto-suave: #9ca3af;
+    --cor-urgente: #c0392b;
+    --cor-urgente-fundo: #fdecea;
+    --cor-atencao: #d68910;
+    --cor-atencao-fundo: #fef5e7;
+    --cor-favoravel: #1e8449;
+    --cor-favoravel-fundo: #e8f5e9;
+    --cor-info: #2874a6;
+    --cor-info-fundo: #ebf3fb;
+    --fonte-corpo: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --fonte-titulo: 'Cormorant Garamond', Georgia, serif;
+    --fonte-mono: 'SF Mono', 'Consolas', 'Monaco', monospace;
+    --raio-borda: 8px;
+    --raio-borda-grande: 14px;
+    --sombra-suave: 0 2px 8px rgba(10,22,40,0.06);
+    --sombra-media: 0 4px 12px rgba(10,22,40,0.08);
+    --sombra-forte: 0 10px 30px rgba(10,22,40,0.12);
+    --sombra-xl: 0 20px 50px rgba(10,22,40,0.18);
+    --transicao-suave: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+*  { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; }
+body {
+    font-family: var(--fonte-corpo);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto-primario);
+    line-height: 1.6;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-image:
+        radial-gradient(circle at 20% 10%, rgba(201,168,76,0.03) 0%, transparent 40%),
+        radial-gradient(circle at 80% 90%, rgba(10,22,40,0.025) 0%, transparent 40%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* CABECALHO */
+.cabecalho {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    padding: 2rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 4px solid var(--cor-secundaria);
+}
+.cabecalho::after {
+    content: '';
+    position: absolute;
+    top: -50px; right: -50px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(201,168,76,0.15) 0%, transparent 70%);
+    pointer-events: none;
+}
+.cabecalho-conteudo {
+    max-width: 1400px; margin: 0 auto;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 2rem;
+    position: relative; z-index: 1;
+}
+.logo-container { display: flex; align-items: center; justify-content: center; min-height: 88px; }
+.logo-container img {
+    max-height: 72px; max-width: 280px;
+    width: auto; height: auto; display: block;
+    filter: drop-shadow(0 2px 8px rgba(0,0,0,0.15));
+}
+.titulo-cabecalho { text-align: center; }
+.titulo-cabecalho h1 {
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.5rem, 3vw, 2.25rem);
+    line-height: 1.2;
+    margin-bottom: 4px;
+    letter-spacing: 0.02em;
+}
+.titulo-cabecalho .cliente-nome {
+    font-family: var(--fonte-titulo);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    letter-spacing: 0.02em;
+    margin: 4px 0;
+}
+.titulo-cabecalho .subtitulo {
+    font-size: 0.875rem; font-weight: 300;
+    opacity: 0.85; letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+.info-atualizacao { text-align: right; font-size: 0.8rem; font-weight: 300; opacity: 0.85; line-height: 1.5; }
+.info-atualizacao .data { font-weight: 600; color: var(--cor-secundaria); letter-spacing: 0.03em; font-size: 0.95rem; }
+.info-atualizacao .ativos { color: var(--cor-secundaria); font-weight: 600; }
+.badge-tipo {
+    display: inline-block; background: var(--cor-secundaria);
+    color: var(--cor-primaria); font-weight: 700; font-size: 0.65rem;
+    letter-spacing: 0.06em; padding: 2px 8px; border-radius: 3px;
+    margin-left: 6px; vertical-align: middle;
+}
+
+/* CONTAINER + BREADCRUMB */
+.container { max-width: 1400px; margin: 0 auto; padding: 2rem 1.5rem; position: relative; z-index: 1; }
+.breadcrumb {
+    display: none; align-items: center; gap: 0.75rem;
+    margin-bottom: 1.5rem; font-size: 0.875rem;
+    color: var(--cor-texto-secundario);
+}
+.breadcrumb.visivel { display: flex; }
+.breadcrumb button {
+    color: var(--cor-primaria); background: none; border: none; cursor: pointer;
+    font-family: inherit; font-size: inherit; padding: 4px 8px; border-radius: 4px;
+    font-weight: 500; transition: var(--transicao-suave);
+}
+.breadcrumb button:hover { background-color: rgba(10,22,40,0.05); color: var(--cor-secundaria); }
+.breadcrumb .separador { color: var(--cor-texto-suave); }
+.breadcrumb .atual { color: var(--cor-texto-primario); font-weight: 600; }
+
+/* PAINEL DE PRODUTIVIDADE (90 dias) */
+.painel-produtividade {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    border-radius: var(--raio-borda-grande);
+    padding: 2rem 1.75rem;
+    margin-bottom: 2.5rem;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--cor-dourado-escuro);
+}
+.painel-produtividade::before {
+    content: ''; position: absolute;
+    top: 0; left: 0; right: 0; height: 4px;
+    background: linear-gradient(90deg, transparent 0%, var(--cor-secundaria) 50%, transparent 100%);
+}
+.painel-produtividade::after {
+    content: ''; position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(201,168,76,0.18) 0%, transparent 70%);
+    pointer-events: none;
+}
+.produtividade-rotulo {
+    text-align: center;
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cor-dourado-claro);
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+.painel-produtividade h2 {
+    text-align: center;
+    font-family: var(--fonte-titulo);
+    font-weight: 500;
+    font-size: clamp(1.4rem, 2.4vw, 1.85rem);
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.01em;
+}
+.produtividade-numero-grande { text-align: center; margin-bottom: 1.75rem; position: relative; z-index: 1; }
+.produtividade-numero-grande .valor {
+    font-family: var(--fonte-corpo);
+    font-size: clamp(3.2rem, 7vw, 4.5rem);
+    font-weight: 200;
+    color: var(--cor-secundaria);
+    line-height: 1;
+    display: block;
+}
+.produtividade-numero-grande .legenda {
+    font-size: 0.875rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    color: var(--cor-dourado-claro);
+}
+.produtividade-categorias {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    position: relative; z-index: 1;
+}
+@media (max-width: 720px) {
+    .produtividade-categorias { grid-template-columns: repeat(2, 1fr); }
+}
+.produtividade-categoria {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: var(--raio-borda);
+    padding: 0.85rem 0.5rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.produtividade-categoria:hover { background: rgba(255,255,255,0.14); transform: translateY(-2px); }
+.produtividade-categoria .num {
+    font-size: 1.625rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    line-height: 1.1;
+}
+.produtividade-categoria .lbl {
+    font-size: 0.65rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    opacity: 0.85;
+    margin-top: 4px;
+}
+.produtividade-rodape {
+    border-top: 1px solid rgba(255,255,255,0.12);
+    padding-top: 0.85rem;
+    text-align: center;
+    font-size: 0.82rem;
+    opacity: 0.85;
+    position: relative; z-index: 1;
+}
+.produtividade-rodape strong { color: var(--cor-secundaria); font-weight: 600; }
+
+/* SECAO INTRO E ORNAMENTO */
+.secao-intro { text-align: center; margin-bottom: 2rem; padding: 1rem 0.5rem 0.5rem; }
+.secao-intro h2 {
+    font-family: var(--fonte-titulo);
+    font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+    font-weight: 500;
+    color: var(--cor-primaria);
+    letter-spacing: 0.01em;
+    margin-bottom: 0.5rem;
+}
+.secao-intro p { color: var(--cor-texto-secundario); max-width: 720px; margin: 0 auto; font-size: 0.95rem; }
+.ornamento-titulo {
+    display: block;
+    width: 70px;
+    height: 2px;
+    background: var(--cor-secundaria);
+    margin: 1rem auto;
+    position: relative;
+}
+.ornamento-titulo::before, .ornamento-titulo::after {
+    content: ''; position: absolute; top: 50%;
+    width: 6px; height: 6px;
+    background: var(--cor-secundaria);
+    border-radius: 50%; transform: translateY(-50%);
+}
+.ornamento-titulo::before { left: -16px; }
+.ornamento-titulo::after { right: -16px; }
+
+/* GRADE DE AREAS (cards) */
+.grade-areas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+.card-area {
+    background: var(--cor-superficie);
+    border-radius: var(--raio-borda-grande);
+    padding: 2rem 1.5rem 1.5rem;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transicao-suave);
+    position: relative;
+    box-shadow: var(--sombra-suave);
+    border: 1px solid var(--cor-borda);
+    overflow: hidden;
+}
+.card-area::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--cor-secundaria) 0%, var(--cor-dourado-claro) 100%);
+}
+.card-area:hover { transform: translateY(-4px); box-shadow: var(--sombra-forte); }
+.card-area:focus { outline: 2px solid var(--cor-secundaria); outline-offset: 4px; }
+.area-icone-circ {
+    display: flex; align-items: center; justify-content: center;
+    width: 72px; height: 72px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    background: var(--cor-creme);
+    transition: var(--transicao-suave);
+}
+.area-icone-circ svg {
+    width: 36px; height: 36px;
+    stroke: var(--cor-primaria);
+    fill: none; stroke-width: 1.6;
+    stroke-linecap: round; stroke-linejoin: round;
+    transition: stroke 0.25s ease;
+}
+.card-area:hover .area-icone-circ { background: var(--cor-primaria); }
+.card-area:hover .area-icone-circ svg { stroke: var(--cor-secundaria); }
+.card-area h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    margin-bottom: 0.75rem;
+    line-height: 1.2;
+}
+.area-contador {
+    display: inline-block;
+    background: var(--cor-primaria);
+    color: var(--cor-secundaria);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 4px 14px;
+    border-radius: 999px;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+}
+.area-tags {
+    display: flex; flex-wrap: wrap; justify-content: center;
+    gap: 0.4rem; margin: 0.75rem 0; min-height: 24px;
+}
+.area-tag {
+    font-size: 0.7rem; font-weight: 600;
+    padding: 3px 10px; border-radius: 4px;
+    border: 1px solid var(--cor-borda);
+}
+.area-tag.urgente { background: var(--cor-urgente-fundo); color: var(--cor-urgente); border-color: rgba(192,57,43,0.2); }
+.area-tag.atencao { background: var(--cor-atencao-fundo); color: var(--cor-atencao); border-color: rgba(214,137,16,0.2); }
+.area-tag.ok { background: var(--cor-favoravel-fundo); color: var(--cor-favoravel); border-color: rgba(30,132,73,0.2); }
+.area-resumo {
+    font-size: 0.78rem;
+    color: var(--cor-texto-secundario);
+    margin: 0.85rem 0 0.5rem;
+}
+.area-explorar {
+    font-size: 0.74rem; font-weight: 600;
+    color: var(--cor-texto-secundario);
+    margin-top: 0.5rem;
+    letter-spacing: 0.05em; text-transform: uppercase;
+    transition: color 0.25s ease;
+}
+.card-area:hover .area-explorar { color: var(--cor-dourado-escuro); }
+
+/* AREA-DETALHE */
+.area-detalhe { display: none; animation: fadeIn 0.3s ease; }
+.area-detalhe.ativa { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+.area-cabecalho {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+    border-radius: var(--raio-borda-grande);
+    padding: 1.5rem 2rem;
+    margin-bottom: 2rem;
+    position: relative; overflow: hidden;
+    border-bottom: 3px solid var(--cor-secundaria);
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 1.5rem;
+}
+.area-cabecalho::after {
+    content: ''; position: absolute;
+    top: -40px; right: -40px;
+    width: 180px; height: 180px;
+    background: radial-gradient(circle, rgba(201,168,76,0.15) 0%, transparent 70%);
+    pointer-events: none;
+}
+.area-cabecalho .icone-grande {
+    display: flex; align-items: center; justify-content: center;
+    width: 72px; height: 72px;
+    border-radius: 50%;
+    background: var(--cor-secundaria);
+    flex-shrink: 0;
+}
+.area-cabecalho .icone-grande svg {
+    width: 38px; height: 38px;
+    stroke: var(--cor-primaria);
+    fill: none; stroke-width: 1.7;
+    stroke-linecap: round; stroke-linejoin: round;
+}
+.area-cabecalho h2 {
+    font-family: var(--fonte-titulo);
+    font-size: clamp(1.7rem, 2.6vw, 2.1rem);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    position: relative; z-index: 1;
+}
+.area-cabecalho .total-area { font-size: 0.85rem; opacity: 0.85; margin-top: 4px; position: relative; z-index: 1; }
+.area-cabecalho .total-area strong { color: var(--cor-secundaria); font-weight: 700; }
+.btn-voltar {
+    background: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    border: none;
+    padding: 8px 18px;
+    border-radius: var(--raio-borda);
+    font-family: inherit; font-size: 0.85rem; font-weight: 600;
+    cursor: pointer; transition: var(--transicao-suave);
+    position: relative; z-index: 1;
+}
+.btn-voltar:hover { background: var(--cor-dourado-claro); }
+
+/* SECAO TITULO (interno da area) */
+.secao-titulo { margin: 1.75rem 0 1rem; display: flex; align-items: center; gap: 1rem; }
+.secao-titulo h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--cor-primaria);
+    position: relative;
+    padding-left: 16px;
+}
+.secao-titulo h3::before {
+    content: ''; position: absolute; left: 0; top: 50%;
+    width: 4px; height: 24px;
+    background: var(--cor-secundaria);
+    transform: translateY(-50%);
+    border-radius: 2px;
+}
+
+/* GRADE KPIs */
+.grade-kpis {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+.card-kpi {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-top: 4px solid var(--cor-secundaria);
+    border-radius: var(--raio-borda);
+    padding: 1.25rem 1rem;
+    text-align: center;
+    transition: var(--transicao-suave);
+}
+.card-kpi:hover { box-shadow: var(--sombra-media); transform: translateY(-2px); }
+.card-kpi-rotulo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 0.4rem;
+}
+.card-kpi-numero {
+    font-family: var(--fonte-titulo);
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--cor-primaria);
+    line-height: 1.1;
+    margin-bottom: 0.25rem;
+}
+.card-kpi-detalhe { font-size: 0.78rem; color: var(--cor-texto-suave); }
+.card-kpi.ativos { border-top-color: var(--cor-info); }
+.card-kpi.ativos .card-kpi-numero { color: var(--cor-info); }
+.card-kpi.urgente { border-top-color: var(--cor-urgente); }
+.card-kpi.urgente .card-kpi-numero { color: var(--cor-urgente); }
+.card-kpi.favoravel { border-top-color: var(--cor-favoravel); }
+.card-kpi.favoravel .card-kpi-numero { color: var(--cor-favoravel); }
+
+/* ALERTAS E ACOES NECESSARIAS */
+.alertas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.coluna-alerta {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-top: 3px solid var(--cor-categoria, var(--cor-cinza-medio));
+    border-radius: var(--raio-borda);
+    padding: 1rem;
+}
+.coluna-alerta-cabecalho {
+    display: flex; align-items: center; gap: 0.6rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--cor-borda);
+}
+.coluna-alerta-cabecalho .indicador-emoji { font-size: 1.1rem; }
+.coluna-alerta-cabecalho h4 {
+    font-size: 0.78rem; font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--cor-categoria, var(--cor-texto-secundario));
+    flex: 1;
+}
+.coluna-alerta-cabecalho .contador {
+    background: var(--cor-categoria-fundo, rgba(0,0,0,0.05));
+    color: var(--cor-categoria, var(--cor-texto-secundario));
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 2px 9px;
+    border-radius: 4px;
+}
+.coluna-alerta.urgente   { --cor-categoria: var(--cor-urgente);   --cor-categoria-fundo: var(--cor-urgente-fundo); }
+.coluna-alerta.atencao   { --cor-categoria: var(--cor-atencao);   --cor-categoria-fundo: var(--cor-atencao-fundo); }
+.coluna-alerta.favoravel { --cor-categoria: var(--cor-favoravel); --cor-categoria-fundo: var(--cor-favoravel-fundo); }
+.card-alerta {
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--cor-borda);
+    cursor: pointer;
+    transition: background 0.18s;
+}
+.card-alerta:last-child { border-bottom: none; }
+.card-alerta:hover { background: var(--cor-creme); }
+.card-alerta-numero {
+    font-family: var(--fonte-mono);
+    font-size: 0.78rem;
+    color: var(--cor-primaria);
+    font-weight: 600;
+    word-break: break-all;
+}
+.card-alerta-descricao {
+    font-size: 0.82rem;
+    color: var(--cor-categoria, var(--cor-texto-primario));
+    margin-top: 2px;
+}
+.card-alerta-mais {
+    color: var(--cor-texto-suave);
+    font-size: 0.8rem;
+    text-align: center;
+    margin-top: 0.6rem;
+    font-style: italic;
+}
+.card-alerta-vazio {
+    color: var(--cor-texto-suave);
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 0.75rem 0;
+    font-style: italic;
+}
+
+/* GRADE DE GRAFICOS (2x2) */
+.grade-graficos {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+@media (max-width: 880px) { .grade-graficos { grid-template-columns: 1fr; } }
+.card-grafico {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    padding: 1rem;
+}
+.card-grafico-titulo {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--cor-primaria);
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--cor-borda);
+}
+.card-grafico-canvas-container {
+    position: relative;
+    height: 220px;
+}
+.card-grafico-vazio {
+    text-align: center;
+    color: var(--cor-texto-suave);
+    font-style: italic;
+    font-size: 0.85rem;
+    padding: 2rem 0;
+}
+
+/* TIMELINE */
+.timeline-wrap {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.timeline {
+    position: relative;
+    padding-left: 24px;
+    max-height: 480px;
+    overflow-y: auto;
+}
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 7px; top: 6px; bottom: 6px;
+    width: 2px;
+    background: var(--cor-borda);
+}
+.timeline-item {
+    position: relative;
+    padding-bottom: 1rem;
+}
+.timeline-item:last-child { padding-bottom: 0; }
+.timeline-ponto {
+    position: absolute;
+    left: -22px; top: 6px;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--cor-primaria);
+    border: 2px solid var(--cor-superficie);
+    box-shadow: 0 0 0 1px var(--cor-borda);
+    transition: background 0.2s;
+}
+.timeline-item:hover .timeline-ponto { background: var(--cor-secundaria); }
+.timeline-data {
+    font-size: 0.74rem;
+    font-weight: 600;
+    color: var(--cor-secundaria);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 2px;
+}
+.timeline-cnj {
+    font-family: var(--fonte-mono);
+    font-size: 0.74rem;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 2px;
+}
+.timeline-titulo {
+    font-size: 0.85rem;
+    color: var(--cor-texto-primario);
+    line-height: 1.4;
+}
+.timeline-cabecalho-mov { font-weight: 600; }
+.timeline-vazia { text-align: center; color: var(--cor-texto-suave); font-style: italic; padding: 1rem; }
+
+/* TABELA */
+.tabela-container {
+    background: var(--cor-superficie);
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+.tabela-controles {
+    padding: 1rem;
+    background: var(--cor-fundo);
+    border-bottom: 1px solid var(--cor-borda);
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 1rem;
+    align-items: center;
+}
+@media (max-width: 720px) { .tabela-controles { grid-template-columns: 1fr; } }
+.pesquisa-input {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid var(--cor-borda);
+    border-radius: var(--raio-borda);
+    font-family: inherit;
+    font-size: 0.9rem;
+    background: var(--cor-superficie);
+    transition: var(--transicao-suave);
+}
+.pesquisa-input:focus { border-color: var(--cor-primaria); box-shadow: 0 0 0 3px rgba(10,22,40,0.08); outline: none; }
+.filtros { display: flex; gap: 6px; flex-wrap: wrap; justify-content: flex-end; }
+.filtro-btn {
+    padding: 7px 14px;
+    border: 1px solid var(--cor-borda);
+    background: var(--cor-superficie);
+    border-radius: 999px;
+    font-family: inherit;
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--cor-texto-secundario);
+    cursor: pointer;
+    transition: var(--transicao-suave);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.filtro-btn:hover { border-color: var(--cor-secundaria); color: var(--cor-primaria); }
+.filtro-btn.ativo { background: var(--cor-primaria); border-color: var(--cor-primaria); color: var(--cor-secundaria); }
+
+.tabela-wrap { overflow-x: auto; }
+table.tabela-relacao {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+}
+table.tabela-relacao thead {
+    background: linear-gradient(135deg, var(--cor-primaria) 0%, var(--cor-primaria-clara) 100%);
+    color: var(--cor-branco);
+}
+table.tabela-relacao thead th {
+    padding: 12px 1rem;
+    text-align: left;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--cor-secundaria);
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.2s;
+    white-space: nowrap;
+}
+table.tabela-relacao thead th:hover { background: rgba(255,255,255,0.08); }
+table.tabela-relacao thead th .seta {
+    color: rgba(255,255,255,0.4);
+    margin-left: 4px;
+    font-size: 0.85em;
+}
+table.tabela-relacao thead th.ord-asc .seta,
+table.tabela-relacao thead th.ord-desc .seta { color: var(--cor-secundaria); }
+table.tabela-relacao tbody tr {
+    border-bottom: 1px solid var(--cor-borda);
+    border-left: 3px solid transparent;
+    cursor: pointer;
+    transition: background 0.2s, border-left-color 0.2s;
+}
+table.tabela-relacao tbody tr:hover {
+    background: var(--cor-creme);
+    border-left-color: var(--cor-secundaria);
+}
+table.tabela-relacao tbody td { padding: 12px 1rem; vertical-align: top; }
+table.tabela-relacao tbody tr.escondido { display: none; }
+.cnj-cell { font-family: var(--fonte-mono); font-size: 0.78rem; color: var(--cor-primaria); font-weight: 500; word-break: break-all; min-width: 170px; }
+.partes-cell { font-size: 0.83rem; min-width: 220px; }
+.partes-cell .cliente-side { font-weight: 600; color: var(--cor-primaria); }
+.partes-cell .vs { color: var(--cor-texto-suave); margin: 0 4px; font-style: italic; font-size: 0.78rem; }
+.partes-cell .adv-side { color: var(--cor-texto-primario); }
+.partes-cell .mais-partes { color: var(--cor-texto-secundario); font-size: 0.78rem; font-style: italic; }
+.tribunal-cell { font-family: var(--fonte-mono); font-weight: 600; color: var(--cor-primaria); font-size: 0.82rem; min-width: 80px; }
+.acao-cell { color: var(--cor-texto-primario); min-width: 200px; }
+.responsavel-cell { color: var(--cor-texto-secundario); white-space: nowrap; }
+.ultimo-cell { font-size: 0.82rem; min-width: 220px; }
+.ultimo-cell .data { color: var(--cor-secundaria); font-weight: 600; font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.ultimo-cell .desc { color: var(--cor-texto-primario); margin-top: 2px; line-height: 1.35; }
+.ultimo-cell .vazio { color: var(--cor-texto-suave); font-style: italic; }
+
+/* BADGES POR FASE */
+.badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+.badge-fase-conhecimento { background: var(--cor-info-fundo); color: var(--cor-info); }
+.badge-fase-execucao     { background: var(--cor-atencao-fundo); color: var(--cor-atencao); }
+.badge-fase-recursal     { background: #f3e6f6; color: #884ea0; }
+.badge-fase-arquivados   { background: var(--cor-cinza-medio); color: var(--cor-texto-secundario); }
+
+.relacao-rodape {
+    padding: 0.85rem 1rem;
+    border-top: 1px solid var(--cor-borda);
+    background: var(--cor-fundo);
+    font-size: 0.8rem;
+    color: var(--cor-texto-secundario);
+    display: flex; justify-content: space-between; align-items: center;
+    flex-wrap: wrap; gap: 0.75rem;
+}
+
+/* MODAL DE PROCESSO */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(10,22,40,0.65);
+    backdrop-filter: blur(4px);
+    z-index: 1000;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 5vh 1rem;
+    overflow-y: auto;
+}
+.modal-overlay.aberto { display: flex; }
+.modal-conteudo {
+    background: var(--cor-superficie);
+    border-radius: var(--raio-borda-grande);
+    max-width: 760px;
+    width: 100%;
+    box-shadow: var(--sombra-xl);
+    border-top: 4px solid var(--cor-secundaria);
+    position: relative;
+    animation: slideUp 0.3s ease;
+}
+@keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.modal-cabecalho {
+    padding: 1.5rem 2rem 1rem;
+    border-bottom: 1px solid var(--cor-borda);
+    position: relative;
+}
+.modal-cabecalho h3 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.5rem;
+    color: var(--cor-primaria);
+    font-weight: 600;
+}
+.modal-cabecalho .num-cnj-modal {
+    font-family: var(--fonte-mono);
+    font-size: 0.8rem;
+    color: var(--cor-texto-secundario);
+    margin-top: 0.25rem;
+    word-break: break-all;
+}
+.modal-fechar {
+    position: absolute;
+    top: 1.25rem; right: 1.25rem;
+    background: var(--cor-fundo);
+    border: 1px solid var(--cor-borda);
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 1rem;
+    color: var(--cor-texto-secundario);
+    display: flex; align-items: center; justify-content: center;
+    transition: var(--transicao-suave);
+}
+.modal-fechar:hover { background: var(--cor-primaria); color: var(--cor-secundaria); border-color: var(--cor-primaria); }
+.modal-corpo { padding: 1rem 2rem 2rem; }
+.modal-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem 1.5rem;
+    margin-bottom: 1.25rem;
+}
+@media (max-width: 600px) { .modal-grid { grid-template-columns: 1fr; } }
+.modal-secao h4 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    color: var(--cor-texto-secundario);
+    margin-bottom: 0.25rem;
+    font-weight: 700;
+}
+.modal-secao p {
+    font-size: 0.95rem;
+    color: var(--cor-texto-primario);
+    word-break: break-word;
+}
+.modal-secao-larga { grid-column: 1 / -1; }
+.modal-andamentos {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--cor-borda);
+}
+.modal-andamentos h4 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.1rem;
+    color: var(--cor-primaria);
+    margin-bottom: 0.85rem;
+}
+.modal-andamento-item {
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--cor-borda);
+    font-size: 0.88rem;
+}
+.modal-andamento-item:last-child { border-bottom: none; }
+.modal-andamento-data {
+    font-size: 0.74rem;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+.modal-andamento-texto { color: var(--cor-texto-primario); margin-top: 2px; line-height: 1.4; }
+.modal-andamentos-vazio { color: var(--cor-texto-suave); font-style: italic; font-size: 0.88rem; }
+
+/* RODAPE */
+.rodape {
+    background: var(--cor-primaria);
+    color: rgba(255,255,255,0.85);
+    padding: 2.5rem 1.5rem 1.5rem;
+    margin-top: 3rem;
+    border-top: 4px solid var(--cor-secundaria);
+}
+.rodape-conteudo {
+    max-width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr;
+    gap: 2rem;
+}
+@media (max-width: 880px) { .rodape-conteudo { grid-template-columns: 1fr; } }
+.rodape h4 {
+    font-family: var(--fonte-titulo);
+    font-size: 1.1rem;
+    color: var(--cor-secundaria);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+.rodape-coluna p, .rodape-coluna a {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: rgba(255,255,255,0.85);
+    text-decoration: none;
+}
+.rodape-coluna a:hover { color: var(--cor-secundaria); text-decoration: underline; }
+.rodape-final {
+    max-width: 1400px;
+    margin: 1.5rem auto 0;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255,255,255,0.12);
+    text-align: center;
+    font-size: 0.78rem;
+    opacity: 0.7;
+}
+
+/* RESPONSIVO */
+@media (max-width: 880px) {
+    .cabecalho-conteudo { grid-template-columns: 1fr; text-align: center; }
+    .info-atualizacao { text-align: center; }
+    .area-cabecalho { grid-template-columns: 1fr; text-align: center; }
+}
+@media (max-width: 600px) {
+    .card-kpi-numero { font-size: 1.7rem; }
+    table.tabela-relacao thead th, table.tabela-relacao tbody td { padding: 8px 10px; }
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: var(--cor-fundo); }
+::-webkit-scrollbar-thumb { background: var(--cor-cinza-medio); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--cor-texto-suave); }
+</style>
+</head>
+<body>
+
+
+
+
+<header class="cabecalho">
+    <div class="cabecalho-conteudo">
+        <div class="logo-container">
+            <img src="logo.png" alt="Logo L Batista Advogados Associados">
+        </div>
+        <div class="titulo-cabecalho">
+            <h1>Portal Jurídico</h1>
+            <div class="cliente-nome">MAID ALCIONE M S FARIA</div>
+            <div class="subtitulo">
+                PF —
+                ***.***.***-04
+                
+            </div>
+        </div>
+        <div class="info-atualizacao">
+            <div>Última atualização</div>
+            <div class="data">14/05/2026 11:05</div>
+            <div><span class="ativos">0</span> processos ativos</div>
+        </div>
+    </div>
+</header>
+
+<main class="container">
+
+    <nav class="breadcrumb" id="breadcrumb" aria-label="Navegação">
+        <button onclick="voltarAreas()" type="button">Início</button>
+        <span class="separador">›</span>
+        <span class="atual" id="breadcrumb-area">Área</span>
+    </nav>
+
+    <section class="tela-areas" id="telaAreas">
+
+        
+        <div class="painel-produtividade">
+            <div class="produtividade-rotulo">📊 Atividade do escritório</div>
+            <h2>Trabalho realizado nos últimos 90 dias</h2>
+
+            <div class="produtividade-numero-grande">
+                <span class="valor">0</span>
+                <span class="legenda">Tarefas Realizadas</span>
+            </div>
+
+            <div class="produtividade-categorias">
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">0</div>
+                    <div class="lbl">Peças</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">0</div>
+                    <div class="lbl">Audiências</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">0</div>
+                    <div class="lbl">Comunicações</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">0</div>
+                    <div class="lbl">Acompanhamento</div>
+                </div>
+                
+                
+                
+                <div class="produtividade-categoria">
+                    <div class="num">0</div>
+                    <div class="lbl">Diligências</div>
+                </div>
+                
+                
+                
+                
+            </div>
+
+            
+        </div>
+
+        
+        <div class="secao-intro">
+            <h2>Acompanhamento Processual</h2>
+            <span class="ornamento-titulo"></span>
+            <p>Selecione abaixo a área do direito que deseja consultar para
+               visualizar o detalhamento dos processos, prazos, audiências
+               e movimentações pertinentes.</p>
+        </div>
+
+        
+        <div class="grade-areas">
+            
+            <article class="card-area"
+                     data-area-id="civel"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('civel')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('civel');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+                <h3>Cível</h3>
+                <div class="area-contador">
+                    1 processo
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    0 ativos
+                    e 1 arquivado.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+        </div>
+    </section>
+
+    
+    
+    <section class="area-detalhe" id="area-civel" data-area="civel">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+            <div>
+                <h2>Cível</h2>
+                <div class="total-area">
+                    Total da área: <strong>1</strong>
+                    processo
+                    · 0 ativos
+                    · 1 arquivado
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">1</span>
+                </div>
+                
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13412802')">
+                    <div class="card-alerta-numero">5397684-98.2025.8.09.0117</div>
+                    <div class="card-alerta-descricao">Ação Protocolada/iniciada</div>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-civel"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline">
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Facebook Servicos Online Do Brasil Ltda. (Referente à Mov. Decisão -&gt; Não Acolhimento de Embargos de Declaração (09/04/2026 10:04:00))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Decisão -&gt; Não Acolhimento de Embargos de Declaração (09/04/2026 10:04:00))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de FSOBL (Referente à Mov. Decisão -&gt; Não Acolhimento de Embargos de Declaração (CNJ:15164) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Decisão -&gt; Não Acolhimento de Embargos de Declaração (CNJ:15164) - )
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Decisão -&gt; Não Acolhimento de Embargos de Declaração -
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">09/04/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Decisão -&gt; Não Acolhimento de Embargos de Declaração
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">26/01/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Decorrido Prazo - para Maid Alcione Macedo E Silva Faria em 29/10/2025 23:59:59 (Referente à Mov. Despacho -&gt; Mero Expediente (14/10/2025 18:58:51))
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">26/01/2026</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Autos Conclusos - P/ DECISÃO
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">15/10/2025</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria - Polo Ativo (Referente à Mov. Despacho -&gt; Mero Expediente - 14/10/2025 18:58:51)
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-ponto"></div>
+                    <div class="timeline-data">15/10/2025</div>
+                    <div class="timeline-cnj">5397684-98.2025.8.09.0117</div>
+                    <div class="timeline-titulo">
+                        <span class="timeline-cabecalho-mov">Tjgo</span>
+                         — 
+                        Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Despacho -&gt; Mero Expediente (14/10/2025 18:58:51))
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="civel"
+                       oninput="aplicarFiltros('civel')">
+                <div class="filtros" data-area="civel">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('civel', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('civel', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('civel', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('civel', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('civel', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="civel">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('civel', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-civel">
+                        
+                        
+                        
+                        <tr data-id="13412802"
+                            data-fase-grupo="conhecimento"
+                            data-busca="5397684-98.2025.8.09.0117 tutela antecipada antecedente maid alcione m s faria parte sob sigilo legal"
+                            onclick="abrirModalProcesso('13412802')">
+                            <td class="cnj-cell">5397684-98.2025.8.09.0117</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MAID ALCIONE M S FARIA</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    Parte sob sigilo legal
+                                    
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJGO</td>
+                            <td class="acao-cell">Tutela Antecipada Antecedente</td>
+                            <td><span class="badge badge-fase-conhecimento">Ação Protocolada/iniciada</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <div class="data">09/04/2026</div>
+                                <div class="desc">
+                                    <strong>Tjgo</strong>
+                                     — 
+                                    Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Facebook Servicos Online Do Brasil Ltda. (Referente à Mov. Decisão -&gt; Não Acolhimento de Embargos de Declaração (09/04/2026 10:04:00))
+                                </div>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-civel">Mostrando 1 de 1 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
+
+</main>
+
+
+<div id="modal-processo" class="modal-overlay" onclick="if(event.target===this)fecharModal()">
+    <div class="modal-conteudo">
+        <div class="modal-cabecalho">
+            <h3 id="modal-titulo">—</h3>
+            <div class="num-cnj-modal" id="modal-cnj">—</div>
+            <button class="modal-fechar" onclick="fecharModal()" aria-label="Fechar">×</button>
+        </div>
+        <div class="modal-corpo">
+            <div class="modal-grid" id="modal-grid"><!-- preenchido via JS --></div>
+            <div class="modal-andamentos">
+                <h4>Últimos andamentos</h4>
+                <div id="modal-andamentos-lista"><!-- preenchido via JS --></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="rodape">
+    <div class="rodape-conteudo">
+        <div class="rodape-coluna">
+            <h4>L Batista Advogados Associados</h4>
+            <p>Rua 124, nº 328, Qd. F-28, Lt. 44, Setor Sul, Goiânia/GO<br>CEP 74.093-060</p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Contato</h4>
+            <p>
+                (62) 3030-0003<br>(62) 9 9971-7000<br>
+                <a href="mailto:leonardo@leobatistaadvogados.com.br">leonardo@leobatistaadvogados.com.br</a>
+            </p>
+        </div>
+        <div class="rodape-coluna">
+            <h4>Web</h4>
+            <p><a href="https://leonardobatistadvogados.com.br" target="_blank" rel="noopener">leonardobatistadvogados.com.br</a></p>
+        </div>
+    </div>
+    <div class="rodape-final">
+        Painel gerado em 14/05/2026 11:05 — Documento de uso restrito do cliente.
+    </div>
+</footer>
+
+
+<script type="application/json" id="dados-processos-modal">{"13412802": {"cliente_name": "MAID ALCIONE M S FARIA", "created_at": "2025-09-12 00:00:00", "fase_grupo": "conhecimento", "folder": "3695", "movements_top5": [{"date": "2026-04-09", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Facebook Servicos Online Do Brasil Ltda. (Referente \u00e0 Mov. Decis\u00e3o -\u003e N\u00e3o Acolhimento de Embargos de Declara\u00e7\u00e3o (09/04/2026 10:04:00))"}, {"date": "2026-04-09", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente \u00e0 Mov. Decis\u00e3o -\u003e N\u00e3o Acolhimento de Embargos de Declara\u00e7\u00e3o (09/04/2026 10:04:00))"}, {"date": "2026-04-09", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de FSOBL (Referente \u00e0 Mov. Decis\u00e3o -\u003e N\u00e3o Acolhimento de Embargos de Declara\u00e7\u00e3o (CNJ:15164) - )"}, {"date": "2026-04-09", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente \u00e0 Mov. Decis\u00e3o -\u003e N\u00e3o Acolhimento de Embargos de Declara\u00e7\u00e3o (CNJ:15164) - )"}, {"date": "2026-04-09", "header": "TJGO", "title": "Decis\u00e3o -\u003e N\u00e3o Acolhimento de Embargos de Declara\u00e7\u00e3o -"}], "partes_adversarias": ["Parte sob sigilo legal"], "process_date": "2025-05-22", "process_number": "5397684-98.2025.8.09.0117", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-09-12 00:00:00", "tribunal": "TJGO", "type": "TUTELA ANTECIPADA ANTECEDENTE"}}</script>
+<script type="application/json" id="dados-graficos-areas">{
+"civel": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Tutela Antecipada Antecedente"]}, "tribunal": {"data": [1], "labels": ["TJGO"]}}
+}</script>
+
+<script>
+(function () {
+    'use strict';
+
+    // ============================ NAVEGACAO ============================
+    function entrarArea(slug) {
+        document.getElementById('telaAreas').style.display = 'none';
+        document.querySelectorAll('.area-detalhe').forEach(function (el) { el.classList.remove('ativa'); });
+        var alvo = document.getElementById('area-' + slug);
+        if (!alvo) return;
+        alvo.classList.add('ativa');
+        var titulo = alvo.querySelector('.area-cabecalho h2');
+        var bc = document.getElementById('breadcrumb');
+        if (titulo) document.getElementById('breadcrumb-area').textContent = titulo.textContent;
+        bc.classList.add('visivel');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    function voltarAreas() {
+        document.getElementById('telaAreas').style.display = 'block';
+        document.querySelectorAll('.area-detalhe').forEach(function (el) { el.classList.remove('ativa'); });
+        document.getElementById('breadcrumb').classList.remove('visivel');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    window.entrarArea = entrarArea;
+    window.voltarAreas = voltarAreas;
+    document.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Escape') {
+            var modal = document.getElementById('modal-processo');
+            if (modal && modal.classList.contains('aberto')) {
+                fecharModal();
+            } else if (document.getElementById('breadcrumb').classList.contains('visivel')) {
+                voltarAreas();
+            }
+        }
+    });
+
+    // ============================ FILTROS DA TABELA ============================
+    var filtroFasePorArea = {};
+    function aplicarFiltros(slug) {
+        var tbody = document.getElementById('tbody-' + slug);
+        if (!tbody) return;
+        var input = document.querySelector('.pesquisa-input[data-area="' + slug + '"]');
+        var termo = (input && input.value || '').trim().toLowerCase();
+        var fase = filtroFasePorArea[slug] || '';
+        var visiveis = 0, total = 0;
+        var rows = tbody.querySelectorAll('tr');
+        for (var i = 0; i < rows.length; i++) {
+            var row = rows[i];
+            total++;
+            var fg = row.getAttribute('data-fase-grupo') || '';
+            var busca = row.getAttribute('data-busca') || '';
+            var passaFase = !fase || fg === fase;
+            var passaBusca = !termo || busca.indexOf(termo) !== -1;
+            if (passaFase && passaBusca) {
+                row.classList.remove('escondido');
+                visiveis++;
+            } else {
+                row.classList.add('escondido');
+            }
+        }
+        var rodape = document.getElementById('rodape-' + slug);
+        if (rodape) rodape.textContent = 'Mostrando ' + visiveis + ' de ' + total + ' processos da área';
+    }
+    function filtrarFase(slug, fase, btn) {
+        filtroFasePorArea[slug] = fase;
+        var grupo = btn.parentElement;
+        grupo.querySelectorAll('.filtro-btn').forEach(function (b) { b.classList.remove('ativo'); });
+        btn.classList.add('ativo');
+        aplicarFiltros(slug);
+    }
+    window.aplicarFiltros = aplicarFiltros;
+    window.filtrarFase = filtrarFase;
+
+    // ============================ ORDENACAO ============================
+    var sortPorArea = {};
+    var COLUNA_INDICE = { cnj: 0, partes: 1, tribunal: 2, acao: 3, fase: 4 };
+    function valorParaOrdenacao(row, campo) {
+        var idx = COLUNA_INDICE[campo];
+        if (idx == null) return '';
+        var c = row.cells[idx];
+        return (c ? c.textContent : '').trim().toLowerCase();
+    }
+    function ordenarTabela(slug, campo) {
+        var tabela = document.querySelector('table.tabela-relacao[data-area="' + slug + '"]');
+        if (!tabela) return;
+        var tbody = tabela.querySelector('tbody');
+        if (!tbody) return;
+        var atual = sortPorArea[slug] || { campo: null, dir: 'asc' };
+        var dir = (atual.campo === campo && atual.dir === 'asc') ? 'desc' : 'asc';
+        sortPorArea[slug] = { campo: campo, dir: dir };
+        tabela.querySelectorAll('thead th').forEach(function (th) { th.classList.remove('ord-asc', 'ord-desc'); });
+        var idx = COLUNA_INDICE[campo];
+        if (idx != null) tabela.querySelectorAll('thead th')[idx].classList.add('ord-' + dir);
+        var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+        rows.sort(function (a, b) {
+            var va = valorParaOrdenacao(a, campo);
+            var vb = valorParaOrdenacao(b, campo);
+            if (va < vb) return dir === 'asc' ? -1 : 1;
+            if (va > vb) return dir === 'asc' ? 1 : -1;
+            return 0;
+        });
+        for (var k = 0; k < rows.length; k++) tbody.appendChild(rows[k]);
+    }
+    window.ordenarTabela = ordenarTabela;
+
+    // ============================ MODAL ============================
+    var DADOS_PROCESSOS = {};
+    try {
+        var raw = document.getElementById('dados-processos-modal').textContent;
+        DADOS_PROCESSOS = JSON.parse(raw || '{}');
+    } catch (e) { DADOS_PROCESSOS = {}; }
+
+    function fmtData(s) {
+        if (!s) return '—';
+        var m = String(s).match(/^(\d{4})-(\d{2})-(\d{2})/);
+        if (!m) return String(s);
+        return m[3] + '/' + m[2] + '/' + m[1];
+    }
+    function escapeHtml(s) {
+        if (s == null) return '';
+        return String(s).replace(/[&<>"']/g, function (c) {
+            return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
+    }
+
+    function abrirModalProcesso(id) {
+        if (!id) return;
+        var p = DADOS_PROCESSOS[String(id)];
+        if (!p) return;
+        document.getElementById('modal-titulo').textContent = (p.type || '—');
+        document.getElementById('modal-cnj').textContent = (p.process_number || '—');
+
+        var partes = (p.partes_adversarias || []).map(escapeHtml).join('; ');
+        if (!partes) partes = '<em>Sem partes adversárias cadastradas</em>';
+
+        var statusTexto = p.status_closure ? p.status_closure : 'Em andamento';
+
+        var grid = '' +
+            '<div class="modal-secao"><h4>Tribunal</h4><p>' + escapeHtml(p.tribunal) + '</p></div>' +
+            '<div class="modal-secao"><h4>Tipo de Ação</h4><p>' + escapeHtml(p.type) + '</p></div>' +
+            '<div class="modal-secao"><h4>Fase Atual</h4><p><span class="badge badge-fase-' + escapeHtml(p.fase_grupo) + '">' + escapeHtml(p.stage) + '</span></p></div>' +
+            '<div class="modal-secao"><h4>Status</h4><p>' + escapeHtml(statusTexto) + '</p></div>' +
+            '<div class="modal-secao"><h4>Data de Distribuição</h4><p>' + fmtData(p.process_date) + '</p></div>' +
+            '<div class="modal-secao"><h4>Cadastrado em</h4><p>' + fmtData(p.created_at) + '</p></div>' +
+            '<div class="modal-secao"><h4>Cliente</h4><p>' + escapeHtml(p.cliente_name) + '</p></div>' +
+            '<div class="modal-secao"><h4>Responsável</h4><p>' + escapeHtml(p.responsible) + '</p></div>' +
+            (p.folder ? '<div class="modal-secao modal-secao-larga"><h4>Pasta / Descrição</h4><p>' + escapeHtml(p.folder) + '</p></div>' : '') +
+            '<div class="modal-secao modal-secao-larga"><h4>Partes Adversárias</h4><p>' + partes + '</p></div>';
+        document.getElementById('modal-grid').innerHTML = grid;
+
+        var movs = p.movements_top5 || [];
+        var listaHtml = '';
+        if (movs.length === 0) {
+            listaHtml = '<p class="modal-andamentos-vazio">Nenhum andamento recente registrado.</p>';
+        } else {
+            for (var i = 0; i < movs.length; i++) {
+                var m = movs[i];
+                var head = m.header ? ('<strong>' + escapeHtml(m.header) + '</strong>') : '';
+                var titl = m.title ? escapeHtml(m.title) : '';
+                var sep = (head && titl) ? ' — ' : '';
+                listaHtml += '<div class="modal-andamento-item">' +
+                    '<div class="modal-andamento-data">' + fmtData(m.date) + '</div>' +
+                    '<div class="modal-andamento-texto">' + head + sep + titl + '</div>' +
+                    '</div>';
+            }
+        }
+        document.getElementById('modal-andamentos-lista').innerHTML = listaHtml;
+
+        document.getElementById('modal-processo').classList.add('aberto');
+        document.body.style.overflow = 'hidden';
+    }
+    function fecharModal() {
+        document.getElementById('modal-processo').classList.remove('aberto');
+        document.body.style.overflow = '';
+    }
+    window.abrirModalProcesso = abrirModalProcesso;
+    window.fecharModal = fecharModal;
+
+    // ============================ GRAFICOS (Chart.js) ============================
+    function paletaParaN(n) {
+        var paleta = ['#0A1628', '#C9A84C', '#2874a6', '#8B4513', '#1F6E5C', '#8B6F47', '#5D3A8A', '#9ca3af'];
+        var out = [];
+        for (var i = 0; i < n; i++) out.push(paleta[i % paleta.length]);
+        return out;
+    }
+
+    function criarDoughnut(canvasId, dados, coresFornecidas) {
+        var el = document.getElementById(canvasId);
+        if (!el) return;
+        var cores = coresFornecidas || paletaParaN(dados.labels.length);
+        new Chart(el, {
+            type: 'doughnut',
+            data: {
+                labels: dados.labels,
+                datasets: [{ data: dados.data, backgroundColor: cores, borderColor: '#fff', borderWidth: 2 }],
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'right',
+                        labels: { font: { size: 11, family: 'Inter' }, color: '#0A1628', boxWidth: 12 },
+                    },
+                    tooltip: { titleFont: { family: 'Inter' }, bodyFont: { family: 'Inter' } },
+                },
+                cutout: '60%',
+            },
+        });
+    }
+
+    function criarBarHorizontal(canvasId, dados) {
+        var el = document.getElementById(canvasId);
+        if (!el) return;
+        new Chart(el, {
+            type: 'bar',
+            data: {
+                labels: dados.labels,
+                datasets: [{ data: dados.data, backgroundColor: '#C9A84C', borderColor: '#a8893b', borderWidth: 1 }],
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: { titleFont: { family: 'Inter' }, bodyFont: { family: 'Inter' } },
+                },
+                scales: {
+                    x: { ticks: { font: { family: 'Inter' }, color: '#6b7280' }, grid: { color: '#e8e4d8' } },
+                    y: { ticks: { font: { family: 'Inter', size: 11 }, color: '#0A1628' }, grid: { display: false } },
+                },
+            },
+        });
+    }
+
+    function desenharGraficos() {
+        if (typeof Chart === 'undefined') return;
+        var DADOS = {};
+        try {
+            var raw = document.getElementById('dados-graficos-areas').textContent;
+            DADOS = JSON.parse(raw || '{}');
+        } catch (e) { DADOS = {}; return; }
+        Object.keys(DADOS).forEach(function (slug) {
+            var d = DADOS[slug];
+            if (!d) return;
+            if (d.fase && d.fase.data && d.fase.data.length) {
+                criarDoughnut('grafico-fase-' + slug, d.fase, d.fase.colors);
+            }
+            if (d.tribunal && d.tribunal.data && d.tribunal.data.length) {
+                criarBarHorizontal('grafico-tribunal-' + slug, d.tribunal);
+            }
+            if (d.tipo_acao && d.tipo_acao.data && d.tipo_acao.data.length) {
+                criarBarHorizontal('grafico-tipo-' + slug, d.tipo_acao);
+            }
+            if (d.status && d.status.data && d.status.data.reduce(function(a,b){return a+b;},0) > 0) {
+                criarDoughnut('grafico-status-' + slug, d.status, d.status.colors);
+            }
+        });
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', desenharGraficos);
+    } else {
+        desenharGraficos();
+    }
+
+    // ============================ DEEP-LINK #area-slug ============================
+    var hash = window.location.hash;
+    if (hash && hash.indexOf('#area-') === 0) {
+        var slugDirect = hash.replace('#area-', '');
+        if (document.getElementById('area-' + slugDirect)) entrarArea(slugDirect);
+    }
+})();
+</script>
+
+</body>
+</html>

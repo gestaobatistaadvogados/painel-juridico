@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-13T13:54:27-03:00",
-    "gerado_em_humano": "13/05/2026 13:54",
+    "gerado_em": "2026-05-14T10:33:20-03:00",
+    "gerado_em_humano": "14/05/2026 10:33",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-11",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de petição"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJMT",
           "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 16/04/2026"
@@ -50,12 +55,12 @@
         {
           "date": "2026-01-28",
           "header": "TJMT",
-          "title": "Expedida/certificada\nExpedida/certificada a intimação eletrônica"
+          "title": "Expedição de documento\nExpedição de Outros documentos"
         },
         {
           "date": "2026-01-28",
           "header": "TJMT",
-          "title": "Expedição de documento\nExpedição de Outros documentos"
+          "title": "Expedida/certificada\nExpedida/certificada a intimação eletrônica"
         },
         {
           "date": "2025-10-10",
@@ -71,11 +76,6 @@
           "date": "2025-09-01",
           "header": "TJMT",
           "title": "Decurso de Prazo\nDecorrido prazo de GEOVANA VITORINA RICARTE em 29/08/2025 23:59"
-        },
-        {
-          "date": "2025-09-01",
-          "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de THIAGO CONCEICAO SILVA em 29/08/2025 23:59"
         }
       ],
       "partes_adversarias": [],

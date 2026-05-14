@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:07:32-03:00",
+    "gerado_em_humano": "14/05/2026 11:07",
+    "slug_url": "painel-pc-anapaulaferreira-2026-k118",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "ANA PAULA FERREIRA",
+    "identification": "***.***.***-30",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 12923874,
+      "process_number": "5158828-53.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "FALSIFICAÇÃO, CORRUPÇÃO OU ADULTERAÇÃO DE PRODUTOS TERAPÊUTICOS",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-02 11:44:43",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Vista a defesa para alegações finais"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geovanny Magalhães Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Audiência de Instrução e Julgamento (05/05/2026 11:33:00))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Memoriais - Memoriais"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 28/04/2026 - 13:00 - Audiência de instrução e julgamento"
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13371542,
+      "process_number": "5158369-17.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RESTITUIÇÃO DE COISAS APREENDIDAS",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-25 11:23:54",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão (arquivamento com ou sem custas)"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - certidão"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geovanny Magalhães Ferreira (Referente à Mov. Decisão -> Outras Decisões (04/03/2026 22:03:36))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Ferreira (Referente à Mov. Decisão -> Outras Decisões (04/03/2026 22:03:36))"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. Decisão -> Outras Decisões - 04/03/2026 22:03:36)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Ativo (Referente à Mov. Decisão -> Outras Decisões - 04/03/2026 22:03:36)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Ativo (Referente à Mov. Decisão -> Outras Decisões - 04/03/2026 22:03:36)"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Decisão -> Outras Decisões (04/03/2026 22:03:36))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411032,
+      "process_number": "5260923-64.2025.8.09.0051",
+      "protocol_number": null,
+      "folder": "3498",
+      "stage": "AGENDADO ATENDIMENTO NO ÓRGÃO (ENTRE EM CONTATO CONOSCO)",
+      "step": "ADMINISTRATIVO",
+      "type": "INQUÉRITO POLICIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-11 00:00:00",
+      "created_at": "2025-08-11 00:00:00",
+      "process_date": "2025-04-03",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Transitado em Julgado -"
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2025-08-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-08-11",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por DANIEL ROBERTO DIAS DO AMARAL (Referente à Mov. Decisão -> Determinação -> Arquivamento (06/08/2025 15:51:19))"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de GEOVANNY MAGALHAES FERREIRA (Referente à Mov. Decisão -> Determinação -> Arquivamento - 06/08/2025 15:51:19)"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ANA PAULA FERREIRA (Referente à Mov. Decisão -> Determinação -> Arquivamento - 06/08/2025 15:51:19)"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria das Varas das Garantias (Referente à Mov. Decisão -> Determinação -> Arquivamento - 06/08/2025 15:51:19)"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Juntada de cópia integral dos presentes autos ao processo nº 5158828-53"
+        },
+        {
+          "date": "2025-08-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ANA PAULA FERREIRA (Referente à Mov. Decisão -> Determinação -> Arquivamento (06/08/2025 15:51:19))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "MINISTERIO PUBLICO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 3,
+    "categorias": {
+      "Peças": 2,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 1,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": "2026-05-13"
+  }
+}

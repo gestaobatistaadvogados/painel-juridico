@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-13T13:50:07-03:00",
-    "gerado_em_humano": "13/05/2026 13:50",
+    "gerado_em": "2026-05-14T10:28:55-03:00",
+    "gerado_em_humano": "14/05/2026 10:28",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -752,6 +752,26 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Wenzo Rithelly Carvalho Franca - Código de Rastreamento Correios: YH172612535BR idPendenciaCorreios109287605432015873960367937idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Citação Expedida - E-carta para a ré: Citação e Intimação/Contestação"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Rastreamento paralisado/não geração de AR/mudou-se"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida - E-Carta Expedido - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
+        },
+        {
           "date": "2026-03-11",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Wenzo Rithelly Carvalho Franca - Código de Rastreamento Correios: YH078860121BR idPendenciaCorreios109787635432015873960964865idPendenciaCorreios"
@@ -780,26 +800,6 @@
           "date": "2026-01-30",
           "header": "TJGO",
           "title": "Citação Expedida - E-CARTA PARA WENZO RITHELLY CARVALHO FRANCA (CONTESTAR). PRAZO: 15 DIAS"
-        },
-        {
-          "date": "2026-01-29",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - INDICAR ENDEREÇO"
-        },
-        {
-          "date": "2026-01-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Viviani Vaz Lopes (Referente à Mov. Certidão Expedida (07/01/2026 15:29:47))"
-        },
-        {
-          "date": "2026-01-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Viviani Vaz Lopes - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-01-07",
-          "header": "TJGO",
-          "title": "Certidão Expedida - INTIMAÇÃO P/ ENDEREÇO ATUALIZADO/CONFIRMAR"
         }
       ],
       "partes_adversarias": [

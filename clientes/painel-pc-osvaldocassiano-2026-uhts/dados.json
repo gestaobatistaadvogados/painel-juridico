@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:08:28-03:00",
+    "gerado_em_humano": "14/05/2026 11:08",
+    "slug_url": "painel-pc-osvaldocassiano-2026-uhts",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "OSVALDO CASSIANO DE FARIA",
+    "identification": "***.***.***-91",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13414075,
+      "process_number": "5200429-35.2025.8.09.0117",
+      "protocol_number": null,
+      "folder": "4019",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "TUTELA ANTECIPADA ANTECEDENTE",
+      "group": "CÍVEL",
+      "status_closure": "2026-01-22 00:00:00",
+      "created_at": "2026-01-22 00:00:00",
+      "process_date": "2025-03-17",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Meta Servicos Ltda em 24/04/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 14:33:55))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Constantino Pires Abadia Jayme em 24/04/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 14:33:55))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Maid Alcione Macedo E Silva Faria em 24/04/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 14:33:55))"
+        },
+        {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Osvaldo Cassiano De Faria em 24/04/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 14:33:55))"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Cassiano De Faria (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maid Alcione Macedo E Silva Faria (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Constantino Pires Abadia Jayme (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MSL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414076,
+      "process_number": "5025513-85.2026.8.09.0117",
+      "protocol_number": null,
+      "folder": "4006",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CRIMES DE CALÚNIA, INJÚRIA E DIFAMAÇÃO / COMPETÊNCIA DO JUIZ SINGULAR",
+      "group": "CRIMINAL",
+      "status_closure": "2026-01-19 00:00:00",
+      "created_at": "2026-01-19 00:00:00",
+      "process_date": "2026-01-14",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-05-09",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - prazo decorrido sem manifestação da parte promovida"
+        },
+        {
+          "date": "2026-03-24",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Citação aberta pelo Domicilio Eletronico (Polo Passivo) Facebook Servicos Online Do Brasil Ltda."
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) FSOBL (comunicação: 109687645432563873130682770)"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-01-30",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-01-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Emenda a Inicial"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Osvaldo Cassiano De Faria (Referente à Mov. Despacho -> Mero Expediente (16/01/2026 06:10:03))"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Cassiano De Faria - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 16/01/2026 06:10:03)"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414077,
+      "process_number": "5919863-66.2025.8.09.0117",
+      "protocol_number": null,
+      "folder": "3859",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
+      "group": "PÚBLICO",
+      "status_closure": "2025-11-07 00:00:00",
+      "created_at": "2025-11-07 00:00:00",
+      "process_date": "2025-11-07",
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contestação - contestação"
+        },
+        {
+          "date": "2026-02-24",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição"
+        },
+        {
+          "date": "2026-02-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-02-13",
+          "header": "TJGO",
+          "title": "Documento Cumprido - Carta de Notificação - (Referente à Mov. Decisão -> deferimento (16/01/2026 06:12:23))"
+        },
+        {
+          "date": "2026-02-05",
+          "header": "TJGO",
+          "title": "Documento Expedido - Para (Polo Passivo) FSOBL - Código de Rastreamento Correios: YH035630378BR idPendenciaCorreios109387695432015873960436813idPendenciaCorreios"
+        },
+        {
+          "date": "2026-02-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - cumprida diligências de ev. retro"
+        },
+        {
+          "date": "2026-01-16",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento -"
+        },
+        {
+          "date": "2025-12-20",
+          "header": "TJGO",
+          "title": "Documento Cumprido - Carta de Notificação - (Referente à Mov. Decisão -> Não-Concessão -> Liminar (11/11/2025 11:30:03))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13414078,
+      "process_number": "0000853-41.2024.5.23.0086",
+      "protocol_number": null,
+      "folder": "2131",
+      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
+      "step": "ARQUIVAMENTO",
+      "type": "RECLAMATÓRIA TRABALHISTA",
+      "group": "TRABALHISTA",
+      "status_closure": "2025-02-20 00:00:00",
+      "created_at": "2025-02-20 00:00:00",
+      "process_date": "2024-12-20",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT23"
+    },
+    {
+      "id": 14791677,
+      "process_number": "5418215-74.2026.8.09.0117",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "CÍVEL",
+      "status_closure": null,
+      "created_at": "2026-05-12 15:53:55",
+      "process_date": "2026-05-12",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "Parte sob sigilo legal"
+        },
+        {
+          "name": "Parte sob sigilo legal"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 0,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 0,
+      "Comunicações": 0,
+      "Acompanhamento": 0,
+      "Diligências": 0,
+      "Outras": 0
+    },
+    "ultima_data": null
+  }
+}

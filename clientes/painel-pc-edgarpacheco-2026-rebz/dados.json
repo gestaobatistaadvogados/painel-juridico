@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "gerado_em": "2026-05-14T11:07:07-03:00",
+    "gerado_em_humano": "14/05/2026 11:07",
+    "slug_url": "painel-pc-edgarpacheco-2026-rebz",
+    "departamento": "direito_criminal"
+  },
+  "cliente": {
+    "name": "EDGAR PACHECO",
+    "identification": "***.***.***-20",
+    "city": "",
+    "state": "",
+    "identification_tipo": "PF"
+  },
+  "processos": [
+    {
+      "id": 13207394,
+      "process_number": "5233781-90.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "FALSIDADE IDEOLÓGICA",
+      "group": "CRIMINAL",
+      "status_closure": null,
+      "created_at": "2026-02-18 09:46:56",
+      "process_date": null,
+      "responsible": "MYREYA ALVES DOS SANTOS",
+      "movements": [
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Procuração - pedido do Advogado nos autos (evento nº 568)"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-03-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Pedido de Habilitação"
+        },
+        {
+          "date": "2026-03-12",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Informações em Habeas Corpus - Pablo Soares, Adeilson, Daniel e José Ribeiro"
+        },
+        {
+          "date": "2026-03-12",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de Envio - Inf. em HC - Pablo Soares, Adeilson Alves, Daniel e José"
+        },
+        {
+          "date": "2026-03-10",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício Comunicatório"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Outras Decisões (11/02/2026 19:34:40))"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Ministério Público Do Estado De Goiás (Referente à Mov. Audiência de Instrução e Julgamento (11/02/2026 19:36:03))"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Edgar Pacheco (Referente à Mov. Audiência de Instrução e Julgamento (11/02/2026 19:36:03))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411863,
+      "process_number": "5246617-95.2022.8.09.0051",
+      "protocol_number": null,
+      "folder": "3141",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "MEDIDAS CAUTELARES",
+      "group": "CRIMINAL",
+      "status_closure": "2025-06-26 00:00:00",
+      "created_at": "2025-06-26 00:00:00",
+      "process_date": "2022-04-29",
+      "responsible": "SUZIANY MENEZES DE CASTRO",
+      "movements": [
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por TARSILA COSTA GUIMARÃES (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 11:34:26))"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Edgar Pacheco (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jaime Rezende De Castro (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Pablo Soares (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Adeilson Alves Moreira (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de André Lucas Gimenez Prado (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eduardo Santos De Carvalho (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniel Serradourada Dorta (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MARCELO CARNEIRO RIBEIRO (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    }
+  ],
+  "atividade_90d": {
+    "total": 14,
+    "categorias": {
+      "Peças": 0,
+      "Audiências": 2,
+      "Comunicações": 5,
+      "Acompanhamento": 3,
+      "Diligências": 2,
+      "Outras": 2
+    },
+    "ultima_data": "2026-04-09"
+  }
+}
