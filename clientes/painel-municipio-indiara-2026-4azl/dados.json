@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-14T15:09:26-03:00",
-    "gerado_em_humano": "14/05/2026 15:09",
+    "gerado_em": "2026-05-15T10:54:07-03:00",
+    "gerado_em_humano": "15/05/2026 10:54",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -1186,11 +1186,11 @@
       "process_number": "5128451-60.2017.8.09.0090",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "OBRIGAÇÃO DE FAZER",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-05-14 17:06:09",
       "created_at": "2026-02-18 14:27:33",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
@@ -1251,7 +1251,7 @@
           "name": "EDINAMAR EMIDIA LOPES"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -9559,18 +9559,49 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 14880628,
+      "process_number": "1000250-14.2022.5.02.0018",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-15 09:50:09",
+      "process_date": "2026-05-15",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ARON CHAVES FREIRE"
+        },
+        {
+          "name": "LANCHONETE ELBA LTDA"
+        },
+        {
+          "name": "PATRICIA BATISTA FIGUEIREDO FREIRE"
+        },
+        {
+          "name": "WANDERCLEI DE SOUZA LOPES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT2"
     }
   ],
   "atividade_90d": {
-    "total": 50,
+    "total": 53,
     "categorias": {
       "Peças": 6,
       "Audiências": 5,
       "Comunicações": 8,
-      "Acompanhamento": 22,
+      "Acompanhamento": 25,
       "Diligências": 6,
       "Outras": 3
     },
-    "ultima_data": "2026-05-14"
+    "ultima_data": "2026-05-15"
   }
 }

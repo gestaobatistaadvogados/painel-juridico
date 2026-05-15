@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-14T14:48:56-03:00",
-    "gerado_em_humano": "14/05/2026 14:48",
+    "gerado_em": "2026-05-15T10:34:20-03:00",
+    "gerado_em_humano": "15/05/2026 10:34",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -91,14 +91,14 @@
       "process_number": "5784455-78.2023.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "CITAÇÃO DO DEVEDOR PARA PAGAMENTO",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
       "step": "EXECUÇÃO/COBRANÇA",
       "type": "INDENIZAÇÃO POR DANOS MATERIAIS C/C DANOS MORAIS",
       "group": "PRIVADO",
       "status_closure": "2026-03-27 11:26:24",
       "created_at": "2026-02-02 14:54:12",
       "process_date": null,
-      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-11",
@@ -156,7 +156,7 @@
           "name": "CICERO GILDO FIRMINO VIEIRA"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "execucao",
       "tribunal": "TJGO"
     },
     {
@@ -4244,7 +4244,58 @@
       "created_at": "2023-04-11 00:00:00",
       "process_date": "2022-12-27",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria José De Sousa (Referente à Mov. Certidão Expedida (13/05/2026 10:28:18))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CCSC - Andamento ao feito/ Suspensão (921, III, CPC)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria José De Sousa - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução Central Sisbajud - Penhora infrutífera"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Converter obrigação de fazer em perdas e danos."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aprovec Go (associação De Apoio Aos Proprietários De Veículos Do Estado De Goias) (Referente à Mov. Decisão -> Outras Decisões (24/04/2026 15:11:47))"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria José De Sousa (Referente à Mov. Decisão -> Outras Decisões (24/04/2026 15:11:47))"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aprovec Go (associação De Apoio Aos Proprietários De Veículos Do Estado De Goias) (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria José De Sousa (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "MARIA JOSE DE SOUSA"
@@ -5915,15 +5966,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 54,
+    "total": 55,
     "categorias": {
       "Peças": 8,
       "Audiências": 6,
       "Comunicações": 8,
-      "Acompanhamento": 27,
+      "Acompanhamento": 28,
       "Diligências": 2,
       "Outras": 3
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-15"
   }
 }
