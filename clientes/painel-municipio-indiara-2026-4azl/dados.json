@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:54:07-03:00",
-    "gerado_em_humano": "15/05/2026 10:54",
+    "gerado_em": "2026-05-16T09:07:13-03:00",
+    "gerado_em_humano": "16/05/2026 09:07",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -320,6 +320,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (04/05/2026 23:06:23))"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Juntada -> Petição - Replica A Impugnação"
@@ -332,12 +337,12 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-05-01",
@@ -363,11 +368,6 @@
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Transitado em Julgado (08/04/2026 11:29:38))"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Processo baixado à origem/devolvido -"
         }
       ],
       "partes_adversarias": [
@@ -391,58 +391,7 @@
       "created_at": "2026-02-11 12:16:12",
       "process_date": null,
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comprovante de transferência de recursos comerciais"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informação sobre impossibilidade de liberar o valor descrito no alvará"
-        },
-        {
-          "date": "2026-05-09",
-          "header": "TJGO",
-          "title": "Intimação Lida - Para (Polo Passivo) BANCO BRADESCO S/A (Referente à Mov. Cálculo de Custas (19/04/2026 07:14:59))"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para (Polo Passivo) BANCO BRADESCO S/A - Código de Rastreamento Correios: YH155419231BR idPendenciaCorreios109587655432015873960709425idPendenciaCorreios"
-        },
-        {
-          "date": "2026-04-19",
-          "header": "TJGO",
-          "title": "Cálculo de Custas - - Certidão de Crédito Judicial: Guia 09524369050"
-        },
-        {
-          "date": "2026-04-19",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BANCO BRADESCO S/A (Referente à Mov. Cálculo de Custas (19/04/2026 07:14:59) - Prazo de 15 (quinze) dias para pagar a guia mencionada, sob pena de início das providências para protesto.)"
-        },
-        {
-          "date": "2026-04-19",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de BANCO BRADESCO S/A (Referente à Mov. Cálculo de Custas (19/04/2026 07:14:59))"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - TRÂNSITO EM JULGADO, ARQUIVAMENTO E REMESSA À CENTRAL DE CONTADORES"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "CHIRLY VITOR GOMES PIRES"
@@ -2146,58 +2095,7 @@
       "created_at": "2025-05-27 00:00:00",
       "process_date": "2025-03-13",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2018-09-13",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2018-09-13",
-          "header": "TJGO",
-          "title": "Mandado Cumprido - Para Beatriz Silva Neves (Referente à Mov. Realizado Cálculo de Custas (20/08/2018 07:49:12))"
-        },
-        {
-          "date": "2018-09-13",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - À SECRETARIA/CONTADORIA. NÃO INCIDÊNCIA DE CUSTAS. SENTENÇA DEFERIDA ASSISTÊNCIA"
-        },
-        {
-          "date": "2018-08-29",
-          "header": "TJGO",
-          "title": "Mandado Expedido - Para Beatriz Silva Neves"
-        },
-        {
-          "date": "2018-08-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - Renato Rodrigues De Sousa - Polo Ativo (Referente à Mov. Realizado Cálculo de Custas - 20/08/2018 07:49:12)"
-        },
-        {
-          "date": "2018-08-20",
-          "header": "TJGO",
-          "title": "Cálculo de Custas"
-        },
-        {
-          "date": "2018-08-03",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2018-08-02",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Sentença Homologada a Transação (cpc) (13/07/2018 17:09:12))"
-        },
-        {
-          "date": "2018-08-01",
-          "header": "TJGO",
-          "title": "Desabilitação de Responsável - Promotor Responsável Desabilitado: Wagner de Pina Cabral"
-        },
-        {
-          "date": "2018-07-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - Renato Rodrigues De Sousa - Polo Ativo (Referente à Mov. Sentença Homologada a Transação (cpc) - 13/07/2018 17:09:12)"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "EURIPEDES AFONSO NETO PRODUTOR RURAL"
@@ -2292,58 +2190,7 @@
       "created_at": "2025-02-14 00:00:00",
       "process_date": "2019-03-14",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2025-06-27",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2025-06-26",
-          "header": "TJGO",
-          "title": "Processo baixado à origem/devolvido"
-        },
-        {
-          "date": "2025-06-26",
-          "header": "TJGO",
-          "title": "Diligência Concluída  Processo Devolvido - Gabinete: (Retornado para: ANA CRISTINA RIBEIRO PETERNELLA FRANÇA)"
-        },
-        {
-          "date": "2025-06-26",
-          "header": "TJGO",
-          "title": "Transitado em Julgado - CERTIDÃO DE TRÂNSITO EM JULGADO"
-        },
-        {
-          "date": "2025-05-12",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE ANAPOLIS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (29/04/2025 16:47:24))"
-        },
-        {
-          "date": "2025-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE ANAPOLIS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 29/04/2025 16:47:24)"
-        },
-        {
-          "date": "2025-04-29",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 28/04/2025 10:10)"
-        },
-        {
-          "date": "2025-04-29",
-          "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 28/04/2025 10:10)"
-        },
-        {
-          "date": "2025-04-14",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE ANAPOLIS (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (04/04/2025 14:43:02))"
-        },
-        {
-          "date": "2025-04-04",
-          "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 28/04/2025 10:10:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "ANA MARIA FERNANDES DE SIQUEIRA"
@@ -3244,7 +3091,7 @@
       ],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -4328,7 +4175,7 @@
       "movements": [],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -6665,58 +6512,7 @@
       "created_at": "2025-05-16 00:00:00",
       "process_date": "2024-02-02",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2021-06-21",
-          "header": "TJGO",
-          "title": "Mudança de Assunto Processual"
-        },
-        {
-          "date": "2020-07-07",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2020-07-07",
-          "header": "TJGO",
-          "title": "Certidão Expedida - HONORÁRIOS"
-        },
-        {
-          "date": "2020-03-25",
-          "header": "TJGO",
-          "title": "Ofício(s) Expedido(s)"
-        },
-        {
-          "date": "2020-03-10",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação (Audiência Realizada com Sentença de Homologação) - (Preliminar - 14/02/2020 15:30)"
-        },
-        {
-          "date": "2020-03-05",
-          "header": "TJGO",
-          "title": "Juntada de Documento"
-        },
-        {
-          "date": "2020-02-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Ciente"
-        },
-        {
-          "date": "2020-02-17",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por CARLOS ALEXANDRE MARQUES (Referente à Mov. Audiência Preliminar Marcada (12/02/2020 15:04:58))"
-        },
-        {
-          "date": "2020-02-14",
-          "header": "TJGO",
-          "title": "Troca de Responsável - MP Responsável Anterior: Aylton Flavio Vechi MP Responsável Atual: CARLOS ALEXANDRE MARQUES"
-        },
-        {
-          "date": "2020-02-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Anápolis - Promotoria dos Juizados (Referente à Mov. Audiência Preliminar Marcada - 12/02/2020 15:04:58)"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "AUGUSTO ARAGAO DE BRITO"
@@ -7030,58 +6826,7 @@
       "created_at": "2025-03-05 00:00:00",
       "process_date": "2015-08-13",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2018-10-26",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2018-09-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ELIZABETH DOURADO DE AZEVEDO - Polo Ativo (Referente à Mov. Alvará Expedido e à Disposição - 11/09/2018 16:54:12)"
-        },
-        {
-          "date": "2018-09-11",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        },
-        {
-          "date": "2018-09-11",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        },
-        {
-          "date": "2018-06-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - BB FINANCEIRA S/A CREDITO FINANCIAMENTO E INVESTIMENTO (Referente à Mov. Decisão - )"
-        },
-        {
-          "date": "2018-06-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ELIZABETH DOURADO DE AZEVEDO (Referente à Mov. Decisão - )"
-        },
-        {
-          "date": "2018-06-11",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
-        },
-        {
-          "date": "2018-06-04",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2018-06-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2018-05-28",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Manifestar sobre evento"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "EURIPEDES GONCALVES DE ANDRADE"
@@ -7095,9 +6840,9 @@
       "process_number": "5761631-37.2025.8.09.0090",
       "protocol_number": null,
       "folder": "3854",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
-      "type": "TUTELA CÍVEL",
+      "type": "OBRIGAÇÃO DE FAZER",
       "group": "PÚBLICO",
       "status_closure": "2025-11-05 00:00:00",
       "created_at": "2025-11-05 00:00:00",
@@ -7155,7 +6900,11 @@
           "title": "Entrega em carga/vista - Vista ao Parquet."
         }
       ],
-      "partes_adversarias": [],
+      "partes_adversarias": [
+        {
+          "name": "MAURO LEANDRO"
+        }
+      ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
@@ -8174,7 +7923,7 @@
       ],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         },
         {
           "name": "DHEFERSON GOMES DA SILVA"
@@ -8588,7 +8337,7 @@
           "name": "ESTADO DE GOIAS"
         },
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -8610,7 +8359,7 @@
       "movements": [],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         },
         {
           "name": "NICOLE ROSA DOS SANTOS"
@@ -8659,6 +8408,36 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Indiara em 12/05/2026 23:59:59 (Referente à Mov. Decisão -> Concessão em parte -> Tutela Provisória (15/04/2026 19:15:18))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Paulo Aparecido Do Nascimento (Referente à Mov. Ato Ordinatório (13/05/2026 13:37:23))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Interesse na produção de outras provas - Prazo comum de 15 dias."
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Aparecido Do Nascimento (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - Indiara inerte."
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Concessão em parte -> Tutela Provisória (15/04/2026 19:15:18))"
@@ -8677,36 +8456,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Decisão -> Concessão em parte -> Tutela Provisória -"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Autos Conclusos Para Decisão - Fase de recebimento da petição."
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação Emenda Inicial"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Paulo Aparecido Do Nascimento (Referente à Mov. Decisão -> Outras Decisões (10/04/2026 17:20:03))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Aparecido Do Nascimento (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [
@@ -9542,13 +9291,13 @@
       ],
       "partes_adversarias": [
         {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
+        },
+        {
           "name": "DENISMAR SERGIO DE OLIVEIRA"
         },
         {
           "name": "DOMINGOS LEMOS DO PRADO"
-        },
-        {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
         },
         {
           "name": "OURO PRETO MINERACAO DE BRITA LTDA"
@@ -9590,17 +9339,39 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TRT2"
+    },
+    {
+      "id": 14885338,
+      "process_number": "5407366-27.2026.8.09.0090",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE COBRANÇA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-15 13:38:34",
+      "process_date": "2026-05-08",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "RENATA SOARES SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 53,
+    "total": 60,
     "categorias": {
-      "Peças": 6,
+      "Peças": 7,
       "Audiências": 5,
       "Comunicações": 8,
-      "Acompanhamento": 25,
+      "Acompanhamento": 29,
       "Diligências": 6,
-      "Outras": 3
+      "Outras": 5
     },
     "ultima_data": "2026-05-15"
   }

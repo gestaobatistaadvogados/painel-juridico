@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T11:11:57-03:00",
-    "gerado_em_humano": "15/05/2026 11:11",
+    "gerado_em": "2026-05-16T09:24:54-03:00",
+    "gerado_em_humano": "16/05/2026 09:24",
     "slug_url": "painel-pc-alanaluisa-2026-b2ih",
     "departamento": "direito_criminal"
   },
@@ -26,58 +26,7 @@
       "created_at": "2026-02-23 11:28:39",
       "process_date": null,
       "responsible": "MYREYA ALVES DOS SANTOS",
-      "movements": [
-        {
-          "date": "2026-03-06",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comprovante de envio de malote digital para a Comarca de Campinas-SP"
-        },
-        {
-          "date": "2026-01-12",
-          "header": "TJGO",
-          "title": "Carta Precatória Expedida"
-        },
-        {
-          "date": "2026-01-12",
-          "header": "TJGO",
-          "title": "Mandado Cumprido - Para RMS (Mandado nº 6518902 / Referente à Mov. Decisão -> Recebimento -> Denúncia (01/12/2025 17:37:15))"
-        },
-        {
-          "date": "2026-01-09",
-          "header": "TJGO",
-          "title": "Mandado Expedido - Para Anicuns - Central de Mandados (Mandado nº 6518902 / Para: RMS)"
-        },
-        {
-          "date": "2025-12-03",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comprovante de Recebimento de e-mail para o Instituto de Identificação"
-        },
-        {
-          "date": "2025-12-02",
-          "header": "TJGO",
-          "title": "Ofício(s) Expedido(s) - Comprovante de envio de E-mail para o Instituto de Identificação"
-        },
-        {
-          "date": "2025-12-02",
-          "header": "TJGO",
-          "title": "Mudança de Assunto Processual"
-        },
-        {
-          "date": "2025-12-02",
-          "header": "TJGO",
-          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"374-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Sumário\" para a classe \"295-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Ordinário\""
-        },
-        {
-          "date": "2025-12-02",
-          "header": "TJGO",
-          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"129-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Inquérito Policial\" para a classe \"374-PROCESSO CRIMINAL -> Procedimento Comum -> Ação Penal - Procedimento Sumário\""
-        },
-        {
-          "date": "2025-12-01",
-          "header": "TJGO",
-          "title": "Decisão -> Recebimento -> Denúncia"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "Parte sob sigilo legal"
@@ -132,12 +81,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 5,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 2
     },

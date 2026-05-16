@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:38:59-03:00",
-    "gerado_em_humano": "15/05/2026 10:38",
+    "gerado_em": "2026-05-16T08:52:07-03:00",
+    "gerado_em_humano": "16/05/2026 08:52",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -194,58 +194,7 @@
       "created_at": "2023-07-31 00:00:00",
       "process_date": "2021-09-17",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
-      "movements": [
-        {
-          "date": "2019-04-08",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2019-04-08",
-          "header": "TJGO",
-          "title": "Transitado em Julgado - 08/03/2019"
-        },
-        {
-          "date": "2019-02-19",
-          "header": "TJGO",
-          "title": "Intimação Realizada em Cartório/Audiência - Para Ana Paula Mariano De Faria (Referente à Mov. Sentença Homologada a Transação (cpc) - )"
-        },
-        {
-          "date": "2019-02-19",
-          "header": "TJGO",
-          "title": "Intimação Realizada em Cartório/Audiência - Para Alessandra Caroline Silvestre Rodrigues (Referente à Mov. Sentença Homologada a Transação (cpc) - )"
-        },
-        {
-          "date": "2019-02-19",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação"
-        },
-        {
-          "date": "2019-02-18",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Intimação para audiência/endereço - Alessandra"
-        },
-        {
-          "date": "2019-02-15",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2019-02-15",
-          "header": "TJGO",
-          "title": "Audiência Cancelada - (Conciliação - 15/02/2019 16:00)"
-        },
-        {
-          "date": "2019-02-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Acordo entabulado entre as partes"
-        },
-        {
-          "date": "2019-01-23",
-          "header": "TJGO",
-          "title": "Intimação Via Telefone Efetivada - Para (Polo Passivo) Ana Paula Mariano De Faria (Referente à Mov. Mandado Não Cumprido (17/01/2019 11:56:15))"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "CLAUDENOR DE CARVALHO NASCIMENTO"
@@ -519,15 +468,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 6,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 5,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-09"
+    "ultima_data": "2026-05-15"
   }
 }

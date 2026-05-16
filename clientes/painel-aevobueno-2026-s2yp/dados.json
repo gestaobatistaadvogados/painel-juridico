@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:42:23-03:00",
-    "gerado_em_humano": "15/05/2026 10:42",
+    "gerado_em": "2026-05-16T08:55:29-03:00",
+    "gerado_em_humano": "16/05/2026 08:55",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -293,58 +293,7 @@
       "created_at": "2026-04-08 13:26:10",
       "process_date": "2026-04-08",
       "responsible": "GABRIELA RODRIGUES PEREIRA",
-      "movements": [
-        {
-          "date": "2025-09-22",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2025-09-22",
-          "header": "TJGO",
-          "title": "Transitado em Julgado - arquivamento e transito"
-        },
-        {
-          "date": "2025-09-22",
-          "header": "TJGO",
-          "title": "Alvará Entregue - (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (26/08/2025 17:42:12))"
-        },
-        {
-          "date": "2025-09-20",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        },
-        {
-          "date": "2025-08-26",
-          "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis - c/ alvará judicial"
-        },
-        {
-          "date": "2025-08-25",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2025-07-10",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
-        },
-        {
-          "date": "2025-07-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2025-07-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Requerimento"
-        },
-        {
-          "date": "2025-03-20",
-          "header": "TJGO",
-          "title": "Juntada de Documento - AR Efetivado Guilherme Henrique Silva"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "CARLOS ANDERSON OLIVEIRA SILVA"
@@ -386,9 +335,19 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Matheus Henrique Pires De Oliveira - Polo Ativo (Referente à Mov. Expedição de Documento (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Expedição de Documento (04/05/2026 13:59:32))"
         },
         {
           "date": "2026-05-04",
@@ -406,11 +365,6 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIBL - Polo Ativo (Referente à Mov. Expedição de Documento (CNJ:60) - )"
         },
         {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Expedição de Documento (04/05/2026 13:59:32))"
-        },
-        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (08/04/2026 21:28:48))"
@@ -423,17 +377,12 @@
         {
           "date": "2026-04-13",
           "header": "TJGO",
-          "title": "Citação Expedida - e-Carta - Francisco Joao Magalhaes Do Nascimento"
+          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         },
         {
           "date": "2026-04-13",
           "header": "TJGO",
-          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Matheus Henrique Pires De Oliveira (Referente à Mov. Despacho -> Mero Expediente (08/04/2026 21:28:48))"
+          "title": "Citação Expedida - e-Carta - Francisco Joao Magalhaes Do Nascimento"
         }
       ],
       "partes_adversarias": [
@@ -540,15 +489,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 3,
     "categorias": {
-      "Peças": 2,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 2,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 0
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-15"
   }
 }

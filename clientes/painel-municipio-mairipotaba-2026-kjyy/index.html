@@ -968,8 +968,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">15/05/2026 10:48</div>
-            <div><span class="ativos">11</span> processos ativos</div>
+            <div class="data">16/05/2026 09:01</div>
+            <div><span class="ativos">10</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -1068,8 +1068,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                     
                 </div>
                 <div class="area-resumo">
-                    11 ativos
-                    e 0 arquivados.
+                    10 ativos
+                    e 1 arquivado.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1088,8 +1088,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="total-area">
                     Total da área: <strong>11</strong>
                     processos
-                    · 11 ativos
-                    · 0 arquivados
+                    · 10 ativos
+                    · 1 arquivado
                 </div>
             </div>
             <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
@@ -1105,7 +1105,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi ativos">
                 <div class="card-kpi-rotulo">Ativos</div>
-                <div class="card-kpi-numero">11</div>
+                <div class="card-kpi-numero">10</div>
                 <div class="card-kpi-detalhe">em andamento</div>
             </div>
             <div class="card-kpi urgente">
@@ -1115,7 +1115,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi favoravel">
                 <div class="card-kpi-rotulo">Resolvidos</div>
-                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-numero">1</div>
                 <div class="card-kpi-detalhe">com encerramento registrado</div>
             </div>
             <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
@@ -1182,10 +1182,16 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🟢</span>
                     <h4>Resolvidos / Favoráveis</h4>
-                    <span class="contador">0</span>
+                    <span class="contador">1</span>
                 </div>
                 
-                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13880693')">
+                    <div class="card-alerta-numero">—</div>
+                    <div class="card-alerta-descricao">Processos Administrativos Público</div>
+                </div>
+                
+                
                 
             </div>
             
@@ -1279,7 +1285,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                             </td>
                             <td class="tribunal-cell">—</td>
                             <td class="acao-cell">Processo Administrativo</td>
-                            <td><span class="badge badge-fase-conhecimento">Elaboração De Parecer</span></td>
+                            <td><span class="badge badge-fase-conhecimento">Processos Administrativos Público</span></td>
                             <td class="ultimo-cell">
                                 
                                 <span class="vazio">Sem andamento recente</span>
@@ -1546,14 +1552,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 15/05/2026 10:48 — Documento de uso restrito do cliente.
+        Painel gerado em 16/05/2026 09:01 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"13880693": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-03-26 13:38:41", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "ELABORA\u00c7\u00c3O DE PARECER", "status_closure": "", "tribunal": "\u2014", "type": "PROCESSO ADMINISTRATIVO"}, "14244789": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:25:50", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244875": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:28:32", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244931": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:31:19", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244967": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:34:09", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245010": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:36:34", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245046": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:38:21", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245104": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:41:28", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245138": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:43:45", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245167": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:45:51", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245190": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:46:59", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}}</script>
+<script type="application/json" id="dados-processos-modal">{"13880693": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-03-26 13:38:41", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "2026-05-15 11:51:49", "tribunal": "\u2014", "type": "PROCESSO ADMINISTRATIVO"}, "14244789": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:25:50", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244875": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:28:32", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244931": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:31:19", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14244967": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:34:09", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245010": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:36:34", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245046": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:38:21", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245104": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:41:28", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245138": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:43:45", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245167": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:45:51", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "AGUARDANDO DECIS\u00c3O DO \u00d3RG\u00c3O", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}, "14245190": {"cliente_name": "MUNICIPIO DE MAIRIPOTABA", "created_at": "2026-04-15 13:46:59", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-04-15", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "TCM"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"publico": {"fase": {"colors": ["#2874a6"], "data": [11], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [11, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [10, 1], "labels": ["Tcm", "Processo Administrativo"]}, "tribunal": {"data": [11], "labels": ["\u2014"]}}
+"publico": {"fase": {"colors": ["#2874a6"], "data": [11], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [10, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [10, 1], "labels": ["Tcm", "Processo Administrativo"]}, "tribunal": {"data": [11], "labels": ["\u2014"]}}
 }</script>
 
 <script>

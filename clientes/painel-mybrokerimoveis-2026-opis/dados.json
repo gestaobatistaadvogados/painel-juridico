@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:44:36-03:00",
-    "gerado_em_humano": "15/05/2026 10:44",
+    "gerado_em": "2026-05-16T08:57:42-03:00",
+    "gerado_em_humano": "16/05/2026 08:57",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -582,11 +582,11 @@
       "process_number": "5285317-04.2026.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "stage": "AGUARDANDO AUDIÊNCIA",
       "step": "RECURSAL",
       "type": "AGRAVO DE INSTRUMENTO",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-15 11:03:36",
       "created_at": "2026-04-14 12:00:11",
       "process_date": null,
       "responsible": "LUCAS MARINHO DA SILVA",
@@ -650,7 +650,7 @@
           "name": "EDUARDO DE CASTRO BITTENCOURT"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -684,7 +684,58 @@
       "created_at": "2026-05-12 13:49:13",
       "process_date": "2026-02-15",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Citação Não Efetivada (30/04/2026 01:48:45))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) BIAL - Código de Rastreamento Correios: YH165528704BR idPendenciaCorreios109987695432015873960370839idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Intercorrente - Nova Citação"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Stella Porto Do Carmo (Referente à Mov. Citação Não Efetivada (30/04/2026 01:48:45))"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Stella Porto Do Carmo - Polo Ativo (Referente à Mov. Citação Não Efetivada - 30/04/2026 01:48:45)"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Concessão -> Gratuidade da Justiça (06/04/2026 22:48:09))"
+        },
+        {
+          "date": "2026-04-11",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) My Broker Imoveis Aluguel Ltda"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Gabrielle Ferreira Gonzaga - Código de Rastreamento Correios: YH119845188BR idPendenciaCorreios109287645432015873960738238idPendenciaCorreios"
+        },
+        {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) BIAL (comunicação: 109787665432563873136980465)"
+        },
+        {
+          "date": "2026-04-06",
+          "header": "TJGO",
+          "title": "Autos Conclusos - COM PEDIDO DE GRATUIDADE DA JUSTIÇA"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "GABRIELLE FERREIRA GONZAGA"
@@ -698,15 +749,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 6,
     "categorias": {
       "Peças": 1,
-      "Audiências": 0,
+      "Audiências": 1,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 0,
-      "Outras": 0
+      "Outras": 2
     },
-    "ultima_data": "2026-05-12"
+    "ultima_data": "2026-05-15"
   }
 }

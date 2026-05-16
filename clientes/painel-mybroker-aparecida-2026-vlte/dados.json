@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:38:30-03:00",
-    "gerado_em_humano": "15/05/2026 10:38",
+    "gerado_em": "2026-05-16T08:51:38-03:00",
+    "gerado_em_humano": "16/05/2026 08:51",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -329,12 +329,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 3,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 1,
       "Diligências": 1,
       "Outras": 0
     },

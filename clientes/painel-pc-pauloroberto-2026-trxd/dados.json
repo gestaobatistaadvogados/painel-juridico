@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T11:14:48-03:00",
-    "gerado_em_humano": "15/05/2026 11:14",
+    "gerado_em": "2026-05-16T09:27:44-03:00",
+    "gerado_em_humano": "16/05/2026 09:27",
     "slug_url": "painel-pc-pauloroberto-2026-trxd",
     "departamento": "direito_criminal"
   },
@@ -26,58 +26,7 @@
       "created_at": "2025-11-11 00:00:00",
       "process_date": "2025-07-28",
       "responsible": "MYREYA ALVES DOS SANTOS",
-      "movements": [
-        {
-          "date": "2023-02-13",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2023-02-13",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Certidão - trânsito em julgado"
-        },
-        {
-          "date": "2021-09-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada a Ser Publicada No Diário Eletrônico Nos Próximos 2 (Dois) Dias Úteis - Intimação para parte executada: NELSON GALDINO DA SILVA - CPF: 001.034.068-83"
-        },
-        {
-          "date": "2021-07-09",
-          "header": "TJGO",
-          "title": "Intimação Não Efetivada - (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (27/05/2021 12:51:50)) (Polo Passivo)"
-        },
-        {
-          "date": "2021-06-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para (Polo Passivo) NELSON GALDINO DA SILVA - Código de Rastreamento Correios: BH281930605BR idPendenciaCorreios109587605432015873962943195idPendenciaCorreios"
-        },
-        {
-          "date": "2021-06-07",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE GOIANIA (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (27/05/2021 12:51:50))"
-        },
-        {
-          "date": "2021-05-31",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: Natasha Palma Garcia Procurador Responsável Atual: Savio Hercilio Vieira Torres"
-        },
-        {
-          "date": "2021-05-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Advgs. de MUNICIPIO DE GOIANIA (Referente à Mov. Sentença Extinto o Processo com Resolução de Mérito (CNJ:385) - )"
-        },
-        {
-          "date": "2021-05-27",
-          "header": "TJGO",
-          "title": "Sentença Extinto o Processo com Resolução de Mérito"
-        },
-        {
-          "date": "2021-05-26",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "Parte sob sigilo legal"

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T11:11:34-03:00",
-    "gerado_em_humano": "15/05/2026 11:11",
+    "gerado_em": "2026-05-16T09:24:32-03:00",
+    "gerado_em_humano": "16/05/2026 09:24",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -1884,58 +1884,7 @@
       "created_at": "2024-06-06 00:00:00",
       "process_date": "2024-05-28",
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
-      "movements": [
-        {
-          "date": "2021-11-08",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2021-09-02",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Renata de Matos Lacerda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade -> Composição Civil dos Danos (01/09/2021 17:31:37))"
-        },
-        {
-          "date": "2021-09-01",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Goianira - Promotoria dos Juizados (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade -> Composição Civil dos Danos (CNJ:12616) - )"
-        },
-        {
-          "date": "2021-09-01",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Composição Civil dos Danos - arquivamento em relação ao crime de desacato"
-        },
-        {
-          "date": "2021-09-01",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2021-08-26",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2021-08-26",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Renata de Matos Lacerda (Referente à Mov. Audiência Preliminar (26/08/2021 15:12:30))"
-        },
-        {
-          "date": "2021-08-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Goianira - Promotoria dos Juizados (Referente à Mov. AUDIÊNCIA PRELIMINAR - )"
-        },
-        {
-          "date": "2021-08-26",
-          "header": "TJGO",
-          "title": "Audiência Preliminar - Realizada sem Sentença - 26/08/2021 14:40"
-        },
-        {
-          "date": "2021-08-25",
-          "header": "TJGO",
-          "title": "Mandado Cumprido - Para DANIEL GUSTAVO SANCHES (Referente à Mov. Audiência Preliminar (13/05/2021 14:29:25))"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "JULIANA VIEIRA NOBREGA MELO"
@@ -4156,58 +4105,7 @@
       "created_at": "2025-09-03 00:00:00",
       "process_date": "2025-09-03",
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
-      "movements": [
-        {
-          "date": "2024-12-02",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2024-12-02",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Arquivamento dos autos."
-        },
-        {
-          "date": "2024-12-02",
-          "header": "TJGO",
-          "title": "Transitado em Julgado"
-        },
-        {
-          "date": "2024-11-19",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Pedido de extinção do feito"
-        },
-        {
-          "date": "2024-10-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Serasa S.a. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
-        },
-        {
-          "date": "2024-10-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sebastiao De Carvalho (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
-        },
-        {
-          "date": "2024-10-30",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
-        },
-        {
-          "date": "2024-10-03",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2024-10-03",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Habilitação realizada nos autos"
-        },
-        {
-          "date": "2024-10-02",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Juntada Substabelecimento"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "DALVA CANDIDA LEITE"
@@ -5167,9 +5065,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão - Agravo Interno autuado (16/04/2026 13:36:22))"
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - CONTRARRAZÕES AO AGRAVO INTERNO"
         },
         {
           "date": "2026-04-16",
@@ -5184,7 +5087,7 @@
         {
           "date": "2026-04-16",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Agravo (inominado/ legal)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão - Agravo Interno autuado (16/04/2026 13:36:22))"
         },
         {
           "date": "2026-04-16",
@@ -5192,29 +5095,24 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Passivo (Referente à Mov. Certidão - Agravo Interno autuado (CNJ:11383) - )"
         },
         {
-          "date": "2026-03-31",
+          "date": "2026-04-16",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Peticão Enviada"
+          "title": "Juntada -> Petição -> Agravo (inominado/ legal)"
         },
         {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Peticão Enviada -"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial (31/03/2026 17:32:49))"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
         }
       ],
       "partes_adversarias": [
@@ -5261,14 +5159,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-04-23",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
+          "title": "Juntada -> Petição -> Contestação - Contestação"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vega Construtora Xxii Ltda (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
+          "title": "Juntada -> Petição -> Contestação"
         },
         {
           "date": "2026-04-23",
@@ -5306,9 +5204,9 @@
           "title": "Audiência de Conciliação CEJUSC Artigo 334 CPC - Realizada sem Acordo - 22/04/2026 13:30"
         },
         {
-          "date": "2026-04-22",
+          "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Mandado Cumprido - Para SIL (Mandado nº 7088820 / Referente à Mov. Decisão -> Concessão -> Tutela Provisória (03/03/2026 15:31:40))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
         }
       ],
       "partes_adversarias": [
@@ -5329,13 +5227,13 @@
   "atividade_90d": {
     "total": 22,
     "categorias": {
-      "Peças": 9,
+      "Peças": 8,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 10,
+      "Acompanhamento": 11,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-15"
   }
 }

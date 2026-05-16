@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:47:44-03:00",
-    "gerado_em_humano": "15/05/2026 10:47",
+    "gerado_em": "2026-05-16T09:00:49-03:00",
+    "gerado_em_humano": "16/05/2026 09:00",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -226,7 +226,7 @@
       ],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "recursal",
@@ -563,15 +563,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 3,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
-      "Comunicações": 0,
+      "Comunicações": 1,
       "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-15"
   }
 }

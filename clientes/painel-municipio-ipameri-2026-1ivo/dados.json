@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:47:08-03:00",
-    "gerado_em_humano": "15/05/2026 10:47",
+    "gerado_em": "2026-05-16T09:00:13-03:00",
+    "gerado_em_humano": "16/05/2026 09:00",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -1539,58 +1539,7 @@
       "created_at": "2020-01-01 00:00:00",
       "process_date": "2020-04-30",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [
-        {
-          "date": "2017-08-10",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2017-08-10",
-          "header": "TJGO",
-          "title": "Baixa Definitiva"
-        },
-        {
-          "date": "2017-08-10",
-          "header": "TJGO",
-          "title": "Transitado em Julgado"
-        },
-        {
-          "date": "2017-07-31",
-          "header": "TJGO",
-          "title": "Audiência Realizada - (Conciliação - 31/07/2017 13:00)"
-        },
-        {
-          "date": "2017-07-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ALDA JACINTA DE MORAES - Polo Ativo (Referente à Mov. Sentença Extinto o Processo Sem Resolução do Mérito - )"
-        },
-        {
-          "date": "2017-07-25",
-          "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
-        },
-        {
-          "date": "2017-07-21",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2017-07-18",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Interlocutória"
-        },
-        {
-          "date": "2017-06-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - ALDA JACINTA DE MORAES - Polo Ativo (Referente à Mov. DESPACHO - )"
-        },
-        {
-          "date": "2017-06-30",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "HELENA CANDIDA SOBRINHO"

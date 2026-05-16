@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T11:15:05-03:00",
-    "gerado_em_humano": "15/05/2026 11:15",
+    "gerado_em": "2026-05-16T09:28:01-03:00",
+    "gerado_em_humano": "16/05/2026 09:28",
     "slug_url": "painel-pc-weldisommarcos-2026-eg5e",
     "departamento": "direito_criminal"
   },
@@ -88,15 +88,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 0,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-04-28"
+    "ultima_data": null
   }
 }

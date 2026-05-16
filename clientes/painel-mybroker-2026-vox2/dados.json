@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:30:55-03:00",
-    "gerado_em_humano": "15/05/2026 10:30",
+    "gerado_em": "2026-05-16T08:44:08-03:00",
+    "gerado_em_humano": "16/05/2026 08:44",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -318,58 +318,7 @@
       "created_at": "2026-02-11 12:08:46",
       "process_date": "2025-04-03",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [
-        {
-          "date": "2017-01-20",
-          "header": "TJGO",
-          "title": "Certidão Expedida"
-        },
-        {
-          "date": "2016-12-15",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2016-12-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contestação - CONTESTAÇÃO"
-        },
-        {
-          "date": "2016-11-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para (Promovido) CELG DISTRIBUIÇÃO S.A,"
-        },
-        {
-          "date": "2016-11-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - MANOEL DE FARIA PAZ (Referente à Mov. SENTENÇA HOMOLOGADA A TRANSAÇÃO ( CPC ) - )"
-        },
-        {
-          "date": "2016-11-25",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Transação - Sentença homologatória"
-        },
-        {
-          "date": "2016-11-25",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2016-11-25",
-          "header": "TJGO",
-          "title": "Audiência Realizada - (Conciliação - 25/11/2016 09:30)"
-        },
-        {
-          "date": "2016-11-25",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para CELG DISTRIBUIÇÃO S.A, (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA (14/10/2016 10:24:37))"
-        },
-        {
-          "date": "2016-10-24",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Promovente)MANOEL DE FARIA PAZ (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO MARCADA (14/10/2016 10:24:37))"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "HUGO QUEIROZ ALVES"
@@ -3792,15 +3741,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 18,
+    "total": 20,
     "categorias": {
-      "Peças": 2,
+      "Peças": 3,
       "Audiências": 2,
       "Comunicações": 4,
-      "Acompanhamento": 6,
+      "Acompanhamento": 7,
       "Diligências": 1,
       "Outras": 3
     },
-    "ultima_data": "2026-05-12"
+    "ultima_data": "2026-05-15"
   }
 }

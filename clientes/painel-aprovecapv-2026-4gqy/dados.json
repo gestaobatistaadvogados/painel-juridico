@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:34:20-03:00",
-    "gerado_em_humano": "15/05/2026 10:34",
+    "gerado_em": "2026-05-16T08:47:29-03:00",
+    "gerado_em_humano": "16/05/2026 08:47",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -1054,58 +1054,7 @@
       "created_at": "2026-02-07 16:47:46",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
-      "movements": [
-        {
-          "date": "2021-02-26",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2021-02-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - transito em julgado"
-        },
-        {
-          "date": "2020-11-03",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESTADO DE GOIÁS (Referente à Mov. Extinção da Execução Pelo Pagamento (21/10/2020 10:37:38))"
-        },
-        {
-          "date": "2020-10-21",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Advgs. de ESTADO DE GOIÁS (Referente à Mov. Extinção da Execução Pelo Pagamento - )"
-        },
-        {
-          "date": "2020-10-21",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - CELIA APARECIDA SANTOS (Referente à Mov. Extinção da Execução Pelo Pagamento - )"
-        },
-        {
-          "date": "2020-10-21",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> pagamento integral do débito"
-        },
-        {
-          "date": "2020-01-20",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2019-12-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Requer seja retificada a comunicação à Receita Federal"
-        },
-        {
-          "date": "2019-11-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - A ser publicada no Diário Eletrônico nos próximos 2 (dois) dias úteis - CELIA APARECIDA SANTOS - Polo Ativo (Referente à Mov. Alvará Expedido - 31/10/2019 15:48:46)"
-        },
-        {
-          "date": "2019-10-31",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "ALCEU ANTONIO BARBOSA"
@@ -4684,54 +4633,54 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-11",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Goiânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (29/04/2026 14:37:39))"
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - (Sessão do dia 11/05/2026 10:00)"
         },
         {
-          "date": "2026-05-11",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão Virtual -> Para Julgamento - (Em Mesa para Julgamento - Sessão do dia 11/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Embargos -> Embargos de Declaração Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Simone Rezende Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - Inclua-se em mesa para julgamento."
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Seguradora APROVEC - Associação De Apoio Aos Proprietários De Veiculos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cleidinaldo Alves Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Embargos de declaração"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Julian David Albino Serrano (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
         },
         {
-          "date": "2026-04-29",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleidinaldo Alves Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 29/04/2026 14:37:39)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SA - Associação De Apoio Aos Proprietários De Veiculos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 13/05/2026 12:02:00)"
         },
         {
-          "date": "2026-04-29",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Município De Goiânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 29/04/2026 14:37:39)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleidinaldo Alves Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 13/05/2026 12:02:00)"
         },
         {
-          "date": "2026-04-29",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Julian David Albino Serrano (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 29/04/2026 14:37:39)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Simone Rezende Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 13/05/2026 12:02:00)"
         },
         {
-          "date": "2026-04-29",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 28/04/2026 09:00)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Julian David Albino Serrano (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 13/05/2026 12:02:00)"
         },
         {
-          "date": "2026-04-29",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Simone Rezende Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 29/04/2026 14:37:39)"
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Goiânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 13/05/2026 12:02:00)"
         }
       ],
       "partes_adversarias": [
@@ -5723,9 +5672,39 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Despacho -> Determinação de Citação"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (12/05/2026 22:23:27))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão -> Gratuidade da Justiça"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"1306-PROCESSO CÍVEL E DO TRABALHO -> Outros Procedimentos -> Incidentes -> Incidente de Desconsideração de Personalidade Jurídica\""
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Mudança de Assunto Processual"
+        },
+        {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Autos Conclusos - COM PEDIDO DE GRATUIDADE DA JUSTIÇA"
+          "title": "Mudança de Assunto Processual"
         },
         {
           "date": "2026-04-06",
@@ -5740,27 +5719,7 @@
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Mudança de Assunto Processual"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Processo Distribuído - Goiânia - Central de Cumprimento de Sentença Cível (Dependente) - Distribuído para: Aldo Guilherme Saad Sabino de Freitas"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Peticão Enviada -"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Peticão Enviada"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
+          "title": "Autos Conclusos - COM PEDIDO DE GRATUIDADE DA JUSTIÇA"
         }
       ],
       "partes_adversarias": [
@@ -5970,8 +5929,8 @@
     "categorias": {
       "Peças": 8,
       "Audiências": 6,
-      "Comunicações": 8,
-      "Acompanhamento": 28,
+      "Comunicações": 7,
+      "Acompanhamento": 29,
       "Diligências": 2,
       "Outras": 3
     },

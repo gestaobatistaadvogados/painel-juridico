@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:38:02-03:00",
-    "gerado_em_humano": "15/05/2026 10:38",
+    "gerado_em": "2026-05-16T08:51:10-03:00",
+    "gerado_em_humano": "16/05/2026 08:51",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -648,12 +648,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 13,
+    "total": 12,
     "categorias": {
       "Peças": 2,
       "Audiências": 1,
       "Comunicações": 3,
-      "Acompanhamento": 5,
+      "Acompanhamento": 4,
       "Diligências": 2,
       "Outras": 0
     },

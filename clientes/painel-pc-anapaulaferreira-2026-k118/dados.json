@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T11:13:28-03:00",
-    "gerado_em_humano": "15/05/2026 11:13",
+    "gerado_em": "2026-05-16T09:26:25-03:00",
+    "gerado_em_humano": "16/05/2026 09:26",
     "slug_url": "painel-pc-anapaulaferreira-2026-k118",
     "departamento": "direito_criminal"
   },
@@ -83,7 +83,7 @@
           "name": "Parte sob sigilo legal"
         },
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -249,6 +249,6 @@
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-14"
+    "ultima_data": "2026-05-15"
   }
 }

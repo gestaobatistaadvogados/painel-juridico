@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:42:55-03:00",
-    "gerado_em_humano": "15/05/2026 10:42",
+    "gerado_em": "2026-05-16T08:56:01-03:00",
+    "gerado_em_humano": "16/05/2026 08:56",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -914,6 +914,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJDFT",
+          "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJDFT",
           "title": "Juntada de Petição de petição"
@@ -921,17 +926,12 @@
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Publicado Decisão em 22/04/2026."
+          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
         },
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJDFT",
-          "title": "Recebidos os autos"
+          "title": "Publicado Decisão em 22/04/2026."
         },
         {
           "date": "2026-04-17",
@@ -942,6 +942,11 @@
           "date": "2026-04-17",
           "header": "TJDFT",
           "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Recebidos os autos"
         },
         {
           "date": "2026-04-11",
@@ -1055,15 +1060,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 5,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 4,
       "Diligências": 0,
-      "Outras": 0
+      "Outras": 1
     },
-    "ultima_data": "2026-04-30"
+    "ultima_data": "2026-05-15"
   }
 }

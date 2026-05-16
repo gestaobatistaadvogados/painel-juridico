@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-15T10:36:28-03:00",
-    "gerado_em_humano": "15/05/2026 10:36",
+    "gerado_em": "2026-05-16T08:49:37-03:00",
+    "gerado_em_humano": "16/05/2026 08:49",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -568,7 +568,7 @@
       "movements": [],
       "partes_adversarias": [
         {
-          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS 01.409.598"
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -982,58 +982,7 @@
       "created_at": "2025-04-03 00:00:00",
       "process_date": "2025-04-03",
       "responsible": "LEONARDO VASCONCELOS",
-      "movements": [
-        {
-          "date": "2026-01-26",
-          "header": "TJGO",
-          "title": "Processo Redistribuído - Goiânia - UJS das Varas da Fazenda Pública Municipal e Estadual - Execução Fiscal: 1ª e 5ª (Direcionada Magistrado) - Distribuído para: André Reis Lacerda"
-        },
-        {
-          "date": "2026-01-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - redistribuição"
-        },
-        {
-          "date": "2022-09-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE GOIANIA (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (06/09/2022 16:49:18))"
-        },
-        {
-          "date": "2022-09-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE GOIANIA (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
-        },
-        {
-          "date": "2022-09-06",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2022-09-06",
-          "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência"
-        },
-        {
-          "date": "2022-09-06",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2022-09-06",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Juntada de Petição - Desistência PGM"
-        },
-        {
-          "date": "2022-09-05",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Novo responsável: Fernando de Mello Xavier"
-        },
-        {
-          "date": "2022-08-02",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
-        }
-      ],
+      "movements": [],
       "partes_adversarias": [
         {
           "name": "AIRTON SILVERIO ALVES"
