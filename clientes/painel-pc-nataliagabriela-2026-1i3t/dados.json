@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T09:25:24-03:00",
-    "gerado_em_humano": "16/05/2026 09:25",
+    "gerado_em": "2026-05-17T09:36:33-03:00",
+    "gerado_em_humano": "17/05/2026 09:36",
     "slug_url": "painel-pc-nataliagabriela-2026-1i3t",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Guapó - Promotoria da Vara Criminal (Referente à Mov. Decisão -> Recebimento -> Recurso -> Com efeito suspensivo - 06/04/2026 18:12:31)"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Recebimento -> Recurso -> Com efeito suspensivo (06/04/2026 18:12:31))"
@@ -50,22 +55,12 @@
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Apelação - Apelação"
+          "title": "Intimação Lida - Por Marcelo Franco de Assis Costa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
         },
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Intimação Lida - Por Marcelo Franco de Assis Costa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência - Sentença Absolutória"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NANDA AIARA ARAUJO MARQUES (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+          "title": "Juntada -> Petição -> Apelação - Apelação"
         },
         {
           "date": "2026-03-19",
@@ -75,7 +70,12 @@
         {
           "date": "2026-03-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NATALIA GABRIELA SILVA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de NATALIA GABRIELA SILVA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
+        },
+        {
+          "date": "2026-03-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência - Sentença Absolutória"
         }
       ],
       "partes_adversarias": [

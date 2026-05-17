@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:56:39-03:00",
-    "gerado_em_humano": "16/05/2026 08:56",
+    "gerado_em": "2026-05-17T09:07:38-03:00",
+    "gerado_em_humano": "17/05/2026 09:07",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -50,6 +50,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação - impossibilidade de retorno ao rito monitório"
@@ -63,11 +68,6 @@
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tracbel S/a (Referente à Mov. Juntada de Documento - 16/04/2026 14:16:56)"
         },
         {
           "date": "2026-04-16",
@@ -90,14 +90,14 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Juntada de Documento - 16/04/2026 14:16:56)"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-04-16",
           "header": "TJGO",
-          "title": "Certidão Expedida - Ofício encaminhado ao Cartório de Reg de ImóvTabel 1º de Notas Aparecida Goiâni"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tracbel S/a (Referente à Mov. Juntada de Documento - 16/04/2026 14:16:56)"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Ofício(s) Expedido(s) -"
+          "title": "Certidão Expedida - Ofício encaminhado ao Cartório de Reg de ImóvTabel 1º de Notas Aparecida Goiâni"
         }
       ],
       "partes_adversarias": [

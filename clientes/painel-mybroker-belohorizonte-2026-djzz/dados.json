@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:52:20-03:00",
-    "gerado_em_humano": "16/05/2026 08:52",
+    "gerado_em": "2026-05-17T09:03:17-03:00",
+    "gerado_em_humano": "17/05/2026 09:03",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJMG",
+          "title": "Evento: 79\nDescrição: Publicado no DJEN - no dia 12/05/2026 - Refer. ao Evento: 75"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJMG",
           "title": "Evento: 78\nDescrição: Disponibilizado no DJEN - no dia 11/05/2026 - Refer. ao Evento: 75"
@@ -40,17 +45,22 @@
         {
           "date": "2026-05-08",
           "header": "TJMG",
+          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:ABERTO\nData inicial da contagem do prazo: 13/05/2026 00:00:00\nData final: 19/05/2026 23:59:59"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJMG",
+          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:AGUARD. ABERTURA"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJMG",
           "title": "Evento: 76\nDescrição: PETIÇÃO - Refer. aos Eventos: 68 e 69"
         },
         {
           "date": "2026-05-08",
           "header": "TJMG",
           "title": "Evento: 74\nDescrição: Ato ordinatório praticado"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:AGUARD. ABERTURA"
         },
         {
           "date": "2026-04-23",
@@ -66,16 +76,6 @@
           "date": "2026-04-13",
           "header": "TJMG",
           "title": "Evento: 71\nDescrição: Disponibilizado no DJEN - no dia 13/04/2026 - Refer. aos Eventos: 68, 69, 70"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJMG",
-          "title": "Evento: 68\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 67\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 15/04/2026 00:00:00\nData final: 08/05/2026 23:59:59"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJMG",
-          "title": "Evento: 67\nDescrição: Julgado procedente em parte o pedido"
         }
       ],
       "partes_adversarias": [

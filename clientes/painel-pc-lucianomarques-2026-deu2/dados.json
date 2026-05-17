@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T09:25:35-03:00",
-    "gerado_em_humano": "16/05/2026 09:25",
+    "gerado_em": "2026-05-17T09:36:44-03:00",
+    "gerado_em_humano": "17/05/2026 09:36",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) RAFAEL SIMONETTI BUENO DA SILVA (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Desabilitação de Responsável - Promotor Responsável Desabilitado: Tiago Santana Gonçalves"
@@ -35,12 +40,7 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Audiência de Instrução - (Agendada para 20/05/2026 13:00)"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+          "title": "Juntada de Documento - LINK ZOOM"
         },
         {
           "date": "2026-05-12",
@@ -70,12 +70,12 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
         },
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dario Fonseca Faustino (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
         }
       ],
       "partes_adversarias": [

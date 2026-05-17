@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:52:53-03:00",
-    "gerado_em_humano": "16/05/2026 08:52",
+    "gerado_em": "2026-05-17T09:03:50-03:00",
+    "gerado_em_humano": "17/05/2026 09:03",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda (Referente à Mov. Juntada de Documento (04/05/2026 08:40:02))"
@@ -45,11 +50,6 @@
         {
           "date": "2026-04-24",
           "header": "TJGO",
-          "title": "Certidão Expedida - CENTRAL BUSCA DE ENDEREÇO"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
           "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
         },
         {
@@ -63,6 +63,11 @@
           "title": "Certidão Expedida - Certidão CENOPES"
         },
         {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CENTRAL BUSCA DE ENDEREÇO"
+        },
+        {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
@@ -71,11 +76,6 @@
           "date": "2026-03-27",
           "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO. DILAÇÃO DE PRAZO - 05 dias"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [

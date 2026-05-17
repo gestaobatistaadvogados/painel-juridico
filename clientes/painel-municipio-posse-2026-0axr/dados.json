@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T09:13:21-03:00",
-    "gerado_em_humano": "16/05/2026 09:13",
+    "gerado_em": "2026-05-17T09:24:25-03:00",
+    "gerado_em_humano": "17/05/2026 09:24",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -180,6 +180,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 14/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Aluzair Pereira De Souza Mesquita em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
@@ -188,16 +198,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (27/04/2026 16:17:10))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aluzair Pereira De Souza Mesquita (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
         },
         {
           "date": "2026-04-27",
@@ -222,12 +222,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Processo Desarquivado"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aluzair Pereira De Souza Mesquita (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2026-01-27",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
         }
       ],
       "partes_adversarias": [
@@ -1098,6 +1098,26 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fernando Costa Santos (Referente à Mov. Decisão -> deferimento (13/05/2026 17:18:07))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fernando Costa Santos - Polo Ativo (Referente à Mov. Decisão -> deferimento - 13/05/2026 17:18:07)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Passivo (Referente à Mov. Decisão -> deferimento - 13/05/2026 17:18:07)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Cálculo de Custas"
@@ -1105,17 +1125,12 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Autos Conclusos -"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-04-01",
@@ -1123,29 +1138,14 @@
           "title": "Processo Desarquivado"
         },
         {
+          "date": "2026-04-01",
+          "header": "TJGO",
+          "title": "Processo Desarquivado -"
+        },
+        {
           "date": "2026-03-24",
           "header": "TJGO",
           "title": "Juntada -> Petição - Providencias - RPV e PECATÓRIO"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fernando Costa Santos (Referente à Mov. Cálculo de Custas (23/03/2026 12:21:39))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fernando Costa Santos (Referente à Mov. Cálculo de Custas (23/03/2026 12:21:39) - Prazo de 15 (quinze) dias para pagar a guia mencionada, sob pena de início das providências para protesto.)"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Cálculo de Custas - - Certidão de Crédito Judicial: Guia 09380319250"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -1484,6 +1484,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 14/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Raquel Teixeira Dos Santos Bomfim em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
@@ -1492,16 +1502,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (27/04/2026 15:38:31))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raquel Teixeira Dos Santos Bomfim (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
         },
         {
           "date": "2026-04-27",
@@ -1526,12 +1526,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Processo Desarquivado"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raquel Teixeira Dos Santos Bomfim (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2026-01-27",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - volvam os autos ao arquivo nos termos Nota Técnica nº 04/2023"
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:52:07-03:00",
-    "gerado_em_humano": "16/05/2026 08:52",
+    "gerado_em": "2026-05-17T09:03:04-03:00",
+    "gerado_em_humano": "17/05/2026 09:03",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -262,6 +262,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutoria"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
@@ -284,17 +289,17 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
           "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (09/04/2026 13:49:54))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-03-31",
@@ -304,12 +309,7 @@
         {
           "date": "2026-03-24",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - ATO ORDINATÓRIO ANDAMENTO EXECUÇÕES- PENA SUSPENSÃO ARQUIVAMENTO 6ªUPJ"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (24/03/2026 14:05:37))"
         }
       ],
       "partes_adversarias": [

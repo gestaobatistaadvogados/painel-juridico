@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:56:01-03:00",
-    "gerado_em_humano": "16/05/2026 08:56",
+    "gerado_em": "2026-05-17T09:07:00-03:00",
+    "gerado_em_humano": "17/05/2026 09:07",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -198,14 +198,19 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
-          "date": "2026-05-11",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Juntada de Documento - Encaminhamento Civ - MACIEL SILVA - (62) 99904-2544"
+          "title": "Citação Não Efetivada - Via Whatsapp - Maciel Silva"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Certidão Expedida - UPJ - CERTIDÃO - ENCAMINHAMENTO CIV - WHATSAPP"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Encaminhamento Civ - MACIEL SILVA - (62) 99904-2544"
         },
         {
           "date": "2026-05-09",
@@ -230,22 +235,17 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Citação Expedida - E-carta expedido para o executado/Título Extrajudicial"
+          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
+          "title": "Citação Expedida - E-carta expedido para o executado/Título Extrajudicial"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - Citação novo endereço"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Citação Não Efetivada (06/04/2026 12:21:07))"
         }
       ],
       "partes_adversarias": [

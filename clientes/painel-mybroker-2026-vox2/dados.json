@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:44:08-03:00",
-    "gerado_em_humano": "16/05/2026 08:44",
+    "gerado_em": "2026-05-17T08:55:00-03:00",
+    "gerado_em_humano": "17/05/2026 08:55",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -389,14 +389,19 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-04-30",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Processo Arquivado"
+          "title": "Juntada de Documento"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
         },
         {
           "date": "2026-04-24",
@@ -416,11 +421,6 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sousa Andrade Construtora E Incorpora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Spe Praça T-19 Incorporações Imobiliárias LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         },
         {
@@ -431,12 +431,12 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Humanae Incorporadora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sousa Andrade Construtora E Incorpora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         },
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marta Silva De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Humanae Incorporadora LTDA. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (09/04/2026 23:33:32))"
         }
       ],
       "partes_adversarias": [
@@ -1935,6 +1935,11 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Via Whatsapp - Stela Cristini De Sousa Lopes"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Juntada de Documento - Encaminhamento Civ - Stela Cristini De Sousa Lopes - (77) 8868-9998"
@@ -1967,11 +1972,6 @@
         {
           "date": "2026-03-13",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Certidão Expedida (13/03/2026 10:54:51))"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucimar Nunes Da Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
@@ -1980,9 +1980,9 @@
           "title": "Certidão Expedida - Intimação p/ parte exequente apresentar planilha de valores atualizados"
         },
         {
-          "date": "2026-03-12",
+          "date": "2026-03-13",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (12/03/2026 10:41:35))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Certidão Expedida (13/03/2026 10:54:51))"
         }
       ],
       "partes_adversarias": [
@@ -2768,6 +2768,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJDFT",
+          "title": "Publicado Certidão em 14/05/2026."
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJDFT",
+          "title": "Disponibilizado no DJ Eletrônico em 13/05/2026"
+        },
+        {
           "date": "2026-03-31",
           "header": "TJDFT",
           "title": "Juntada de Petição de petição"
@@ -2801,16 +2811,6 @@
           "date": "2026-02-04",
           "header": "TJDFT",
           "title": "Juntada de Petição de petição"
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJDFT",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJDFT",
-          "title": "Declarada decadência ou prescrição"
         },
         {
           "date": "2026-01-30",

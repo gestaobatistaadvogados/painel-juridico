@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T09:28:01-03:00",
-    "gerado_em_humano": "16/05/2026 09:28",
+    "gerado_em": "2026-05-17T09:39:11-03:00",
+    "gerado_em_humano": "17/05/2026 09:39",
     "slug_url": "painel-pc-weldisommarcos-2026-eg5e",
     "departamento": "direito_criminal"
   },
@@ -28,9 +28,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Especificação de Provas"
+        },
+        {
           "date": "2026-04-24",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Weldisom Marcos Da Silva (Referente à Mov. Certidão Expedida (24/04/2026 10:33:04))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Volkswagen S.a. (Referente à Mov. Certidão Expedida (24/04/2026 10:33:04))"
         },
         {
           "date": "2026-04-24",
@@ -50,7 +55,7 @@
         {
           "date": "2026-04-24",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Volkswagen S.a. (Referente à Mov. Certidão Expedida (24/04/2026 10:33:04))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Weldisom Marcos Da Silva (Referente à Mov. Certidão Expedida (24/04/2026 10:33:04))"
         },
         {
           "date": "2026-04-23",
@@ -60,7 +65,7 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Banco Volkswagen S.a. (Referente à Mov. Decisão -> Não-Concessão -> Tutela Provisória (CNJ:785) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Weldisom Marcos Da Silva (Referente à Mov. Decisão -> Não-Concessão -> Tutela Provisória (15/04/2026 17:46:47))"
         },
         {
           "date": "2026-04-15",
@@ -70,12 +75,7 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Weldisom Marcos Da Silva (Referente à Mov. Decisão -> Não-Concessão -> Tutela Provisória (CNJ:785) - )"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Banco Volkswagen S.a. (Referente à Mov. Decisão -> Não-Concessão -> Tutela Provisória (15/04/2026 17:46:47))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Banco Volkswagen S.a. (Referente à Mov. Decisão -> Não-Concessão -> Tutela Provisória (CNJ:785) - )"
         }
       ],
       "partes_adversarias": [

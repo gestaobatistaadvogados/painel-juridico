@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T09:00:13-03:00",
-    "gerado_em_humano": "16/05/2026 09:00",
+    "gerado_em": "2026-05-17T09:11:13-03:00",
+    "gerado_em_humano": "17/05/2026 09:11",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -745,6 +745,46 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por ALTAMIR RODRIGUES VIEIRA JUNIOR (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (13/05/2026 19:30:24))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Edivaldo Machado De Lima (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 13/05/2026 19:30:24)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gustavo de almeida Machado (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 13/05/2026 19:30:24)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gustavo de almeida Machado (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (13/05/2026 19:30:24))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Edivaldo Machado De Lima (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (13/05/2026 19:30:24))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 13/05/2026 19:30:24)"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipamerigo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 13/05/2026 19:30:24)"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Mudança de Assunto Processual"
@@ -752,47 +792,7 @@
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Certidão Expedida - Conclusão com parecer da PGJ"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer -"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
           "title": "Intimação Lida - Por ALTAMIR RODRIGUES VIEIRA JUNIOR (Referente à Mov. Autos Vista ao MP (09/03/2026 09:07:09))"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: ALTAMIR RODRIGUES VIEIRA JUNIOR"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Autos Vista ao MP - Vista PGJ"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Pendência Verificada - CEJUSC 2º Grau"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Autos Vista ao MP (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:51:16-03:00",
-    "gerado_em_humano": "16/05/2026 08:51",
+    "gerado_em": "2026-05-17T09:02:13-03:00",
+    "gerado_em_humano": "17/05/2026 09:02",
     "slug_url": "painel-mybroker-araes-2026-hf21",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-14",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de contestação"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJMT",
           "title": "Decurso de Prazo\nDecorrido prazo de DANIEL FRANCISCO DE OLIVEIRA em 11/05/2026 23:59  - expediente de n° 48658722"
@@ -36,11 +41,6 @@
           "date": "2026-05-12",
           "header": "TJMT",
           "title": "Decurso de Prazo\nDecorrido prazo de MY BROKER ARAES LTDA em 11/05/2026 23:59  - expediente de n° 48658719"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJMT",
-          "title": "Recebimento do CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
         },
         {
           "date": "2026-05-11",
@@ -68,14 +68,14 @@
           "title": "Conclusão\nConclusos para julgamento"
         },
         {
+          "date": "2026-05-11",
+          "header": "TJMT",
+          "title": "Recebimento do CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJMT",
           "title": "Documento\nJuntada de não entregue - mudou-se (ecarta)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJMT",
-          "title": "Recebimento no CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos."
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-16T08:51:38-03:00",
-    "gerado_em_humano": "16/05/2026 08:51",
+    "gerado_em": "2026-05-17T09:02:35-03:00",
+    "gerado_em_humano": "17/05/2026 09:02",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução-penhora parcial com transferência-CEF"
+        },
         {
           "date": "2026-04-10",
           "header": "TJGO",
@@ -60,22 +65,17 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Decisão -> Deferimento em Parte"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
         },
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
+          "title": "Decisão -> Deferimento em Parte"
         },
         {
           "date": "2026-03-27",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [
