@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:07:00-03:00",
-    "gerado_em_humano": "17/05/2026 09:07",
+    "gerado_em": "2026-05-18T14:58:13-03:00",
+    "gerado_em_humano": "18/05/2026 14:58",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -119,29 +119,29 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Manoel Lessa Mota em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Aevo Imobiliaria Ltda em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Thaize Pereira Da Silva (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Carlos Anderson Oliveira Silva em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Thaize Pereira Da Silva - Polo Passivo (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo - 29/04/2026 15:37:11)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (CNJ:12303) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (CNJ:12303) - )"
         },
         {
           "date": "2026-04-29",
@@ -161,12 +161,12 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Decisão -> Nomeação -> Defensor Dativo"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Documento Cumprido - Termo - (Referente à Mov. Juntada de Documento (15/04/2026 09:49:27))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         }
       ],
       "partes_adversarias": [
@@ -1060,12 +1060,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 4,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 1
     },

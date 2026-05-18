@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:03:32-03:00",
-    "gerado_em_humano": "17/05/2026 09:03",
+    "gerado_em": "2026-05-18T14:54:44-03:00",
+    "gerado_em_humano": "18/05/2026 14:54",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -170,6 +170,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJMT",
+          "title": "de Conciliação\nAudiência de conciliação designada em/para 16/06/2026 14:40, 6º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Aviso de recebimento (AR)"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJMT",
           "title": "Petição\nJuntada de Petição de manifestação"
@@ -203,21 +218,6 @@
           "date": "2026-05-01",
           "header": "TJMT",
           "title": "Documento\nJuntada de não entregue - não existe o número (ecarta)"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJMT",
-          "title": "Documento\nJuntada de entregue (ecarta)"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de outros documentos"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJMT",
-          "title": "Remessa\nRemetidos os Autos outros motivos para o Órgao julgador de origem"
         }
       ],
       "partes_adversarias": [

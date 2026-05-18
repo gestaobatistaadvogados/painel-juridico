@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:11:50-03:00",
-    "gerado_em_humano": "17/05/2026 09:11",
+    "gerado_em": "2026-05-18T15:03:07-03:00",
+    "gerado_em_humano": "18/05/2026 15:03",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -563,15 +563,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 1,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-05-15"
+    "ultima_data": "2026-05-18"
   }
 }

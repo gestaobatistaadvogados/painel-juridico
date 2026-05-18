@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:36:44-03:00",
-    "gerado_em_humano": "17/05/2026 09:36",
+    "gerado_em": "2026-05-18T15:28:27-03:00",
+    "gerado_em_humano": "18/05/2026 15:28",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -88,13 +88,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 3,
     "categorias": {
       "Peças": 0,
       "Audiências": 1,
       "Comunicações": 1,
       "Acompanhamento": 1,
-      "Diligências": 1,
+      "Diligências": 0,
       "Outras": 0
     },
     "ultima_data": "2026-05-13"

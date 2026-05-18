@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:02:06-03:00",
-    "gerado_em_humano": "17/05/2026 09:02",
+    "gerado_em": "2026-05-18T14:53:17-03:00",
+    "gerado_em_humano": "18/05/2026 14:53",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -363,6 +363,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Despacho, término do Decreto Judiciário nº 1236/2026 - NAJ"
+        },
+        {
           "date": "2026-04-08",
           "header": "TJGO",
           "title": "Juntada de Documento - Ofício Comunicatório"
@@ -370,12 +375,12 @@
         {
           "date": "2026-03-25",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-03-25",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Autos Conclusos -"
         },
         {
           "date": "2026-03-24",
@@ -385,7 +390,12 @@
         {
           "date": "2026-03-20",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de R1EISL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fr Urb Goianapolis Empreendimentos Imobiliarios Ltda. (Referente à Mov. Despacho -> Mero Expediente (20/03/2026 18:15:27))"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Uberlandia Ltda (Referente à Mov. Despacho -> Mero Expediente (20/03/2026 18:15:27))"
         },
         {
           "date": "2026-03-20",
@@ -401,16 +411,6 @@
           "date": "2026-03-20",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valeriano Rodrigues Engenharia Ltda (Referente à Mov. Despacho -> Mero Expediente (20/03/2026 18:15:27))"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         }
       ],
       "partes_adversarias": [
@@ -436,6 +436,11 @@
       "responsible": "ANGELICA SILVA CARDOSO",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJMG",
           "title": "Proferido despacho de mero expediente"
@@ -448,12 +453,12 @@
         {
           "date": "2025-12-08",
           "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
+          "title": "Juntada de Petição de guias de recolhimento/ deposito/ custas"
         },
         {
           "date": "2025-12-08",
           "header": "TJMG",
-          "title": "Juntada de Petição de guias de recolhimento/ deposito/ custas"
+          "title": "Juntada de Petição de manifestação"
         },
         {
           "date": "2025-12-06",
@@ -463,12 +468,12 @@
         {
           "date": "2025-12-04",
           "header": "TJMG",
-          "title": "Publicado Intimação em 04/12/2025."
+          "title": "Disponibilizado no DJ Eletrônico em 03/12/2025"
         },
         {
           "date": "2025-12-04",
           "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 03/12/2025"
+          "title": "Publicado Intimação em 04/12/2025."
         },
         {
           "date": "2025-12-02",
@@ -479,11 +484,6 @@
           "date": "2025-11-19",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2025-11-19",
-          "header": "TJMG",
-          "title": "Decorrido prazo de MY BROKER IMOBILIARIA UBERLANDIA LTDA em 18/11/2025 23:59."
         }
       ],
       "partes_adversarias": [

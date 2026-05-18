@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:02:13-03:00",
-    "gerado_em_humano": "17/05/2026 09:02",
+    "gerado_em": "2026-05-18T14:53:24-03:00",
+    "gerado_em_humano": "18/05/2026 14:53",
     "slug_url": "painel-mybroker-araes-2026-hf21",
     "departamento": "direito_imobiliario"
   },
@@ -94,15 +94,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 0,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": null
   }
 }

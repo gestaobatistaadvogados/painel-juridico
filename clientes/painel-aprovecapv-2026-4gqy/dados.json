@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T08:58:24-03:00",
-    "gerado_em_humano": "17/05/2026 08:58",
+    "gerado_em": "2026-05-18T14:49:34-03:00",
+    "gerado_em_humano": "18/05/2026 14:49",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -101,9 +101,34 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Expedição de Documento (15/05/2026 16:38:18))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Expedição de Documento - CCSC - Andamento ao feito/ Suspensão (921, III, CPC)"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Expedição de Documento (CNJ:60) - )"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Penhora Não Realizada - DEVOLUÇÃO CENTRAL SISBAJUD - penhora infrutífera"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA( - GO) (Referente à Mov. Juntada de Documento - 06/05/2026 16:58:42)"
         },
         {
           "date": "2026-05-11",
@@ -121,34 +146,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Juntada de Documento - 06/05/2026 16:58:42)"
         },
         {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA( - GO) (Referente à Mov. Juntada de Documento - 06/05/2026 16:58:42)"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Resultado RENAJUD"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Certidão CENOPES"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Certidão Expedida - CENTRAL RENAJUD"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Decisão -> Outras Decisões (05/05/2026 20:13:04))"
         }
       ],
       "partes_adversarias": [
@@ -1594,14 +1594,19 @@
           "title": "Juntada de entregue (ecarta)"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-15",
           "header": "TJCE",
-          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 04/05/2026 23:59."
+          "title": "Juntada de Petição de Contestação"
         },
         {
           "date": "2026-05-05",
           "header": "TJCE",
           "title": "Decorrido prazo de LUCAS MARINHO DA SILVA em 04/05/2026 23:59."
+        },
+        {
+          "date": "2026-05-05",
+          "header": "TJCE",
+          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 04/05/2026 23:59."
         },
         {
           "date": "2026-04-30",
@@ -1621,22 +1626,17 @@
         {
           "date": "2026-04-23",
           "header": "TJCE",
-          "title": "Expedição de Aviso de recebimento (AR)."
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJCE",
           "title": "Remetidos os Autos ao CEJUSC ou Centros de Conciliação/Mediação Remessa para CEJUSC"
         },
         {
           "date": "2026-04-23",
           "header": "TJCE",
-          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026 Documento: 198924064"
+          "title": "Expedição de Aviso de recebimento (AR)."
         },
         {
-          "date": "2026-04-22",
+          "date": "2026-04-23",
           "header": "TJCE",
-          "title": "Expedição de Aviso de recebimento (AR)."
+          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026 Documento: 198924064"
         }
       ],
       "partes_adversarias": [
@@ -2650,14 +2650,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-06",
+          "header": "TJMG",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
           "date": "2026-04-16",
           "header": "TJMG",
           "title": "Conclusos para despacho"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
         },
         {
           "date": "2026-04-15",
@@ -2670,9 +2670,9 @@
           "title": "Disponibilizado no DJ Eletrônico em 14/04/2026"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-04-15",
           "header": "TJMG",
-          "title": "Expedida/certificada a comunicação eletrônica"
+          "title": "Juntada de Petição de manifestação"
         },
         {
           "date": "2026-04-13",
@@ -2680,9 +2680,9 @@
           "title": "Proferido despacho de mero expediente"
         },
         {
-          "date": "2026-04-09",
+          "date": "2026-04-13",
           "header": "TJMG",
-          "title": "Conclusos para despacho"
+          "title": "Expedida/certificada a comunicação eletrônica"
         },
         {
           "date": "2026-04-09",
@@ -2690,14 +2690,14 @@
           "title": "Expedição de Certidão."
         },
         {
+          "date": "2026-04-09",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
           "date": "2025-12-09",
           "header": "TJMG",
           "title": "Juntada de Petição de documento de comprovação"
-        },
-        {
-          "date": "2025-12-04",
-          "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 03/12/2025"
         }
       ],
       "partes_adversarias": [
@@ -3094,9 +3094,14 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Recurso inominado - Recurso Inominado"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alerrandry Araujo Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (04/05/2026 13:16:25))"
         },
         {
           "date": "2026-05-04",
@@ -3116,7 +3121,7 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alerrandry Araujo Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (04/05/2026 13:16:25))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. - )"
         },
         {
           "date": "2026-03-24",
@@ -3137,11 +3142,6 @@
           "date": "2026-03-19",
           "header": "TJGO",
           "title": "Audiência de Conciliação - Realizada sem Acordo - 18/03/2026 16:30"
-        },
-        {
-          "date": "2026-02-04",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Impugnação - Impugnação à Contestação"
         }
       ],
       "partes_adversarias": [
@@ -5840,6 +5840,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Contestação"
@@ -5877,17 +5882,12 @@
         {
           "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
           "title": "Inclusão no Juízo 100% Digital -"
         },
         {
           "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - NÃO HÁ PROCESSOS ENVOLVENDO MESMAS PARTES"
+          "title": "Processo Distribuído - Goiânia - 1ª UPJ Juizados Especiais Cíveis: 1º, 2º, 3º, 4º e 5º (Normal) - Distribuído para: GUSTAVO BRAGA CARVALHO"
         }
       ],
       "partes_adversarias": [
@@ -5925,15 +5925,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 55,
+    "total": 49,
     "categorias": {
-      "Peças": 8,
-      "Audiências": 6,
-      "Comunicações": 7,
-      "Acompanhamento": 29,
+      "Peças": 7,
+      "Audiências": 3,
+      "Comunicações": 6,
+      "Acompanhamento": 28,
       "Diligências": 2,
       "Outras": 3
     },
-    "ultima_data": "2026-05-15"
+    "ultima_data": "2026-05-18"
   }
 }

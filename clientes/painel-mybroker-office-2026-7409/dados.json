@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:05:40-03:00",
-    "gerado_em_humano": "17/05/2026 09:05",
+    "gerado_em": "2026-05-18T14:56:52-03:00",
+    "gerado_em_humano": "18/05/2026 14:56",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -174,6 +174,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-16",
+          "header": "TJGO",
+          "title": "Alvará Cumprido - Caixa Econômica Federal - 200210872026 (Referente à Mov. Decisão -> Outras Decisões)"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Certidão Expedida - ALVARÁ EXPEDIDO - AGUARDANDO ASSINATURA (CAIXA | R$ 49,80)"
@@ -201,11 +206,6 @@
         {
           "date": "2026-04-28",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
           "title": "Certidão Expedida - Saldo disponível em conta judicial - Necessário Expedira Alvará"
         },
         {
@@ -214,14 +214,14 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leticia Albuquerque Azevedo (Referente à Mov. Certidão Expedida (13/04/2026 10:16:07))"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-04-28",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leticia Albuquerque Azevedo (Referente à Mov. - )"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (27/04/2026 15:29:41))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. - )"
         }
       ],
       "partes_adversarias": [

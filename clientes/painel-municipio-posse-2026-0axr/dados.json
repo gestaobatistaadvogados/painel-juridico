@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:24:25-03:00",
-    "gerado_em_humano": "17/05/2026 09:24",
+    "gerado_em": "2026-05-18T15:15:48-03:00",
+    "gerado_em_humano": "18/05/2026 15:15",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -408,6 +408,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-16",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Ana Lucia Muniz Da Rocha em 15/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Juntada -> Petição - Comprovante de protocolo do RPV"
@@ -451,11 +456,6 @@
           "date": "2026-02-19",
           "header": "TJGO",
           "title": "Ato Ordinatório - ato ordinatório - expedir RPV"
-        },
-        {
-          "date": "2025-09-22",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
         }
       ],
       "partes_adversarias": [
@@ -946,6 +946,26 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 14/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Daniela Costa Oliveira em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
@@ -954,26 +974,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (27/04/2026 15:28:10))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniela Costa Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Formalização de precatório"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
         },
         {
           "date": "2026-04-27",
@@ -988,12 +988,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Processo Desarquivado"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniela Costa Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2025-12-11",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
         }
       ],
       "partes_adversarias": [

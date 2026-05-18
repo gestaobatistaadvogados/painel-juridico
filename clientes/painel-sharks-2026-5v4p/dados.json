@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:35:41-03:00",
-    "gerado_em_humano": "17/05/2026 09:35",
+    "gerado_em": "2026-05-18T15:27:22-03:00",
+    "gerado_em_humano": "18/05/2026 15:27",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -2266,14 +2266,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+        },
+        {
           "date": "2026-04-20",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Resultado RENAJUD"
         },
         {
           "date": "2026-04-14",
@@ -2296,6 +2296,11 @@
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
         },
         {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resultado RENAJUD"
+        },
+        {
           "date": "2026-04-07",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
@@ -2304,11 +2309,6 @@
           "date": "2026-03-26",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (26/03/2026 10:05:19))"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. - )"
         },
         {
           "date": "2026-03-26",
@@ -3108,6 +3108,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (15/05/2026 10:38:05))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Intimação p/ parte exequente manifestar sobre devolução de mandado"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Mandado Não Cumprido - Para Robson Gomes De Almeida (Mandado nº 7088386 / Referente à Mov. Juntada -> Petição (18/03/2026 17:28:18))"
@@ -3125,11 +3140,6 @@
         {
           "date": "2026-03-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
           "title": "Citação Não Efetivada - Citação NÃO Efetivada (WhatsApp) - sem resposta"
         },
         {
@@ -3138,24 +3148,14 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Citação Não Efetivada (09/03/2026 11:44:05))"
         },
         {
+          "date": "2026-03-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
+        },
+        {
           "date": "2026-03-05",
           "header": "TJGO",
           "title": "Citação Expedida - WhatsApp enviado - Aguardando resposta/ ROBSON GOMES DE ALMEIDA"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - citação pelo whatsaap"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (20/12/2025 12:28:24))"
-        },
-        {
-          "date": "2026-01-12",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Robson Gomes De Almeida - Código de Rastreamento Correios: YQ997839143BR idPendenciaCorreios109487675432015873961062222idPendenciaCorreios"
         }
       ],
       "partes_adversarias": [
@@ -5065,6 +5065,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 25/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - Cabe Pedido de Sustentação Oral )"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ O RELATOR"
@@ -5075,44 +5080,39 @@
           "title": "Juntada -> Petição - CONTRARRAZÕES AO AGRAVO INTERNO"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Certidão - Agravo Interno autuado - APRESENTAR CONTRARRAZÕES AO AGRAVO INTERNO"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Despacho -> Pauta -> Pedido de inclusão em pauta (14/05/2026 17:16:46))"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Agravo (inominado/ legal) -"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Pedro Celestino Chaves Neto (Referente à Mov. Despacho -> Pauta -> Pedido de inclusão em pauta (14/05/2026 17:16:46))"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão - Agravo Interno autuado (16/04/2026 13:36:22))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ludmilla Barcelos de Paula Chaves (Referente à Mov. Despacho -> Pauta -> Pedido de inclusão em pauta (14/05/2026 17:16:46))"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Passivo (Referente à Mov. Certidão - Agravo Interno autuado (CNJ:11383) - )"
+          "title": "Despacho -> Pauta -> Pedido de inclusão em pauta"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Agravo (inominado/ legal)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ludmilla Barcelos de Paula Chaves (Referente à Mov. - )"
         },
         {
-          "date": "2026-03-31",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Peticão Enviada -"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Pedro Celestino Chaves Neto (Referente à Mov. - )"
         },
         {
-          "date": "2026-03-31",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Indeferimento da petição inicial (31/03/2026 17:32:49))"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. - )"
         }
       ],
       "partes_adversarias": [
@@ -5159,6 +5159,31 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Manifestar sobre contestação - 15 dias"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Contestação - Contestação"
@@ -5171,22 +5196,7 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VCXL (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
         },
         {
           "date": "2026-04-23",
@@ -5196,17 +5206,7 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Audiência de Conciliação CEJUSC Artigo 334 CPC - Realizada sem Acordo - 22/04/2026 13:30"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VCXL (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
         }
       ],
       "partes_adversarias": [
@@ -5225,15 +5225,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 22,
+    "total": 21,
     "categorias": {
-      "Peças": 8,
+      "Peças": 7,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 11,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-15"
+    "ultima_data": "2026-05-18"
   }
 }

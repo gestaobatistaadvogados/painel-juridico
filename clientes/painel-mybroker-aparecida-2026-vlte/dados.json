@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-17T09:02:35-03:00",
-    "gerado_em_humano": "17/05/2026 09:02",
+    "gerado_em": "2026-05-18T14:53:46-03:00",
+    "gerado_em_humano": "18/05/2026 14:53",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -101,9 +101,19 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos - EMBARGOS DE DECLARAÇÃO"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
         },
         {
           "date": "2026-05-06",
@@ -119,11 +129,6 @@
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
         },
         {
           "date": "2026-04-28",
@@ -144,11 +149,6 @@
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/03/2026 16:26:43)"
-        },
-        {
-          "date": "2026-03-06",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Alegações Finais"
         }
       ],
       "partes_adversarias": [
@@ -329,15 +329,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 2,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
-      "Diligências": 1,
+      "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-14"
+    "ultima_data": "2026-05-11"
   }
 }
