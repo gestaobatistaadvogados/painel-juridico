@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-18T15:23:58-03:00",
-    "gerado_em_humano": "18/05/2026 15:23",
+    "gerado_em": "2026-05-19T15:31:15-03:00",
+    "gerado_em_humano": "19/05/2026 15:31",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -8654,18 +8654,130 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 14925223,
+      "process_number": "5248426-27.2026.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA C/C TUTELA DE URGÊNCIA ANTECIPADA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-18 16:48:09",
+      "process_date": "2026-05-18",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ADILSON MARTINS CARDOSO"
+        },
+        {
+          "name": "CLEDIONORA MOUZINHO BORGES"
+        },
+        {
+          "name": "ESTADO DE GOIAS"
+        },
+        {
+          "name": "LYANNA BORGES FURTADO"
+        },
+        {
+          "name": "STEIO PROMOTORA E ADMINISTRADORA LTDA"
+        },
+        {
+          "name": "UNIÃO FEDERAL"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14950933,
+      "process_number": "5380221-59.2026.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE SUSPENSÃO/DESTITUIÇÃO DO PODER FAMILIAR C/ TUTELA DE URGÊNCIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-19 09:49:25",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JANAINA SOARES DE ASSUNCAO"
+        },
+        {
+          "name": "PROCURADORIA GERAL DO ESTADO DE GOIÁS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14953323,
+      "process_number": "5182422-18.2020.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-19 11:17:51",
+      "process_date": "2020-04-19",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "IMOBILIARIA FAICAL LTDA"
+        },
+        {
+          "name": "ESTELITA MARIA LOBO BORGES"
+        },
+        {
+          "name": "WILMAR TATICO BORGES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 14954599,
+      "process_number": "5078535-26.2023.8.09.0000",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "AÇÃO RESCISÓRIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-19 12:11:56",
+      "process_date": "2026-05-19",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 40,
+    "total": 57,
     "categorias": {
-      "Peças": 7,
-      "Audiências": 1,
+      "Peças": 9,
+      "Audiências": 3,
       "Comunicações": 0,
-      "Acompanhamento": 21,
+      "Acompanhamento": 29,
       "Diligências": 4,
-      "Outras": 7
+      "Outras": 12
     },
-    "ultima_data": "2026-05-18"
+    "ultima_data": "2026-05-19"
   }
 }

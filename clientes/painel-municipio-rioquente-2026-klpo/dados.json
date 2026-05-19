@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-18T15:00:05-03:00",
-    "gerado_em_humano": "18/05/2026 15:00",
+    "gerado_em": "2026-05-19T15:07:05-03:00",
+    "gerado_em_humano": "19/05/2026 15:07",
     "slug_url": "painel-municipio-rioquente-2026-klpo",
     "departamento": "direito_publico"
   },
@@ -87,6 +87,40 @@
       "tribunal": "TJGO"
     },
     {
+      "id": 13287418,
+      "process_number": "0264045-43.2014.8.09.0024",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "AÇÃO CIVIL DE IMPROBIDADE ADMINISTRATIVA",
+      "group": "CÍVEL",
+      "status_closure": "2026-05-19 12:26:26",
+      "created_at": "2026-02-20 11:54:38",
+      "process_date": null,
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BARNABE MOREIRA NETO"
+        },
+        {
+          "name": "FREITAS SOCIEDADE INDIVIDUAL DE ADVOCACIA"
+        },
+        {
+          "name": "LEONARDO DE OLIVEIRA PEREIRA BATISTA"
+        },
+        {
+          "name": "REIS HELENO DE REZENDE"
+        },
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
       "id": 13719816,
       "process_number": null,
       "protocol_number": null,
@@ -124,15 +158,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 9,
     "categorias": {
-      "Peças": 0,
-      "Audiências": 0,
-      "Comunicações": 1,
-      "Acompanhamento": 1,
+      "Peças": 1,
+      "Audiências": 1,
+      "Comunicações": 0,
+      "Acompanhamento": 4,
       "Diligências": 0,
-      "Outras": 1
+      "Outras": 3
     },
-    "ultima_data": "2026-05-04"
+    "ultima_data": "2026-05-19"
   }
 }

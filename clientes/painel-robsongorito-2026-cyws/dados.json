@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-18T14:42:27-03:00",
-    "gerado_em_humano": "18/05/2026 14:42",
+    "gerado_em": "2026-05-19T14:49:11-03:00",
+    "gerado_em_humano": "19/05/2026 14:49",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -1678,6 +1678,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
           "date": "2026-01-12",
           "header": "TRT18",
           "title": "Conclusos os autos para julgamento Proferir sentença a HELVAN DOMINGOS PREGO"
@@ -1690,32 +1695,12 @@
         {
           "date": "2025-12-10",
           "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (09/12/2025 11:30 SALA 3 - CEJUSC - 12ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
         },
         {
           "date": "2025-12-10",
           "header": "TRT18",
-          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (09/12/2025 11:30 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TRT18",
-          "title": "Ata da Audiência"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TRT18",
-          "title": "Juntada a petição de Contestação"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (09/12/2025 11:30 SALA 3 - CEJUSC - 12ª VARA DO TRABALHO DE GOIÂNIA)"
         },
         {
           "date": "2025-12-09",
@@ -1726,6 +1711,21 @@
           "date": "2025-12-09",
           "header": "TRT18",
           "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (09/12/2025 11:30 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2025-12-09",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
         }
       ],
       "partes_adversarias": [
@@ -3137,15 +3137,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 68,
+    "total": 63,
     "categorias": {
-      "Peças": 9,
+      "Peças": 7,
       "Audiências": 8,
-      "Comunicações": 8,
-      "Acompanhamento": 31,
-      "Diligências": 3,
-      "Outras": 9
+      "Comunicações": 9,
+      "Acompanhamento": 29,
+      "Diligências": 2,
+      "Outras": 8
     },
-    "ultima_data": "2026-05-18"
+    "ultima_data": "2026-05-19"
   }
 }

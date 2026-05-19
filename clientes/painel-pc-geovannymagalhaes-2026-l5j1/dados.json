@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-18T15:29:24-03:00",
-    "gerado_em_humano": "18/05/2026 15:29",
+    "gerado_em": "2026-05-19T15:36:45-03:00",
+    "gerado_em_humano": "19/05/2026 15:36",
     "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
     "departamento": "direito_criminal"
   },
@@ -262,12 +262,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 1,
     "categorias": {
-      "Peças": 2,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },

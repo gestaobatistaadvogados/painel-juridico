@@ -968,7 +968,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">18/05/2026 15:00</div>
+            <div class="data">19/05/2026 15:07</div>
             <div><span class="ativos">3</span> processos ativos</div>
         </div>
     </div>
@@ -990,7 +990,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             <h2>Trabalho realizado nos últimos 90 dias</h2>
 
             <div class="produtividade-numero-grande">
-                <span class="valor">3</span>
+                <span class="valor">9</span>
                 <span class="legenda">Tarefas Realizadas</span>
             </div>
 
@@ -998,28 +998,28 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">0</div>
+                    <div class="num">1</div>
                     <div class="lbl">Peças</div>
                 </div>
                 
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">0</div>
+                    <div class="num">1</div>
                     <div class="lbl">Audiências</div>
                 </div>
                 
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">1</div>
+                    <div class="num">0</div>
                     <div class="lbl">Comunicações</div>
                 </div>
                 
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">1</div>
+                    <div class="num">4</div>
                     <div class="lbl">Acompanhamento</div>
                 </div>
                 
@@ -1033,7 +1033,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">1</div>
+                    <div class="num">3</div>
                     <div class="lbl">Outras</div>
                 </div>
                 
@@ -1042,7 +1042,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
 
             
             <div class="produtividade-rodape">
-                ▸ Última atividade: <strong>04/05/2026</strong>
+                ▸ Última atividade: <strong>19/05/2026</strong>
             </div>
             
         </div>
@@ -1079,6 +1079,30 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="area-resumo">
                     3 ativos
                     e 0 arquivados.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+            <article class="card-area"
+                     data-area-id="civel"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('civel')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('civel');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+                <h3>Cível</h3>
+                <div class="area-contador">
+                    1 processo
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    0 ativos
+                    e 1 arquivado.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1444,6 +1468,209 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </section>
     
+    <section class="area-detalhe" id="area-civel" data-area="civel">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg></div>
+            <div>
+                <h2>Cível</h2>
+                <div class="total-area">
+                    Total da área: <strong>1</strong>
+                    processo
+                    · 0 ativos
+                    · 1 arquivado
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">1</span>
+                </div>
+                
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13287418')">
+                    <div class="card-alerta-numero">0264045-43.2014.8.09.0024</div>
+                    <div class="card-alerta-descricao">Aguardando Julgamento Do Recurso</div>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-civel"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-civel"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline-vazia">Sem andamentos cadastrados nesta área.</div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="civel"
+                       oninput="aplicarFiltros('civel')">
+                <div class="filtros" data-area="civel">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('civel', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('civel', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('civel', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('civel', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('civel', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="civel">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('civel', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('civel', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-civel">
+                        
+                        
+                        
+                        <tr data-id="13287418"
+                            data-fase-grupo="recursal"
+                            data-busca="0264045-43.2014.8.09.0024 ação civil de improbidade administrativa município de rio quente barnabe moreira neto freitas sociedade individual de advocacia leonardo de oliveira pereira batista reis heleno de rezende ministerio publico do estado de goias"
+                            onclick="abrirModalProcesso('13287418')">
+                            <td class="cnj-cell">0264045-43.2014.8.09.0024</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MUNICÍPIO DE RIO QUENTE</span>
+                                
+                                <span class="vs">vs.</span>
+                                <span class="adv-side">
+                                    
+                                    
+                                    BARNABE MOREIRA NETO, FREITAS SOCIEDADE INDIVIDUAL DE ADVOCACIA
+                                    <span class="mais-partes"> ...e 3 outras partes</span>
+                                </span>
+                                
+                            </td>
+                            <td class="tribunal-cell">TJGO</td>
+                            <td class="acao-cell">Ação Civil De Improbidade Administrativa</td>
+                            <td><span class="badge badge-fase-recursal">Aguardando Julgamento Do Recurso</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-civel">Mostrando 1 de 1 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
 
 </main>
 
@@ -1484,14 +1711,15 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 18/05/2026 15:00 — Documento de uso restrito do cliente.
+        Painel gerado em 19/05/2026 15:07 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"13203879": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-02-16 22:28:03", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-02-21", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Paulo Josue Fonseca - Presidente Do Conselho Municipal Dos Direitos Da Crian\u00e7a E Do Adolescente Do Munic\u00edpio De Rio Quente/go em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Maria Oneide Da Silva Oliveira em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}, {"date": "2026-02-21", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}], "partes_adversarias": ["MARIA ONEIDE DA SILVA OLIVEIRA"], "process_date": "2023-11-01", "process_number": "5731183-56.2023.8.09.0024", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "TRANSITO EM JULGADO/N\u00c3O CABE MAIS RECURSO", "status_closure": "", "tribunal": "TJGO", "type": "MANDADO DE SEGURAN\u00c7A"}, "13719816": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-03-17 13:00:11", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-03-17", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}, "13745779": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-03-18 15:48:24", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-03-18", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}}</script>
+<script type="application/json" id="dados-processos-modal">{"13203879": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-02-16 22:28:03", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-02-21", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Paulo Josue Fonseca - Presidente Do Conselho Municipal Dos Direitos Da Crian\u00e7a E Do Adolescente Do Munic\u00edpio De Rio Quente/go em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Maria Oneide Da Silva Oliveira em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}, {"date": "2026-02-21", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-02-21", "header": "TJGO", "title": "Decorrido Prazo - para Ana Paula Lima De Oliveira, Prefeita Municipal De Rio Quente/go em 18/02/2026 23:59:59 (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (11/02/2026 16:29:45))"}], "partes_adversarias": ["MARIA ONEIDE DA SILVA OLIVEIRA"], "process_date": "2023-11-01", "process_number": "5731183-56.2023.8.09.0024", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "TRANSITO EM JULGADO/N\u00c3O CABE MAIS RECURSO", "status_closure": "", "tribunal": "TJGO", "type": "MANDADO DE SEGURAN\u00c7A"}, "13287418": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-02-20 11:54:38", "fase_grupo": "recursal", "folder": "", "movements_top5": [], "partes_adversarias": ["BARNABE MOREIRA NETO", "FREITAS SOCIEDADE INDIVIDUAL DE ADVOCACIA", "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "REIS HELENO DE REZENDE", "MINISTERIO PUBLICO DO ESTADO DE GOIAS"], "process_date": null, "process_number": "0264045-43.2014.8.09.0024", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "AGUARDANDO JULGAMENTO DO RECURSO", "status_closure": "2026-05-19 12:26:26", "tribunal": "TJGO", "type": "A\u00c7\u00c3O CIVIL DE IMPROBIDADE ADMINISTRATIVA"}, "13719816": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-03-17 13:00:11", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-03-17", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}, "13745779": {"cliente_name": "MUNIC\u00cdPIO DE RIO QUENTE", "created_at": "2026-03-18 15:48:24", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-03-18", "process_number": "\u2014", "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"publico": {"fase": {"colors": ["#2874a6", "#884ea0"], "data": [2, 1], "labels": ["Conhecimento", "Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [3, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [2, 1], "labels": ["Administrativo", "Mandado De Seguran\u00e7a"]}, "tribunal": {"data": [2, 1], "labels": ["\u2014", "TJGO"]}}
+"publico": {"fase": {"colors": ["#2874a6", "#884ea0"], "data": [2, 1], "labels": ["Conhecimento", "Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [3, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [2, 1], "labels": ["Administrativo", "Mandado De Seguran\u00e7a"]}, "tribunal": {"data": [2, 1], "labels": ["\u2014", "TJGO"]}},
+"civel": {"fase": {"colors": ["#884ea0"], "data": [1], "labels": ["Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["A\u00e7\u00e3o Civil De Improbidade Administrativa"]}, "tribunal": {"data": [1], "labels": ["TJGO"]}}
 }</script>
 
 <script>
