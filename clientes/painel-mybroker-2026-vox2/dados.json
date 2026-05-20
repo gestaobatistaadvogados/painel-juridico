@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T14:52:51-03:00",
-    "gerado_em_humano": "19/05/2026 14:52",
+    "gerado_em": "2026-05-20T15:14:42-03:00",
+    "gerado_em_humano": "20/05/2026 15:14",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -2527,6 +2527,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bruna Cardoso Braga (Referente à Mov. Juntada -> Petição (13/05/2026 20:14:49))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bruna Cardoso Braga - Polo Ativo (Referente à Mov. Juntada -> Petição - 13/05/2026 20:14:49)"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Juntada -> Petição - Juntada de TRCT - Rede Frota Solutions"
@@ -2565,16 +2575,6 @@
           "date": "2025-11-24",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bruna Cardoso Braga - Polo Ativo (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2025-11-24",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2025-11-24",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
         }
       ],
       "partes_adversarias": [
@@ -3659,6 +3659,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Juntada -> Petição (06/05/2026 12:44:42))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/05/2026 12:44:42)"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Juntada -> Petição - pagamento incompleto multa e honoráriosos devidos, intimação para pgto em 17/03"
@@ -3667,16 +3677,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Juntada -> Petição - Pagamento integral"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Decisão -> Outras Decisões - 23/04/2026 14:53:17)"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Juntada de Documento - juntada procuração e Substabelecimento dos autos principais"
         },
         {
           "date": "2026-04-23",
@@ -3696,17 +3696,17 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
+          "title": "Juntada de Documento - juntada procuração e Substabelecimento dos autos principais"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Decisão -> Outras Decisões - 23/04/2026 14:53:17)"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:53:17))"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Inclusão no Juízo 100% Digital -"
         }
       ],
       "partes_adversarias": [
@@ -3741,15 +3741,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 20,
+    "total": 19,
     "categorias": {
-      "Peças": 3,
+      "Peças": 2,
       "Audiências": 2,
       "Comunicações": 4,
       "Acompanhamento": 7,
       "Diligências": 1,
       "Outras": 3
     },
-    "ultima_data": "2026-05-18"
+    "ultima_data": "2026-05-15"
   }
 }

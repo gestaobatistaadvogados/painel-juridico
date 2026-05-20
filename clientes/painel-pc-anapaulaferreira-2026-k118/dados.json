@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:36:38-03:00",
-    "gerado_em_humano": "19/05/2026 15:36",
+    "gerado_em": "2026-05-20T15:57:48-03:00",
+    "gerado_em_humano": "20/05/2026 15:57",
     "slug_url": "painel-pc-anapaulaferreira-2026-k118",
     "departamento": "direito_criminal"
   },
@@ -28,19 +28,24 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
-          "date": "2026-05-12",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Vista a defesa para alegações finais"
+          "title": "Certidão Expedida - Período de prisão e cumprimento de medidas cautelares"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Juntada de Documento - certidao de antecedentes- projudi e SEEU"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Alegações finais - Memoriais"
         },
         {
           "date": "2026-05-12",
@@ -53,29 +58,24 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geovanny Magalhães Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
         },
         {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Vista a defesa para alegações finais"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Audiência de Instrução e Julgamento (05/05/2026 11:33:00))"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Memoriais - Memoriais"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 28/04/2026 - 13:00 - Audiência de instrução e julgamento"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
         }
       ],
       "partes_adversarias": [
@@ -240,15 +240,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 0,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-15"
+    "ultima_data": null
   }
 }

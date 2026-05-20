@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:01:06-03:00",
-    "gerado_em_humano": "19/05/2026 15:01",
+    "gerado_em": "2026-05-20T15:22:48-03:00",
+    "gerado_em_humano": "20/05/2026 15:22",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Citação por WhatsApp"
+        },
         {
           "date": "2026-05-11",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-03-27",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Junta comp. de postagem ref ev.94"
         }
       ],
       "partes_adversarias": [

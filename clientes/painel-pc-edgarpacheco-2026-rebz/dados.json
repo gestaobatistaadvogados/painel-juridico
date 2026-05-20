@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:36:12-03:00",
-    "gerado_em_humano": "19/05/2026 15:36",
+    "gerado_em": "2026-05-20T15:57:24-03:00",
+    "gerado_em_humano": "20/05/2026 15:57",
     "slug_url": "painel-pc-edgarpacheco-2026-rebz",
     "departamento": "direito_criminal"
   },
@@ -161,13 +161,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 14,
+    "total": 8,
     "categorias": {
       "Peças": 0,
-      "Audiências": 2,
-      "Comunicações": 5,
-      "Acompanhamento": 3,
-      "Diligências": 2,
+      "Audiências": 1,
+      "Comunicações": 2,
+      "Acompanhamento": 2,
+      "Diligências": 1,
       "Outras": 2
     },
     "ultima_data": "2026-04-09"

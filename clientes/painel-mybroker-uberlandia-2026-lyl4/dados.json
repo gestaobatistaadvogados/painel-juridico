@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:00:07-03:00",
-    "gerado_em_humano": "19/05/2026 15:00",
+    "gerado_em": "2026-05-20T15:21:50-03:00",
+    "gerado_em_humano": "20/05/2026 15:21",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -582,6 +582,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-15",
+          "header": "TJMG",
+          "title": "Mandado devolvido não entregue ao destinatário IZABEL LEVINO ESTEVES - CPF: 635.561.971-20 (EXECUTADO(A))"
+        },
+        {
           "date": "2026-04-14",
           "header": "TJMG",
           "title": "Mandado devolvido não entregue ao destinatário TRUST CONSTRUTORA LTDA - EPP - CNPJ: 24.911.101/0001-82 (EXECUTADO(A))"
@@ -599,12 +604,12 @@
         {
           "date": "2026-03-20",
           "header": "TJMG",
-          "title": "Juntada de Petição de petição"
+          "title": "Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"
         },
         {
           "date": "2026-03-20",
           "header": "TJMG",
-          "title": "Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"
+          "title": "Juntada de Petição de petição"
         },
         {
           "date": "2026-03-10",
@@ -625,11 +630,6 @@
           "date": "2026-02-06",
           "header": "TJMG",
           "title": "Disponibilizado no DJ Eletrônico em 05/02/2026"
-        },
-        {
-          "date": "2026-02-04",
-          "header": "TJMG",
-          "title": "Expedida/certificada a comunicação eletrônica"
         }
       ],
       "partes_adversarias": [

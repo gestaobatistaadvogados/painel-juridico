@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:10:06-03:00",
-    "gerado_em_humano": "19/05/2026 15:10",
+    "gerado_em": "2026-05-20T15:31:42-03:00",
+    "gerado_em_humano": "20/05/2026 15:31",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -386,11 +386,11 @@
       "process_number": null,
       "protocol_number": null,
       "folder": null,
-      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
-      "step": "ADMINISTRATIVO",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
       "type": "ADMINISTRATIVO",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-05-20 09:10:36",
       "created_at": "2026-03-18 15:52:56",
       "process_date": "2026-03-18",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",

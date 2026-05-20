@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:36:03-03:00",
-    "gerado_em_humano": "19/05/2026 15:36",
+    "gerado_em": "2026-05-20T15:57:15-03:00",
+    "gerado_em_humano": "20/05/2026 15:57",
     "slug_url": "painel-pc-clesiocampos-2026-pxd0",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Moises Laurindo De Almeida (Referente à Mov. Audiência de Instrução e Julgamento (06/05/2026 17:07:14))"
+        },
         {
           "date": "2026-05-07",
           "header": "TJGO",
@@ -65,17 +70,12 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Claudio Fonseca De Brito (Referente à Mov. Audiência de Instrução e Julgamento (06/05/2026 17:07:14))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Claudio Fonseca De Brito (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO MARCADA)"
         },
         {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Clésio da Silva Campos (Referente à Mov. Audiência de Instrução e Julgamento (06/05/2026 17:07:14))"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Edmar José Terra (Referente à Mov. Audiência de Instrução e Julgamento (06/05/2026 17:07:14))"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:06:52-03:00",
-    "gerado_em_humano": "19/05/2026 15:06",
+    "gerado_em": "2026-05-20T15:28:28-03:00",
+    "gerado_em_humano": "20/05/2026 15:28",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -592,14 +592,29 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-11",
+          "date": "2026-05-18",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aluguel Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração (16/04/2026 08:59:21))"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL - Polo Passivo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Acolhimento de Embargos de Declaração - 16/04/2026 08:59:21)"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 25/05/2026 10:00:00 (Virtual) - Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
         },
         {
           "date": "2026-05-11",
@@ -614,7 +629,7 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
         },
         {
           "date": "2026-05-11",
@@ -622,24 +637,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (11/05/2026 10:50:45))"
         },
         {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 11/05/2026 10:50:45)"
-        },
-        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agrevo de Instrumento"
         }
       ],
       "partes_adversarias": [

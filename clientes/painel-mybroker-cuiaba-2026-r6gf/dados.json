@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:01:36-03:00",
-    "gerado_em_humano": "19/05/2026 15:01",
+    "gerado_em": "2026-05-20T15:23:17-03:00",
+    "gerado_em_humano": "20/05/2026 15:23",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -170,14 +170,34 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-15",
+          "date": "2026-05-19",
           "header": "TJMT",
-          "title": "Expedição de documento\nExpedição de Outros documentos"
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 18/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 18/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 19/05/2026."
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Intimação em 19/05/2026."
         },
         {
           "date": "2026-05-15",
           "header": "TJMT",
           "title": "de Conciliação\nAudiência de conciliação designada em/para 16/06/2026 14:40, 6º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
         },
         {
           "date": "2026-05-15",
@@ -198,26 +218,6 @@
           "date": "2026-05-06",
           "header": "TJMT",
           "title": "Publicação\nPublicado Intimação em 06/05/2026."
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJMT",
-          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 05/05/2026"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de contestação"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJMT",
-          "title": "Expedição de documento\nExpedição de Outros documentos"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJMT",
-          "title": "Documento\nJuntada de não entregue - não existe o número (ecarta)"
         }
       ],
       "partes_adversarias": [

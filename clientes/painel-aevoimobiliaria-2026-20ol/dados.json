@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:05:09-03:00",
-    "gerado_em_humano": "19/05/2026 15:05",
+    "gerado_em": "2026-05-20T15:26:47-03:00",
+    "gerado_em_humano": "20/05/2026 15:26",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -198,6 +198,11 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Leila Cristina Vieira Antunes Silva em 13/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (11/03/2026 15:58:41))"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Citação Não Efetivada - Via Whatsapp - Maciel Silva"
@@ -205,12 +210,12 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Certidão Expedida - UPJ - CERTIDÃO - ENCAMINHAMENTO CIV - WHATSAPP"
+          "title": "Juntada de Documento - Encaminhamento Civ - MACIEL SILVA - (62) 99904-2544"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Juntada de Documento - Encaminhamento Civ - MACIEL SILVA - (62) 99904-2544"
+          "title": "Certidão Expedida - UPJ - CERTIDÃO - ENCAMINHAMENTO CIV - WHATSAPP"
         },
         {
           "date": "2026-05-09",
@@ -241,11 +246,6 @@
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Citação Expedida - E-carta expedido para o executado/Título Extrajudicial"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Citação novo endereço"
         }
       ],
       "partes_adversarias": [

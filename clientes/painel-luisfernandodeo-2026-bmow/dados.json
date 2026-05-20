@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:05:48-03:00",
-    "gerado_em_humano": "19/05/2026 15:05",
+    "gerado_em": "2026-05-20T15:27:25-03:00",
+    "gerado_em_humano": "20/05/2026 15:27",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -654,6 +654,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
@@ -661,12 +666,12 @@
         {
           "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Despacho -> Mero Expediente (22/04/2026 13:27:45))"
+          "title": "Despacho -> Mero Expediente - Despacho - intima autor p/ manifestar sobre possível prescrição"
         },
         {
           "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Despacho - intima autor p/ manifestar sobre possível prescrição"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Despacho -> Mero Expediente (22/04/2026 13:27:45))"
         },
         {
           "date": "2026-03-13",
@@ -676,17 +681,12 @@
         {
           "date": "2026-03-05",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-03-05",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-02-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada - 26/02/2026 01:52:25)"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-02-26",
@@ -699,9 +699,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada (26/02/2026 01:52:25))"
         },
         {
-          "date": "2026-02-19",
+          "date": "2026-02-26",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada (19/02/2026 00:48:22))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ITAU UNIBANCO S/A (Referente à Mov. Citação Não Efetivada - 26/02/2026 01:52:25)"
         }
       ],
       "partes_adversarias": [
@@ -814,6 +814,6 @@
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-18"
+    "ultima_data": "2026-05-20"
   }
 }

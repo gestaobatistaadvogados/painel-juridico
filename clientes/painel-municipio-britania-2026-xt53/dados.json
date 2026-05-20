@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-19T15:19:08-03:00",
-    "gerado_em_humano": "19/05/2026 15:19",
+    "gerado_em": "2026-05-20T15:40:38-03:00",
+    "gerado_em_humano": "20/05/2026 15:40",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -1910,9 +1910,19 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Ato Ordinatório (07/05/2026 11:18:40))"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (07/05/2026 11:18:40))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-07",
@@ -1923,11 +1933,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-04-29",
@@ -1953,11 +1958,6 @@
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Certidão Expedida - IREI EXPEDIR OFÍCIO APÓS ATUALIZAÇÃO DO DÉBITO"
         }
       ],
       "partes_adversarias": [
@@ -2921,9 +2921,29 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (07/05/2026 16:43:13))"
+        },
+        {
+          "date": "2026-05-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
         },
         {
           "date": "2026-05-07",
@@ -2941,11 +2961,6 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação Dos Servidores Municipal De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
         },
         {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> desistência (CNJ:463) - )"
-        },
-        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Desistencia Requerida"
@@ -2953,22 +2968,7 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
           "title": "Juntada -> Petição -> Desistencia Requerida -"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Bernardo Morais Cavalcanti (Referente à Mov. Decisão -> Não-Concessão -> Liminar (07/01/2026 14:31:17))"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer -"
         }
       ],
       "partes_adversarias": [
