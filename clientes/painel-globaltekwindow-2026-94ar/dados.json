@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:27:49-03:00",
-    "gerado_em_humano": "20/05/2026 15:27",
+    "gerado_em": "2026-05-21T14:57:55-03:00",
+    "gerado_em_humano": "21/05/2026 14:57",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -62,8 +62,8 @@
       "process_number": "0897403-40.2024.8.10.0001",
       "protocol_number": null,
       "folder": "1810",
-      "stage": "AGUARDANDO JULGAMENTO",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "PRIVADO",
       "status_closure": "2024-12-16 00:00:00",
@@ -71,6 +71,11 @@
       "process_date": "2024-12-12",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-18",
+          "header": "TJMA",
+          "title": "Proferidas outras decisões não especificadas"
+        },
         {
           "date": "2025-12-02",
           "header": "TJMA",
@@ -89,11 +94,6 @@
         {
           "date": "2025-11-06",
           "header": "TJMA",
-          "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
           "title": "Publicado Intimação em 06/11/2025."
         },
         {
@@ -107,6 +107,11 @@
           "title": "Juntada de Petição de contrarrazões"
         },
         {
+          "date": "2025-11-06",
+          "header": "TJMA",
+          "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
+        },
+        {
           "date": "2025-11-04",
           "header": "TJMA",
           "title": "Enviado ao Diário da Justiça Eletrônico"
@@ -115,11 +120,6 @@
           "date": "2025-11-02",
           "header": "TJMA",
           "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2025-06-02",
-          "header": "TJMA",
-          "title": "Conclusos para despacho"
         }
       ],
       "partes_adversarias": [

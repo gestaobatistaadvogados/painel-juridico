@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:20:16-03:00",
-    "gerado_em_humano": "20/05/2026 15:20",
+    "gerado_em": "2026-05-21T14:50:04-03:00",
+    "gerado_em_humano": "21/05/2026 14:50",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -28,9 +28,9 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-15",
+          "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Juntada -> Petição - Petição Interlocutoria"
         },
         {
           "date": "2026-05-15",
@@ -46,6 +46,11 @@
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Ato Ordinatório - ATO ORDINATÓRIO - PROMOVER ANDAMENTO FEITO (suspensão)"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-05",
@@ -71,11 +76,6 @@
           "date": "2026-04-10",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Juntada de Documento (09/04/2026 14:00:29))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Juntada de Documento - 09/04/2026 14:00:29)"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:31:04-03:00",
-    "gerado_em_humano": "20/05/2026 15:31",
+    "gerado_em": "2026-05-21T15:01:11-03:00",
+    "gerado_em_humano": "21/05/2026 15:01",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -508,9 +508,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-04-29",
+          "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DUX ADMINISTRAÇÃO JUDICIAL S S LTDA (Referente à Mov. Certidão Expedida (29/04/2026 17:43:13))"
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - 23ª M. Intimação da Fazenda Nacional"
         },
         {
           "date": "2026-04-29",
@@ -530,6 +535,11 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DUX ADMINISTRAÇÃO JUDICIAL S S LTDA (Referente à Mov. Certidão Expedida (29/04/2026 17:43:13))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Clínica Santa Maria Ltda. Epp (Referente à Mov. Certidão Expedida (29/04/2026 17:43:13))"
         },
         {
@@ -540,22 +550,12 @@
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)PROCURADORIA DO ESTADO DE GOIAS (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESCRITORIO DO DETRAN (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
         },
         {
           "date": "2026-03-16",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)PROCURADORIA DA UNIÃO (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)ESCRITORIO DO DETRAN (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) Leonardo Pimenta Cury (Referente à Mov. Ato Ordinatório (06/03/2026 18:50:26))"
         }
       ],
       "partes_adversarias": [

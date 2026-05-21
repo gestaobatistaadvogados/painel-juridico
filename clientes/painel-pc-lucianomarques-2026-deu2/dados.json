@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:56:57-03:00",
-    "gerado_em_humano": "20/05/2026 15:56",
+    "gerado_em": "2026-05-21T15:27:24-03:00",
+    "gerado_em_humano": "21/05/2026 15:27",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,31 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogatório Ana Lídia, Luciano Marques e Renato José"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Leitura da denúncia aos acusados"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Audiência de Instrução - Realizada sem Sentença - 20/05/2026 13:00"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Ativo) RAFAEL SIMONETTI BUENO DA SILVA (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
@@ -40,42 +65,17 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Juntada de Documento - LINK ZOOM"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dario Fonseca Faustino (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Jose Tuma (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Jose Tuma (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
         }
       ],
       "partes_adversarias": [
@@ -88,15 +88,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 1,
     "categorias": {
       "Peças": 0,
-      "Audiências": 1,
+      "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-13"
+    "ultima_data": "2026-05-11"
   }
 }

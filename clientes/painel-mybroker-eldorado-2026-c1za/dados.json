@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:23:35-03:00",
-    "gerado_em_humano": "20/05/2026 15:23",
+    "gerado_em": "2026-05-21T14:53:38-03:00",
+    "gerado_em_humano": "21/05/2026 14:53",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,21 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda (Referente à Mov. Certidão Expedida (19/05/2026 16:15:32))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO. DILAÇÃO DE PRAZO - 05 dias"
+        },
         {
           "date": "2026-05-14",
           "header": "TJGO",
@@ -61,21 +76,6 @@
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Certidão Expedida - Certidão CENOPES"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CENTRAL BUSCA DE ENDEREÇO"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO. DILAÇÃO DE PRAZO - 05 dias"
         }
       ],
       "partes_adversarias": [

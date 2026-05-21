@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:25:25-03:00",
-    "gerado_em_humano": "20/05/2026 15:25",
+    "gerado_em": "2026-05-21T14:55:30-03:00",
+    "gerado_em_humano": "21/05/2026 14:55",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -28,9 +28,29 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para My Office Gestao Imobiliaria Ltda em 13/05/2026 23:59:59 (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (24/04/2026 19:31:06))"
+        },
+        {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (24/04/2026 19:31:06))"
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
         },
         {
           "date": "2026-04-24",
@@ -41,11 +61,6 @@
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
         },
         {
           "date": "2026-04-23",
@@ -60,22 +75,7 @@
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Processo Reativado -"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (06/04/2026 20:44:27))"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [

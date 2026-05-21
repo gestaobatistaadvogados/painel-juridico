@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:40:38-03:00",
-    "gerado_em_humano": "20/05/2026 15:40",
+    "gerado_em": "2026-05-21T15:10:49-03:00",
+    "gerado_em_humano": "21/05/2026 15:10",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -269,6 +269,41 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para Município De Britânia em 19/05/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimar partes para darem andamento ao feito."
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Britânia (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - CERTIDÃO-TRÂNSITO EM JULGADO 19/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Ato Ordinatório (20/05/2026 14:44:50))"
+        },
+        {
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
@@ -276,47 +311,12 @@
         {
           "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Intimação Lida - Por Regina Helena Viana (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
           "title": "Juntada -> Petição"
         },
         {
-          "date": "2026-03-26",
+          "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Município De Britânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 25/03/2026 19:07:35)"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao Dos Servidores Publicos Municipais De Britania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 24/03/2026 13:00)"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 24/03/2026 13:00)"
+          "title": "Intimação Lida - Por Regina Helena Viana (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (25/03/2026 19:07:35))"
         }
       ],
       "partes_adversarias": [
@@ -1053,6 +1053,41 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Agentes Comunitarios De Saude E Agentes De Combate As Endemias Do Oeste Goiano (Referente à Mov. Ato Ordinatório (19/05/2026 13:05:37))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimar partes para darem andamento ao feito."
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SACSEACEOG (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Processo baixado à origem/devolvido"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - CERTIDÃO DE TRÂNSITO EM JULGADO"
+        },
+        {
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (06/04/2026 13:44:00))"
@@ -1060,47 +1095,12 @@
         {
           "date": "2026-04-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Agentes Comunitarios De Saude E Agentes De Combate As Endemias Do Oeste Goiano (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (06/04/2026 13:44:00))"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 06/04/2026 13:44:00)"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SACSEACEOG (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 06/04/2026 13:44:00)"
         },
         {
-          "date": "2026-04-06",
+          "date": "2026-04-08",
           "header": "TJGO",
-          "title": "Decisão -> Não-Admissão -> Recurso Especial - Súmula 7/STJ"
-        },
-        {
-          "date": "2026-02-18",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O VICE PRESIDENTE DO TRIBUNAL DE JUSTIÇA"
-        },
-        {
-          "date": "2026-02-18",
-          "header": "TJGO",
-          "title": "Autos Conclusos - CONCLUSO AO VICE-PRESIDENTE"
-        },
-        {
-          "date": "2026-02-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Contrarrazões"
-        },
-        {
-          "date": "2025-12-03",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Intimação Expedida (28/11/2025 18:23:22))"
-        },
-        {
-          "date": "2025-11-28",
-          "header": "TJGO",
-          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRARRAZÕES"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Agentes Comunitarios De Saude E Agentes De Combate As Endemias Do Oeste Goiano (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (06/04/2026 13:44:00))"
         }
       ],
       "partes_adversarias": [
@@ -1768,6 +1768,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Procurador Responsável Anterior: JOSE MARIO DE OLIVEIRA JUNIOR Procurador Responsável Atual: ADRIANA MARA RIBEIRO"
+        },
+        {
           "date": "2026-03-18",
           "header": "TJGO",
           "title": "Despacho -> Suspensão ou Sobrestamento - Processo Suspenso ou Sobrestado por Recurso Repetitivo / Recurso de Repercussão Geral"
@@ -1785,11 +1790,6 @@
         {
           "date": "2025-12-02",
           "header": "TJGO",
-          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Incidente de Assunção de Competência - IAC -"
-        },
-        {
-          "date": "2025-12-02",
-          "header": "TJGO",
           "title": "Decisão -> Suspensão ou Sobrestamento -> Por Incidente de Assunção de Competência - IAC"
         },
         {
@@ -1798,24 +1798,24 @@
           "title": "Despacho -> Suspensão ou Sobrestamento - (Por 365 dias)"
         },
         {
-          "date": "2025-10-21",
+          "date": "2025-12-02",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para MUNICIPIO DE MOSSAMEDES em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+          "title": "Decisão -> Suspensão ou Sobrestamento -> Por Incidente de Assunção de Competência - IAC -"
         },
         {
           "date": "2025-10-21",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Decorrido Prazo - para MUNICIPIO DE CATALAO em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
         },
         {
           "date": "2025-10-21",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Município De Caiapônia em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+          "title": "Decorrido Prazo - para Estado De Goias em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
         },
         {
           "date": "2025-10-21",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para MUNICIPIO DE JATAI em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
+          "title": "Decorrido Prazo - para MUNICIPIO DE GOIANIRA em 20/10/2025 23:59:59 (Referente à Mov. Decisão -> deferimento (24/09/2025 15:29:47))"
         }
       ],
       "partes_adversarias": [
@@ -2357,6 +2357,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Britania em 08/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
@@ -2374,11 +2379,6 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - GILDETE LIMA CARVALHO OLIVEIRA"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
         },
         {
@@ -2392,6 +2392,11 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
+          "date": "2026-04-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - GILDETE LIMA CARVALHO OLIVEIRA"
+        },
+        {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - Dados Bancários"
@@ -2399,12 +2404,7 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Ato Ordinatório - PARTE EXEQUENTE APRESENTAR DADOS BANCÁRIOS PRÓPRIOS OU DE SEU ADVOGADO"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (30/03/2026 14:00:54))"
         }
       ],
       "partes_adversarias": [

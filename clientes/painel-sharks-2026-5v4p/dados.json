@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:55:54-03:00",
-    "gerado_em_humano": "20/05/2026 15:55",
+    "gerado_em": "2026-05-21T15:26:20-03:00",
+    "gerado_em_humano": "21/05/2026 15:26",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -2174,6 +2174,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Analice Schroder Moura Lima em 15/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (14/04/2026 17:08:40))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Luiz Magno Pereira Lima em 15/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (14/04/2026 17:08:40))"
+        },
+        {
           "date": "2026-05-09",
           "header": "TJGO",
           "title": "Intimação Lida - Para (Polo Passivo) Luiz Magno Pereira Lima (Referente à Mov. Certidão Expedida (14/04/2026 17:08:40))"
@@ -2196,32 +2211,17 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Cumprimento e Devolução Pelos Correios e não pela UPJ"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para Executados: Manifestar sobre resposta do Ofício"
         }
       ],
       "partes_adversarias": [
@@ -4626,6 +4626,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Ato ordinatório\nAto ordinatório praticado"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de LUANA MARIA MELO DOS SANTOS em 30/03/2026 23:59  - expediente de n° 47620028"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Expedição de documento\nExpedição de Outros documentos"
+        },
+        {
           "date": "2026-03-22",
           "header": "TJMT",
           "title": "Documento\nJuntada de entregue (ecarta)"
@@ -4633,17 +4648,12 @@
         {
           "date": "2026-03-13",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de LUANA MARIA MELO DOS SANTOS em 12/03/2026 23:59"
+          "title": "Decurso de Prazo\nDecorrido prazo de SHARKS IMOBILIARIA LTDA em 12/03/2026 23:59"
         },
         {
           "date": "2026-03-13",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de SHARKS IMOBILIARIA LTDA em 12/03/2026 23:59"
-        },
-        {
-          "date": "2026-03-05",
-          "header": "TJMT",
-          "title": "Publicação\nPublicado Decisão em 05/03/2026."
+          "title": "Decurso de Prazo\nDecorrido prazo de LUANA MARIA MELO DOS SANTOS em 12/03/2026 23:59"
         },
         {
           "date": "2026-03-05",
@@ -4651,19 +4661,14 @@
           "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 04/03/2026"
         },
         {
+          "date": "2026-03-05",
+          "header": "TJMT",
+          "title": "Publicação\nPublicado Decisão em 05/03/2026."
+        },
+        {
           "date": "2026-03-04",
           "header": "TJMT",
           "title": "Expedição de documento\nExpedição de Aviso de recebimento (AR)"
-        },
-        {
-          "date": "2026-03-03",
-          "header": "TJMT",
-          "title": "Expedição de documento\nExpedição de Outros documentos"
-        },
-        {
-          "date": "2026-03-03",
-          "header": "TJMT",
-          "title": "Conclusão\nConclusos para despacho"
         },
         {
           "date": "2026-03-03",
@@ -4767,14 +4772,19 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Movimentação Bloqueada"
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (06/04/2026 15:33:20))"
         },
         {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Certidão Expedida - PEDIDO CACE"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
         },
         {
           "date": "2026-05-12",
@@ -4810,11 +4820,6 @@
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Ato Ordinatório (04/05/2026 11:17:22))"
         }
       ],
       "partes_adversarias": [
@@ -5228,15 +5233,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 20,
+    "total": 26,
     "categorias": {
-      "Peças": 5,
-      "Audiências": 0,
+      "Peças": 6,
+      "Audiências": 1,
       "Comunicações": 0,
-      "Acompanhamento": 10,
+      "Acompanhamento": 13,
       "Diligências": 1,
-      "Outras": 4
+      "Outras": 5
     },
-    "ultima_data": "2026-05-19"
+    "ultima_data": "2026-05-21"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:22:19-03:00",
-    "gerado_em_humano": "20/05/2026 15:22",
+    "gerado_em": "2026-05-21T14:52:09-03:00",
+    "gerado_em_humano": "21/05/2026 14:52",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Certidão Expedida (18/05/2026 10:55:55))"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Certidão Expedida - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada de Documento - Devolução-penhora parcial com transferência-CEF"
@@ -45,12 +60,7 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
+          "title": "Decisão -> Deferimento em Parte -"
         },
         {
           "date": "2026-03-30",
@@ -60,22 +70,12 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Decisão -> Deferimento em Parte -"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (30/03/2026 19:49:00))"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
           "title": "Decisão -> Deferimento em Parte"
         },
         {
-          "date": "2026-03-27",
+          "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
         }
       ],
       "partes_adversarias": [

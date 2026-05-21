@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-20T15:23:02-03:00",
-    "gerado_em_humano": "20/05/2026 15:23",
+    "gerado_em": "2026-05-21T14:53:02-03:00",
+    "gerado_em_humano": "21/05/2026 14:53",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJMG",
+          "title": "Evento: 81\nDescrição: Decorrido prazo - Refer. ao Evento: 75"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJMG",
           "title": "Evento: 80\nDescrição: CONTRARRAZÕES"
@@ -50,11 +55,6 @@
         {
           "date": "2026-05-08",
           "header": "TJMG",
-          "title": "Evento: 74\nDescrição: Ato ordinatório praticado"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
           "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:AGUARD. ABERTURA"
         },
         {
@@ -68,14 +68,14 @@
           "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:ABERTO\nData inicial da contagem do prazo: 13/05/2026 00:00:00\nData final: 19/05/2026 23:59:59"
         },
         {
-          "date": "2026-04-23",
+          "date": "2026-05-08",
           "header": "TJMG",
-          "title": "Evento: 73\nDescrição: EMBARGOS DE DECLARAÇÃO"
+          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 13/05/2026 00:00:00\nData final: 19/05/2026 23:59:59"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-05-08",
           "header": "TJMG",
-          "title": "Evento: 72\nDescrição: Publicado no DJEN - no dia 14/04/2026 - Refer. aos Eventos: 68, 69, 70"
+          "title": "Evento: 74\nDescrição: Ato ordinatório praticado"
         }
       ],
       "partes_adversarias": [
