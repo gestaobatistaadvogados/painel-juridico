@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-21T14:40:37-03:00",
-    "gerado_em_humano": "21/05/2026 14:40",
+    "gerado_em": "2026-05-22T13:46:58-03:00",
+    "gerado_em_humano": "22/05/2026 13:46",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -18,13 +18,13 @@
       "process_number": "0000581-12.2025.5.18.0002",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
       "step": "RECURSAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
       "status_closure": "2026-02-02 10:14:23",
       "created_at": "2026-02-02 10:04:50",
-      "process_date": null,
+      "process_date": "2025-04-03",
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
@@ -83,7 +83,22 @@
           "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
         },
         {
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+        },
+        {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
           "name": "MARIA DELANIA BESERRA CARLOS DE BRITO"
+        },
+        {
+          "name": "RAFAEL HADDAD"
+        },
+        {
+          "name": "RICARDO ABDALLA HADDAD"
+        },
+        {
+          "name": "ROBERTO ABDALLA HADDAD"
         }
       ],
       "fase_grupo": "recursal",
@@ -1794,19 +1809,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Decorrido o prazo de ROBERTO ABDALLA HADDAD em 18/05/2026"
+          "title": "Proferido despacho de mero expediente"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Decorrido o prazo de RAFAEL HADDAD em 18/05/2026"
+          "title": "Despacho"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
+          "title": "Expedido(a) intimação a(o) MARIA DA CONCEICAO ROCHA DO SACRAMENTO"
         },
         {
           "date": "2026-05-19",
@@ -1821,27 +1836,27 @@
         {
           "date": "2026-05-19",
           "header": "TRT18",
+          "title": "Decorrido o prazo de ROBERTO ABDALLA HADDAD em 18/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
           "title": "Decorrido o prazo de RICARDO ABDALLA HADDAD em 18/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RAFAEL HADDAD em 18/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
         },
         {
           "date": "2026-05-08",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 11/05/2026"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 08/05/2026"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TRT18",
-          "title": "Despacho"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RICARDO ABDALLA HADDAD"
         }
       ],
       "partes_adversarias": [
@@ -2173,6 +2188,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (20/05/2026 09:00 CEJUSC - INICIAIS 08 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -2211,16 +2236,6 @@
           "date": "2026-05-05",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) CAROLINE RODRIGUES FARIA"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 04/05/2026"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 04/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -3139,13 +3154,13 @@
   "atividade_90d": {
     "total": 60,
     "categorias": {
-      "Peças": 5,
+      "Peças": 6,
       "Audiências": 7,
       "Comunicações": 9,
-      "Acompanhamento": 28,
+      "Acompanhamento": 27,
       "Diligências": 0,
       "Outras": 11
     },
-    "ultima_data": "2026-05-21"
+    "ultima_data": "2026-05-22"
   }
 }

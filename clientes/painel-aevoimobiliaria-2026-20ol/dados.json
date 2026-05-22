@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-21T14:56:51-03:00",
-    "gerado_em_humano": "21/05/2026 14:56",
+    "gerado_em": "2026-05-22T14:03:06-03:00",
+    "gerado_em_humano": "22/05/2026 14:03",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -914,6 +914,16 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Recebidos os autos"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Determinada a emenda à inicial"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJDFT",
           "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
@@ -926,22 +936,22 @@
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
+          "title": "Publicado Decisão em 22/04/2026."
         },
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Publicado Decisão em 22/04/2026."
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJDFT",
-          "title": "Determinada a emenda à inicial"
+          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
         },
         {
           "date": "2026-04-17",
           "header": "TJDFT",
           "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Determinada a emenda à inicial"
         },
         {
           "date": "2026-04-17",
@@ -952,11 +962,6 @@
           "date": "2026-04-11",
           "header": "TJDFT",
           "title": "Expedição de Certidão."
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJDFT",
-          "title": "Distribuído por sorteio"
         }
       ],
       "partes_adversarias": [

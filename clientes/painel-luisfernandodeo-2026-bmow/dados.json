@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-21T14:57:30-03:00",
-    "gerado_em_humano": "21/05/2026 14:57",
+    "gerado_em": "2026-05-22T14:03:45-03:00",
+    "gerado_em_humano": "22/05/2026 14:03",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -805,15 +805,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 0,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-21"
+    "ultima_data": null
   }
 }

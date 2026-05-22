@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-21T15:26:20-03:00",
-    "gerado_em_humano": "21/05/2026 15:26",
+    "gerado_em": "2026-05-22T14:33:12-03:00",
+    "gerado_em_humano": "22/05/2026 14:33",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -5167,9 +5167,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação - Impugnação à Contestação - Jeferson e Suedna"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
         },
         {
           "date": "2026-05-15",
@@ -5189,7 +5194,7 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Certidão Expedida (15/05/2026 11:54:10))"
         },
         {
           "date": "2026-05-14",
@@ -5204,17 +5209,12 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (23/04/2026 16:33:39))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
         },
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Suedna Trindade Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VCXL (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jeferson Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC - 23/04/2026 16:33:39)"
         }
       ],
       "partes_adversarias": [
@@ -5233,14 +5233,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 26,
+    "total": 25,
     "categorias": {
-      "Peças": 6,
+      "Peças": 7,
       "Audiências": 1,
       "Comunicações": 0,
-      "Acompanhamento": 13,
+      "Acompanhamento": 12,
       "Diligências": 1,
-      "Outras": 5
+      "Outras": 4
     },
     "ultima_data": "2026-05-21"
   }

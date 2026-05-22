@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-21T15:08:21-03:00",
-    "gerado_em_humano": "21/05/2026 15:08",
+    "gerado_em": "2026-05-22T14:14:59-03:00",
+    "gerado_em_humano": "22/05/2026 14:14",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -320,6 +320,26 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Projetar Engenharia E Construcoes Ltda. (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Projetar Engenharia E Construcoes Ltda. (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 20:02:06))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Indiara em 14/05/2026 23:59:59 (Referente à Mov. Transitado em Julgado (08/04/2026 11:29:38))"
@@ -332,17 +352,12 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Juntada -> Petição - Replica A Impugnação"
         },
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Replica A Impugnação"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-05-04",
@@ -350,24 +365,9 @@
           "title": "Decisão -> Outras Decisões"
         },
         {
-          "date": "2026-05-01",
+          "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença -"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"199-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimentos Especiais -> Procedimentos Especiais de Jurisdição Contenciosa -> Monitória\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [
@@ -8425,9 +8425,9 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-05-13",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 12/05/2026 23:59:59 (Referente à Mov. Decisão -> Concessão em parte -> Tutela Provisória (15/04/2026 19:15:18))"
+          "title": "Juntada -> Petição - MANIFESTAÇÃO"
         },
         {
           "date": "2026-05-13",
@@ -8437,7 +8437,7 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Interesse na produção de outras provas - Prazo comum de 15 dias."
+          "title": "Decorrido Prazo - para Municipio De Indiara em 12/05/2026 23:59:59 (Referente à Mov. Decisão -> Concessão em parte -> Tutela Provisória (15/04/2026 19:15:18))"
         },
         {
           "date": "2026-05-13",
@@ -8455,6 +8455,11 @@
           "title": "Prazo Decorrido - Indiara inerte."
         },
         {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Interesse na produção de outras provas - Prazo comum de 15 dias."
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Concessão em parte -> Tutela Provisória (15/04/2026 19:15:18))"
@@ -8468,11 +8473,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Decisão -> Concessão em parte -> Tutela Provisória"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Decisão -> Concessão em parte -> Tutela Provisória -"
         }
       ],
       "partes_adversarias": [
@@ -9173,54 +9173,54 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-20",
           "header": "TRT2",
-          "title": "Documento_84d389c | Mandado (RESTRITO)"
+          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Publicado(a) o(a) intimação em 20/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Certidão de Publicação no DJEN | Certidão (RESTRITO)"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Publicado(a) o(a) intimação em 20/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Certidão de Publicação no DJEN | Certidão (RESTRITO)"
         },
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
+          "title": "Intimação | Intimação (RESTRITO)"
         },
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Atualização | Planilha de Atualização de Cálculos (RESTRITO)"
+          "title": "Expedido(a) intimação a(o) SHIRLEY MARIA BEZERRA"
         },
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Mandado de penhora e avalição de imóvel | Mandado"
+          "title": "Intimação | Intimação (RESTRITO)"
         },
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Conclusos os autos para despacho (genérica) a ELISA MARIA SECCO ANDREONI"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT2",
-          "title": "Documento_91b51a2 | Mandado (RESTRITO)"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT2",
-          "title": "Despacho de atualização dos cálculos e expedição de mandado | Despacho"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT2",
-          "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT2",
-          "title": "Intimação | Intimação"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT2",
-          "title": "Intimação | Intimação"
+          "title": "Expedido(a) intimação a(o) LANCHONETE ELBA LTDA"
         }
       ],
       "partes_adversarias": [
@@ -9406,6 +9406,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Publicado(a) o(a) intimação em 13/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT2",
+          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 12/05/2026"
+        },
+        {
           "date": "2026-05-19",
           "header": "TRT2",
           "title": "Certidão de Publicação no DJEN | Certidão (RESTRITO)"
@@ -9423,12 +9433,12 @@
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Publicado(a) o(a) intimação em 19/05/2026"
+          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 18/05/2026"
         },
         {
           "date": "2026-05-18",
           "header": "TRT2",
-          "title": "Disponibilizado\n(a) o(a) intimação no Diário da Justiça Eletrônico do dia 18/05/2026"
+          "title": "Publicado(a) o(a) intimação em 19/05/2026"
         },
         {
           "date": "2026-05-15",
@@ -9444,16 +9454,6 @@
           "date": "2026-05-15",
           "header": "TRT2",
           "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TRT2",
-          "title": "Conclusos os autos para despacho (genérica) a GABRIEL PERES FERREIRA"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TRT2",
-          "title": "Expedido(a) intimação a(o) JAQUELINE PISCIRILO"
         }
       ],
       "partes_adversarias": [
@@ -9538,10 +9538,10 @@
       "Peças": 5,
       "Audiências": 7,
       "Comunicações": 7,
-      "Acompanhamento": 29,
+      "Acompanhamento": 30,
       "Diligências": 6,
-      "Outras": 12
+      "Outras": 11
     },
-    "ultima_data": "2026-05-21"
+    "ultima_data": "2026-05-22"
   }
 }
