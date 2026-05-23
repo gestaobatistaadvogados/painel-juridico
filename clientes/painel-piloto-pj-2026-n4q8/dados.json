@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T13:44:41-03:00",
-    "gerado_em_humano": "22/05/2026 13:44",
+    "gerado_em": "2026-05-23T08:51:15-03:00",
+    "gerado_em_humano": "23/05/2026 08:51",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -3809,6 +3809,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE GOIANIA em 21/05/2026 23:59:59 (Referente à Mov. Juntada -> Petição (19/03/2026 17:11:44))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNICIPIO DE GOIANIA (Referente à Mov. Juntada -> Petição (19/03/2026 17:11:44))"
@@ -3847,16 +3857,6 @@
           "date": "2026-01-30",
           "header": "TJGO",
           "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) HOSPITAL AMPARO S/S LTDA (comunicação: 109987695432563873148778049)"
-        },
-        {
-          "date": "2026-01-09",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2025-12-20",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Relatório de Possíveis Conexões"
         }
       ],
       "partes_adversarias": [
@@ -9580,15 +9580,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 277,
+    "total": 269,
     "categorias": {
-      "Peças": 41,
+      "Peças": 36,
       "Audiências": 39,
       "Comunicações": 62,
-      "Acompanhamento": 96,
+      "Acompanhamento": 94,
       "Diligências": 31,
-      "Outras": 8
+      "Outras": 7
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-23"
   }
 }

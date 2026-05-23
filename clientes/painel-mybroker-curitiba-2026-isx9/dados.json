@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T13:59:40-03:00",
-    "gerado_em_humano": "22/05/2026 13:59",
+    "gerado_em": "2026-05-23T09:06:00-03:00",
+    "gerado_em_humano": "23/05/2026 09:06",
     "slug_url": "painel-mybroker-curitiba-2026-isx9",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,16 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJPR",
+          "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 129) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:09). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJPR",
+          "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 130) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:39). Parte: LEONARDO VICENTE SCHEWTSCHIK"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJPR",
           "title": "EXPEDIÇÃO DE CITAÇÃO Para LEONARDO VICENTE SCHEWTSCHIK com prazo de 15 dias úteis - via AR Digital - utilizando contrafé"
@@ -36,6 +46,11 @@
           "date": "2026-05-14",
           "header": "TJPR",
           "title": "EXPEDIÇÃO DE CITAÇÃO Para LEONARDO VICENTE SCHEWTSCHIK com prazo de 15 dias úteis - via AR Digital - utilizando contrafé"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJPR",
+          "title": "ATO ORDINATÓRIO PRATICADO Distribuição realizada referente ao Mandado expedido (seq. 130) em 13/05/2026 16:13:39. Tipo: Distribuicão Inicial por Vínculo. Oficial de Justiça Designado: Cleber Sandro Afonso. Parte: LEONARDO VICENTE SCHEWTSCHIK. Distribuição de cumprimento por vínculo (Cumprimento no mesmo endereço)"
         },
         {
           "date": "2026-05-13",
@@ -53,11 +68,6 @@
           "title": "ATO ORDINATÓRIO PRATICADO Distribuição realizada referente ao Mandado expedido (seq. 129) em 13/05/2026 16:13:09. Tipo: Distribuição Inicial Automática. Oficial de Justiça Designado: Cleber Sandro Afonso. Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK. Distribuição de cumprimento por vínculo (Cumprimento no mesmo endereço)"
         },
         {
-          "date": "2026-05-13",
-          "header": "TJPR",
-          "title": "ATO ORDINATÓRIO PRATICADO Distribuição realizada referente ao Mandado expedido (seq. 130) em 13/05/2026 16:13:39. Tipo: Distribuicão Inicial por Vínculo. Oficial de Justiça Designado: Cleber Sandro Afonso. Parte: LEONARDO VICENTE SCHEWTSCHIK. Distribuição de cumprimento por vínculo (Cumprimento no mesmo endereço)"
-        },
-        {
           "date": "2026-04-13",
           "header": "TJPR",
           "title": "JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE Cumprimento de intimações - Referente aos eventos JUNTADA DE ATO ORDINATÓRIO (24/03/2026), NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)"
@@ -66,16 +76,6 @@
           "date": "2026-04-13",
           "header": "TJPR",
           "title": "JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE Cumprimento de intimações - Referente aos eventos JUNTADA DE ATO ORDINATÓRIO (24/03/2026), NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026)"
-        },
-        {
-          "date": "2026-04-04",
-          "header": "TJPR",
-          "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 124) JUNTADA DE ATO ORDINATÓRIO (24/03/2026) e ao evento de expedição seq. 125."
-        },
-        {
-          "date": "2026-04-03",
-          "header": "TJPR",
-          "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 113) NÃO CONFIRMADA A CITAÇÃO ELETRÔNICA (28/02/2026) e ao evento de expedição seq. 122."
         }
       ],
       "partes_adversarias": [

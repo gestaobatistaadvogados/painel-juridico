@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T14:24:03-03:00",
-    "gerado_em_humano": "22/05/2026 14:24",
+    "gerado_em": "2026-05-23T09:30:09-03:00",
+    "gerado_em_humano": "23/05/2026 09:30",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -1887,6 +1887,31 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 22/05/2026 09:53:21)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 22/05/2026 09:53:21)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 18/05/2026 10:00)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - (Sessão do dia 18/05/2026 10:00)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (22/05/2026 09:53:21))"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Pauta -> Inclusão em Pauta de Sessão Virtual -> Para Julgamento - (Em Mesa para Julgamento - Sessão do dia 18/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Embargos -> Embargos de Declaração Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível)"
@@ -1899,42 +1924,17 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (30/04/2026 12:42:41))"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TJGO",
           "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Embargos de declaração - EMBARGOS DE DECLARAÇÃO - integrativo"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (30/04/2026 12:42:41))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Embargos de declaração"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 30/04/2026 12:42:41)"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 30/04/2026 12:42:41)"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sindicato Dos Trabalhadores Em Educacao De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (30/04/2026 12:42:41))"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 27/04/2026 10:00)"
         }
       ],
       "partes_adversarias": [
@@ -3860,9 +3860,9 @@
     }
   ],
   "atividade_90d": {
-    "total": 14,
+    "total": 13,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 1,
       "Comunicações": 1,
       "Acompanhamento": 6,

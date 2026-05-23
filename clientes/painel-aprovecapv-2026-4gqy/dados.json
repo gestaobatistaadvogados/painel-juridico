@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T13:54:13-03:00",
-    "gerado_em_humano": "22/05/2026 13:54",
+    "gerado_em": "2026-05-23T09:00:38-03:00",
+    "gerado_em_humano": "23/05/2026 09:00",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -5759,6 +5759,21 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Conclusos para julgamento para Juiz(a) ARAGONÊ NUNES FERNANDES"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de réplica"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJDFT",
           "title": "Publicado Certidão em 07/05/2026."
@@ -5776,11 +5791,6 @@
         {
           "date": "2026-04-17",
           "header": "TJDFT",
-          "title": "Remetidos os Autos (outros motivos) para Juizado Especial Cível, Criminal e de Violência Doméstica e Familiar Contra a Mulher de Brazlândia"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJDFT",
           "title": "Audiência de conciliação   realizada conduzida por Conciliador(a) em/para 17/04/2026 15:00,  Centro Judiciário de Solução de Conflitos e de Cidadania Virtual 2."
         },
         {
@@ -5789,24 +5799,14 @@
           "title": "Juntada de Petição de petição"
         },
         {
+          "date": "2026-04-17",
+          "header": "TJDFT",
+          "title": "Remetidos os Autos (outros motivos) para Juizado Especial Cível, Criminal e de Violência Doméstica e Familiar Contra a Mulher de Brazlândia"
+        },
+        {
           "date": "2026-04-16",
           "header": "TJDFT",
           "title": "Recebidos os autos"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJDFT",
-          "title": "Remetidos os Autos ao CEJUSC ou Centros de Conciliação/Mediação Centro Judiciário de Solução de Conflitos e de Cidadania Virtual 2"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJDFT",
-          "title": "Juntada de Petição de contestação"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJDFT",
-          "title": "Decorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO CENTRO OESTE em 24/03/2026 23:59."
         }
       ],
       "partes_adversarias": [
@@ -6000,6 +6000,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIPVAL (Referente à Mov. Certidão Expedida (06/05/2026 14:34:11))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada de Documento - MANIFESTAÇÃO DA PARTE AUTORA VIA CAP - IMPUGNAÇÃO Á CONTESTAÇÃO"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Intimação Efetivada - Intimação Via Whatsapp - Autor(a) - 1ª UPJ"
@@ -6038,16 +6048,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) AAAPVEBMA - Código de Rastreamento Correios: YH157142750BR idPendenciaCorreios109987695432015873960701452idPendenciaCorreios"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) BIPVAL (comunicação: 109087615432563873171110361)"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Decisão -> Concessão -> Tutela Provisória -"
         }
       ],
       "partes_adversarias": [
@@ -6085,12 +6085,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 59,
+    "total": 56,
     "categorias": {
       "Peças": 13,
       "Audiências": 4,
       "Comunicações": 6,
-      "Acompanhamento": 26,
+      "Acompanhamento": 23,
       "Diligências": 5,
       "Outras": 5
     },

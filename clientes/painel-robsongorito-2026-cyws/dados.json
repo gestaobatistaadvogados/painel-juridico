@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T13:46:58-03:00",
-    "gerado_em_humano": "22/05/2026 13:46",
+    "gerado_em": "2026-05-23T08:53:29-03:00",
+    "gerado_em_humano": "23/05/2026 08:53",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -941,6 +941,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Conclusos os autos para julgamento dos Embargos de Declaração a PATRICIA CAROLINE SILVA ABRAO"
+        },
+        {
           "date": "2026-05-20",
           "header": "TRT18",
           "title": "Juntada a petição de Contrarrazões"
@@ -953,7 +958,7 @@
         {
           "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 18/05/2026"
+          "title": "Decorrido o prazo de ROBSON GORITO PORTES em 18/05/2026"
         },
         {
           "date": "2026-05-19",
@@ -963,12 +968,12 @@
         {
           "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 18/05/2026"
         },
         {
           "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Decorrido o prazo de ROBSON GORITO PORTES em 18/05/2026"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
         },
         {
           "date": "2026-05-19",
@@ -984,11 +989,6 @@
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) JULIO CESAR DE FARIA"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT18",
-          "title": "Proferido despacho de mero expediente"
         }
       ],
       "partes_adversarias": [
@@ -3152,14 +3152,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 60,
+    "total": 56,
     "categorias": {
-      "Peças": 6,
+      "Peças": 5,
       "Audiências": 7,
       "Comunicações": 9,
-      "Acompanhamento": 27,
+      "Acompanhamento": 26,
       "Diligências": 0,
-      "Outras": 11
+      "Outras": 9
     },
     "ultima_data": "2026-05-22"
   }

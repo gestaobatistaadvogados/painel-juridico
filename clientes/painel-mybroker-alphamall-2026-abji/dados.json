@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T13:55:01-03:00",
-    "gerado_em_humano": "22/05/2026 13:55",
+    "gerado_em": "2026-05-23T09:01:25-03:00",
+    "gerado_em_humano": "23/05/2026 09:01",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -179,14 +179,14 @@
       "process_number": "5110297-38.2022.8.09.0051",
       "protocol_number": null,
       "folder": "865",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
-      "type": "ADIMPLEMENTO E EXTINÇÃO / REMISSÃO DAS DÍVIDAS",
-      "group": "CÍVEL",
+      "type": "OBRIGAÇÃO DE FAZER",
+      "group": "IMOBILIÁRIO",
       "status_closure": "2024-05-14 00:00:00",
       "created_at": "2024-05-14 00:00:00",
       "process_date": "2022-02-28",
-      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
           "date": "2026-05-18",
@@ -240,6 +240,15 @@
         }
       ],
       "partes_adversarias": [
+        {
+          "name": "ATAIDE CARVALHO"
+        },
+        {
+          "name": "FERNANDO SOUZA BORGES"
+        },
+        {
+          "name": "GUTEMBERG VERONEZ NETO"
+        },
         {
           "name": "MEIRE LÚCIA DE GOUVEIA SANTOS"
         }
@@ -903,15 +912,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 5,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-21"
+    "ultima_data": "2026-05-22"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-22T14:07:26-03:00",
-    "gerado_em_humano": "22/05/2026 14:07",
+    "gerado_em": "2026-05-23T09:14:11-03:00",
+    "gerado_em_humano": "23/05/2026 09:14",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -2769,9 +2769,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TRF01",
+          "title": "Decorrido prazo de WILSON GERALDO SUGAI em 20/05/2026 23:59."
+        },
+        {
           "date": "2026-04-28",
           "header": "TRF01",
-          "title": "Juntada de ciência"
+          "title": "Publicado Intimação em 28/04/2026."
         },
         {
           "date": "2026-04-28",
@@ -2781,12 +2786,12 @@
         {
           "date": "2026-04-28",
           "header": "TRF01",
-          "title": "Publicado Intimação em 28/04/2026."
+          "title": "Juntada de ciência"
         },
         {
           "date": "2026-04-24",
           "header": "TRF01",
-          "title": "Expedida/certificada a intimação eletrônica"
+          "title": "Expedição de Outros documentos."
         },
         {
           "date": "2026-04-24",
@@ -2806,17 +2811,12 @@
         {
           "date": "2026-04-24",
           "header": "TRF01",
-          "title": "Expedição de Outros documentos."
+          "title": "Expedida/certificada a intimação eletrônica"
         },
         {
           "date": "2026-04-23",
           "header": "TRF01",
           "title": "Conhecido o recurso de WILSON GERALDO SUGAI - CPF: 096.977.481-87 (APELANTE) e provido"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRF01",
-          "title": "Deliberado em Sessão - Julgado - Mérito"
         }
       ],
       "partes_adversarias": [
