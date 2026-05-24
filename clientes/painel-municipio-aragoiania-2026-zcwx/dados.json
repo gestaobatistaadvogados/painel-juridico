@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-23T09:35:47-03:00",
-    "gerado_em_humano": "23/05/2026 09:35",
+    "gerado_em": "2026-05-24T09:42:34-03:00",
+    "gerado_em_humano": "24/05/2026 09:42",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -8944,15 +8944,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 42,
+    "total": 43,
     "categorias": {
       "Peças": 6,
       "Audiências": 4,
       "Comunicações": 0,
-      "Acompanhamento": 24,
+      "Acompanhamento": 25,
       "Diligências": 1,
       "Outras": 7
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-23"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-23T08:51:15-03:00",
-    "gerado_em_humano": "23/05/2026 08:51",
+    "gerado_em": "2026-05-24T08:59:34-03:00",
+    "gerado_em_humano": "24/05/2026 08:59",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -1043,14 +1043,14 @@
       "process_number": "0002208-27.2025.5.18.0010",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-23 18:25:30",
       "created_at": "2026-02-09 07:46:22",
       "process_date": null,
-      "responsible": "LUCAS MARINHO DA SILVA",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-19",
@@ -9580,12 +9580,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 269,
+    "total": 274,
     "categorias": {
-      "Peças": 36,
+      "Peças": 40,
       "Audiências": 39,
       "Comunicações": 62,
-      "Acompanhamento": 94,
+      "Acompanhamento": 95,
       "Diligências": 31,
       "Outras": 7
     },

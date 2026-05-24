@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-23T09:21:17-03:00",
-    "gerado_em_humano": "23/05/2026 09:21",
+    "gerado_em": "2026-05-24T09:28:24-03:00",
+    "gerado_em_humano": "24/05/2026 09:28",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -9543,15 +9543,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 65,
+    "total": 69,
     "categorias": {
       "Peças": 4,
       "Audiências": 7,
       "Comunicações": 7,
-      "Acompanhamento": 30,
+      "Acompanhamento": 33,
       "Diligências": 6,
-      "Outras": 11
+      "Outras": 12
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-23"
   }
 }
