@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:37:04-03:00",
-    "gerado_em_humano": "24/05/2026 09:37",
+    "gerado_em": "2026-05-25T14:17:55-03:00",
+    "gerado_em_humano": "25/05/2026 14:17",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -770,6 +770,26 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Filgueira Indústria E Serviços Eireli (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Filgueira Indústria E Serviços Eireli (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (22/05/2026 18:41:26))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Filgueira Indústria E Serviços Eireli (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (22/05/2026 18:41:26))"
+        },
+        {
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Renúncia de mandato - Renúncia Dra. Eduarda Pereira Junqueira"
@@ -792,32 +812,12 @@
         {
           "date": "2026-03-02",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Renúncia de mandato"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
           "title": "Juntada -> Petição -> Renúncia de mandato -"
         },
         {
-          "date": "2026-02-05",
+          "date": "2026-03-02",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Julgamento antecipado da lide"
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Filgueira Indústria E Serviços Eireli (Referente à Mov. Nota de Foro Expedida (30/01/2026 15:48:18))"
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJGO",
-          "title": "Prazo Decorrido - Prazo decorrido para o requerido"
+          "title": "Juntada -> Petição -> Renúncia de mandato"
         }
       ],
       "partes_adversarias": [
@@ -1062,9 +1062,29 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos de declaração - Embargos de declaração"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Certidão - Embargos de Declaração autuado (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Embargos -> Embargos de Declaração Cível)"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Certidão - Embargos de Declaração autuado - Apresentar contrarrazões"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Edberto Quirino Sociedade Individual De Advocacia (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Recurso inominado (CNJ:235) - )"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Recurso inominado (CNJ:235) - )"
         },
         {
           "date": "2026-05-19",
@@ -1079,22 +1099,7 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Recurso inominado (CNJ:235) - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Recurso Distribuído - 1ª Turma Recursal dos Juizados Especiais (Normal) - Distribuído para: Claudiney Alves de Melo"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - CONTRARRAZÕES AO RECURSO INOMINADO"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Edberto Quirino Sociedade Individual De Advocacia (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Recurso inominado (CNJ:235) - )"
         },
         {
           "date": "2026-05-18",
@@ -1102,14 +1107,9 @@
           "title": "Recurso Autuado - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Inominado Cível)"
         },
         {
-          "date": "2026-05-15",
+          "date": "2026-05-18",
           "header": "TJGO",
-          "title": "Decisão -> Recebimento -> Recurso -> Com efeito suspensivo - Decisão - Recebe Recurso Inominado"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Edberto Quirino Sociedade Individual De Advocacia (Referente à Mov. Decisão -> Recebimento -> Recurso -> Com efeito suspensivo (CNJ:394) - )"
+          "title": "Autos Conclusos - P/ O RELATOR"
         }
       ],
       "partes_adversarias": [
@@ -1522,6 +1522,21 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Requisição de Pequeno Valor Expedida - 13/05/2026 16:27:37)"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sandra Maria De Oliveira (Referente à Mov. Requisição de Pequeno Valor Expedida (13/05/2026 16:27:37))"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sandra Maria De Oliveira (Referente à Mov. Requisição de Pequeno Valor Expedida - 13/05/2026 16:27:37)"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Requisição de Pequeno Valor Expedida"
@@ -1534,11 +1549,6 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"1504-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento do Juizado Especial da Fazenda Pública\" para a classe \"1283-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de Sentença contra a Fazenda Pública\""
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
           "title": "Certidão Expedida - Remessa a Central de Expedição de RPV"
         },
         {
@@ -1547,19 +1557,9 @@
           "title": "Juntada de Documento - Decreto municipal- regulamenta valor para RPV"
         },
         {
-          "date": "2026-04-22",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sandra Maria De Oliveira (Referente à Mov. Decisão -> Homologação -> Homologação de Cálculos (CNJ:15589) - )"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Decisão -> Homologação -> Homologação de Cálculos -"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Decisão -> Homologação -> Homologação de Cálculos (CNJ:15589) - )"
+          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"1504-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento do Juizado Especial da Fazenda Pública\" para a classe \"1283-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de Sentença contra a Fazenda Pública\""
         },
         {
           "date": "2026-04-22",
@@ -2033,9 +2033,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Isaura Vitor Moreira -me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (13/05/2026 14:01:32))"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 13/05/2026 14:01:32)"
         },
         {
           "date": "2026-05-13",
@@ -2045,7 +2050,7 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 11/05/2026 10:00)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Isaura Vitor Moreira -me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (13/05/2026 14:01:32))"
         },
         {
           "date": "2026-05-13",
@@ -2055,17 +2060,12 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 13/05/2026 14:01:32)"
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 11/05/2026 10:00)"
         },
         {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/04/2026 16:17:57))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 11/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
         },
         {
           "date": "2026-04-27",
@@ -2080,7 +2080,7 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/04/2026 16:17:57)"
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 11/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
         }
       ],
       "partes_adversarias": [
@@ -3860,14 +3860,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 13,
+    "total": 8,
     "categorias": {
       "Peças": 0,
-      "Audiências": 1,
+      "Audiências": 0,
       "Comunicações": 1,
-      "Acompanhamento": 6,
+      "Acompanhamento": 5,
       "Diligências": 0,
-      "Outras": 5
+      "Outras": 2
     },
     "ultima_data": "2026-05-20"
   }

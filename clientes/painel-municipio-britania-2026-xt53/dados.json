@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:30:48-03:00",
-    "gerado_em_humano": "24/05/2026 09:30",
+    "gerado_em": "2026-05-25T14:11:39-03:00",
+    "gerado_em_humano": "25/05/2026 14:11",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -1407,6 +1407,36 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PARTE EXEQUENTE INFORMAR DADOS BANCÁRIOS PARA EXPEDIÇÃO DO PRECATÓRIO"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Decisão -> Outras Decisões - 08/05/2026 20:45:32)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> Outras Decisões - 08/05/2026 20:45:32)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Decisão -> Outras Decisões (08/05/2026 20:45:32))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Ato Ordinatório (21/05/2026 16:08:02))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOÃO PEREIRA SALGADO - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Decisão -> Outras Decisões"
@@ -1414,47 +1444,17 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Juntada -> Petição - EXPEDIÇÃO DE PRECATÓRIO"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Juntada -> Petição - EXPEDIÇÃO DE PRECATÓRIO"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Diligência Concluída  Processo Devolvido - Aruanã - Vara das Fazendas Públicas (Retornado para: THIAGO BRITO DE FARIAS)"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de JOÃO PEREIRA SALGADO (Referente à Mov. Ato Ordinatório (14/04/2026 11:48:31))"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de JOÃO PEREIRA SALGADO - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - PARTE EXEQUENTE MANIFESTAR-SE SOBRE CERTIDÃO DE MOV. 172"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Requisição de Pequeno Valor Expedida (30/03/2026 17:50:31))"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CCARPV - Informação - RPV sucumbencial"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Requisição de Pequeno Valor Expedida -"
         }
       ],
       "partes_adversarias": [
@@ -2357,6 +2357,21 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Precatório Enviado ao Tribunal - 20/05/2026 13:16:41)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Precatório Enviado ao Tribunal (20/05/2026 13:16:41))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Precatório Enviado ao Tribunal - 20/05/2026 13:16:41)"
+        },
+        {
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
@@ -2390,21 +2405,6 @@
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gildete Lima Carvalho Oliveira - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - GILDETE LIMA CARVALHO OLIVEIRA"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Dados Bancários"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (30/03/2026 14:00:54))"
         }
       ],
       "partes_adversarias": [
@@ -2576,6 +2576,21 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (21/05/2026 15:57:31))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - PROCURADOR DA PARTE AUTORA APRESENTAR PLANILHA DE CÁLCULOS"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Britania em 08/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
@@ -2593,7 +2608,7 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - MARLUCE LAZARA DE JESUS ANTUNES"
         },
         {
           "date": "2026-04-27",
@@ -2603,27 +2618,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - MARLUCE LAZARA DE JESUS ANTUNES"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição dados bancários"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Certidão Expedida (31/03/2026 15:05:29))"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - PARTE EXEQUENTE INFORMAR DADOS BANCÁRIOS PARA EXPEDIÇÃO DE PRECATÓRIO"
         }
       ],
       "partes_adversarias": [],
@@ -3070,14 +3070,19 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Certidão Expedida - AINDA NÃO DECORREU PRAZO FIXADO PARA O MUNICÍPIO DE BRITÂNIA"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - PRODUÇÃO DE NOVAS PROVAS"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (08/05/2026 20:45:42))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Decisão -> Outras Decisões (08/05/2026 20:45:42))"
         },
         {
           "date": "2026-05-08",
@@ -3088,6 +3093,11 @@
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Decisão -> Outras Decisões (08/05/2026 20:45:42))"
         },
         {
           "date": "2026-05-08",
@@ -3108,16 +3118,6 @@
           "date": "2026-03-25",
           "header": "TJGO",
           "title": "Ato Ordinatório - FICA A PARTE AUTORA INTIMADA APRESENTAR IMPUGNAÇÃO À CONTESTAÇÃO DE MOV. 23"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sinval Solidade Da Silva (Referente à Mov. Ato Ordinatório (25/03/2026 10:27:19))"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sinval Solidade Da Silva - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         }
       ],
       "partes_adversarias": [

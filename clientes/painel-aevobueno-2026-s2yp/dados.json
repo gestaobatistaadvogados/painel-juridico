@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:16:44-03:00",
-    "gerado_em_humano": "24/05/2026 09:16",
+    "gerado_em": "2026-05-25T13:57:31-03:00",
+    "gerado_em_humano": "25/05/2026 13:57",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -119,6 +119,21 @@
       "responsible": "BERNARDO AMORIM NICARETTO",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) GMLM - Código de Rastreamento Correios: YH182467364BR idPendenciaCorreios109287675432015873960386911idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NAO PELA UPJ"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Citação Expedida - e-Carta- G M De Lima Martins"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Juntada -> Petição - Interlocutória"
@@ -126,7 +141,17 @@
         {
           "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIBL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (08/05/2026 09:50:21))"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Raquel Santos Domingues (Referente à Mov. Certidão Expedida (08/05/2026 09:50:21))"
         },
         {
           "date": "2026-05-08",
@@ -141,32 +166,7 @@
         {
           "date": "2026-05-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raquel Santos Domingues (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - INTIMAÇÃO P/ ENDEREÇO ATUALIZADO"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Certidão Expedida (08/05/2026 09:50:21))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (08/05/2026 09:50:21))"
         }
       ],
       "partes_adversarias": [
@@ -411,19 +411,24 @@
       "responsible": "BERNARDO AMORIM NICARETTO",
       "movements": [
         {
+          "date": "2026-05-23",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Projetos Construcao E Servicos Ltda"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIBL (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Thiago Fernandes Goncalves (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mauricio Santos Dias (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
         },
         {
           "date": "2026-05-19",
@@ -438,7 +443,7 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
         },
         {
           "date": "2026-05-19",
@@ -448,17 +453,12 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIBL (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (19/05/2026 12:28:17))"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
         }
       ],
       "partes_adversarias": [

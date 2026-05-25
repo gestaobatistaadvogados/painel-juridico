@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:12:25-03:00",
-    "gerado_em_humano": "24/05/2026 09:12",
+    "gerado_em": "2026-05-25T13:53:10-03:00",
+    "gerado_em_humano": "25/05/2026 13:53",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -363,6 +363,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente - Despacho, término do Decreto Judiciário nº 1236/2026 - NAJ"
@@ -375,17 +380,22 @@
         {
           "date": "2026-03-25",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Autos Conclusos -"
         },
         {
           "date": "2026-03-25",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-03-24",
           "header": "TJGO",
           "title": "Juntada -> Petição - Julgamento antecipado"
+        },
+        {
+          "date": "2026-03-20",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valeriano Rodrigues Engenharia Ltda (Referente à Mov. Despacho -> Mero Expediente (20/03/2026 18:15:27))"
         },
         {
           "date": "2026-03-20",
@@ -396,16 +406,6 @@
           "date": "2026-03-20",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Uberlandia Ltda (Referente à Mov. Despacho -> Mero Expediente (20/03/2026 18:15:27))"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Intimação para justificar a necessidade de prova pericial"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-03-20",
@@ -582,6 +582,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJMG",
           "title": "Mandado devolvido não entregue ao destinatário IZABEL LEVINO ESTEVES - CPF: 635.561.971-20 (EXECUTADO(A))"
@@ -624,11 +629,6 @@
         {
           "date": "2026-02-06",
           "header": "TJMG",
-          "title": "Publicado Intimação em 06/02/2026."
-        },
-        {
-          "date": "2026-02-06",
-          "header": "TJMG",
           "title": "Disponibilizado no DJ Eletrônico em 05/02/2026"
         }
       ],
@@ -657,6 +657,6 @@
       "Diligências": 2,
       "Outras": 0
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-25"
   }
 }

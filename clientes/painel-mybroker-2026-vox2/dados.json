@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:05:19-03:00",
-    "gerado_em_humano": "24/05/2026 09:05",
+    "gerado_em": "2026-05-25T13:45:59-03:00",
+    "gerado_em_humano": "25/05/2026 13:45",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -174,9 +174,9 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-04",
+          "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Ato Ordinatório - PARA A PARTE AUTORA COMPROVAR O PAGAMENTO DAS CUSTAS PARA PESQUISA"
+          "title": "Juntada -> Petição - Pagamento guia custas do Ato de Constrição"
         },
         {
           "date": "2026-05-04",
@@ -186,17 +186,22 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
+          "title": "Ato Ordinatório - PARA A PARTE AUTORA COMPROVAR O PAGAMENTO DAS CUSTAS PARA PESQUISA"
+        },
+        {
+          "date": "2026-05-04",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Despacho -> Mero Expediente (29/04/2026 17:18:55))"
         },
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-03-16",
@@ -211,17 +216,12 @@
         {
           "date": "2026-02-27",
           "header": "TJGO",
-          "title": "Ato Ordinatório - INTIMAÇÃO DA PARTE AUTORA (SISTEMAS CONVENIADOS)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Ato Ordinatório (27/02/2026 09:28:46))"
         },
         {
           "date": "2026-02-27",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-02-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Ato Ordinatório (27/02/2026 09:28:46))"
         }
       ],
       "partes_adversarias": [
@@ -3741,13 +3741,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 17,
+    "total": 16,
     "categorias": {
       "Peças": 2,
       "Audiências": 2,
       "Comunicações": 4,
       "Acompanhamento": 5,
-      "Diligências": 1,
+      "Diligências": 0,
       "Outras": 3
     },
     "ultima_data": "2026-05-12"

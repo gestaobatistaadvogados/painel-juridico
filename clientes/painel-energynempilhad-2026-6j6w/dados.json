@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:18:24-03:00",
-    "gerado_em_humano": "24/05/2026 09:18",
+    "gerado_em": "2026-05-25T13:59:11-03:00",
+    "gerado_em_humano": "25/05/2026 13:59",
     "slug_url": "painel-energynempilhad-2026-6j6w",
     "departamento": "direito_privado"
   },
@@ -27,6 +27,16 @@
       "process_date": "2025-08-25",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-22",
+          "header": "TJMA",
+          "title": "Enviado ao Diário da Justiça Eletrônico"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMA",
+          "title": "Indeferido o pedido de GLOBAL WF COMERCIO LTDA - CNPJ: 34.862.513/0001-23 (REU)"
+        },
         {
           "date": "2026-05-08",
           "header": "TJMA",
@@ -60,22 +70,12 @@
         {
           "date": "2026-04-07",
           "header": "TJMA",
-          "title": "Expedição de Mandado."
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJMA",
           "title": "Juntada de Petição de petição"
         },
         {
           "date": "2026-04-07",
           "header": "TJMA",
           "title": "Enviado ao Diário da Justiça Eletrônico"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJMA",
-          "title": "Audiência de conciliação   designada conduzida por #Não preenchido# em/para 08/06/2026 10:00,  Juizado Especial Cível e Criminal de Paço do Lumiar."
         }
       ],
       "partes_adversarias": [

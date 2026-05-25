@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:12:53-03:00",
-    "gerado_em_humano": "24/05/2026 09:12",
+    "gerado_em": "2026-05-25T13:53:39-03:00",
+    "gerado_em_humano": "25/05/2026 13:53",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -101,6 +101,16 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Embargos - 15/05/2026 19:08:54)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Juntada -> Petição -> Embargos (15/05/2026 19:08:54))"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Embargos - EMBARGOS DE DECLARAÇÃO"
@@ -108,7 +118,17 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         },
         {
           "date": "2026-05-06",
@@ -121,16 +141,6 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
         },
         {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
-        },
-        {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
@@ -139,16 +149,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - Alegações Finais"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Juntada -> Petição (06/03/2026 16:26:43))"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/03/2026 16:26:43)"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:15:56-03:00",
-    "gerado_em_humano": "24/05/2026 09:15",
+    "gerado_em": "2026-05-25T13:56:43-03:00",
+    "gerado_em_humano": "25/05/2026 13:56",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -1380,6 +1380,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Juntada -> Petição - manifestação"
@@ -1392,22 +1397,22 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:38))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cleison Dias Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:38))"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
+        },
+        {
+          "date": "2026-04-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:38))"
         },
         {
           "date": "2026-04-15",
@@ -1423,11 +1428,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleison Dias Brandao (Referente à Mov. Citação Não Efetivada - 15/04/2026 01:50:38)"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:28))"
         }
       ],
       "partes_adversarias": [

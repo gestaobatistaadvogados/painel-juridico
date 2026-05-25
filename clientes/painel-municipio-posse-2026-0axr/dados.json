@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:34:30-03:00",
-    "gerado_em_humano": "24/05/2026 09:34",
+    "gerado_em": "2026-05-25T14:15:22-03:00",
+    "gerado_em_humano": "25/05/2026 14:15",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -484,6 +484,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Homologação de cálculo e determinação de pagamento"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 27/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
@@ -506,12 +511,12 @@
         {
           "date": "2026-03-18",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Ato Ordinatório - intimar as partes/sobre cálculo"
         },
         {
           "date": "2026-03-18",
           "header": "TJGO",
-          "title": "Ato Ordinatório - intimar as partes/sobre cálculo"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-03-18",
@@ -527,11 +532,6 @@
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Cálculo de Liquidaçao ( Cpc e Clt ) -"
-        },
-        {
-          "date": "2026-02-10",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Ronnie Falco Dos Reis em 09/02/2026 23:59:59 (Referente à Mov. Decisão -> deferimento (15/12/2025 20:08:57))"
         }
       ],
       "partes_adversarias": [
@@ -1332,6 +1332,36 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Eufrasia Guedes (Referente à Mov. Ato Ordinatório (21/05/2026 16:36:06))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Eufrasia Guedes (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Processo Arquivado -"
@@ -1350,36 +1380,6 @@
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Processo Arquivado"
-        },
-        {
-          "date": "2025-12-04",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comp. protocolo Alvará Sucumbência"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - expedir alvará - conforme determinado na decisão ev. 39"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2025-11-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - MANIFESTAÇÃO"
-        },
-        {
-          "date": "2025-09-16",
-          "header": "TJGO",
-          "title": "Processo Arquivado -"
         }
       ],
       "partes_adversarias": [
@@ -1899,6 +1899,31 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - intimar parte autora"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - PROVIDÊNCIAS DOS REQUERIDOS - FALECIMENTO DO RÉU"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Do Carmo Silva Luz (Referente à Mov. Despacho -> Mero Expediente (28/04/2026 16:39:00))"
@@ -1914,16 +1939,6 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Do Carmo Silva Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
         },
         {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - PROVIDÊNCIAS DOS REQUERIDOS - FALECIMENTO DO RÉU"
-        },
-        {
           "date": "2026-02-10",
           "header": "TJGO",
           "title": "Autos Conclusos -"
@@ -1932,21 +1947,6 @@
           "date": "2026-02-10",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 25/11/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (20/10/2025 17:57:54))"
-        },
-        {
-          "date": "2026-02-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2025-10-31",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (20/10/2025 17:57:54))"
-        },
-        {
-          "date": "2025-10-21",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 20/10/2025 17:57:54)"
         }
       ],
       "partes_adversarias": [
@@ -3646,15 +3646,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 9,
+    "total": 7,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 4,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-25"
   }
 }

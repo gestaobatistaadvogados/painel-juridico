@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:17:16-03:00",
-    "gerado_em_humano": "24/05/2026 09:17",
+    "gerado_em": "2026-05-25T13:58:03-03:00",
+    "gerado_em_humano": "25/05/2026 13:58",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -914,6 +914,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-23",
+          "header": "TJDFT",
+          "title": "Disponibilizado no DJ Eletrônico em 22/05/2026"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJDFT",
           "title": "Recebidos os autos"
@@ -946,7 +951,7 @@
         {
           "date": "2026-04-17",
           "header": "TJDFT",
-          "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
+          "title": "Recebidos os autos"
         },
         {
           "date": "2026-04-17",
@@ -956,12 +961,7 @@
         {
           "date": "2026-04-17",
           "header": "TJDFT",
-          "title": "Recebidos os autos"
-        },
-        {
-          "date": "2026-04-11",
-          "header": "TJDFT",
-          "title": "Expedição de Certidão."
+          "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
         }
       ],
       "partes_adversarias": [

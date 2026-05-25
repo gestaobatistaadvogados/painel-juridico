@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:09:30-03:00",
-    "gerado_em_humano": "24/05/2026 09:09",
+    "gerado_em": "2026-05-25T13:50:16-03:00",
+    "gerado_em_humano": "25/05/2026 13:50",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -101,6 +101,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Juntada -> Petição"
@@ -113,7 +118,7 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Itaú Unibanco S.A. (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AGIL(ATFD (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
         },
         {
           "date": "2026-04-29",
@@ -123,12 +128,17 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Claudio Luiz de Oliveira Souza (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (29/04/2026 14:50:02))"
+        },
+        {
+          "date": "2026-04-29",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Livia Morais Vieira (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (29/04/2026 14:50:02))"
         },
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AGIL(ATFD (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wanderson Rainer Hilário de Araújo (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
         },
         {
           "date": "2026-04-29",
@@ -139,16 +149,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Carolina Carneiro Pedro (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Wanderson Rainer Hilário de Araújo (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hygor Hudson Queiroz Martins (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (29/04/2026 14:50:02))"
         }
       ],
       "partes_adversarias": [

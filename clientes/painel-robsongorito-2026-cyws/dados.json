@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:01:45-03:00",
-    "gerado_em_humano": "24/05/2026 09:01",
+    "gerado_em": "2026-05-25T13:42:25-03:00",
+    "gerado_em_humano": "25/05/2026 13:42",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -304,6 +304,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 22/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 21/05/2026"
+        },
+        {
           "date": "2026-05-20",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) EDINEUZA TRAJANO DA SILVA"
@@ -326,7 +336,7 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Decorrido o prazo de EDINEUZA TRAJANO DA SILVA em 13/05/2026"
+          "title": "Expedido(a) intimação a(o) EDINEUZA TRAJANO DA SILVA"
         },
         {
           "date": "2026-05-14",
@@ -336,22 +346,12 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) EDINEUZA TRAJANO DA SILVA"
+          "title": "Decorrido o prazo de EDINEUZA TRAJANO DA SILVA em 13/05/2026"
         },
         {
           "date": "2026-05-06",
           "header": "TRT18",
           "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 16/04/2026"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 17/04/2026"
         }
       ],
       "partes_adversarias": [
@@ -658,14 +658,14 @@
       "process_number": "0000204-92.2026.5.18.0006",
       "protocol_number": null,
       "folder": null,
-      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
       "step": "EXECUÇÃO/COBRANÇA",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
       "status_closure": "2026-05-09 20:05:11",
       "created_at": "2026-03-02 21:08:00",
       "process_date": null,
-      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-20",
@@ -720,9 +720,6 @@
       ],
       "partes_adversarias": [
         {
-          "name": "ADEMAR GOMES DA COSTA JUNIOR"
-        },
-        {
           "name": "GRUPO RICARO LTDA"
         },
         {
@@ -732,10 +729,13 @@
           "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
         },
         {
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
           "name": "RONAN DE CASTRO CAMPOS"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "execucao",
       "tribunal": "TRT18"
     },
     {
@@ -752,6 +752,11 @@
       "process_date": null,
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
+        },
         {
           "date": "2026-05-15",
           "header": "TRT18",
@@ -775,32 +780,27 @@
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 13/05/2026"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 12/05/2026"
         },
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 12/05/2026"
+          "title": "Publicado(a) o(a) intimação em 13/05/2026"
         },
         {
           "date": "2026-05-11",
           "header": "TRT18",
-          "title": "Despacho"
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
         },
         {
           "date": "2026-05-11",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) SHIRGINEARA FRANCIELLY ALVES FERREIRA"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
         }
       ],
       "partes_adversarias": [
@@ -1035,14 +1035,29 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Expedido(a) edital a(o) ROBSON GORITO PORTES"
+          "title": "Publicado(a) o(a) edital em 22/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) edital em 22/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) edital no Diário da Justiça Eletrônico do dia 21/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) edital no Diário da Justiça Eletrônico do dia 21/05/2026"
         },
         {
           "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência cancelada (19/05/2026 09:40 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Audiência inicial por videoconferência designada (22/06/2026 11:40 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
         },
         {
           "date": "2026-05-20",
@@ -1052,7 +1067,7 @@
         {
           "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) ROBSON GORITO PORTES"
+          "title": "Audiência inicial por videoconferência cancelada (19/05/2026 09:40 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
         },
         {
           "date": "2026-05-20",
@@ -1062,27 +1077,12 @@
         {
           "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (22/06/2026 11:40 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Expedido(a) edital a(o) ROBSON GORITO PORTES"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Ata da Audiência"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Audiência inicial por videoconferência realizada (19/05/2026 09:40 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (19/05/2026 09:40 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+          "title": "Expedido(a) notificação a(o) ROBSON GORITO PORTES"
         }
       ],
       "partes_adversarias": [
@@ -1809,9 +1809,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Publicado(a) o(a) intimação em 22/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 21/05/2026"
         },
         {
           "date": "2026-05-20",
@@ -1824,14 +1829,9 @@
           "title": "Expedido(a) intimação a(o) MARIA DA CONCEICAO ROCHA DO SACRAMENTO"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Conclusos os autos para despacho (genérica) a THAIS MEIRELES PEREIRA VILLA VERDE"
+          "title": "Proferido despacho de mero expediente"
         },
         {
           "date": "2026-05-19",
@@ -1854,9 +1854,9 @@
           "title": "Juntada a petição de Manifestação"
         },
         {
-          "date": "2026-05-08",
+          "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 11/05/2026"
+          "title": "Juntada a petição de Manifestação"
         }
       ],
       "partes_adversarias": [
@@ -1893,11 +1893,11 @@
       "process_number": "0000553-98.2026.5.18.0005",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO AUDIÊNCIA",
       "step": "JUDICIAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-24 21:51:45",
       "created_at": "2026-04-14 11:46:59",
       "process_date": "2026-03-26",
       "responsible": "FELLIPE LOPES",
@@ -1955,28 +1955,28 @@
       ],
       "partes_adversarias": [
         {
-          "name": "ADEMAR GOMES DA COSTA JUNIOR"
-        },
-        {
           "name": "GRUPO RICARO LTDA"
         },
         {
           "name": "HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
         },
         {
-          "name": "RAFAEL HADDAD"
+          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
         },
         {
-          "name": "RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+          "name": "ADEMAR GOMES DA COSTA JUNIOR"
+        },
+        {
+          "name": "MARIA VANESSA MOURA DA SILVA"
+        },
+        {
+          "name": "RAFAEL HADDAD"
         },
         {
           "name": "RICARDO ABDALLA HADDAD"
         },
         {
           "name": "ROBERTO ABDALLA HADDAD"
-        },
-        {
-          "name": "MARIA VANESSA MOURA DA SILVA"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -1997,9 +1997,29 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ANA MARIA AGUIAR ALBUQUERQUE DA SILVA em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 21/05/2026"
+        },
+        {
           "date": "2026-05-13",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
+          "title": "Publicado(a) o(a) intimação em 14/05/2026"
         },
         {
           "date": "2026-05-13",
@@ -2014,17 +2034,7 @@
         {
           "date": "2026-05-13",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ANA MARIA AGUIAR ALBUQUERQUE DA SILVA"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Despacho"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
         },
         {
           "date": "2026-05-12",
@@ -2034,17 +2044,7 @@
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
           "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
         }
       ],
       "partes_adversarias": [
@@ -2188,14 +2188,29 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência realizada (20/05/2026 09:00 CEJUSC - INICIAIS 08 - CEJUSC GOIÂNIA)"
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência cancelada (20/05/2026 09:00 CEJUSC - INICIAIS - 8ª VARA DO TRABALHO DE GOIÂNIA)"
         },
         {
           "date": "2026-05-20",
           "header": "TRT18",
           "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (20/05/2026 09:00 CEJUSC - INICIAIS 08 - CEJUSC GOIÂNIA)"
         },
         {
           "date": "2026-05-18",
@@ -2205,12 +2220,12 @@
         {
           "date": "2026-05-17",
           "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+          "title": "Audiência inicial por videoconferência designada (20/05/2026 09:00 CEJUSC - INICIAIS 08 - CEJUSC GOIÂNIA)"
         },
         {
           "date": "2026-05-17",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (20/05/2026 09:00 CEJUSC - INICIAIS 08 - CEJUSC GOIÂNIA)"
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
         },
         {
           "date": "2026-05-15",
@@ -2221,21 +2236,6 @@
           "date": "2026-05-06",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 07/05/2026"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de HOSPITAL AMPARO LTDA em 04/05/2026"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) CAROLINE RODRIGUES FARIA"
         }
       ],
       "partes_adversarias": [
@@ -2355,6 +2355,46 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ROBSON GORITO PORTES em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RICARDO ABDALLA HADDAD em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ROBERTO ABDALLA HADDAD em 21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RAFAEL HADDAD em 21/05/2026"
+        },
+        {
           "date": "2026-05-13",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
@@ -2362,47 +2402,7 @@
         {
           "date": "2026-05-13",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ADEMAR GOMES DA COSTA JUNIOR"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RAFAEL HADDAD"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ROBSON GORITO PORTES"
         }
       ],
       "partes_adversarias": [
@@ -2713,6 +2713,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Devolvido o mandado pelo Oficial de Justiça (não cumprido)"
+        },
+        {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -2745,11 +2750,6 @@
         {
           "date": "2026-05-11",
           "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
           "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
         },
         {
@@ -2758,7 +2758,7 @@
           "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
         },
         {
-          "date": "2026-05-08",
+          "date": "2026-05-11",
           "header": "TRT18",
           "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
         }
@@ -3059,6 +3059,36 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) JOSE FABIO DA SILVA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Decisão"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Não concedida a tutela provisória de urgência antecipada incidente de JOSE FABIO DA SILVA"
+        },
+        {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -3066,47 +3096,17 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
+          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
         },
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 11/05/2026"
+          "title": "Juntada a petição de Solicitação de Habilitação"
         },
         {
           "date": "2026-05-11",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 12/05/2026"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) SIDERLEY DE SOUZA CARNEIRO"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) JOSE FABIO DA SILVA"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) URANO RIBEIRO GUIMARAES"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) WAGNER MIRANDA"
         }
       ],
       "partes_adversarias": [
@@ -3152,15 +3152,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 55,
+    "total": 62,
     "categorias": {
       "Peças": 5,
       "Audiências": 7,
-      "Comunicações": 9,
-      "Acompanhamento": 25,
-      "Diligências": 0,
+      "Comunicações": 12,
+      "Acompanhamento": 27,
+      "Diligências": 2,
       "Outras": 9
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-25"
   }
 }

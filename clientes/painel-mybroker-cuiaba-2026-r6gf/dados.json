@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:13:50-03:00",
-    "gerado_em_humano": "24/05/2026 09:13",
+    "gerado_em": "2026-05-25T13:54:36-03:00",
+    "gerado_em_humano": "25/05/2026 13:54",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -233,11 +233,11 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 3,
     "categorias": {
       "Peças": 0,
       "Audiências": 1,
-      "Comunicações": 2,
+      "Comunicações": 1,
       "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0

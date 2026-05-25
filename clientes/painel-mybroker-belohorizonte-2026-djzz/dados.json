@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:13:34-03:00",
-    "gerado_em_humano": "24/05/2026 09:13",
+    "gerado_em": "2026-05-25T13:54:20-03:00",
+    "gerado_em_humano": "25/05/2026 13:54",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,41 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJMG",
+          "title": "Evento: 88\nDescrição: Disponibilizado no DJEN - no dia 22/05/2026 - Refer. aos Eventos: 85, 86, 87"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 87\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 85\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 86\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(AUTOR -  CLAUBERTH DUARTE FIGUEIREDO)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 84\nDescrição: Embargos de Declaração Não-acolhidos"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 83\nDescrição: Conclusos para Julgamento"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJMG",
+          "title": "Evento: 82\nDescrição: Conclusos para Decisão"
+        },
+        {
           "date": "2026-05-20",
           "header": "TJMG",
           "title": "Evento: 81\nDescrição: Decorrido prazo - Refer. ao Evento: 75"
@@ -41,41 +76,6 @@
           "date": "2026-05-13",
           "header": "TJMG",
           "title": "Evento: 79\nDescrição: Publicado no DJEN - no dia 12/05/2026 - Refer. ao Evento: 75"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJMG",
-          "title": "Evento: 78\nDescrição: Disponibilizado no DJEN - no dia 11/05/2026 - Refer. ao Evento: 75"
-        },
-        {
-          "date": "2026-05-09",
-          "header": "TJMG",
-          "title": "Evento: 77\nDescrição: Decorrido prazo - Refer. ao Evento: 70"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:AGUARD. ABERTURA"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 76\nDescrição: PETIÇÃO - Refer. aos Eventos: 68 e 69"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:ABERTO\nData inicial da contagem do prazo: 13/05/2026 00:00:00\nData final: 19/05/2026 23:59:59"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 75\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 74\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 5 dias Status:FECHADO\nData inicial da contagem do prazo: 13/05/2026 00:00:00\nData final: 19/05/2026 23:59:59"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMG",
-          "title": "Evento: 74\nDescrição: Ato ordinatório praticado"
         }
       ],
       "partes_adversarias": [

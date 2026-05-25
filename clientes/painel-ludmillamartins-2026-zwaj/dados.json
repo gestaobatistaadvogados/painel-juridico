@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:18:02-03:00",
-    "gerado_em_humano": "24/05/2026 09:18",
+    "gerado_em": "2026-05-25T13:58:50-03:00",
+    "gerado_em_humano": "25/05/2026 13:58",
     "slug_url": "painel-ludmillamartins-2026-zwaj",
     "departamento": "direito_privado"
   },
@@ -27,6 +27,16 @@
       "process_date": null,
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Conhecido em parte o recurso de LUDMILLA MARTINS NEVES - CPF: 023.517.841-11 (AGRAVANTE) e não-provido"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJDFT",
+          "title": "Deliberado em Sessão - Julgado - Mérito"
+        },
         {
           "date": "2026-05-04",
           "header": "TJDFT",
@@ -66,16 +76,6 @@
           "date": "2026-02-19",
           "header": "TJDFT",
           "title": "Conclusos para decisão - Magistrado(a) MARIA LEONOR LEIKO AGUENA"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJDFT",
-          "title": "Decorrido prazo de UOSTON CARVALHO DA SILVA em 11/02/2026 23:59."
-        },
-        {
-          "date": "2026-01-23",
-          "header": "TJDFT",
-          "title": "Decorrido prazo de LUDMILLA MARTINS NEVES em 22/01/2026 23:59."
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-24T09:18:17-03:00",
-    "gerado_em_humano": "24/05/2026 09:18",
+    "gerado_em": "2026-05-25T13:59:05-03:00",
+    "gerado_em_humano": "25/05/2026 13:59",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -72,6 +72,21 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJMA",
+          "title": "Disponibilizado no DJ Eletrônico em  21/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJMA",
+          "title": "Publicado Intimação em 22/05/2026."
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJMA",
+          "title": "Enviado ao Diário da Justiça Eletrônico"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJMA",
           "title": "Proferidas outras decisões não especificadas"
@@ -94,16 +109,6 @@
         {
           "date": "2025-11-06",
           "header": "TJMA",
-          "title": "Publicado Intimação em 06/11/2025."
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
-          "title": "Juntada de Petição de contrarrazões"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
           "title": "Juntada de Petição de contrarrazões"
         },
         {
@@ -112,14 +117,9 @@
           "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
         },
         {
-          "date": "2025-11-04",
+          "date": "2025-11-06",
           "header": "TJMA",
-          "title": "Enviado ao Diário da Justiça Eletrônico"
-        },
-        {
-          "date": "2025-11-02",
-          "header": "TJMA",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Publicado Intimação em 06/11/2025."
         }
       ],
       "partes_adversarias": [
