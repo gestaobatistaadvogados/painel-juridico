@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T14:15:22-03:00",
-    "gerado_em_humano": "25/05/2026 14:15",
+    "gerado_em": "2026-05-26T15:51:23-03:00",
+    "gerado_em_humano": "26/05/2026 15:51",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -1250,6 +1250,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer Falta de Interesse (MP) - Não intervenção"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Despacho -> Mero Expediente (23/04/2026 17:19:35))"
@@ -1267,12 +1277,17 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Intimação Expedida - On-line para Posse - Promotoria das Fazendas Públicas (Referente à Mov. Despacho -> Mero Expediente - 23/04/2026 17:19:35)"
         },
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Posse - Promotoria das Fazendas Públicas (Referente à Mov. Despacho -> Mero Expediente - 23/04/2026 17:19:35)"
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-03-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-03-02",
@@ -1283,21 +1298,6 @@
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 19/02/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (26/11/2025 19:50:15))"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2026-02-11",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: SILVIA MARIA CHEMET KANSO Procurador Responsável Atual: ROBERTO ALVES GOMES"
-        },
-        {
-          "date": "2025-12-09",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Despacho -> Mero Expediente (26/11/2025 19:50:15))"
         }
       ],
       "partes_adversarias": [
@@ -3655,6 +3655,6 @@
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-25"
+    "ultima_data": "2026-05-26"
   }
 }

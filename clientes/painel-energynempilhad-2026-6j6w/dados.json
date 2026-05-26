@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T13:59:11-03:00",
-    "gerado_em_humano": "25/05/2026 13:59",
+    "gerado_em": "2026-05-26T15:34:51-03:00",
+    "gerado_em_humano": "26/05/2026 15:34",
     "slug_url": "painel-energynempilhad-2026-6j6w",
     "departamento": "direito_privado"
   },
@@ -88,15 +88,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 9,
+    "total": 10,
     "categorias": {
       "Peças": 2,
       "Audiências": 1,
       "Comunicações": 3,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 2,
       "Outras": 0
     },
-    "ultima_data": "2026-04-29"
+    "ultima_data": "2026-05-25"
   }
 }

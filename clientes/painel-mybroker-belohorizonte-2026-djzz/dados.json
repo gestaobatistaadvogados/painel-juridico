@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T13:54:20-03:00",
-    "gerado_em_humano": "25/05/2026 13:54",
+    "gerado_em": "2026-05-26T15:29:57-03:00",
+    "gerado_em_humano": "26/05/2026 15:29",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -116,15 +116,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 0,
+    "total": 3,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": null
+    "ultima_data": "2026-05-26"
   }
 }

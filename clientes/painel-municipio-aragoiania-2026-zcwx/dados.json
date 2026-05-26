@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T14:23:30-03:00",
-    "gerado_em_humano": "25/05/2026 14:23",
+    "gerado_em": "2026-05-26T15:59:43-03:00",
+    "gerado_em_humano": "26/05/2026 15:59",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -2055,9 +2055,24 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Intimação Expedida - 24/05/2026 12:00:59)"
+        },
+        {
+          "date": "2026-05-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - FAZENDA PÚBLICA - INFORMAR DADOS CONTA JUDICIAL (DEPÓSITO)"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - MANIFESTAÇÃO ALVARÁ"
+        },
+        {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fabiana Alves Dos Santos (Referente à Mov. Processo Reativado (06/05/2026 15:01:41))"
         },
         {
           "date": "2026-05-06",
@@ -2068,11 +2083,6 @@
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fabiana Alves Dos Santos - Polo Ativo (Referente à Mov. Processo Reativado (CNJ:849) - )"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fabiana Alves Dos Santos (Referente à Mov. Processo Reativado (06/05/2026 15:01:41))"
         },
         {
           "date": "2026-05-05",
@@ -2092,17 +2102,7 @@
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Certidão Expedida (04/03/2026 11:46:04))"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Requisição de Pequeno Valor Expedida (03/03/2026 14:32:24))"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Requisição de Pequeno Valor Expedida (03/03/2026 14:32:13))"
         }
       ],
       "partes_adversarias": [
@@ -4263,14 +4263,9 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-04-09",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (09/04/2026 11:08:14))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (08/04/2026 15:08:08))"
+          "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença - Impugnação ao Cumprimento de Sentença"
         },
         {
           "date": "2026-04-09",
@@ -4293,14 +4288,14 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Certidão Expedida - 08/04/2026 15:08:08)"
         },
         {
-          "date": "2026-04-08",
+          "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Transitado em Julgado - Certidão - Trânsito em Julgado"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (09/04/2026 11:08:14))"
         },
         {
-          "date": "2026-04-08",
+          "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Processo baixado à origem/devolvido -"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (08/04/2026 15:08:08))"
         },
         {
           "date": "2026-04-08",
@@ -4310,7 +4305,12 @@
         {
           "date": "2026-04-08",
           "header": "TJGO",
-          "title": "Certidão Expedida - RETORNO DOS AUTOS DO 2 GRAU"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valdivino De Oliveira Terra (Referente à Mov. Certidão Expedida (08/04/2026 15:08:08))"
+        },
+        {
+          "date": "2026-04-08",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Certidão - Trânsito em Julgado"
         }
       ],
       "partes_adversarias": [
@@ -8783,6 +8783,41 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimar autor para prosseguimento do feito sob pena de extinção"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Estelita Maria Lobo Borges em 21/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para WILMAR TATICO BORGES em 21/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
@@ -8790,47 +8825,12 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - manifestar resultado CACE"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
         },
         {
-          "date": "2026-05-08",
+          "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PEDIDO CACE"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -8963,18 +8963,84 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 15161131,
+      "process_number": "0355014-71.2011.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "step": "EXECUÇÃO/COBRANÇA",
+      "type": "AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-25 16:10:19",
+      "process_date": "2011-08-18",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "RENATA FERREIRA DE MELLO PALKA"
+        }
+      ],
+      "fase_grupo": "execucao",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 15183782,
+      "process_number": null,
+      "protocol_number": "417/26",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-26 11:46:27",
+      "process_date": "2026-05-25",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "WALDIR BATISTA RIOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 15184297,
+      "process_number": null,
+      "protocol_number": "5550/25",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-05-26 11:59:53",
+      "process_date": "2026-05-25",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "WALDIR BATISTA RIOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 34,
+    "total": 43,
     "categorias": {
-      "Peças": 4,
+      "Peças": 7,
       "Audiências": 3,
       "Comunicações": 0,
-      "Acompanhamento": 19,
+      "Acompanhamento": 24,
       "Diligências": 1,
-      "Outras": 7
+      "Outras": 8
     },
-    "ultima_data": "2026-05-25"
+    "ultima_data": "2026-05-26"
   }
 }

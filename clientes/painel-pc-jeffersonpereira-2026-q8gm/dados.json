@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T14:27:19-03:00",
-    "gerado_em_humano": "25/05/2026 14:27",
+    "gerado_em": "2026-05-26T16:03:34-03:00",
+    "gerado_em_humano": "26/05/2026 16:03",
     "slug_url": "painel-pc-jeffersonpereira-2026-q8gm",
     "departamento": "direito_criminal"
   },
@@ -59,15 +59,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 1,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-25"
+    "ultima_data": "2026-05-21"
   }
 }

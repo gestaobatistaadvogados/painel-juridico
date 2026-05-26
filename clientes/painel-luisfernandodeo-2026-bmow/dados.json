@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T13:58:41-03:00",
-    "gerado_em_humano": "25/05/2026 13:58",
+    "gerado_em": "2026-05-26T15:34:20-03:00",
+    "gerado_em_humano": "26/05/2026 15:34",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -123,39 +123,44 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Despacho -> Mero Expediente (25/05/2026 13:46:50))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Despacho -> Mero Expediente (25/05/2026 13:46:50))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Agravo Interno"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - PUBLICAÇÃO DIÁRIO Nº 4427/2026 DO DIA 11/05/2026"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 07/05/2026 14:36:56)"
         },
         {
           "date": "2026-05-07",
@@ -165,12 +170,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento -"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luis Fernando De Oliveira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
         }
       ],
       "partes_adversarias": [

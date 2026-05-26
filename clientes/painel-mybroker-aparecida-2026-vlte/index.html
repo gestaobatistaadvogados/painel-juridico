@@ -966,8 +966,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">25/05/2026 13:53</div>
-            <div><span class="ativos">3</span> processos ativos</div>
+            <div class="data">26/05/2026 15:29</div>
+            <div><span class="ativos">2</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -1067,13 +1067,11 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                     <span class="area-tag urgente">⚡ 1 urgente</span>
                     
                     
-                    <span class="area-tag atencao">1 atenção</span>
-                    
                     
                 </div>
                 <div class="area-resumo">
-                    3 ativos
-                    e 1 arquivado.
+                    2 ativos
+                    e 2 arquivados.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1116,8 +1114,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="total-area">
                     Total da área: <strong>4</strong>
                     processos
-                    · 3 ativos
-                    · 1 arquivado
+                    · 2 ativos
+                    · 2 arquivados
                 </div>
             </div>
             <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
@@ -1133,7 +1131,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi ativos">
                 <div class="card-kpi-rotulo">Ativos</div>
-                <div class="card-kpi-numero">3</div>
+                <div class="card-kpi-numero">2</div>
                 <div class="card-kpi-detalhe">em andamento</div>
             </div>
             <div class="card-kpi urgente">
@@ -1143,7 +1141,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi favoravel">
                 <div class="card-kpi-rotulo">Resolvidos</div>
-                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-numero">2</div>
                 <div class="card-kpi-detalhe">com encerramento registrado</div>
             </div>
             <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
@@ -1176,16 +1174,10 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🟡</span>
                     <h4>Atenção</h4>
-                    <span class="contador">1</span>
+                    <span class="contador">0</span>
                 </div>
                 
-                
-                <div class="card-alerta" onclick="abrirModalProcesso('13092097')">
-                    <div class="card-alerta-numero">5281939-97.2025.8.09.0011</div>
-                    <div class="card-alerta-descricao">Aguardando Julgamento</div>
-                </div>
-                
-                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
                 
             </div>
             
@@ -1194,9 +1186,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🟢</span>
                     <h4>Resolvidos / Favoráveis</h4>
-                    <span class="contador">1</span>
+                    <span class="contador">2</span>
                 </div>
                 
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13092097')">
+                    <div class="card-alerta-numero">5281939-97.2025.8.09.0011</div>
+                    <div class="card-alerta-descricao">Recurso Protocolado/iniciado</div>
+                </div>
                 
                 <div class="card-alerta" onclick="abrirModalProcesso('13413506')">
                     <div class="card-alerta-numero">5417193-19.2025.8.09.0051</div>
@@ -1488,7 +1485,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                         
                         
                         <tr data-id="13092097"
-                            data-fase-grupo="conhecimento"
+                            data-fase-grupo="recursal"
                             data-busca="5281939-97.2025.8.09.0011 obrigação de fazer my broker imoveis aparecida ltda marcos abreu cardoso figueiredo"
                             onclick="abrirModalProcesso('13092097')">
                             <td class="cnj-cell">5281939-97.2025.8.09.0011</td>
@@ -1506,7 +1503,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                             </td>
                             <td class="tribunal-cell">TJGO</td>
                             <td class="acao-cell">Obrigação De Fazer</td>
-                            <td><span class="badge badge-fase-conhecimento">Aguardando Julgamento</span></td>
+                            <td><span class="badge badge-fase-recursal">Recurso Protocolado/iniciado</span></td>
                             <td class="ultimo-cell">
                                 
                                 <div class="data">22/05/2026</div>
@@ -1951,14 +1948,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 25/05/2026 13:53 — Documento de uso restrito do cliente.
+        Painel gerado em 26/05/2026 15:29 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"12997745": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-05 09:42:46", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-05-18", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Gracino Jose Mariano Junior (Referente \u00e0 Mov. Certid\u00e3o Expedida (18/05/2026 10:55:55))"}, {"date": "2026-05-18", "header": "TJGO", "title": "Certid\u00e3o Expedida - 854, \u00a73\u00b0- PENHORA - CUMPRIMENTO DE SENTEN\u00c7A"}, {"date": "2026-05-18", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior - Polo Passivo (Referente \u00e0 Mov. Certid\u00e3o Expedida (CNJ:60) - )"}, {"date": "2026-05-14", "header": "TJGO", "title": "Juntada de Documento - Devolu\u00e7\u00e3o-penhora parcial com transfer\u00eancia-CEF"}, {"date": "2026-04-10", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o - Peti\u00e7\u00e3o Interlocut\u00f3ria"}], "partes_adversarias": ["GRACINO JOSE MARIANO JUNIOR"], "process_date": null, "process_number": "5294249-49.2024.8.09.0051", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)", "status_closure": "", "tribunal": "TJGO", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13092097": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-09 18:30:25", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-05-22", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo - Polo Ativo (Referente \u00e0 Mov. Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos - 15/05/2026 19:08:54)"}, {"date": "2026-05-22", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente \u00e0 Mov. Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos (15/05/2026 19:08:54))"}, {"date": "2026-05-15", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos - EMBARGOS DE DECLARA\u00c7\u00c3O"}, {"date": "2026-05-06", "header": "TJGO", "title": "Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia"}, {"date": "2026-05-06", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia (CNJ:219) - )"}], "partes_adversarias": ["MARCOS ABREU CARDOSO FIGUEIREDO"], "process_date": "2025-04-10", "process_number": "5281939-97.2025.8.09.0011", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "AGUARDANDO JULGAMENTO", "status_closure": "", "tribunal": "TJGO", "type": "OBRIGA\u00c7\u00c3O DE FAZER"}, "13330053": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-24 09:12:57", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-04-13", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o -"}, {"date": "2026-04-13", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o"}, {"date": "2026-04-08", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luciana Regina De Souza - Polo Ativo (Referente \u00e0 Mov. Ato Ordinat\u00f3rio (CNJ:11383) - )"}, {"date": "2026-04-08", "header": "TJGO", "title": "Ato Ordinat\u00f3rio - intimar autor para endere\u00e7os requeridos Rodrigo e Leandro"}, {"date": "2026-04-08", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Luciana Regina De Souza (Referente \u00e0 Mov. Ato Ordinat\u00f3rio (08/04/2026 12:08:14))"}], "partes_adversarias": ["LUCIANA REGINA DE SOUZA"], "process_date": null, "process_number": "5990220-95.2025.8.09.0012", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "AGUARDANDO AUDI\u00caNCIA", "status_closure": "", "tribunal": "TJGO", "type": "OBRIGA\u00c7\u00c3O DE FAZER"}, "13413506": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2025-06-03 00:00:00", "fase_grupo": "conhecimento", "folder": "2950", "movements_top5": [], "partes_adversarias": ["LARICE ALMEIDA ROSA"], "process_date": "2025-05-28", "process_number": "5417193-19.2025.8.09.0051", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2025-06-03 00:00:00", "tribunal": "TJGO", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13413507": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2025-09-23 00:00:00", "fase_grupo": "conhecimento", "folder": "3729", "movements_top5": [{"date": "2026-03-13", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-03-13", "header": "TJGO", "title": "Transitado em Julgado -"}, {"date": "2026-03-13", "header": "TJGO", "title": "Transitado em Julgado"}, {"date": "2026-03-13", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-01-15", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Liliane Batista Lopes (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Homologa\u00e7\u00e3o de Transa\u00e7\u00e3o (Acordo Homologado) (19/12/2025 15:31:46))"}], "partes_adversarias": ["LILIANE BATISTA LOPES"], "process_date": "2025-06-26", "process_number": "5501184-13.2025.8.09.0011", "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-09-23 00:00:00", "tribunal": "TJGO", "type": "PROCEDIMENTO COMUM CIVEL"}}</script>
+<script type="application/json" id="dados-processos-modal">{"12997745": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-05 09:42:46", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-05-18", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Gracino Jose Mariano Junior (Referente \u00e0 Mov. Certid\u00e3o Expedida (18/05/2026 10:55:55))"}, {"date": "2026-05-18", "header": "TJGO", "title": "Certid\u00e3o Expedida - 854, \u00a73\u00b0- PENHORA - CUMPRIMENTO DE SENTEN\u00c7A"}, {"date": "2026-05-18", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior - Polo Passivo (Referente \u00e0 Mov. Certid\u00e3o Expedida (CNJ:60) - )"}, {"date": "2026-05-14", "header": "TJGO", "title": "Juntada de Documento - Devolu\u00e7\u00e3o-penhora parcial com transfer\u00eancia-CEF"}, {"date": "2026-04-10", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o - Peti\u00e7\u00e3o Interlocut\u00f3ria"}], "partes_adversarias": ["GRACINO JOSE MARIANO JUNIOR"], "process_date": null, "process_number": "5294249-49.2024.8.09.0051", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)", "status_closure": "", "tribunal": "TJGO", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13092097": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-09 18:30:25", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-05-22", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo - Polo Ativo (Referente \u00e0 Mov. Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos - 15/05/2026 19:08:54)"}, {"date": "2026-05-22", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente \u00e0 Mov. Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos (15/05/2026 19:08:54))"}, {"date": "2026-05-15", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o -\u003e Embargos - EMBARGOS DE DECLARA\u00c7\u00c3O"}, {"date": "2026-05-06", "header": "TJGO", "title": "Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia"}, {"date": "2026-05-06", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia (CNJ:219) - )"}], "partes_adversarias": ["MARCOS ABREU CARDOSO FIGUEIREDO"], "process_date": "2025-04-10", "process_number": "5281939-97.2025.8.09.0011", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "RECURSO PROTOCOLADO/INICIADO", "status_closure": "2026-05-26 14:29:53", "tribunal": "TJGO", "type": "OBRIGA\u00c7\u00c3O DE FAZER"}, "13330053": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2026-02-24 09:12:57", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-04-13", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o -"}, {"date": "2026-04-13", "header": "TJGO", "title": "Juntada -\u003e Peti\u00e7\u00e3o"}, {"date": "2026-04-08", "header": "TJGO", "title": "Intima\u00e7\u00e3o Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luciana Regina De Souza - Polo Ativo (Referente \u00e0 Mov. Ato Ordinat\u00f3rio (CNJ:11383) - )"}, {"date": "2026-04-08", "header": "TJGO", "title": "Ato Ordinat\u00f3rio - intimar autor para endere\u00e7os requeridos Rodrigo e Leandro"}, {"date": "2026-04-08", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Luciana Regina De Souza (Referente \u00e0 Mov. Ato Ordinat\u00f3rio (08/04/2026 12:08:14))"}], "partes_adversarias": ["LUCIANA REGINA DE SOUZA"], "process_date": null, "process_number": "5990220-95.2025.8.09.0012", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "AGUARDANDO AUDI\u00caNCIA", "status_closure": "", "tribunal": "TJGO", "type": "OBRIGA\u00c7\u00c3O DE FAZER"}, "13413506": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2025-06-03 00:00:00", "fase_grupo": "conhecimento", "folder": "2950", "movements_top5": [], "partes_adversarias": ["LARICE ALMEIDA ROSA"], "process_date": "2025-05-28", "process_number": "5417193-19.2025.8.09.0051", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "ANALISADO E N\u00c3O DISTRIBU\u00cdDO", "status_closure": "2025-06-03 00:00:00", "tribunal": "TJGO", "type": "EXECU\u00c7\u00c3O DE T\u00cdTULO EXTRAJUDICIAL"}, "13413507": {"cliente_name": "MY BROKER IMOVEIS APARECIDA LTDA", "created_at": "2025-09-23 00:00:00", "fase_grupo": "conhecimento", "folder": "3729", "movements_top5": [{"date": "2026-03-13", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-03-13", "header": "TJGO", "title": "Transitado em Julgado -"}, {"date": "2026-03-13", "header": "TJGO", "title": "Transitado em Julgado"}, {"date": "2026-03-13", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-01-15", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Liliane Batista Lopes (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Homologa\u00e7\u00e3o de Transa\u00e7\u00e3o (Acordo Homologado) (19/12/2025 15:31:46))"}], "partes_adversarias": ["LILIANE BATISTA LOPES"], "process_date": "2025-06-26", "process_number": "5501184-13.2025.8.09.0011", "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-09-23 00:00:00", "tribunal": "TJGO", "type": "PROCEDIMENTO COMUM CIVEL"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"imobiliario": {"fase": {"colors": ["#2874a6", "#884ea0"], "data": [3, 1], "labels": ["Conhecimento", "Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [3, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [2, 2], "labels": ["Execu\u00e7\u00e3o De T\u00edtulo Extrajudicial", "Obriga\u00e7\u00e3o De Fazer"]}, "tribunal": {"data": [4], "labels": ["TJGO"]}},
+"imobiliario": {"fase": {"colors": ["#2874a6", "#884ea0"], "data": [2, 2], "labels": ["Conhecimento", "Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [2, 2], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [2, 2], "labels": ["Execu\u00e7\u00e3o De T\u00edtulo Extrajudicial", "Obriga\u00e7\u00e3o De Fazer"]}, "tribunal": {"data": [4], "labels": ["TJGO"]}},
 "civel-e-empresarial": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Procedimento Comum Civel"]}, "tribunal": {"data": [1], "labels": ["TJGO"]}}
 }</script>
 

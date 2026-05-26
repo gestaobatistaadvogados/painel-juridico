@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T13:49:30-03:00",
-    "gerado_em_humano": "25/05/2026 13:49",
+    "gerado_em": "2026-05-26T15:25:04-03:00",
+    "gerado_em_humano": "26/05/2026 15:25",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -104,6 +104,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -116,22 +121,22 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Expedição de Documento (15/05/2026 16:38:18))"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
           "title": "Expedição de Documento - CCSC - Andamento ao feito/ Suspensão (921, III, CPC)"
         },
         {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Expedição de Documento (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Expedição de Documento (15/05/2026 16:38:18))"
         },
         {
           "date": "2026-05-14",
@@ -141,17 +146,12 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Juntada de Documento (06/05/2026 16:58:42))"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA( - GO) (Referente à Mov. Juntada de Documento - 06/05/2026 16:58:42)"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao de Apoio aos Proprietarios de Veiculos e Beneficios Mutuos APV (APROVEC-GO) (Referente à Mov. Juntada de Documento (06/05/2026 16:58:42))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cicero Gildo Firmino Vieira (Referente à Mov. Juntada de Documento (06/05/2026 16:58:42))"
         }
       ],
       "partes_adversarias": [
@@ -5021,6 +5021,41 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Via WhatsApp - Perito (a) - Lucas Eduardo de Oliveira Silva"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Upcar Reparacao Automotiva Ltda (Referente à Mov. Juntada de Documento (19/05/2026 14:50:47))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Soina Silva De Andrade (Referente à Mov. Juntada de Documento (19/05/2026 14:50:47))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aprovec - Associação De Apoio Aos Proprietários De Veículos (Referente à Mov. Juntada de Documento (19/05/2026 14:50:47))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Soina Silva De Andrade (Referente à Mov. Juntada de Documento - 19/05/2026 14:50:47)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aprovec - Associação De Apoio Aos Proprietários De Veículos (Referente à Mov. Juntada de Documento - 19/05/2026 14:50:47)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de URAL (Referente à Mov. Juntada de Documento - 19/05/2026 14:50:47)"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Juntada de Documento - Manifestação Perito"
@@ -5028,47 +5063,12 @@
         {
           "date": "2026-05-18",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Certidão Expedida - Encaminhamento à CIV - Peritos"
         },
         {
           "date": "2026-05-18",
           "header": "TJGO",
-          "title": "Certidão Expedida - Encaminhamento à CIV - Peritos"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Manifestar sobre a proposta de honorários periciais"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Soina Silva De Andrade (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aprovec - Associação De Apoio Aos Proprietários De Veículos (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de URAL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Soina Silva De Andrade (Referente à Mov. Despacho -> Mero Expediente (08/05/2026 14:49:48))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aprovec - Associação De Apoio Aos Proprietários De Veículos (Referente à Mov. Despacho -> Mero Expediente (08/05/2026 14:49:48))"
+          "title": "Juntada -> Petição"
         }
       ],
       "partes_adversarias": [
@@ -5496,6 +5496,82 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TRT7"
+    },
+    {
+      "id": 13411373,
+      "process_number": "0010624-32.2021.5.18.0007",
+      "protocol_number": null,
+      "folder": "497",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": "2024-01-24 00:00:00",
+      "created_at": "2024-01-24 00:00:00",
+      "process_date": "2021-06-17",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 21/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 20/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 21/05/2026"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 20/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GOIANIA ESPORTE CLUBE"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Audiência de conciliação (conhecimento) designada (27/05/2026 13:30 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) ROBSON JOSE DOS SANTOS"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 14/05/2026"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 14/05/2026"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "GOIÂNIA ESPORTE CLUBE"
+        },
+        {
+          "name": "ROBSON JOSE DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
     },
     {
       "id": 13470449,
@@ -6168,12 +6244,12 @@
     "total": 56,
     "categorias": {
       "Peças": 12,
-      "Audiências": 4,
+      "Audiências": 5,
       "Comunicações": 5,
-      "Acompanhamento": 24,
-      "Diligências": 6,
+      "Acompanhamento": 22,
+      "Diligências": 7,
       "Outras": 5
     },
-    "ultima_data": "2026-05-25"
+    "ultima_data": "2026-05-26"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-25T13:59:05-03:00",
-    "gerado_em_humano": "25/05/2026 13:59",
+    "gerado_em": "2026-05-26T15:34:44-03:00",
+    "gerado_em_humano": "26/05/2026 15:34",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -132,15 +132,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 0,
+    "total": 6,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 3,
       "Diligências": 0,
-      "Outras": 0
+      "Outras": 3
     },
-    "ultima_data": null
+    "ultima_data": "2026-05-26"
   }
 }
