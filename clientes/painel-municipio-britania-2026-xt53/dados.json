@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:47:35-03:00",
-    "gerado_em_humano": "26/05/2026 15:47",
+    "gerado_em": "2026-05-27T15:48:28-03:00",
+    "gerado_em_humano": "27/05/2026 15:48",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -2997,6 +2997,31 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento Monocrático"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s) - Envia Decisão ao Juízo de Origem"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático - 25/05/2026 12:32:46)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático - 25/05/2026 12:32:46)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (25/05/2026 12:32:46))"
+        },
+        {
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ O RELATOR"
@@ -3019,32 +3044,7 @@
         {
           "date": "2026-02-23",
           "header": "TJGO",
-          "title": "Decisão -> Concessão -> Gratuidade da Justiça -"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Certidão de Saneamento"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Processo Distribuído - 8ª Câmara Cível (Normal) - Distribuído para: ALEXANDRE DE MORAIS KAFURI"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Peticão Enviada -"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T16:03:04-03:00",
-    "gerado_em_humano": "26/05/2026 16:03",
+    "gerado_em": "2026-05-27T16:03:57-03:00",
+    "gerado_em_humano": "27/05/2026 16:03",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -2951,6 +2951,31 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luzia Cristina Goncalves De Araujo - Polo Passivo (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (25/05/2026 17:00:03))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luzia Cristina Goncalves De Araujo (Referente à Mov. Decisão -> Outras Decisões (25/05/2026 17:00:03))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Não conhece contestação - ação de execução - erro grosseiro"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Juntada -> Petição - Impugnação a Contestação"
@@ -2968,37 +2993,12 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (29/04/2026 09:17:53))"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - IMPUGNAÇÃO À CONTESTAÇÃO 1ª UPJ"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
           "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -5240,15 +5240,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 28,
+    "total": 24,
     "categorias": {
       "Peças": 9,
-      "Audiências": 1,
+      "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 15,
+      "Acompanhamento": 13,
       "Diligências": 0,
-      "Outras": 3
+      "Outras": 2
     },
-    "ultima_data": "2026-05-26"
+    "ultima_data": "2026-05-27"
   }
 }

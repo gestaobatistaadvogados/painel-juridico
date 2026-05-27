@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:25:04-03:00",
-    "gerado_em_humano": "26/05/2026 15:25",
+    "gerado_em": "2026-05-27T15:25:48-03:00",
+    "gerado_em_humano": "27/05/2026 15:25",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -1516,7 +1516,7 @@
       "status_closure": null,
       "created_at": "2026-02-10 10:41:23",
       "process_date": null,
-      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-21",
@@ -1572,6 +1572,9 @@
       "partes_adversarias": [
         {
           "name": "LEONARDO SOUZA COSTA"
+        },
+        {
+          "name": "MATHEUS CARLOS FERREIRA DOS REIS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -2115,11 +2118,11 @@
       "process_number": "6037022-68.2024.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO AUDIÊNCIA",
-      "step": "JUDICIAL",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
       "type": "AÇÃO REGRESSIVA DECORRENTE DE ACIDENTE DE TRÂNSITO",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-27 14:09:26",
       "created_at": "2026-02-18 11:43:00",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
@@ -2180,7 +2183,7 @@
           "name": "ARNOR LUCINDO DE OLIVEIRA"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "recursal",
       "tribunal": "TJGO"
     },
     {
@@ -5908,6 +5911,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Godoi Valente Assessoria De Cobranca Ltda"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Godoi Valente Assessoria De Cobranca Ltda"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Sandro Coelho Ferreira Filho - Código de Rastreamento Correios: YH182054249BR idPendenciaCorreios109787605432015873960387741idPendenciaCorreios"
@@ -5930,12 +5943,12 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"1306-PROCESSO CÍVEL E DO TRABALHO -> Outros Procedimentos -> Incidentes -> Incidente de Desconsideração de Personalidade Jurídica\""
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (12/05/2026 22:23:27))"
         },
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (12/05/2026 22:23:27))"
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"1306-PROCESSO CÍVEL E DO TRABALHO -> Outros Procedimentos -> Incidentes -> Incidente de Desconsideração de Personalidade Jurídica\""
         },
         {
           "date": "2026-05-12",
@@ -5945,17 +5958,7 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Decisão -> Concessão -> Gratuidade da Justiça"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"1306-PROCESSO CÍVEL E DO TRABALHO -> Outros Procedimentos -> Incidentes -> Incidente de Desconsideração de Personalidade Jurídica\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
         }
       ],
       "partes_adversarias": [
@@ -6003,6 +6006,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação - IMPUGNAÇÃO À CONTESTAÇÃO"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -6035,7 +6043,7 @@
         {
           "date": "2026-04-17",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-17",
@@ -6045,12 +6053,7 @@
         {
           "date": "2026-04-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Certidão Expedida - LINK DA CONCILIAÇÃO"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
         }
       ],
       "partes_adversarias": [
@@ -6076,14 +6079,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-21",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Efetivada - Para BIPVAL (Referente à Mov. Certidão Expedida (06/05/2026 14:34:11))"
+          "title": "Juntada -> Petição -> Contestação - Contestação"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Juntada de Documento - MANIFESTAÇÃO DA PARTE AUTORA VIA CAP - IMPUGNAÇÃO Á CONTESTAÇÃO"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIPVAL (Referente à Mov. Certidão Expedida (06/05/2026 14:34:11))"
         },
         {
           "date": "2026-05-19",
@@ -6119,11 +6127,6 @@
           "date": "2026-05-01",
           "header": "TJGO",
           "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Belomotors Intermediadora De Plano De Veiculos Automotores Ltda"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) AAAPVEBMA - Código de Rastreamento Correios: YH157142750BR idPendenciaCorreios109987695432015873960701452idPendenciaCorreios"
         }
       ],
       "partes_adversarias": [
@@ -6241,15 +6244,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 56,
+    "total": 57,
     "categorias": {
       "Peças": 12,
       "Audiências": 5,
       "Comunicações": 5,
-      "Acompanhamento": 22,
+      "Acompanhamento": 24,
       "Diligências": 7,
-      "Outras": 5
+      "Outras": 4
     },
-    "ultima_data": "2026-05-26"
+    "ultima_data": "2026-05-27"
   }
 }

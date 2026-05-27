@@ -966,8 +966,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">26/05/2026 15:32</div>
-            <div><span class="ativos">0</span> processos ativos</div>
+            <div class="data">27/05/2026 15:33</div>
+            <div><span class="ativos">1</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -988,7 +988,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             <h2>Trabalho realizado nos últimos 90 dias</h2>
 
             <div class="produtividade-numero-grande">
-                <span class="valor">0</span>
+                <span class="valor">2</span>
                 <span class="legenda">Tarefas Realizadas</span>
             </div>
 
@@ -1017,7 +1017,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">0</div>
+                    <div class="num">1</div>
                     <div class="lbl">Acompanhamento</div>
                 </div>
                 
@@ -1030,9 +1030,18 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 
+                <div class="produtividade-categoria">
+                    <div class="num">1</div>
+                    <div class="lbl">Outras</div>
+                </div>
+                
                 
             </div>
 
+            
+            <div class="produtividade-rodape">
+                ▸ Última atividade: <strong>27/05/2026</strong>
+            </div>
             
         </div>
 
@@ -1068,6 +1077,30 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="area-resumo">
                     0 ativos
                     e 1 arquivado.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
+            
+            <article class="card-area"
+                     data-area-id="administrativo"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('administrativo')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('administrativo');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V10M19 21V10M3 10h18M3 10l9-7 9 7M9 14v4M12 14v4M15 14v4"/></svg></div>
+                <h3>Administrativo</h3>
+                <div class="area-contador">
+                    1 processo
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    1 ativo
+                    e 0 arquivados.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1397,6 +1430,195 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </section>
     
+    <section class="area-detalhe" id="area-administrativo" data-area="administrativo">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V10M19 21V10M3 10h18M3 10l9-7 9 7M9 14v4M12 14v4M15 14v4"/></svg></div>
+            <div>
+                <h2>Administrativo</h2>
+                <div class="total-area">
+                    Total da área: <strong>1</strong>
+                    processo
+                    · 1 ativo
+                    · 0 arquivados
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-administrativo"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline-vazia">Sem andamentos cadastrados nesta área.</div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="administrativo"
+                       oninput="aplicarFiltros('administrativo')">
+                <div class="filtros" data-area="administrativo">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('administrativo', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('administrativo', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('administrativo', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('administrativo', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('administrativo', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="administrativo">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('administrativo', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-administrativo">
+                        
+                        
+                        
+                        <tr data-id="15218158"
+                            data-fase-grupo="conhecimento"
+                            data-busca=" cumprimento de sentença my broker imoveis ribeirao preto ltda "
+                            onclick="abrirModalProcesso('15218158')">
+                            <td class="cnj-cell">—</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">MY BROKER IMOVEIS RIBEIRAO PRETO LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">—</td>
+                            <td class="acao-cell">Cumprimento De Sentença</td>
+                            <td><span class="badge badge-fase-conhecimento">Defesa</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-administrativo">Mostrando 1 de 1 processos da área</span>
+            </div>
+        </div>
+    </section>
+    
 
 </main>
 
@@ -1437,14 +1659,15 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 26/05/2026 15:32 — Documento de uso restrito do cliente.
+        Painel gerado em 27/05/2026 15:33 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"13413555": {"cliente_name": "MY BROKER IMOVEIS RIBEIRAO PRETO LTDA", "created_at": "2024-04-18 00:00:00", "fase_grupo": "conhecimento", "folder": "745", "movements_top5": [{"date": "2025-07-04", "header": "TJSP", "title": "Arquivado Definitivamente com fundamento no art. 487, inc. III, \"b\", do CPC, julgo extinto este processo."}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Cart\u00f3rio Expedida Certifico e dou f\u00e9 que, ap\u00f3s compulsar os presentes autos, verifiquei que n\u00e3o h\u00e1 custas a recolher por motivo de isen\u00e7\u00e3o/deferimento de justi\u00e7a gratuita e procedi ao seu arquivamento definitivo. Nada Mais."}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Tr\u00e2nsito em Julgado com Baixa Expedida Certifico e dou f\u00e9 que a r. senten\u00e7a de fls. 383 transitou em julgado em 22/4/2025. Certifico ainda que o processo foi baixado definitivamente no sistema. Nada Mais."}, {"date": "2025-07-04", "header": "TJSP", "title": "Tr\u00e2nsito em Julgado \u00e0s partes - com Baixa"}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Cart\u00f3rio Expedida Certifico e dou f\u00e9 que, ap\u00f3s compulsar os presentes autos, verifiquei que n\u00e3o h\u00e1 custas a recolher por motivo de isen\u00e7\u00e3o/deferimento de justi\u00e7a gratuita e procedi ao seu arquivamento definitivo. Nada Mais."}], "partes_adversarias": ["ELAINE DE SOUZA COSTA PEREIRA"], "process_date": null, "process_number": "0004930-95.2023.8.26.0506", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2024-04-18 00:00:00", "tribunal": "TJSP", "type": "INDENIZAT\u00d3RIA"}}</script>
+<script type="application/json" id="dados-processos-modal">{"13413555": {"cliente_name": "MY BROKER IMOVEIS RIBEIRAO PRETO LTDA", "created_at": "2024-04-18 00:00:00", "fase_grupo": "conhecimento", "folder": "745", "movements_top5": [{"date": "2025-07-04", "header": "TJSP", "title": "Arquivado Definitivamente com fundamento no art. 487, inc. III, \"b\", do CPC, julgo extinto este processo."}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Cart\u00f3rio Expedida Certifico e dou f\u00e9 que, ap\u00f3s compulsar os presentes autos, verifiquei que n\u00e3o h\u00e1 custas a recolher por motivo de isen\u00e7\u00e3o/deferimento de justi\u00e7a gratuita e procedi ao seu arquivamento definitivo. Nada Mais."}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Tr\u00e2nsito em Julgado com Baixa Expedida Certifico e dou f\u00e9 que a r. senten\u00e7a de fls. 383 transitou em julgado em 22/4/2025. Certifico ainda que o processo foi baixado definitivamente no sistema. Nada Mais."}, {"date": "2025-07-04", "header": "TJSP", "title": "Tr\u00e2nsito em Julgado \u00e0s partes - com Baixa"}, {"date": "2025-07-04", "header": "TJSP", "title": "Certid\u00e3o de Cart\u00f3rio Expedida Certifico e dou f\u00e9 que, ap\u00f3s compulsar os presentes autos, verifiquei que n\u00e3o h\u00e1 custas a recolher por motivo de isen\u00e7\u00e3o/deferimento de justi\u00e7a gratuita e procedi ao seu arquivamento definitivo. Nada Mais."}], "partes_adversarias": ["ELAINE DE SOUZA COSTA PEREIRA"], "process_date": null, "process_number": "0004930-95.2023.8.26.0506", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2024-04-18 00:00:00", "tribunal": "TJSP", "type": "INDENIZAT\u00d3RIA"}, "15218158": {"cliente_name": "MY BROKER IMOVEIS RIBEIRAO PRETO LTDA", "created_at": "2026-05-27 10:54:34", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": "2026-05-27", "process_number": "\u2014", "responsible": "GABRIEL MACIEL ARA\u00daJO SOUZA", "stage": "DEFESA", "status_closure": "", "tribunal": "\u2014", "type": "CUMPRIMENTO DE SENTEN\u00c7A"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"civel": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Indenizat\u00f3ria"]}, "tribunal": {"data": [1], "labels": ["TJSP"]}}
+"civel": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Indenizat\u00f3ria"]}, "tribunal": {"data": [1], "labels": ["TJSP"]}},
+"administrativo": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [1, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Cumprimento De Senten\u00e7a"]}, "tribunal": {"data": [1], "labels": ["\u2014"]}}
 }</script>
 
 <script>

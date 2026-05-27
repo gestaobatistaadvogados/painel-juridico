@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:33:42-03:00",
-    "gerado_em_humano": "26/05/2026 15:33",
+    "gerado_em": "2026-05-27T15:34:28-03:00",
+    "gerado_em_humano": "27/05/2026 15:34",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -914,6 +914,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJDFT",
+          "title": "Publicado Decisão em 25/05/2026."
+        },
+        {
           "date": "2026-05-23",
           "header": "TJDFT",
           "title": "Disponibilizado no DJ Eletrônico em 22/05/2026"
@@ -941,12 +946,12 @@
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Publicado Decisão em 22/04/2026."
+          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
         },
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Disponibilizado no DJ Eletrônico em 20/04/2026"
+          "title": "Publicado Decisão em 22/04/2026."
         },
         {
           "date": "2026-04-17",
@@ -957,11 +962,6 @@
           "date": "2026-04-17",
           "header": "TJDFT",
           "title": "Determinada a emenda à inicial"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJDFT",
-          "title": "Conclusos para decisão para Juiz(a) ANA MAGALI DE SOUZA PINHEIRO LINS"
         }
       ],
       "partes_adversarias": [
@@ -1065,15 +1065,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 3,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-05-15"
+    "ultima_data": "2026-05-26"
   }
 }

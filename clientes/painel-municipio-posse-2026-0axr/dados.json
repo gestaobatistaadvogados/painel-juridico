@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:51:23-03:00",
-    "gerado_em_humano": "26/05/2026 15:51",
+    "gerado_em": "2026-05-27T15:52:12-03:00",
+    "gerado_em_humano": "27/05/2026 15:52",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -3233,7 +3233,7 @@
     {
       "id": 14194006,
       "process_number": null,
-      "protocol_number": null,
+      "protocol_number": "3222/24",
       "folder": null,
       "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
       "step": "ADMINISTRATIVO",
@@ -3646,15 +3646,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 7,
+    "total": 6,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 2,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-26"
+    "ultima_data": "2026-05-25"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:30:21-03:00",
-    "gerado_em_humano": "26/05/2026 15:30",
+    "gerado_em": "2026-05-27T15:31:06-03:00",
+    "gerado_em_humano": "27/05/2026 15:31",
     "slug_url": "painel-mybroker-curitiba-2026-isx9",
     "departamento": "direito_imobiliario"
   },
@@ -91,8 +91,8 @@
       "process_number": "0012017-15.2025.8.16.0182",
       "protocol_number": null,
       "folder": "2476",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2025-03-21 00:00:00",

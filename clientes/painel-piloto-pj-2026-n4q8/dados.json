@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-26T15:15:34-03:00",
-    "gerado_em_humano": "26/05/2026 15:15",
+    "gerado_em": "2026-05-27T15:16:24-03:00",
+    "gerado_em_humano": "27/05/2026 15:16",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -3809,6 +3809,21 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de HOSPITAL AMPARO S/S LTDA (Referente à Mov. Decisão -> Indeferimento (25/05/2026 13:36:44))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Decisão -> Indeferimento"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de HOSPITAL AMPARO S/S LTDA - Polo Passivo (Referente à Mov. Decisão -> Indeferimento (CNJ:12455) - )"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE GOIANIA em 21/05/2026 23:59:59 (Referente à Mov. Juntada -> Petição (19/03/2026 17:11:44))"
@@ -3842,21 +3857,6 @@
           "date": "2026-03-12",
           "header": "TJGO",
           "title": "Citação Efetivada - Para HOSPITAL AMPARO S/S LTDA (Referente à Mov. Decisão -> Outras Decisões (09/01/2026 22:20:11))"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) HOSPITAL AMPARO S/S LTDA - Código de Rastreamento Correios: YH063931626BR idPendenciaCorreios109687635432015873960996031idPendenciaCorreios"
-        },
-        {
-          "date": "2026-02-05",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) HOSPITAL AMPARO S/S LTDA"
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJGO",
-          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) HOSPITAL AMPARO S/S LTDA (comunicação: 109987695432563873148778049)"
         }
       ],
       "partes_adversarias": [
@@ -5808,14 +5808,44 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 19/05/2026"
+          "title": "Despacho"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) STEFANY GUIMARAES PINTO"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Conclusos os autos para despacho (genérica) a ROSANA RABELLO PADOVANI MESSIAS"
         },
         {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 18/05/2026"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 19/05/2026"
         },
         {
           "date": "2026-05-15",
@@ -5826,36 +5856,6 @@
           "date": "2026-05-15",
           "header": "TRT18",
           "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TRT18",
-          "title": "Juntada a petição de Impugnação"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 12/05/2026"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 11/05/2026"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 12/05/2026"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 11/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -6369,9 +6369,9 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-13",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (13/05/2026 23:09:23))"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-05-13",
@@ -6381,12 +6381,17 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (13/05/2026 23:09:23))"
         },
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (13/05/2026 23:09:23))"
         },
         {
           "date": "2026-05-13",
@@ -6412,11 +6417,6 @@
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Juntada -> Petição - 15/04/2026 11:27:55)"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Juntada de Cópia Integral do Prontuário Médico da Paciente MARIANA DANIN"
         }
       ],
       "partes_adversarias": [
@@ -6445,9 +6445,39 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-23",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL AMPARO LTDA em 22/05/2026"
+        },
+        {
+          "date": "2026-05-23",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de JORDSON MARTINS CONTENTE em 22/05/2026"
+        },
+        {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Conclusos os autos para julgamento Proferir sentença a ROSANA RABELLO PADOVANI MESSIAS"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 15/05/2026"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/05/2026"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/05/2026"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 15/05/2026"
         },
         {
           "date": "2026-05-14",
@@ -6457,42 +6487,12 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/05/2026"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 15/05/2026"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/05/2026"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 15/05/2026"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TRT18",
           "title": "Ata da Audiência"
         },
         {
           "date": "2026-05-13",
           "header": "TRT18",
-          "title": "Conclusos os autos para despacho (genérica) a JOSE LUCIANO LEONEL DE CARVALHO"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
           "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) JORDSON MARTINS CONTENTE"
         }
       ],
       "partes_adversarias": [
@@ -6591,6 +6591,31 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (26/05/2026 11:43 CEJUSC - GRUPO 1 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (26/05/2026 11:43 CEJUSC - GRUPO 1 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
+        },
+        {
           "date": "2026-05-05",
           "header": "TRT18",
           "title": "Decorrido o prazo de DHIOGO SANTOS DA SILVA em 04/05/2026"
@@ -6603,11 +6628,6 @@
         {
           "date": "2026-04-23",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 24/04/2026"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 23/04/2026"
         },
         {
@@ -6619,26 +6639,6 @@
           "date": "2026-04-23",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 23/04/2026"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) DHIOGO SANTOS DA SILVA"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (26/05/2026 11:43 CEJUSC - GRUPO 1 - 1ª VARA DO TRABALHO DE GOIÂNIA)"
-        },
-        {
-          "date": "2026-04-20",
-          "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
         }
       ],
       "partes_adversarias": [
@@ -6819,6 +6819,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
           "date": "2026-05-22",
           "header": "TRT18",
           "title": "Juntada a petição de Impugnação"
@@ -6826,22 +6831,12 @@
         {
           "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 20/05/2026"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
         },
         {
           "date": "2026-05-19",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 20/05/2026"
         },
         {
           "date": "2026-05-19",
@@ -6861,12 +6856,17 @@
         {
           "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+          "title": "Publicado(a) o(a) intimação em 20/05/2026"
         },
         {
           "date": "2026-05-19",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 20/05/2026"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -7086,6 +7086,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-23",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
           "date": "2026-04-29",
           "header": "TRT18",
           "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
@@ -7098,22 +7108,12 @@
         {
           "date": "2026-04-15",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 16/04/2026"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 15/04/2026"
         },
         {
           "date": "2026-04-15",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 15/04/2026"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
+          "title": "Publicado(a) o(a) intimação em 16/04/2026"
         },
         {
           "date": "2026-04-14",
@@ -7133,7 +7133,7 @@
         {
           "date": "2026-04-14",
           "header": "TRT18",
-          "title": "Alterada a classe processual de Ação Trabalhista - Rito Ordinário (985) para Ação Trabalhista - Rito Sumaríssimo (1125)"
+          "title": "Juntada a petição de Manifestação"
         }
       ],
       "partes_adversarias": [
@@ -7238,6 +7238,21 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) edital em 27/05/2026"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) edital no Diário da Justiça Eletrônico do dia 26/05/2026"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Expedido(a) edital a(o) GRUPO RICARO LTDA"
+        },
+        {
           "date": "2026-05-21",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 21/05/2026"
@@ -7250,27 +7265,12 @@
         {
           "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 22/05/2026"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 21/05/2026"
         },
         {
           "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 21/05/2026"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) BRUNA SANTANA GAMPER"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Publicado(a) o(a) intimação em 22/05/2026"
         },
         {
           "date": "2026-05-20",
@@ -7280,7 +7280,7 @@
         {
           "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Despacho"
+          "title": "Proferido despacho de mero expediente"
         },
         {
           "date": "2026-05-20",
@@ -7475,9 +7475,34 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (26/05/2026 09:20 CEJUSC - INICIAIS 10 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (26/05/2026 09:20 CEJUSC - INICIAIS 10 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
           "date": "2026-05-21",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
         },
         {
           "date": "2026-04-14",
@@ -7487,42 +7512,17 @@
         {
           "date": "2026-04-09",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 09/04/2026"
+          "title": "Publicado(a) o(a) intimação em 10/04/2026"
         },
         {
           "date": "2026-04-09",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 10/04/2026"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) DIVA DIAS GUSMAO"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 09/04/2026"
         },
         {
           "date": "2026-04-08",
           "header": "TRT18",
           "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TRT18",
-          "title": "Encerrada a conclusão"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 07/04/2026"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 08/04/2026"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TRT18",
-          "title": "Conclusos os autos para despacho (genérica) a VIVIANE SILVA BORGES"
         }
       ],
       "partes_adversarias": [
@@ -7998,14 +7998,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-18",
+          "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Expedido(a) Mandado de Intimação/Notificação a(o) NELIO CUSTODIO LOURENCO JUNIOR"
+          "title": "Recebido(a) o(a) Carta Precatória Notificatória do(a) Juízo deprecado para prosseguir"
         },
         {
-          "date": "2026-05-18",
+          "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Expedido(a) Mandado de Intimação/Notificação a(o) LUIZ CARLOS PEDREIRA BARROS"
+          "title": "Expedido(a) intimação a(o) MARCOS GOMES"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
         },
         {
           "date": "2026-05-18",
@@ -8025,27 +8030,22 @@
         {
           "date": "2026-05-18",
           "header": "TRT18",
+          "title": "Expedido(a) Mandado de Intimação/Notificação a(o) LUIZ CARLOS PEDREIRA BARROS"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TRT18",
           "title": "Expedido(a) Carta Precatória Notificatória a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TRT18",
+          "title": "Expedido(a) Mandado de Intimação/Notificação a(o) NELIO CUSTODIO LOURENCO JUNIOR"
         },
         {
           "date": "2026-05-13",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Expedido(a) alvará a(o) MARCOS GOMES"
         }
       ],
       "partes_adversarias": [
@@ -8144,6 +8144,26 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência de instrução designada (16/07/2026 14:40 1 - Sala Juiz Titular - 1ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Excluídos os autos do Juízo 100% Digital"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) PEDRO HENRIQUE MEDEIROS DE SOUZA"
+        },
+        {
           "date": "2026-05-20",
           "header": "TRT18",
           "title": "Audiência inicial por videoconferência cancelada (18/05/2026 08:01 CEJUSC - GRUPO 1 - 1ª VARA DO TRABALHO DE GOIÂNIA)"
@@ -8161,12 +8181,7 @@
         {
           "date": "2026-05-18",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (18/05/2026 08:01 CEJUSC - GRUPO 1 - CEJUSC GOIÂNIA)"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+          "title": "Ata da Audiência"
         },
         {
           "date": "2026-05-18",
@@ -8176,22 +8191,7 @@
         {
           "date": "2026-05-18",
           "header": "TRT18",
-          "title": "Ata da Audiência"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Juntada a petição de Contestação"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+          "title": "Audiência inicial por videoconferência designada (18/05/2026 08:01 CEJUSC - GRUPO 1 - CEJUSC GOIÂNIA)"
         }
       ],
       "partes_adversarias": [
@@ -8217,6 +8217,41 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (26/05/2026 08:40 SALA 3 - CEJUSC - 12ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (26/05/2026 08:40 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (26/05/2026 08:40 CEJUSC - INICIAIS 12 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
+        },
+        {
           "date": "2026-04-29",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -8230,16 +8265,6 @@
           "date": "2026-04-10",
           "header": "TRT18",
           "title": "Incluídos os autos no Juízo 100% Digital"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (26/05/2026 08:40 SALA 3 - CEJUSC - 12ª VARA DO TRABALHO DE GOIÂNIA)"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TRT18",
-          "title": "Distribuído por sorteio"
         }
       ],
       "partes_adversarias": [
@@ -8411,6 +8436,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -8424,11 +8454,6 @@
           "date": "2026-05-11",
           "header": "TRT18",
           "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
         },
         {
           "date": "2026-05-06",
@@ -8453,12 +8478,12 @@
         {
           "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (28/05/2026 15:05 CEJUSC - GRUPO 1 - 1ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Juntada a petição de Solicitação de Habilitação"
         }
       ],
       "partes_adversarias": [
@@ -8973,6 +8998,31 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (26/05/2026 08:20 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (26/05/2026 08:20 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
+        },
+        {
           "date": "2026-05-07",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -8980,22 +9030,12 @@
         {
           "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 07/05/2026"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
         },
         {
           "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) MANOEL COELHO FERREIRA"
+          "title": "Publicado(a) o(a) intimação em 07/05/2026"
         },
         {
           "date": "2026-05-05",
@@ -9006,21 +9046,6 @@
           "date": "2026-05-05",
           "header": "TRT18",
           "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (28/05/2026 08:00 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (28/05/2026 08:00 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Incluídos os autos no Juízo 100% Digital"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Distribuído por sorteio"
         }
       ],
       "partes_adversarias": [
@@ -9119,6 +9144,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
           "date": "2026-05-21",
           "header": "TRT18",
           "title": "Devolvido o mandado pelo Oficial de Justiça (não cumprido)"
@@ -9146,27 +9181,17 @@
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
         },
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
           "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade não atingida)"
         }
       ],
       "partes_adversarias": [
@@ -9586,18 +9611,71 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 15194404,
+      "process_number": "0000842-16.2026.5.18.0010",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-26 16:05:21",
+      "process_date": "2026-05-26",
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "THIAGO MARQUES RODRIGUES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
+    },
+    {
+      "id": 15194576,
+      "process_number": "0000911-45.2026.5.18.0011",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "RECLAMAÇÃO TRABALHISTA",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-05-26 16:11:02",
+      "process_date": "2026-05-26",
+      "responsible": "ALLYNE DOS SANTOS MARTINS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
+          "name": "MARIA ISABELA MOURA BOMFIM"
+        },
+        {
+          "name": "SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRT18"
     }
   ],
   "atividade_90d": {
-    "total": 263,
+    "total": 267,
     "categorias": {
-      "Peças": 39,
+      "Peças": 34,
       "Audiências": 35,
-      "Comunicações": 51,
+      "Comunicações": 58,
       "Acompanhamento": 96,
-      "Diligências": 34,
-      "Outras": 8
+      "Diligências": 35,
+      "Outras": 9
     },
-    "ultima_data": "2026-05-26"
+    "ultima_data": "2026-05-27"
   }
 }
