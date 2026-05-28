@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:35:15-03:00",
-    "gerado_em_humano": "27/05/2026 15:35",
+    "gerado_em": "2026-05-28T15:51:25-03:00",
+    "gerado_em_humano": "28/05/2026 15:51",
     "slug_url": "painel-ludmillamartins-2026-zwaj",
     "departamento": "direito_privado"
   },
@@ -91,8 +91,8 @@
       "process_number": "0751093-15.2025.8.07.0001",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "POSSE",
       "group": "CÍVEL",
       "status_closure": "2025-07-26 00:00:00",

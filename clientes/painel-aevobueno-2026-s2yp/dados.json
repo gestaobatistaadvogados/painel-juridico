@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:33:55-03:00",
-    "gerado_em_humano": "27/05/2026 15:33",
+    "gerado_em": "2026-05-28T15:50:05-03:00",
+    "gerado_em_humano": "28/05/2026 15:50",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,31 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - INTIMAÇÃO EXECUTADO RENAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resultado RENAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - ENCAMINHAMENTO AO CENOPES - SNIPER"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CENTRAL RENAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Prazo Decorrido - SEM MANIFESTAÇÃO DO EXECUTADO P/ PAGAR A DÍVIDA EM 03 DIAS/REQUERER PARCELAMENTO"
@@ -51,31 +76,6 @@
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Gabriel Vasconcelos Silva - Código de Rastreamento Correios: YH086978343BR idPendenciaCorreios109387665432015873960913708idPendenciaCorreios"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Citação Expedida - E-carta ao(s) requerido(s)."
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Despacho -> Determinação de Citação (11/03/2026 15:45:36))"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação - Citar para pagar."
         }
       ],
       "partes_adversarias": [
@@ -204,6 +204,21 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Resultado RENAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CENTRAL RENAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
@@ -221,12 +236,12 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
         },
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mauricio Santos Dias (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
         },
         {
           "date": "2026-05-04",
@@ -237,21 +252,6 @@
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Thiago Fernandes Goncalves (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (04/05/2026 13:34:10))"
         }
       ],
       "partes_adversarias": [
@@ -482,6 +482,92 @@
         },
         {
           "name": "PROJETOS CONSTRUCAO E SERVICOS LTDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 15264754,
+      "process_number": "0708945-28.2026.8.07.0009",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-05-28 12:10:35",
+      "process_date": "2026-05-28",
+      "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CARLOS ANDERSON OLIVEIRA SILVA"
+        },
+        {
+          "name": "DIEGO GUIMARAES GOMES"
+        },
+        {
+          "name": "JACQUELINE SOUZA SILVA"
+        },
+        {
+          "name": "JAQUELINE RIBEIRO EFIGENIO"
+        },
+        {
+          "name": "MANOEL LESSA MOTA"
+        },
+        {
+          "name": "RODRIGO SIMON GRUSZEZYNSKI"
+        },
+        {
+          "name": "THIAGO FERNANDES GONCALVES"
+        },
+        {
+          "name": "EZEQUIAS RODRIGUES DE MIRANDA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJDFT"
+    },
+    {
+      "id": 15265764,
+      "process_number": "5481798-57.2026.8.09.0012",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+      "group": "IMOBILIÁRIO",
+      "status_closure": null,
+      "created_at": "2026-05-28 13:24:52",
+      "process_date": "2026-05-28",
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "CARLOS ANDERSON OLIVEIRA SILVA"
+        },
+        {
+          "name": "ELIANE FERREIRA ROCHA RODRIGUES"
+        },
+        {
+          "name": "JACQUELINE SOUZA SILVA"
+        },
+        {
+          "name": "MANOEL LESSA MOTA"
+        },
+        {
+          "name": "RODRIGO SIMON GRUSZEZYNSKI"
+        },
+        {
+          "name": "THIAGO FERNANDES GONCALVES"
+        },
+        {
+          "name": "EMILLY RODRIGUES DIAS DOS SANTOS"
+        },
+        {
+          "name": "MATHEUS INACIO NAVES DE OLIVEIRA"
         }
       ],
       "fase_grupo": "conhecimento",

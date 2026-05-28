@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:52:12-03:00",
-    "gerado_em_humano": "27/05/2026 15:52",
+    "gerado_em": "2026-05-28T16:08:25-03:00",
+    "gerado_em_humano": "28/05/2026 16:08",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -408,6 +408,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 25/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
@@ -425,7 +430,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-06",
@@ -440,7 +445,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-05",
@@ -451,11 +456,6 @@
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Requisição de Pequeno Valor Expedida"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Ofício(s) Expedido(s) - Ofício Precatório"
         }
       ],
       "partes_adversarias": [
@@ -483,6 +483,21 @@
       "process_date": "2024-05-08",
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Decisão -> Outras Decisões (21/05/2026 18:52:49))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Decisão -> Outras Decisões - 21/05/2026 18:52:49)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Decisão -> Outras Decisões - 21/05/2026 18:52:49)"
+        },
         {
           "date": "2026-05-21",
           "header": "TJGO",
@@ -516,22 +531,7 @@
         {
           "date": "2026-03-18",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Cálculo de Liquidaçao ( Cpc e Clt ) -"
         }
       ],
       "partes_adversarias": [
@@ -642,6 +642,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 25/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (08/05/2026 03:59:51))"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICIPIO DE POSSE (Referente à Mov. Ato Ordinatório (08/05/2026 03:59:51))"
@@ -674,22 +679,17 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Certidão Expedida - expedição de documento"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
           "title": "Ofício(s) Expedido(s) - Ofício Precatório"
         },
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Requisição de Pequeno Valor Expedida -"
+          "title": "Certidão Expedida - expedição de documento"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Dados bancários"
+          "title": "Requisição de Pequeno Valor Expedida -"
         }
       ],
       "partes_adversarias": [
@@ -794,6 +794,36 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celma Pereira Branco De Almeida Santos (Referente à Mov. Ato Ordinatório (21/05/2026 16:30:42))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Celma Pereira Branco De Almeida Santos (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Processo Arquivado -"
@@ -812,36 +842,6 @@
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Processo Arquivado"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Juntada de Documento - comp. protocolo alvará"
-        },
-        {
-          "date": "2026-01-21",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (17/12/2025 13:27:18))"
-        },
-        {
-          "date": "2026-01-20",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - ato ordinatório - Expedir alvará"
-        },
-        {
-          "date": "2026-01-16",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - manifestação"
-        },
-        {
-          "date": "2025-12-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2025-12-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - manifestação"
         }
       ],
       "partes_adversarias": [
@@ -1098,6 +1098,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> deferimento (13/05/2026 17:18:07))"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fernando Costa Santos (Referente à Mov. Decisão -> deferimento (13/05/2026 17:18:07))"
@@ -1135,17 +1140,12 @@
         {
           "date": "2026-04-01",
           "header": "TJGO",
-          "title": "Processo Desarquivado"
+          "title": "Processo Desarquivado -"
         },
         {
           "date": "2026-04-01",
           "header": "TJGO",
-          "title": "Processo Desarquivado -"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Providencias - RPV e PECATÓRIO"
+          "title": "Processo Desarquivado"
         }
       ],
       "partes_adversarias": [
@@ -1408,6 +1408,41 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Nerícia De Santana Ribeiro Dos Santos (Referente à Mov. Ato Ordinatório (25/05/2026 16:25:34))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Cientifiquem-se as partes sobre o ofício ev. retro, no prazo de 05 (cinco) dias."
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Nerícia De Santana Ribeiro Dos Santos (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Processo Arquivado -"
@@ -1421,41 +1456,6 @@
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Juntada de Documento - extrato/alvará PAGO"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2025-12-04",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comp. protocolo Alvará Sucumbência"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - expedir alvará - conforme determinado na decisão ev. 37"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2025-11-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - MANIFESTAÇÃO"
-        },
-        {
-          "date": "2025-09-16",
-          "header": "TJGO",
-          "title": "Processo Arquivado -"
         }
       ],
       "partes_adversarias": [
@@ -3485,7 +3485,7 @@
     {
       "id": 14273948,
       "process_number": null,
-      "protocol_number": "346/2026",
+      "protocol_number": "346/26",
       "folder": null,
       "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
       "step": "ADMINISTRATIVO",

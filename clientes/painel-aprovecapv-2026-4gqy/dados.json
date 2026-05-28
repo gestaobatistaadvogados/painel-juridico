@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:25:48-03:00",
-    "gerado_em_humano": "27/05/2026 15:25",
+    "gerado_em": "2026-05-28T15:41:53-03:00",
+    "gerado_em_humano": "28/05/2026 15:41",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -27,6 +27,11 @@
       "process_date": "2019-09-13",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
         {
           "date": "2026-05-13",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-04-04",
           "header": "TJGO",
           "title": "Despacho Autos ao Contador -"
-        },
-        {
-          "date": "2026-04-04",
-          "header": "TJGO",
-          "title": "Despacho Autos ao Contador"
         }
       ],
       "partes_adversarias": [
@@ -250,9 +250,9 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-25",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO ESTADO DE GOIAS em 18/05/2026 23:59  - expediente de n° 49184004"
+          "title": "Petição\nJuntada de Petição de manifestação"
         },
         {
           "date": "2026-05-19",
@@ -263,6 +263,11 @@
           "date": "2026-05-19",
           "header": "TJMT",
           "title": "Decurso de Prazo\nDecorrido prazo de 47.856.389 JOAO VICTOR GALVAO DO VALE em 18/05/2026 23:59  - expediente de n° 49184000"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS DO ESTADO DE GOIAS em 18/05/2026 23:59  - expediente de n° 49184004"
         },
         {
           "date": "2026-05-19",
@@ -288,11 +293,6 @@
           "date": "2026-05-19",
           "header": "TJMT",
           "title": "Remessa\nRemetidos os Autos outros motivos para Central de Arrecadação e Arquivamento"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJMT",
-          "title": "Recebimento\nRecebidos os autos"
         },
         {
           "date": "2026-05-19",
@@ -399,6 +399,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Juntada -> Petição - Impugnação à Contestação"
@@ -406,7 +411,7 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - IMPUGNAÇÃO À CONTESTAÇÃO 1ª UPJ"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Natielly Da Silva Brito (Referente à Mov. Certidão Expedida (11/05/2026 10:12:39))"
         },
         {
           "date": "2026-05-11",
@@ -416,7 +421,7 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Natielly Da Silva Brito (Referente à Mov. Certidão Expedida (11/05/2026 10:12:39))"
+          "title": "Certidão Expedida - CERTIDÃO - IMPUGNAÇÃO À CONTESTAÇÃO 1ª UPJ"
         },
         {
           "date": "2026-05-08",
@@ -442,11 +447,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - ADVOGADO NÃO POSSUI CADASTRADO NO PROJUDI - 1º UPJ"
         }
       ],
       "partes_adversarias": [
@@ -618,6 +618,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associação De Apoio Aos Proprietários De Veículos E Benefícios Mútuos Apv (Referente à Mov. Citação Não Efetivada (22/05/2026 11:19:52))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via whatsapp: Dilamar Alves Pereira"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação De Apoio Aos Proprietários De Veículos E Benefícios Mútuos Apv (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Citação Expedida - Citação via whatsapp: Dilamar Alves Pereira"
@@ -640,12 +655,7 @@
         {
           "date": "2026-04-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação De Apoio Aos Proprietários De Veículos E Benefícios Mútuos Apv (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Decisão -> deferimento -"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação De Apoio Aos Proprietários De Veículos E Benefícios Mútuos Apv (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-04-13",
@@ -655,17 +665,7 @@
         {
           "date": "2026-04-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação De Apoio Aos Proprietários De Veículos E Benefícios Mútuos Apv (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
           "title": "Decisão -> deferimento"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Intimação da parte autora - Recolher custas para citação/intimação remota"
         }
       ],
       "partes_adversarias": [
@@ -913,54 +913,54 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-04-08",
+          "date": "2026-05-27",
           "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de contrarrazões"
+          "title": "Ato ordinatório\nAto ordinatório praticado"
         },
         {
-          "date": "2026-03-03",
+          "date": "2026-05-27",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de SONIVALDO CANDIDO DE OLIVEIRA em 02/03/2026 23:59"
+          "title": "Movimentação processual\nCancelada a movimentação processual Juntada de Certidão"
         },
         {
-          "date": "2026-03-02",
+          "date": "2026-05-27",
           "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de petição"
+          "title": "Documento\nDesentranhado o documento"
         },
         {
-          "date": "2026-02-26",
+          "date": "2026-05-27",
           "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de manifestação"
+          "title": "Documento\nJuntada de Certidão"
         },
         {
-          "date": "2026-02-25",
+          "date": "2026-05-27",
           "header": "TJMT",
-          "title": "Documento\nJuntada de comprovante de pagamento - guia de recurso"
+          "title": "Conclusão\nConclusos para decisão"
         },
         {
-          "date": "2026-02-05",
+          "date": "2026-05-26",
           "header": "TJMT",
-          "title": "Publicação\nPublicado Sentença em 05/02/2026."
+          "title": "Documento\nJuntada de Certidão"
         },
         {
-          "date": "2026-02-05",
-          "header": "TJMT",
-          "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 04/02/2026"
-        },
-        {
-          "date": "2026-02-03",
+          "date": "2026-05-26",
           "header": "TJMT",
           "title": "Expedição de documento\nExpedição de Outros documentos"
         },
         {
-          "date": "2026-02-03",
+          "date": "2026-05-26",
           "header": "TJMT",
-          "title": "Acolhimento em parte de Embargos de Declaração\nEmbargos de Declaração Acolhidos em Parte"
+          "title": "Distribuição\nDistribuído por sorteio"
         },
         {
-          "date": "2025-12-12",
+          "date": "2026-05-26",
           "header": "TJMT",
-          "title": "Conclusão\nConclusos para decisão"
+          "title": "Recebimento\nRecebidos os autos"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJMT",
+          "title": "Remessa\nRemetidos os Autos em grau de recurso para Instância Superior"
         }
       ],
       "partes_adversarias": [
@@ -1446,24 +1446,44 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Claudia Silveira Bastos Da Silva (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Claudia Silveira Bastos Da Silva (Referente à Mov. Ato Ordinatório (26/05/2026 15:57:57))"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Andamento ao feito/ Suspensão (921, III, CPC)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução Central SISBAJUD - Penhora Infrutífera"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Claudia Silveira Bastos Da Silva em 05/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv em 05/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Juntada -> Petição - MANIFESTAÇÃO DESCUMPRIMENTO DA LIQUIDAÇÃO DE SENTENÇA"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Claudia Silveira Bastos Da Silva (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Claudia Silveira Bastos Da Silva (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
           "date": "2026-04-07",
@@ -1474,26 +1494,6 @@
           "date": "2026-04-07",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Processo em diligência (Primeiro Grau/CEJUSC/Outros) - Goiânia - Central de Cumprimento de Sentença Cível (Encaminhado para: Everton Pereira Santos)"
         }
       ],
       "partes_adversarias": [
@@ -1519,14 +1519,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de enc. de alvarás CEF e-mail."
+        },
+        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Intimação Efetivada - Perito intimado - Prosseguir com os trabalhos - Agendar perícia"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
         },
         {
           "date": "2026-05-20",
@@ -1559,14 +1564,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Ofício Respondido - SECRETARIA DE ESTADO DA ECONOMIA-COMPROVANTE DE DEPÓSITO PERICIAL"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Certidão Expedida - ALVARÁ AGUARDANDO ASSINATURA DO JUIZ - PERITO"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
         }
       ],
       "partes_adversarias": [
@@ -1595,7 +1595,7 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-15",
+          "date": "2026-05-23",
           "header": "TJCE",
           "title": "Juntada de entregue (ecarta)"
         },
@@ -1603,6 +1603,11 @@
           "date": "2026-05-15",
           "header": "TJCE",
           "title": "Juntada de Petição de Contestação"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJCE",
+          "title": "Juntada de entregue (ecarta)"
         },
         {
           "date": "2026-05-05",
@@ -1627,7 +1632,7 @@
         {
           "date": "2026-04-23",
           "header": "TJCE",
-          "title": "Recebidos os autos"
+          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026 Documento: 198924064"
         },
         {
           "date": "2026-04-23",
@@ -1638,11 +1643,6 @@
           "date": "2026-04-23",
           "header": "TJCE",
           "title": "Expedição de Aviso de recebimento (AR)."
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJCE",
-          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026 Documento: 198924064"
         }
       ],
       "partes_adversarias": [
@@ -2128,14 +2128,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência - SENTENÇA - IMPROCEDENTE"
+          "title": "Intimação Lida - Por (Polo Passivo) THIAGO DE MENDONÇA NASCIMENTO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/05/2026 15:35:38))"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de ARNOR LUCINDO DE OLIVEIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência - SENTENÇA - IMPROCEDENTE"
         },
         {
           "date": "2026-05-19",
@@ -2166,11 +2171,6 @@
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) THIAGO DE MENDONÇA NASCIMENTO (Referente à Mov. Audiência de Instrução e Julgamento (14/04/2026 14:34:17))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ASSOCIAÇÃO DE APOIO AOS PROPRIETARIOS DE VEICULOS E BENEFÍCIOS MÚTUOS - APV (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
         },
         {
           "date": "2026-04-14",
@@ -2264,8 +2264,8 @@
       "process_number": "5874331-73.2025.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
-      "step": "RECURSAL",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
       "type": "AGRAVO DE INSTRUMENTO",
       "group": "PRIVADO",
       "status_closure": null,
@@ -2329,7 +2329,7 @@
           "name": "SOINA SILVA DE ANDRADE"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -2959,6 +2959,46 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - (Sessão do dia 18/05/2026 10:00)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (22/05/2026 09:58:15))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gilmaete Alves Leandro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (22/05/2026 09:58:15))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (22/05/2026 09:58:15))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gilmaete Alves Leandro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (22/05/2026 09:58:15))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 22/05/2026 09:58:15)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gilmaete Alves Leandro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - 22/05/2026 09:58:15)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 18/05/2026 10:00)"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Pauta -> Inclusão em Pauta de Sessão Virtual -> Para Julgamento - (Em Mesa para Julgamento - Sessão do dia 18/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Embargos -> Embargos de Declaração Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível)"
@@ -2966,47 +3006,7 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
           "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual -"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Embargos de declaração"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gilmaete Alves Leandro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 16/04/2026 09:35:20)"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 16/04/2026 09:35:20)"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento em Parte - (Sessão do dia 14/04/2026 09:00)"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte (16/04/2026 09:35:20))"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gilmaete Alves Leandro (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte (16/04/2026 09:35:20))"
         }
       ],
       "partes_adversarias": [
@@ -3844,6 +3844,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJDFT",
+          "title": "Juntada de intimação de pauta"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJDFT",
+          "title": "Inclusão do processo para julgamento eletrônico de mérito"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJDFT",
           "title": "Recebidos os autos"
@@ -3866,16 +3876,6 @@
         {
           "date": "2026-04-27",
           "header": "TJDFT",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJDFT",
-          "title": "Juntada de certidão"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJDFT",
           "title": "Evoluída a classe de RECURSO INOMINADO CÍVEL (460) para EMBARGOS DE DECLARAÇÃO CÍVEL (1689)"
         },
         {
@@ -3886,12 +3886,12 @@
         {
           "date": "2026-04-27",
           "header": "TJDFT",
-          "title": "Juntada de Petição de petição"
+          "title": "Juntada de certidão"
         },
         {
-          "date": "2026-04-24",
+          "date": "2026-04-27",
           "header": "TJDFT",
-          "title": "Juntada de Petição de embargos de declaração"
+          "title": "Juntada de Petição de petição"
         }
       ],
       "partes_adversarias": [
@@ -4151,6 +4151,11 @@
         {
           "date": "2026-05-19",
           "header": "TJDFT",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJDFT",
           "title": "Juntada de Petição de não entregue - destinatário ausente (ecarta)"
         },
         {
@@ -4161,17 +4166,12 @@
         {
           "date": "2026-05-19",
           "header": "TJDFT",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Conclusos para decisão para Juiz(a) FERNANDA DIAS XAVIER"
         },
         {
           "date": "2026-05-19",
           "header": "TJDFT",
           "title": "Recebidos os autos"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJDFT",
-          "title": "Conclusos para decisão para Juiz(a) FERNANDA DIAS XAVIER"
         },
         {
           "date": "2026-05-07",
@@ -4577,6 +4577,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJDFT",
+          "title": "Disponibilizado no DJ Eletrônico em 26/05/2026"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de contrarrazões"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJDFT",
           "title": "Expedição de Certidão."
@@ -4614,17 +4624,7 @@
         {
           "date": "2026-04-23",
           "header": "TJDFT",
-          "title": "Conclusos para decisão para Juiz(a) ITAMAR DIAS NORONHA FILHO"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJDFT",
           "title": "Decorrido prazo de FRANCISCO ARISTIDES ARAUJO em 22/04/2026 23:59."
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJDFT",
-          "title": "Juntada de Petição de certidão"
         }
       ],
       "partes_adversarias": [
@@ -4796,19 +4796,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-13",
+          "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração - (Sessão do dia 11/05/2026 10:00)"
+          "title": "Recurso Distribuído - Assessoria para Assunto de Recursos Constitucionais (Normal) - Distribuído para: DESEMBARGADOR AMARAL WILSON DE OLIVEIRA"
         },
         {
-          "date": "2026-05-13",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Simone Rezende Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
+          "title": "Juntada -> Petição -> Recurso especial"
         },
         {
-          "date": "2026-05-13",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Seguradora APROVEC - Associação De Apoio Aos Proprietários De Veiculos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Goiânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (13/05/2026 12:02:00))"
         },
         {
           "date": "2026-05-13",
@@ -5515,9 +5515,24 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-27",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 21/05/2026"
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TRT18",
+          "title": "Audiência de conciliação (conhecimento) - Semana Nacional de Conciliação realizada (27/05/2026 13:30 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TRT18",
+          "title": "Audiência de conciliação (conhecimento) - Semana Nacional de Conciliação designada (27/05/2026 13:30 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
         },
         {
           "date": "2026-05-20",
@@ -5535,14 +5550,9 @@
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 20/05/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-20",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) GOIANIA ESPORTE CLUBE"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Audiência de conciliação (conhecimento) designada (27/05/2026 13:30 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Publicado(a) o(a) intimação em 21/05/2026"
         },
         {
           "date": "2026-05-19",
@@ -5550,19 +5560,9 @@
           "title": "Expedido(a) intimação a(o) ROBSON JOSE DOS SANTOS"
         },
         {
-          "date": "2026-05-13",
+          "date": "2026-05-19",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 14/05/2026"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 13/05/2026"
+          "title": "Expedido(a) intimação a(o) GOIANIA ESPORTE CLUBE"
         }
       ],
       "partes_adversarias": [
@@ -6006,6 +6006,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para AAAPVEBMA (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação - IMPUGNAÇÃO À CONTESTAÇÃO"
@@ -6043,17 +6048,12 @@
         {
           "date": "2026-04-17",
           "header": "TJGO",
+          "title": "Certidão Expedida - LINK DA CONCILIAÇÃO"
+        },
+        {
+          "date": "2026-04-17",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
         }
       ],
       "partes_adversarias": [
@@ -6078,6 +6078,16 @@
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - IMPUGNAÇÃO À CONTESTAÇÃO"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para AAAPVEBMA (Referente à Mov. Decisão -> Concessão -> Tutela Provisória (24/04/2026 18:27:35))"
+        },
         {
           "date": "2026-05-25",
           "header": "TJGO",
@@ -6117,16 +6127,6 @@
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) BIPVAL - Código de Rastreamento Correios: YH166132849BR idPendenciaCorreios109187645432015873960332789idPendenciaCorreios"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - CITAÇÃO NÃO EFETIVADA VIA DOMICILIO ELETRONICO 1ª UPJ"
-        },
-        {
-          "date": "2026-05-01",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Belomotors Intermediadora De Plano De Veiculos Automotores Ltda"
         }
       ],
       "partes_adversarias": [
@@ -6175,7 +6175,58 @@
       "created_at": "2026-05-25 12:04:26",
       "process_date": "2026-02-25",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 64\nDescrição: Juntada - Informações"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 63\nDescrição: PETIÇÃO"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 62\nDescrição: Expedida/certificada a comunicação eletrônica  Agravo de Instrumento \nNúmero: 0011082-44.2026.8.27.2700/TJTO"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 61\nDescrição: Expedida/certificada a comunicação eletrônica  Agravo de Instrumento \nNúmero: 0011077-22.2026.8.27.2700/TJTO"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJTO",
+          "title": "Evento: 60\nDescrição: Lavrada Certidão"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJTO",
+          "title": "Evento: 59\nDescrição: Juntada - Informações"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJTO",
+          "title": "Evento: 58\nDescrição: Publicado no DJEN - no dia 22/05/2026 - Refer. ao Evento: 46"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJTO",
+          "title": "Evento: 51\nDescrição: Disponibilizado no DJEN - no dia 21/05/2026 - Refer. ao Evento: 46"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJTO",
+          "title": "Evento: 52\nDescrição: Publicado no DJEN - no dia 21/05/2026 - Refer. ao Evento: 42"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJTO",
+          "title": "Evento: 53\nDescrição: Juntada - Registro de pagamento - Guia 5991718, Subguia 205699 - Boleto pago (1/1) Pago - R$ 47,01"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "ADMINISTRADORA DE BENS LTDA"
@@ -6230,7 +6281,58 @@
       "created_at": "2026-05-25 12:08:37",
       "process_date": "2026-05-25",
       "responsible": "SOFIA ROCHA RAMOS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJTO",
+          "title": "Evento: 12\nDescrição: Juntada - Registro de pagamento - Guia 5406876, Subguia 11128 - Boleto pago (1/1) Pago - R$ 167,20"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJTO",
+          "title": "Evento: 11\nDescrição: Disponibilizado no DJEN - no dia 27/05/2026 - Refer. ao Evento: 9"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJTO",
+          "title": "Evento: 10\nDescrição: Registro - Retificada a Autuação de Parte - Situação da parte 1ª VARA CÍVEL DE ARAGUAÍNA - EXCLUÍDA"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJTO",
+          "title": "Evento: 9\nDescrição: Intimação Eletrônica - Expedida/Certificada - Despacho/Decisão\nRefer.  ao Evento 7\n(AGRAVADO -  JEFERSON GONCALVES LOPES)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJTO",
+          "title": "Evento: 8\nDescrição: Remessa Interna com despacho/decisão - SGB01 -> CCI01"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJTO",
+          "title": "Evento: 7\nDescrição: Decisão - Não-Concessão - Efeito suspensivo"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJTO",
+          "title": "Evento: 6\nDescrição: PETIÇÃO PROTOCOLADA JUNTADA - MANIFESTACAO"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 5\nDescrição: PETIÇÃO PROTOCOLADA JUNTADA - JUNTADA"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 4\nDescrição: Juntada - Boleto Gerado - 1 boleto gerado - Guia 5406876, Subguia 5381964"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 3\nDescrição: Expedida/certificada a comunicação eletrôinica - Custas: Não houve recolhimento de custas no processo originário. Guia criada automaticamente no momento da distribuição"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "1ª VARA CÍVEL DE ARAGUAÍNA"
@@ -6244,15 +6346,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 57,
+    "total": 54,
     "categorias": {
-      "Peças": 12,
+      "Peças": 9,
       "Audiências": 5,
       "Comunicações": 5,
       "Acompanhamento": 24,
       "Diligências": 7,
       "Outras": 4
     },
-    "ultima_data": "2026-05-27"
+    "ultima_data": "2026-05-28"
   }
 }

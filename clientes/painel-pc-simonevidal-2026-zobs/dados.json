@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T16:06:09-03:00",
-    "gerado_em_humano": "27/05/2026 16:06",
+    "gerado_em": "2026-05-28T16:22:23-03:00",
+    "gerado_em_humano": "28/05/2026 16:22",
     "slug_url": "painel-pc-simonevidal-2026-zobs",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,16 @@
       "process_date": "2025-12-15",
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer - 54PJ - Cota - Queixa - Abs sum atip cond - Simone - 6036394-45"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Keila Marluce Borges da Silva (Referente à Mov. Despacho -> Mero Expediente (04/05/2026 16:57:06))"
+        },
         {
           "date": "2026-05-20",
           "header": "TJGO",
@@ -66,16 +76,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação -"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alice Cesarino De Paula Rodrigues (Referente à Mov. Ato Ordinatório (27/04/2026 13:13:10))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alice Cesarino De Paula Rodrigues - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         }
       ],
       "partes_adversarias": [
@@ -174,6 +174,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação - Ata Notarial"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -211,17 +216,12 @@
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para 21ª PJ Goiânia em 25/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (06/03/2026 17:34:56))"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"128-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Termo Circunstanciado\" para a classe \"129-PROCESSO CRIMINAL -> Procedimentos Investigatórios -> Inquérito Policial\""
+          "title": "Decorrido Prazo - para 21ª PJ Goiânia em 25/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (06/03/2026 17:34:56))"
         }
       ],
       "partes_adversarias": [

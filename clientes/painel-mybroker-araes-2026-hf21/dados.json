@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:29:37-03:00",
-    "gerado_em_humano": "27/05/2026 15:29",
+    "gerado_em": "2026-05-28T15:45:43-03:00",
+    "gerado_em_humano": "28/05/2026 15:45",
     "slug_url": "painel-mybroker-araes-2026-hf21",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJMT",
+          "title": "Petição\nJuntada de Petição de impugnação à contestação"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJMT",
           "title": "Petição\nJuntada de Petição de contestação"
@@ -35,17 +40,12 @@
         {
           "date": "2026-05-12",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de DANIEL FRANCISCO DE OLIVEIRA em 11/05/2026 23:59  - expediente de n° 48658722"
+          "title": "Decurso de Prazo\nDecorrido prazo de MY BROKER ARAES LTDA em 11/05/2026 23:59  - expediente de n° 48658719"
         },
         {
           "date": "2026-05-12",
           "header": "TJMT",
-          "title": "Decurso de Prazo\nDecorrido prazo de MY BROKER ARAES LTDA em 11/05/2026 23:59  - expediente de n° 48658719"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJMT",
-          "title": "de Conciliação\nAudiência de conciliação realizada em/para 11/05/2026 16:00, 1º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
+          "title": "Decurso de Prazo\nDecorrido prazo de DANIEL FRANCISCO DE OLIVEIRA em 11/05/2026 23:59  - expediente de n° 48658722"
         },
         {
           "date": "2026-05-11",
@@ -73,9 +73,9 @@
           "title": "Recebimento do CEJUSC ou Centros de Conciliação/Mediação\nRecebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
         },
         {
-          "date": "2026-05-08",
+          "date": "2026-05-11",
           "header": "TJMT",
-          "title": "Documento\nJuntada de não entregue - mudou-se (ecarta)"
+          "title": "de Conciliação\nAudiência de conciliação realizada em/para 11/05/2026 16:00, 1º JUIZADO ESPECIAL CÍVEL DE CUIABÁ"
         }
       ],
       "partes_adversarias": [

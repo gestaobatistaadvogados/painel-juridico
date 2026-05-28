@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T16:03:57-03:00",
-    "gerado_em_humano": "27/05/2026 16:03",
+    "gerado_em": "2026-05-28T16:20:11-03:00",
+    "gerado_em_humano": "28/05/2026 16:20",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": "2026-02-05",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Citação Não Efetivada (28/04/2026 00:48:31))"
+        },
         {
           "date": "2026-05-05",
           "header": "TJGO",
@@ -55,12 +60,12 @@
         {
           "date": "2026-03-23",
           "header": "TJGO",
-          "title": "Citação Expedida - e-Carta - Edvando Medeiros Firmino"
+          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         },
         {
           "date": "2026-03-23",
           "header": "TJGO",
-          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+          "title": "Citação Expedida - e-Carta - Edvando Medeiros Firmino"
         },
         {
           "date": "2026-03-21",
@@ -71,11 +76,6 @@
           "date": "2026-02-19",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Edvando Medeiros Firmino - Código de Rastreamento Correios: YH048280313BR idPendenciaCorreios109387695432015873960413015idPendenciaCorreios"
-        },
-        {
-          "date": "2026-02-11",
-          "header": "TJGO",
-          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
         }
       ],
       "partes_adversarias": [
@@ -396,6 +396,16 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Osvaldir Baiao De Sa - Código de Rastreamento Correios: YH188171535BR idPendenciaCorreios109287695432015873960307401idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Novo endereço"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Citação Não Efetivada (11/05/2026 13:59:54))"
@@ -423,27 +433,17 @@
         {
           "date": "2026-04-16",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (16/04/2026 08:42:58))"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-16",
           "header": "TJGO",
           "title": "Certidão Expedida - INTIMAÇÃO AUTORA APRESENTAR PROVA NÚMERO WHATSAPP RÉU 1ª UPJ"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (16/04/2026 08:42:58))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Nova Citação pelo WhatsApp"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (09/04/2026 14:01:00))"
         }
       ],
       "partes_adversarias": [
@@ -567,54 +567,54 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (27/11/2025 18:35:15))"
+          "title": "Movimentação Bloqueada"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Marcus Vinicius Alves De Mira - Código de Rastreamento Correios: YH164801925BR idPendenciaCorreios109187655432015873960371270idPendenciaCorreios"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Pedro Paulo Isaac De Souza (Referente à Mov. Certidão Expedida - 25/05/2026 16:27:25)"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+          "title": "Certidão Expedida - INTIMAÇÃO P/ ENDEREÇO ATUALIZADO"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Expedida - e-Carta- Marcus Vinicius Alves De Mira"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Pedro Paulo Isaac De Souza (Referente à Mov. Certidão Expedida (25/05/2026 16:27:25))"
         },
         {
-          "date": "2026-04-30",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para C+m Holding Empresarial Ltda em 28/04/2026 23:59:59 (Referente à Mov. Certidão Expedida (26/02/2026 15:08:28))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Santana E Silva (Referente à Mov. Certidão Expedida - 25/05/2026 16:27:25)"
         },
         {
-          "date": "2026-04-04",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Efetivada - Para CHEL (Referente à Mov. Certidão Expedida (26/02/2026 15:08:28))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Certidão Expedida - 25/05/2026 16:27:25)"
         },
         {
-          "date": "2026-03-03",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) CHEL - Código de Rastreamento Correios: YH066040535BR idPendenciaCorreios109487605432015873960978758idPendenciaCorreios"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Douglas De Oliveira Araujo (Referente à Mov. Certidão Expedida - 25/05/2026 16:27:25)"
         },
         {
-          "date": "2026-02-26",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Certidão Expedida - E-CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Douglas De Oliveira Araujo (Referente à Mov. Certidão Expedida (25/05/2026 16:27:25))"
         },
         {
-          "date": "2026-02-26",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Citação Expedida - E-carta ao(s) requerido(s)."
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (25/05/2026 16:27:25))"
         },
         {
-          "date": "2026-02-18",
+          "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Citação novo endereço"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Santana E Silva (Referente à Mov. Certidão Expedida (25/05/2026 16:27:25))"
         }
       ],
       "partes_adversarias": [
@@ -789,6 +789,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-23",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> deferimento (17/09/2025 16:32:17))"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Kenedy Sousa Moraes - Código de Rastreamento Correios: YH163330540BR idPendenciaCorreios109787695432015873960372009idPendenciaCorreios"
@@ -796,12 +801,12 @@
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Certidão Expedida - Informação sobre carta de citação"
+          "title": "Certidão Expedida - Alteração de endereço - (ev. 36)"
         },
         {
           "date": "2026-05-04",
           "header": "TJGO",
-          "title": "Certidão Expedida - Alteração de endereço - (ev. 36)"
+          "title": "Certidão Expedida - Informação sobre carta de citação"
         },
         {
           "date": "2026-04-09",
@@ -811,17 +816,12 @@
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Juntada de Documento - SISBAJUD - busca de endereço - frutífero"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
           "title": "Ato Ordinatório - Intimar exequente endereço válido, completo e provável"
         },
         {
           "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Juntada de Documento - SISBAJUD - busca de endereço - frutífero"
         },
         {
           "date": "2026-04-06",
@@ -829,9 +829,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Ato Ordinatório (06/04/2026 11:42:08))"
         },
         {
-          "date": "2026-03-30",
+          "date": "2026-04-06",
           "header": "TJGO",
-          "title": "Juntada de Documento - Renajud- busca de endereço- frutífera"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-03-30",
@@ -935,6 +935,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Sharks Imobiliaria Ltda em 25/05/2026 23:59:59 (Referente à Mov. Juntada de Documento (07/05/2026 13:12:42))"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Juntada de Documento (07/05/2026 13:12:42))"
@@ -978,11 +983,6 @@
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Rejeição -> Exceção de Impedimento ou Suspeição (04/05/2026 13:14:30))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Decisão -> Rejeição -> Exceção de Impedimento ou Suspeição - SUSPENSÃO DOS AUTOS - AUTUAÇÃO EM APARTADO"
         }
       ],
       "partes_adversarias": [
@@ -1007,6 +1007,11 @@
       "process_date": null,
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
         {
           "date": "2026-05-19",
           "header": "TJGO",
@@ -1051,11 +1056,6 @@
           "date": "2026-03-03",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-02-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (20/02/2026 15:16:38))"
         }
       ],
       "partes_adversarias": [
@@ -1455,6 +1455,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - INTIMAÇÃO EXECUTADO RENAJUD"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Juntada de Documento - Devolução Central Sisbajud - Sem cumprimento"
@@ -1482,11 +1487,6 @@
         {
           "date": "2026-03-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
           "title": "Certidão Expedida - UPJ - CERTIDÃO - PLANILHA DE DÉBITO - CENOPES"
         },
         {
@@ -1497,12 +1497,12 @@
         {
           "date": "2026-03-17",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (17/03/2026 09:02:03))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-02-23",
+          "date": "2026-03-17",
           "header": "TJGO",
-          "title": "Processo Desarquivado -"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (17/03/2026 09:02:03))"
         }
       ],
       "partes_adversarias": [
@@ -2009,6 +2009,21 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (22/05/2026 14:16:20))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sharks Imobiliaria Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO DE INTIMAÇÃO - DESPESAS POSTAIS APÓS PENHORA + ENDEREÇO"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Juntada -> Petição - Levantamento de quantia"
@@ -2042,21 +2057,6 @@
           "date": "2026-03-10",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sharks Imobiliaria Ltda - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - ATO ORDINATÓRIO - JUNTAR PLANILHA ATUALIZADA DO DÉBITO - UPJ"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Ato Ordinatório (10/03/2026 10:34:55))"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutoria"
         }
       ],
       "partes_adversarias": [
@@ -2167,7 +2167,7 @@
       "process_number": "5166771-24.2025.8.09.0051",
       "protocol_number": null,
       "folder": "2196",
-      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "stage": "AGUARDANDO PENHORA",
       "step": "EXECUÇÃO/COBRANÇA",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
@@ -2230,6 +2230,9 @@
       "partes_adversarias": [
         {
           "name": "ANALICE SCHRODER MOURA LIMA"
+        },
+        {
+          "name": "LUIZ MAGNO PEREIRA LIMA"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -3114,6 +3117,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (15/05/2026 10:38:05))"
@@ -3146,11 +3154,6 @@
         {
           "date": "2026-03-09",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação NÃO Efetivada (WhatsApp) - sem resposta"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Citação Não Efetivada (09/03/2026 11:44:05))"
         },
         {
@@ -3159,9 +3162,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Citação Não Efetivada (CNJ:581) - )"
         },
         {
-          "date": "2026-03-05",
+          "date": "2026-03-09",
           "header": "TJGO",
-          "title": "Citação Expedida - WhatsApp enviado - Aguardando resposta/ ROBSON GOMES DE ALMEIDA"
+          "title": "Citação Não Efetivada - Citação NÃO Efetivada (WhatsApp) - sem resposta"
         }
       ],
       "partes_adversarias": [
@@ -3742,6 +3745,41 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> ausência de pressupostos processuais (27/05/2026 12:37:32))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> ausência de pressupostos processuais"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> ausência de pressupostos processuais (CNJ:459) - )"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Yuri De Jesus Leite Ferreira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> ausência de pressupostos processuais (CNJ:459) - )"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Yuri De Jesus Leite Ferreira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> ausência de pressupostos processuais (27/05/2026 12:37:32))"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Impugnação aos embargos - Impugnação ao Embargos a Execução"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (28/04/2026 08:59:45))"
@@ -3749,47 +3787,12 @@
         {
           "date": "2026-04-28",
           "header": "TJGO",
-          "title": "Certidão Expedida - Embargos à Execução - Intimação p/ Contrarrazoar"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-28",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - HABILITAÇÃO - Embargos à Execução"
-        },
-        {
-          "date": "2026-04-18",
-          "header": "TJGO",
-          "title": "Intimação Lida - Para (Polo Passivo) Yuri De Jesus Leite Ferreira (Referente à Mov. Certidão Expedida (27/03/2026 10:30:04))"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para (Polo Passivo) Yuri De Jesus Leite Ferreira - Código de Rastreamento Correios: YH117555055BR idPendenciaCorreios109187635432015873960775590idPendenciaCorreios"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Cumprimento e Devolução Pelos Correios e não pela UPJ"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Para Executado: manifestar sobre Penhora"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Certidão Expedida - UPJ - CERTIDÃO - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Devolução Central SISBAJUD - Penhora parcial com transferência"
+          "title": "Certidão Expedida - Embargos à Execução - Intimação p/ Contrarrazoar"
         }
       ],
       "partes_adversarias": [
@@ -5240,15 +5243,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 24,
+    "total": 26,
     "categorias": {
-      "Peças": 9,
+      "Peças": 8,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 13,
+      "Acompanhamento": 14,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 4
     },
-    "ultima_data": "2026-05-27"
+    "ultima_data": "2026-05-28"
   }
 }

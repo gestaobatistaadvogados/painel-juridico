@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:36:08-03:00",
-    "gerado_em_humano": "27/05/2026 15:36",
+    "gerado_em": "2026-05-28T15:52:18-03:00",
+    "gerado_em_humano": "28/05/2026 15:52",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -516,19 +516,19 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 30 dias)"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Réplica - RÉPLICA"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Término da Suspensão do Processo"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Ato Ordinatório (30/04/2026 20:20:37))"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva - Polo Ativo (Referente a Mov. Ato Ordinatorio - 30/04/2026 20:20:37)"
         },
         {
           "date": "2026-04-30",
@@ -551,19 +551,19 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Ato Ordinatório (30/04/2026 20:20:37))"
         },
         {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Ato Ordinatório (30/04/2026 20:20:37))"
+        },
+        {
+          "date": "2026-04-30",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva - Polo Ativo (Referente a Mov. Ato Ordinatorio - 30/04/2026 20:20:37)"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Despacho -> Suspensão ou Sobrestamento - (Por dias)"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eduardo De Castro Bittencourt (Referente à Mov. Juntada de Documento (16/04/2026 13:01:17))"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Danielle De Medeiros Silva (Referente à Mov. Juntada de Documento - 16/04/2026 13:01:17)"
         }
       ],
       "partes_adversarias": [

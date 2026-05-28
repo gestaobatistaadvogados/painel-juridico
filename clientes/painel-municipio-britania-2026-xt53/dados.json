@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:48:28-03:00",
-    "gerado_em_humano": "27/05/2026 15:48",
+    "gerado_em": "2026-05-28T16:04:41-03:00",
+    "gerado_em_humano": "28/05/2026 16:04",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -1622,6 +1622,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Ofício Comunicatório"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 27/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (05/03/2026 18:05:35))"
@@ -1644,6 +1654,11 @@
         {
           "date": "2026-03-05",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
         },
         {
@@ -1654,22 +1669,7 @@
         {
           "date": "2026-03-05",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Despacho -> Mero Expediente (05/03/2026 18:05:35))"
-        },
-        {
-          "date": "2026-03-05",
-          "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-03-05",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [
@@ -2059,6 +2059,31 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SIMONE GAMA DOS SANTOS (Referente à Mov. Decisão -> Outras Decisões (24/05/2026 14:21:59))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIMONE GAMA DOS SANTOS (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
+        },
+        {
+          "date": "2026-05-24",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -2081,32 +2106,7 @@
         {
           "date": "2026-02-24",
           "header": "TJGO",
-          "title": "Transitado em Julgado - 19.02.2026"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
           "title": "Processo Arquivado -"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIMONE GAMA DOS SANTOS - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SIMONE GAMA DOS SANTOS (Referente à Mov. Certidão Expedida (23/02/2026 12:30:08))"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 18/02/2026 23:59:59 (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (04/12/2025 21:50:37))"
         }
       ],
       "partes_adversarias": [
@@ -2576,6 +2576,31 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Precatório Enviado ao Tribunal (25/05/2026 11:51:23))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Precatório Enviado ao Tribunal - 25/05/2026 11:51:23)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Precatório Enviado ao Tribunal - 25/05/2026 11:51:23)"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (21/05/2026 15:57:31))"
@@ -2584,11 +2609,6 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Ato Ordinatório - PROCURADOR DA PARTE AUTORA APRESENTAR PLANILHA DE CÁLCULOS"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-11",
@@ -2604,26 +2624,6 @@
           "date": "2026-05-02",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - VALIDAÇÃO OFÍCIO PRECATÓRIO - MARLUCE LAZARA DE JESUS ANTUNES"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
         }
       ],
       "partes_adversarias": [],
@@ -2997,9 +2997,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (25/05/2026 12:32:46))"
+        },
+        {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento Monocrático"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (25/05/2026 12:32:46))"
         },
         {
           "date": "2026-05-25",
@@ -3019,7 +3024,7 @@
         {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EUCLIDES GAMA DOS SANTOS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (25/05/2026 12:32:46))"
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento Monocrático"
         },
         {
           "date": "2026-04-06",
@@ -3040,11 +3045,6 @@
           "date": "2026-02-24",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 23/02/2026 17:22:45)"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
         }
       ],
       "partes_adversarias": [
@@ -3137,7 +3137,7 @@
       "step": "ADMINISTRATIVO",
       "type": "ADMINISTRATIVO",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-05-27 17:25:45",
       "created_at": "2026-03-18 15:54:47",
       "process_date": "2026-03-18",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",

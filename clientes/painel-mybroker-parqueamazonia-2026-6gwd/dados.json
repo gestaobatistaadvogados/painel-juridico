@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:30:28-03:00",
-    "gerado_em_humano": "27/05/2026 15:30",
+    "gerado_em": "2026-05-28T15:46:34-03:00",
+    "gerado_em_humano": "28/05/2026 15:46",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -91,8 +91,8 @@
       "process_number": "5232464-46.2023.8.09.0011",
       "protocol_number": null,
       "folder": "647",
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
-      "step": "RECURSAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "INDENIZAÇÃO",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-10-28 00:00:00",
@@ -156,7 +156,7 @@
           "name": "ROMILDO PIRES DAS VIRGENS"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -262,9 +262,9 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Intimação - informar expressamente em petição o valor devido"
+          "title": "Juntada -> Petição - Interlocutória"
         },
         {
           "date": "2026-05-20",
@@ -277,6 +277,11 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimação - informar expressamente em petição o valor devido"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
@@ -284,7 +289,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Certidão Expedida - CERTIDÃO - DILAÇÃO DE PRAZO 5 DIAS"
         },
         {
           "date": "2026-05-06",
@@ -294,7 +299,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - DILAÇÃO DE PRAZO 5 DIAS"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-22",
@@ -304,12 +309,7 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lv Gestão Imobiliária (Referente à Mov. Ato Ordinatório (09/04/2026 13:49:54))"
+          "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
         }
       ],
       "partes_adversarias": [

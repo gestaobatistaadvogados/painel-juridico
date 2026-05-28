@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:30:57-03:00",
-    "gerado_em_humano": "27/05/2026 15:30",
+    "gerado_em": "2026-05-28T15:47:03-03:00",
+    "gerado_em_humano": "28/05/2026 15:47",
     "slug_url": "painel-mybroker-cuiaba-2026-r6gf",
     "departamento": "direito_imobiliario"
   },
@@ -170,6 +170,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de DAYANA DE SOUZA NASCIMENTO em 26/05/2026 23:59  - expediente de n° 49676644"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJMT",
+          "title": "Decurso de Prazo\nDecorrido prazo de MY BROKER IMOVEIS CUIABA LTDA em 26/05/2026 23:59  - expediente de n° 49676646"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJMT",
           "title": "Disponibilização no Diário da Justiça Eletrônico\nDisponibilizado no DJ Eletrônico em 18/05/2026"
@@ -208,16 +218,6 @@
           "date": "2026-05-13",
           "header": "TJMT",
           "title": "Petição\nJuntada de Petição de manifestação"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJMT",
-          "title": "Petição\nJuntada de Petição de manifestação"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJMT",
-          "title": "Publicação\nPublicado Intimação em 06/05/2026."
         }
       ],
       "partes_adversarias": [

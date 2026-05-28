@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T15:33:05-03:00",
-    "gerado_em_humano": "27/05/2026 15:33",
+    "gerado_em": "2026-05-28T15:49:10-03:00",
+    "gerado_em_humano": "28/05/2026 15:49",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -247,6 +247,16 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Alvará Pago"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Certidão Expedida - Alvará expedido (267,15 - BB): ag. conf. e assinatura do Juiz."
@@ -254,12 +264,12 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Certidão Expedida - Ev. 96: equívoco na indicação do CNPJ."
+          "title": "Movimentação Bloqueada"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Movimentação Bloqueada"
+          "title": "Certidão Expedida - Ev. 96: equívoco na indicação do CNPJ."
         },
         {
           "date": "2026-05-18",
@@ -285,16 +295,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Certidão Expedida - exequente informar dados bancários para alvará (não pix)"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
         }
       ],
       "partes_adversarias": [

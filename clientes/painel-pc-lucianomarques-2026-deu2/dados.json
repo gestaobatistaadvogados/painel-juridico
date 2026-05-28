@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T16:05:00-03:00",
-    "gerado_em_humano": "27/05/2026 16:05",
+    "gerado_em": "2026-05-28T16:21:14-03:00",
+    "gerado_em_humano": "28/05/2026 16:21",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,14 +28,24 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
+          "title": "Audiência de Instrução - Realizada sem Sentença - 20/05/2026 13:00"
         },
         {
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
         },
         {
           "date": "2026-05-20",
@@ -46,11 +56,6 @@
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Leitura da denúncia aos acusados"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Audiência de Instrução - Realizada sem Sentença - 20/05/2026 13:00"
         },
         {
           "date": "2026-05-14",
@@ -71,11 +76,6 @@
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Certidão Expedida"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Jose Tuma (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
         }
       ],
       "partes_adversarias": [

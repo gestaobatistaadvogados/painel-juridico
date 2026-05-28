@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-27T16:04:40-03:00",
-    "gerado_em_humano": "27/05/2026 16:04",
+    "gerado_em": "2026-05-28T16:20:55-03:00",
+    "gerado_em_humano": "28/05/2026 16:20",
     "slug_url": "painel-pc-nandaaiara-2026-ssr6",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,11 @@
       "process_date": "2025-01-17",
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Decisão -> Recebimento -> Recurso -> Com efeito suspensivo (06/04/2026 18:12:31))"
+        },
         {
           "date": "2026-05-13",
           "header": "TJGO",
@@ -55,27 +60,22 @@
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Intimação Lida - Por Marcelo Franco de Assis Costa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
+          "title": "Juntada -> Petição -> Apelação - Apelação"
         },
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Apelação - Apelação"
+          "title": "Intimação Lida - Por Marcelo Franco de Assis Costa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
         },
         {
           "date": "2026-03-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de GUILHERME CARDOSO ELEAQUIM (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SILVOYNE VERISSIMO DE OLIVEIRA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
         },
         {
           "date": "2026-03-19",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de NATALIA GABRIELA SILVA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (19/03/2026 15:26:21))"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência - Sentença Absolutória"
         }
       ],
       "partes_adversarias": [
