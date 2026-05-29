@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:41:53-03:00",
-    "gerado_em_humano": "28/05/2026 15:41",
+    "gerado_em": "2026-05-29T15:35:46-03:00",
+    "gerado_em_humano": "29/05/2026 15:35",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -1446,6 +1446,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - MANIFESTAÇÃO PEDIDO DE PENHORA DE FATURAMENTO"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Claudia Silveira Bastos Da Silva (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
@@ -1468,17 +1473,17 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Claudia Silveira Bastos Da Silva em 05/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv em 05/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Claudia Silveira Bastos Da Silva em 05/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (07/04/2026 17:04:28))"
         },
         {
           "date": "2026-05-06",
@@ -1489,11 +1494,6 @@
           "date": "2026-04-07",
           "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [
@@ -2661,9 +2661,29 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-22",
+          "date": "2026-05-28",
           "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
+          "title": "Disponibilizado no DJ Eletrônico em 27/05/2026"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 28/05/2026."
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJMG",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
         },
         {
           "date": "2026-05-22",
@@ -2673,12 +2693,12 @@
         {
           "date": "2026-05-22",
           "header": "TJMG",
-          "title": "Publicado Intimação em 22/05/2026."
+          "title": "Juntada de Petição de manifestação"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-05-22",
           "header": "TJMG",
-          "title": "Conclusos para despacho"
+          "title": "Publicado Intimação em 22/05/2026."
         },
         {
           "date": "2026-05-20",
@@ -2689,26 +2709,6 @@
           "date": "2026-05-20",
           "header": "TJMG",
           "title": "Expedida/certificada a comunicação eletrônica"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJMG",
-          "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJMG",
-          "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJMG",
-          "title": "Conclusos para despacho"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
         }
       ],
       "partes_adversarias": [
@@ -3698,6 +3698,36 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - tempestividade do recurso | INTIMAÇÃO para contrarrazoar"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jennifer Cristina Silva Bueno (Referente à Mov. Ato Ordinatório (27/05/2026 16:45:09))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Ato Ordinatório (27/05/2026 16:45:09))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jennifer Cristina Silva Bueno - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Recurso inominado - RECURSO INOMINADO"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Juntada de Documento - Resultado RENAJUD"
@@ -3716,36 +3746,6 @@
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Certidão Expedida - Decurso de prazo: ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS E BENEFICIOS"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Mandado Cumprido - Para Reinaldo Cavalcante Marques (Mandado nº 7214250 / Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Rejeição (03/04/2026 18:51:06))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Mandado Expedido - Para Senador Canedo - Central de Mandados (Mandado nº 7214250 / Para: Reinaldo Cavalcante Marques)"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA - Polo Passivo (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Rejeição - 03/04/2026 18:51:06)"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Rejeição (03/04/2026 18:51:06))"
         }
       ],
       "partes_adversarias": [
@@ -6177,14 +6177,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-25",
+          "date": "2026-05-27",
           "header": "TJTO",
-          "title": "Evento: 64\nDescrição: Juntada - Informações"
+          "title": "Evento: 66\nDescrição: Conclusão para despacho"
         },
         {
-          "date": "2026-05-25",
+          "date": "2026-05-27",
           "header": "TJTO",
-          "title": "Evento: 63\nDescrição: PETIÇÃO"
+          "title": "Evento: 65\nDescrição: Lavrada Certidão"
         },
         {
           "date": "2026-05-25",
@@ -6197,9 +6197,19 @@
           "title": "Evento: 61\nDescrição: Expedida/certificada a comunicação eletrônica  Agravo de Instrumento \nNúmero: 0011077-22.2026.8.27.2700/TJTO"
         },
         {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 64\nDescrição: Juntada - Informações"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJTO",
+          "title": "Evento: 63\nDescrição: PETIÇÃO"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJTO",
-          "title": "Evento: 60\nDescrição: Lavrada Certidão"
+          "title": "Evento: 58\nDescrição: Publicado no DJEN - no dia 22/05/2026 - Refer. ao Evento: 46"
         },
         {
           "date": "2026-05-22",
@@ -6209,22 +6219,12 @@
         {
           "date": "2026-05-22",
           "header": "TJTO",
-          "title": "Evento: 58\nDescrição: Publicado no DJEN - no dia 22/05/2026 - Refer. ao Evento: 46"
+          "title": "Evento: 60\nDescrição: Lavrada Certidão"
         },
         {
           "date": "2026-05-21",
           "header": "TJTO",
           "title": "Evento: 51\nDescrição: Disponibilizado no DJEN - no dia 21/05/2026 - Refer. ao Evento: 46"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJTO",
-          "title": "Evento: 52\nDescrição: Publicado no DJEN - no dia 21/05/2026 - Refer. ao Evento: 42"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJTO",
-          "title": "Evento: 53\nDescrição: Juntada - Registro de pagamento - Guia 5991718, Subguia 205699 - Boleto pago (1/1) Pago - R$ 47,01"
         }
       ],
       "partes_adversarias": [
@@ -6346,13 +6346,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 54,
+    "total": 49,
     "categorias": {
       "Peças": 9,
       "Audiências": 5,
       "Comunicações": 5,
-      "Acompanhamento": 24,
-      "Diligências": 7,
+      "Acompanhamento": 20,
+      "Diligências": 6,
       "Outras": 4
     },
     "ultima_data": "2026-05-28"

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T16:22:12-03:00",
-    "gerado_em_humano": "28/05/2026 16:22",
+    "gerado_em": "2026-05-29T16:16:04-03:00",
+    "gerado_em_humano": "29/05/2026 16:16",
     "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,16 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - ANA PAULA FERREIRA"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - GEOVANNY MAGALHÃES FERREIRA"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Certidão Expedida - Período de prisão e cumprimento de medidas cautelares"
@@ -35,12 +45,12 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Juntada de Documento - certidao de antecedentes- projudi e SEEU"
+          "title": "Autos Conclusos - P/ SENTENÇA"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Juntada de Documento - certidao de antecedentes- projudi e SEEU"
         },
         {
           "date": "2026-05-18",
@@ -50,12 +60,12 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
+          "title": "Ato Ordinatório - Vista a defesa para alegações finais"
         },
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Geovanny Magalhães Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))"
         },
         {
           "date": "2026-05-12",
@@ -66,16 +76,6 @@
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Vista a defesa para alegações finais"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Audiência de Instrução e Julgamento (05/05/2026 11:33:00))"
         }
       ],
       "partes_adversarias": [

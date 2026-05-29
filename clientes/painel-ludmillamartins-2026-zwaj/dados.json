@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:51:25-03:00",
-    "gerado_em_humano": "28/05/2026 15:51",
+    "gerado_em": "2026-05-29T15:45:19-03:00",
+    "gerado_em_humano": "29/05/2026 15:45",
     "slug_url": "painel-ludmillamartins-2026-zwaj",
     "departamento": "direito_privado"
   },
@@ -18,7 +18,7 @@
       "process_number": "0751570-41.2025.8.07.0000",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)",
       "step": "RECURSAL",
       "type": "AGRAVO DE INSTRUMENTO",
       "group": "PRIVADO",
@@ -79,6 +79,9 @@
         }
       ],
       "partes_adversarias": [
+        {
+          "name": "JOSE ANTONIO MOSQUERA JUNIOR"
+        },
         {
           "name": "UOSTON CARVALHO DA SILVA"
         }
@@ -164,15 +167,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 3,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
-      "Diligências": 0,
+      "Diligências": 1,
       "Outras": 0
     },
-    "ultima_data": "2026-05-08"
+    "ultima_data": "2026-05-29"
   }
 }

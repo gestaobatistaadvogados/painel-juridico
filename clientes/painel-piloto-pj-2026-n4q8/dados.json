@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:32:23-03:00",
-    "gerado_em_humano": "28/05/2026 15:32",
+    "gerado_em": "2026-05-29T15:26:11-03:00",
+    "gerado_em_humano": "29/05/2026 15:26",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -609,7 +609,7 @@
       "status_closure": null,
       "created_at": "2026-02-05 13:39:44",
       "process_date": null,
-      "responsible": "LUCAS MARINHO DA SILVA",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-27",
@@ -663,6 +663,9 @@
         }
       ],
       "partes_adversarias": [
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
         {
           "name": "ANA CLEIDE CAMPOS MOURA"
         }
@@ -1671,14 +1674,14 @@
       "process_number": "0000138-94.2026.5.18.0012",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO AUDIÊNCIA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-05-28 17:36:29",
       "created_at": "2026-02-10 15:13:38",
       "process_date": "2026-01-26",
-      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-05-22",
@@ -1733,7 +1736,16 @@
       ],
       "partes_adversarias": [
         {
+          "name": "BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "name": "GRUPO RICARO LTDA"
+        },
+        {
           "name": "LIDIANE MORAES DORNELA"
+        },
+        {
+          "name": "SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -1839,7 +1851,7 @@
       "process_number": "5153236-62.2024.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
       "step": "RECURSAL",
       "type": "INDENIZAÇÃO DANOS MATERIAS",
       "group": "PRIVADO",
@@ -1849,6 +1861,15 @@
       "responsible": "FELLIPE LOPES",
       "movements": [],
       "partes_adversarias": [
+        {
+          "name": "ALEXANDRE SHIGUERO SATO AGUIAR"
+        },
+        {
+          "name": "FLAVIO CARVALHO MENDONCA"
+        },
+        {
+          "name": "HOSPITAL UROLOGICO DE GOIANIA LTDA"
+        },
         {
           "name": "TARCIO TOCANTINS COSTA"
         }
@@ -8436,6 +8457,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (28/05/2026 15:05 CEJUSC - GRUPO 1 - CEJUSC GOIÂNIA)"
+        },
+        {
           "date": "2026-05-25",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -8458,7 +8489,7 @@
         {
           "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
         },
         {
           "date": "2026-05-06",
@@ -8468,22 +8499,12 @@
         {
           "date": "2026-05-06",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 06/05/2026"
+          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
         },
         {
           "date": "2026-05-06",
           "header": "TRT18",
           "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TRT18",
-          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
         }
       ],
       "partes_adversarias": [
@@ -8764,6 +8785,31 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (28/05/2026 10:40 CEJUSC - INICIAIS 16 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (28/05/2026 10:40 CEJUSC - INICIAIS 16 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
           "date": "2026-05-26",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
@@ -8787,31 +8833,6 @@
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TRT18",
-          "title": "Expedido(a) mandado a(o) BRESSED PARTICIPACOES EIRELI"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TRT18",
-          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) BRESSED PARTICIPACOES EIRELI"
         }
       ],
       "partes_adversarias": [
@@ -9625,7 +9646,53 @@
       "created_at": "2026-05-26 16:05:21",
       "process_date": "2026-05-26",
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-19",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 15/05/2026"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 14/05/2026"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) THIAGO MARQUES RODRIGUES"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (23/06/2026 09:40 CEJUSC - 10ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Incluídos os autos no Juízo 100% Digital"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRT18",
+          "title": "Distribuído por sorteio"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "THIAGO MARQUES RODRIGUES"
@@ -9647,7 +9714,58 @@
       "created_at": "2026-05-26 16:11:02",
       "process_date": "2026-05-26",
       "responsible": "ALLYNE DOS SANTOS MARTINS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 26/05/2026"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 25/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) notificação a(o) SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) MARIA ISABELA MOURA BONFIM"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (16/06/2026 11:00 CEJUSC - 11ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (19/06/2026 09:40 CEJUSC - 11ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "BRESSED PARTICIPACOES EIRELI"
@@ -9667,15 +9785,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 276,
+    "total": 298,
     "categorias": {
-      "Peças": 41,
-      "Audiências": 34,
-      "Comunicações": 62,
-      "Acompanhamento": 93,
-      "Diligências": 37,
+      "Peças": 53,
+      "Audiências": 33,
+      "Comunicações": 69,
+      "Acompanhamento": 95,
+      "Diligências": 39,
       "Outras": 9
     },
-    "ultima_data": "2026-05-28"
+    "ultima_data": "2026-05-29"
   }
 }

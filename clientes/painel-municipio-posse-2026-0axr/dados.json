@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T16:08:25-03:00",
-    "gerado_em_humano": "28/05/2026 16:08",
+    "gerado_em": "2026-05-29T16:02:06-03:00",
+    "gerado_em_humano": "29/05/2026 16:02",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -1826,9 +1826,9 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-29",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EULANDA MARIA NEPOMUCENA GOMES CARDOSO (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 16:56:48))"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)MUNICÍPIO DE POSSE/GO (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 16:56:48))"
         },
         {
           "date": "2026-05-19",
@@ -1848,12 +1848,17 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE POSSE/GO (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EULANDA MARIA NEPOMUCENA GOMES CARDOSO (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 16:56:48))"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de EDILBERTO FALCAO (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 16:56:48))"
+        },
+        {
+          "date": "2026-05-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE POSSE/GO (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
           "date": "2026-05-18",
@@ -1869,11 +1874,6 @@
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Processo baixado à origem/devolvido"
         }
       ],
       "partes_adversarias": [
@@ -3646,15 +3646,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 13,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 1,
+      "Acompanhamento": 8,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-25"
+    "ultima_data": "2026-05-29"
   }
 }

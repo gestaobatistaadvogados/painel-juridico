@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:46:34-03:00",
-    "gerado_em_humano": "28/05/2026 15:46",
+    "gerado_em": "2026-05-29T15:40:27-03:00",
+    "gerado_em_humano": "29/05/2026 15:40",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -468,15 +468,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 2,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-27"
+    "ultima_data": "2026-04-10"
   }
 }

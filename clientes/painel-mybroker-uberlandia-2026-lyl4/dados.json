@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:45:36-03:00",
-    "gerado_em_humano": "28/05/2026 15:45",
+    "gerado_em": "2026-05-29T15:39:30-03:00",
+    "gerado_em_humano": "29/05/2026 15:39",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,16 @@
       "process_date": "2024-04-09",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-26",
+          "header": "TJMG",
+          "title": "Decorrido prazo de MY BROKER IMOBILIARIA UBERLANDIA LTDA em 25/05/2026 23:59."
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
         {
           "date": "2026-05-04",
           "header": "TJMG",
@@ -61,16 +71,6 @@
           "date": "2025-11-25",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2025-11-14",
-          "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 13/11/2025"
-        },
-        {
-          "date": "2025-11-14",
-          "header": "TJMG",
-          "title": "Publicado Intimação em 14/11/2025."
         },
         {
           "date": "2025-11-14",

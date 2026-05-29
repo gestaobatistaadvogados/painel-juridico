@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T15:34:41-03:00",
-    "gerado_em_humano": "28/05/2026 15:34",
+    "gerado_em": "2026-05-29T15:28:33-03:00",
+    "gerado_em_humano": "29/05/2026 15:28",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -2449,14 +2449,24 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-21",
+          "date": "2026-05-28",
           "header": "TRT18",
-          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 20/05/2026"
+          "title": "Decorrido o prazo de RICARDO ABDALLA HADDAD em 27/05/2026"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-28",
           "header": "TRT18",
-          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 20/05/2026"
+          "title": "Decorrido o prazo de RAFAEL HADDAD em 27/05/2026"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ROBERTO ABDALLA HADDAD em 27/05/2026"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de ADEMAR GOMES DA COSTA JUNIOR em 27/05/2026"
         },
         {
           "date": "2026-05-21",
@@ -2469,6 +2479,16 @@
           "title": "Decorrido o prazo de RITA CLEIDE RIBEIRO SANTOS em 20/05/2026"
         },
         {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 20/05/2026"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 20/05/2026"
+        },
+        {
           "date": "2026-05-20",
           "header": "TRT18",
           "title": "Juntada a petição de Recurso Ordinário"
@@ -2477,26 +2497,6 @@
           "date": "2026-05-18",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RICARDO ABDALLA HADDAD"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RAFAEL HADDAD"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ADEMAR GOMES DA COSTA JUNIOR"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ROBERTO ABDALLA HADDAD"
         }
       ],
       "partes_adversarias": [
@@ -3152,15 +3152,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 53,
+    "total": 63,
     "categorias": {
-      "Peças": 5,
-      "Audiências": 6,
-      "Comunicações": 9,
-      "Acompanhamento": 23,
-      "Diligências": 1,
+      "Peças": 6,
+      "Audiências": 7,
+      "Comunicações": 12,
+      "Acompanhamento": 25,
+      "Diligências": 4,
       "Outras": 9
     },
-    "ultima_data": "2026-05-28"
+    "ultima_data": "2026-05-29"
   }
 }

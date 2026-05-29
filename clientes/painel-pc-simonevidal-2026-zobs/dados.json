@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-28T16:22:23-03:00",
-    "gerado_em_humano": "28/05/2026 16:22",
+    "gerado_em": "2026-05-29T16:16:15-03:00",
+    "gerado_em_humano": "29/05/2026 16:16",
     "slug_url": "painel-pc-simonevidal-2026-zobs",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,11 @@
       "process_date": "2025-12-15",
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
         {
           "date": "2026-05-26",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Impugnação -"
         }
       ],
       "partes_adversarias": [
