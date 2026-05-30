@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:36:32-03:00",
-    "gerado_em_humano": "29/05/2026 15:36",
+    "gerado_em": "2026-05-30T09:14:49-03:00",
+    "gerado_em_humano": "30/05/2026 09:14",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -761,6 +761,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para Wenzo Rithelly Carvalho Franca (Referente à Mov. Certidão Expedida (12/05/2026 16:07:07))"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Wenzo Rithelly Carvalho Franca - Código de Rastreamento Correios: YH172612535BR idPendenciaCorreios109287605432015873960367937idPendenciaCorreios"
@@ -804,11 +809,6 @@
           "date": "2026-02-05",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Wenzo Rithelly Carvalho Franca - Código de Rastreamento Correios: YH034327523BR idPendenciaCorreios109087645432015873960439682idPendenciaCorreios"
-        },
-        {
-          "date": "2026-01-30",
-          "header": "TJGO",
-          "title": "Citação Expedida - E-CARTA PARA WENZO RITHELLY CARVALHO FRANCA (CONTESTAR). PRAZO: 15 DIAS"
         }
       ],
       "partes_adversarias": [

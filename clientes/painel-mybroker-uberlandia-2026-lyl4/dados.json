@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:39:30-03:00",
-    "gerado_em_humano": "29/05/2026 15:39",
+    "gerado_em": "2026-05-30T09:17:48-03:00",
+    "gerado_em_humano": "30/05/2026 09:17",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -353,10 +353,10 @@
       "process_number": "5552668-27.2023.8.09.0047",
       "protocol_number": null,
       "folder": "1497",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
-      "type": "PROCEDIMENTO COMUM CIVEL",
-      "group": "PRIVADO",
+      "type": "AÇÃO DE RESCISÃO CONTRATUAL",
+      "group": "IMOBILIÁRIO",
       "status_closure": "2024-07-05 00:00:00",
       "created_at": "2024-07-05 00:00:00",
       "process_date": "2023-08-23",
@@ -415,7 +415,19 @@
       ],
       "partes_adversarias": [
         {
+          "name": "VALERIANO RODRIGUES ENGENHARIA LTDA"
+        },
+        {
+          "name": "FR URB GOIANAPOLIS EMPREENDIMENTOS IMOBILIARIOS"
+        },
+        {
           "name": "GIOVANA COZZOLINO CARRARA"
+        },
+        {
+          "name": "RESERVA 153 EMPREENDIMENTOS IMOBILIARIOS SPE LTDA"
+        },
+        {
+          "name": "SERGIO AKIRA OGAU"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -582,6 +594,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-26",
+          "header": "TJMG",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJMG",
           "title": "Juntada de Petição de petição"
@@ -609,12 +626,12 @@
         {
           "date": "2026-03-20",
           "header": "TJMG",
-          "title": "Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"
+          "title": "Juntada de Petição de petição"
         },
         {
           "date": "2026-03-20",
           "header": "TJMG",
-          "title": "Juntada de Petição de petição"
+          "title": "Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"
         },
         {
           "date": "2026-03-10",
@@ -625,11 +642,6 @@
           "date": "2026-02-10",
           "header": "TJMG",
           "title": "Juntada de Petição de petição"
-        },
-        {
-          "date": "2026-02-06",
-          "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 05/02/2026"
         }
       ],
       "partes_adversarias": [
@@ -648,15 +660,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 11,
+    "total": 12,
     "categorias": {
       "Peças": 2,
       "Audiências": 1,
       "Comunicações": 3,
-      "Acompanhamento": 3,
+      "Acompanhamento": 4,
       "Diligências": 2,
       "Outras": 0
     },
-    "ultima_data": "2026-05-22"
+    "ultima_data": "2026-05-29"
   }
 }

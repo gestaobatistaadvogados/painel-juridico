@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:32:10-03:00",
-    "gerado_em_humano": "29/05/2026 15:32",
+    "gerado_em": "2026-05-30T09:10:26-03:00",
+    "gerado_em_humano": "30/05/2026 09:10",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -2527,6 +2527,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -2534,12 +2539,12 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bruna Cardoso Braga - Polo Ativo (Referente à Mov. Juntada -> Petição - 13/05/2026 20:14:49)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bruna Cardoso Braga (Referente à Mov. Juntada -> Petição (13/05/2026 20:14:49))"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bruna Cardoso Braga (Referente à Mov. Juntada -> Petição (13/05/2026 20:14:49))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bruna Cardoso Braga - Polo Ativo (Referente à Mov. Juntada -> Petição - 13/05/2026 20:14:49)"
         },
         {
           "date": "2026-05-13",
@@ -2570,11 +2575,6 @@
           "date": "2025-11-27",
           "header": "TJGO",
           "title": "Juntada de Documento - Consulta de depósitos judiciais no Banco do Brasil - sem saldo"
-        },
-        {
-          "date": "2025-11-24",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bruna Cardoso Braga (Referente à Mov. Decisão -> Outras Decisões (24/11/2025 13:53:46))"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T16:10:40-03:00",
-    "gerado_em_humano": "29/05/2026 16:10",
+    "gerado_em": "2026-05-30T09:49:09-03:00",
+    "gerado_em_humano": "30/05/2026 09:49",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -8373,9 +8373,14 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Guapó - Promotoria das Fazendas Públicas (Referente Ã Mov. Certidão Expedida - 06/05/2026 13:32:08)"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Aparecida Souza Da Silva Santos (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
         },
         {
           "date": "2026-05-06",
@@ -8405,7 +8410,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Aparecida Souza Da Silva Santos (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
         },
         {
           "date": "2026-04-01",
@@ -8416,11 +8421,6 @@
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para PROCURADORIA JURÍDICA DO MUNICÍPIO DE ARAGOIÂNIA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (03/03/2026 17:14:45))"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (03/03/2026 17:14:45))"
         }
       ],
       "partes_adversarias": [
@@ -9272,7 +9272,58 @@
       "created_at": "2026-05-27 11:53:53",
       "process_date": "2026-05-27",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de remessa dos autos ao STJ"
+        },
+        {
+          "date": "2026-01-29",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
+          "date": "2026-01-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão (Preparo dos autos para remessa aos Tribunais Superiores)"
+        },
+        {
+          "date": "2025-09-29",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
+          "date": "2025-09-17",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Aragoiania em 10/09/2025 23:59:59 (Referente à Mov. Intimação Expedida (28/07/2025 18:57:05))"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (28/07/2025 18:57:05))"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - CERTIDÃO DE INTIMAÇÃO PARA CONTRAMINUTA"
+        },
+        {
+          "date": "2025-07-28",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
+        },
+        {
+          "date": "2025-07-25",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Agravo em recurso especial"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CONSTRUTORA CANADA LTDA EM RECUPERACAO JUDICIAL"

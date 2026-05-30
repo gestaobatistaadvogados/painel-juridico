@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:39:58-03:00",
-    "gerado_em_humano": "29/05/2026 15:39",
+    "gerado_em": "2026-05-30T09:18:17-03:00",
+    "gerado_em_humano": "30/05/2026 09:18",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,31 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Gracino Jose Mariano Junior em 27/05/2026 23:59:59 (Referente Ã Mov. Certidão Expedida (18/05/2026 10:55:55))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - UPJ - CERTIDÃO -REQUERER/MANIFESTAR EM 05 DIAS"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imoveis Aparecida Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Certidão Expedida (29/05/2026 12:35:33))"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Certidão Expedida (18/05/2026 10:55:55))"
@@ -36,11 +61,6 @@
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Certidão Expedida - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior - Polo Passivo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-14",
@@ -56,26 +76,6 @@
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Decisão -> Deferimento em Parte -"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imoveis Aparecida Ltda (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Decisão -> Deferimento em Parte"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gracino Jose Mariano Junior (Referente à Mov. Decisão -> Deferimento em Parte (CNJ:15086) - )"
         }
       ],
       "partes_adversarias": [

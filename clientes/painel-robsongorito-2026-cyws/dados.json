@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:28:33-03:00",
-    "gerado_em_humano": "29/05/2026 15:28",
+    "gerado_em": "2026-05-30T09:06:47-03:00",
+    "gerado_em_humano": "30/05/2026 09:06",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -2619,54 +2619,54 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência realizada (28/05/2026 09:20 CEJUSC - INICIAIS 05 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Juntada a petição de Contestação"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Juntada a petição de Solicitação de Habilitação"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Audiência inicial por videoconferência designada (28/05/2026 09:20 CEJUSC - INICIAIS 05 - CEJUSC GOIÂNIA)"
+        },
+        {
           "date": "2026-05-27",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
         },
         {
-          "date": "2026-05-18",
+          "date": "2026-05-27",
           "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 04/05/2026"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 30/04/2026"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) FABRICIO MELO FRANCO E BRITO"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) ADAILTO ANTONIO LEITE"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) BRESSED PARTICIPACOES EIRELI"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (28/05/2026 09:20 CEJUSC (INICIAIS ORD e SUM) - 5ª VARA DO TRABALHO DE GOIÂNIA)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) JOAO CLAUDIO FERREIRA MIRANDA"
+          "title": "Juntada a petição de Contestação"
         }
       ],
       "partes_adversarias": [
@@ -3152,9 +3152,9 @@
     }
   ],
   "atividade_90d": {
-    "total": 63,
+    "total": 62,
     "categorias": {
-      "Peças": 6,
+      "Peças": 5,
       "Audiências": 7,
       "Comunicações": 12,
       "Acompanhamento": 25,

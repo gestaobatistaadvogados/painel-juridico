@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-29T15:41:14-03:00",
-    "gerado_em_humano": "29/05/2026 15:41",
+    "gerado_em": "2026-05-30T09:19:33-03:00",
+    "gerado_em_humano": "30/05/2026 09:19",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
         {
           "date": "2026-05-19",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Juntada de Documento - Resultado da busca de endereço"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Certidão CENOPES"
         }
       ],
       "partes_adversarias": [
