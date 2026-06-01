@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:45:24-03:00",
-    "gerado_em_humano": "31/05/2026 09:45",
+    "gerado_em": "2026-06-01T18:44:44-03:00",
+    "gerado_em_humano": "01/06/2026 18:44",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -2055,6 +2055,16 @@
       "process_date": "2026-02-03",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado - Processo precatório arquivado para continuidade no PROAD"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de arquivamento do precatório"
+        },
         {
           "date": "2026-02-03",
           "header": "TJGO",

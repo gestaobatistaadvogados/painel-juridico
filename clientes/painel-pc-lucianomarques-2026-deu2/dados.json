@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T10:11:13-03:00",
-    "gerado_em_humano": "31/05/2026 10:11",
+    "gerado_em": "2026-06-01T19:10:47-03:00",
+    "gerado_em_humano": "01/06/2026 19:10",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,9 +28,34 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CAC dos acudos"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Recurso Distribuído - 2ª Câmara Criminal (Normal) - Distribuído para: LÍLIA MÔNICA DE CASTRO BORGES ESCHER"
+        },
+        {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Juntada -> Petição"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Leitura da denúncia aos acusados"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
+          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogatório Ana Lídia, Luciano Marques e Renato José"
         },
         {
           "date": "2026-05-20",
@@ -43,21 +68,6 @@
           "title": "Despacho -> Mero Expediente"
         },
         {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogatório Ana Lídia, Luciano Marques e Renato José"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Leitura da denúncia aos acusados"
-        },
-        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Ativo) RAFAEL SIMONETTI BUENO DA SILVA (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
@@ -66,16 +76,6 @@
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Desabilitação de Responsável - Promotor Responsável Desabilitado: Tiago Santana Gonçalves"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (07/05/2026 17:59:29))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida"
         }
       ],
       "partes_adversarias": [

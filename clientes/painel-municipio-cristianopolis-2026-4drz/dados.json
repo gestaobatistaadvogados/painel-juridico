@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:46:01-03:00",
-    "gerado_em_humano": "31/05/2026 09:46",
+    "gerado_em": "2026-06-01T18:45:21-03:00",
+    "gerado_em_humano": "01/06/2026 18:45",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -101,6 +101,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - SEMAD - demanda em andamento"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente Ã Mov. Juntada de Documento - 28/05/2026 12:20:45)"
+        },
+        {
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Juntada de Documento - SEMAD - demanda em andamento"
@@ -123,6 +133,11 @@
         {
           "date": "2026-01-21",
           "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Decisão -> deferimento (16/12/2025 13:13:07))"
+        },
+        {
+          "date": "2026-01-21",
+          "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Despacho -> Mero Expediente (18/12/2025 16:24:34))"
         },
         {
@@ -133,22 +148,7 @@
         {
           "date": "2026-01-21",
           "header": "TJGO",
-          "title": "Ofício Efetivado - (Referente à Mov. Despacho -> Mero Expediente (10/10/2025 16:27:49))"
-        },
-        {
-          "date": "2026-01-21",
-          "header": "TJGO",
           "title": "Ofício(s) Expedido(s) -"
-        },
-        {
-          "date": "2026-01-21",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Decisão -> deferimento (16/12/2025 13:13:07))"
-        },
-        {
-          "date": "2026-01-19",
-          "header": "TJGO",
-          "title": "Movimentação Bloqueada -"
         }
       ],
       "partes_adversarias": [

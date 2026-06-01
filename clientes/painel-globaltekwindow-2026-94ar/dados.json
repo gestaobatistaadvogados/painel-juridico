@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:42:16-03:00",
-    "gerado_em_humano": "31/05/2026 09:42",
+    "gerado_em": "2026-06-01T18:41:33-03:00",
+    "gerado_em_humano": "01/06/2026 18:41",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -18,21 +18,72 @@
       "process_number": "5709837-94.2025.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "ARQUIVADO/ENCERRADO",
-      "step": "ARQUIVAMENTO",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "OBRIGAÇÃO DE FAZER",
       "group": "PRIVADO",
       "status_closure": null,
       "created_at": "2026-02-09 15:22:13",
       "process_date": null,
       "responsible": "FELLIPE LOPES",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - Certidão - trânsito em julgado 1º sentença - ato arquivo"
+        },
+        {
+          "date": "2026-03-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-02-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Ausência de triangularização - Marcel Simões"
+        },
+        {
+          "date": "2026-02-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (04/02/2026 15:20:12))"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Globaltek Window Films Brasil (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (CNJ:459) - )"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
+        },
+        {
+          "date": "2026-02-04",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Globaltek Window Films Brasil (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (04/02/2026 15:20:12))"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "MARCEL SIMOES PINTO E AMARAL"
         }
       ],
-      "fase_grupo": "arquivados",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -40,8 +91,8 @@
       "process_number": "0816950-73.2024.8.19.0206",
       "protocol_number": null,
       "folder": "2213",
-      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
-      "step": "ARQUIVAMENTO",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "PROCEDIMENTO DO JUIZADO ESPECIAL",
       "group": "CÍVEL",
       "status_closure": "2025-03-06 00:00:00",
@@ -132,12 +183,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 5,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 3
     },

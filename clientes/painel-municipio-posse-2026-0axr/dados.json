@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:58:31-03:00",
-    "gerado_em_humano": "31/05/2026 09:58",
+    "gerado_em": "2026-06-01T18:57:59-03:00",
+    "gerado_em_humano": "01/06/2026 18:57",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -408,6 +408,21 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 25/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
@@ -430,12 +445,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-06",
@@ -445,17 +455,7 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Certidão Expedida - expedição de documento"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Requisição de Pequeno Valor Expedida"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lucia Muniz Da Rocha (Referente à Mov. Ato Ordinatório (06/05/2026 04:41:47))"
         }
       ],
       "partes_adversarias": [
@@ -642,6 +642,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Prazo Decorrido"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE POSSE em 25/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (08/05/2026 03:59:51))"
@@ -685,11 +690,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Certidão Expedida - expedição de documento"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Requisição de Pequeno Valor Expedida -"
         }
       ],
       "partes_adversarias": [
@@ -3655,6 +3655,6 @@
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-05-29"
+    "ultima_data": "2026-06-01"
   }
 }

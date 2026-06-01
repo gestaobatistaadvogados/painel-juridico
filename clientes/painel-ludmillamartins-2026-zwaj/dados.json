@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:42:01-03:00",
-    "gerado_em_humano": "31/05/2026 09:42",
+    "gerado_em": "2026-06-01T18:41:18-03:00",
+    "gerado_em_humano": "01/06/2026 18:41",
     "slug_url": "painel-ludmillamartins-2026-zwaj",
     "departamento": "direito_privado"
   },
@@ -27,6 +27,16 @@
       "process_date": null,
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-29",
+          "header": "TJDFT",
+          "title": "Publicado Ementa em 28/05/2026."
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJDFT",
+          "title": "Disponibilizado no DJ Eletrônico em 27/05/2026"
+        },
         {
           "date": "2026-05-21",
           "header": "TJDFT",
@@ -66,16 +76,6 @@
           "date": "2026-02-24",
           "header": "TJDFT",
           "title": "Disponibilizado no DJ Eletrônico em 23/02/2026"
-        },
-        {
-          "date": "2026-02-20",
-          "header": "TJDFT",
-          "title": "Recebidos os autos"
-        },
-        {
-          "date": "2026-02-19",
-          "header": "TJDFT",
-          "title": "Conclusos para decisão - Magistrado(a) MARIA LEONOR LEIKO AGUENA"
         }
       ],
       "partes_adversarias": [
@@ -104,6 +104,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJDFT",
           "title": "Conclusos para julgamento para Juiz(a) RENATO CASTRO TEIXEIRA MARTINS"
@@ -111,12 +116,12 @@
         {
           "date": "2026-04-24",
           "header": "TJDFT",
-          "title": "Recebidos os autos"
+          "title": "Proferido despacho de mero expediente"
         },
         {
           "date": "2026-04-24",
           "header": "TJDFT",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Recebidos os autos"
         },
         {
           "date": "2026-04-22",
@@ -147,11 +152,6 @@
           "date": "2026-03-23",
           "header": "TJDFT",
           "title": "Juntada de Petição de contestação"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJDFT",
-          "title": "Mandado devolvido entregue ao destinatário"
         }
       ],
       "partes_adversarias": [
@@ -167,15 +167,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 1,
       "Outras": 0
     },
-    "ultima_data": "2026-05-29"
+    "ultima_data": "2026-06-01"
   }
 }

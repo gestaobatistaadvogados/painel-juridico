@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:38:00-03:00",
-    "gerado_em_humano": "31/05/2026 09:38",
+    "gerado_em": "2026-06-01T18:37:15-03:00",
+    "gerado_em_humano": "01/06/2026 18:37",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -101,6 +101,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Juntada -> Petição - CONTRARRAZÕES AO AGRAVO INTERNO"
@@ -108,12 +113,12 @@
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
+          "title": "Juntada -> Petição -> Contrarrazões"
         },
         {
           "date": "2026-05-11",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões"
+          "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
           "date": "2026-05-08",
@@ -123,7 +128,12 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EBGIL (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Proenca Santos (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 17:53:49))"
         },
         {
           "date": "2026-04-14",
@@ -134,16 +144,6 @@
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Spe 131 Brasil Incorporacao Ltda. (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 17:53:49))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 17:53:49)"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Retirado de Pauta - (Sessão do dia 28/04/2026 09:00)"
         },
         {
           "date": "2026-04-14",

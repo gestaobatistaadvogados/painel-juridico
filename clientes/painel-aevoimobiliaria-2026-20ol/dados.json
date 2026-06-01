@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T09:41:15-03:00",
-    "gerado_em_humano": "31/05/2026 09:41",
+    "gerado_em": "2026-06-01T18:40:31-03:00",
+    "gerado_em_humano": "01/06/2026 18:40",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -119,14 +119,29 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Documento Expedido - Termo"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Certidão Expedida - INTIMAÇÃO DA EXECUTADA P/OPOR EMBARGOS À EXECUÇÃO/IMPUGNAR PENHORA. 15 DIAS"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Thaize Pereira Da Silva (Referente Ã Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Documento Cumprido - Termo - (Referente à Mov. Juntada de Documento (26/05/2026 16:38:50))"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Juntada de Documento - Devolução Central SISBAJUD - 5169118-93.2026.8.09.0051."
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Carlos Anderson Oliveira Silva em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         },
         {
           "date": "2026-05-15",
@@ -144,29 +159,14 @@
           "title": "Decorrido Prazo - para Manoel Lessa Mota em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         },
         {
+          "date": "2026-05-15",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Carlos Anderson Oliveira Silva em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Thaize Pereira Da Silva - Polo Passivo (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo - 29/04/2026 15:37:11)"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (CNJ:12303) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (CNJ:12303) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (CNJ:12303) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Decisão -> Nomeação -> Defensor Dativo"
         }
       ],
       "partes_adversarias": [
@@ -544,14 +544,19 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Certidão Expedida - UPJ - CERTIDÃO - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução Central SISBAJUD - Penhora Parcial com Transferência"
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CENTRAL RENAJUD"
         },
         {
           "date": "2026-04-23",
@@ -569,6 +574,11 @@
           "title": "Certidão Expedida - Certidão CENOPES"
         },
         {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CENTRAL RENAJUD"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Rodrigo Vinicius Goncalez em 15/04/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (19/03/2026 15:08:15))"
@@ -582,16 +592,6 @@
           "date": "2026-03-28",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) Rodrigo Vinicius Goncalez - Código de Rastreamento Correios: YH102112206BR idPendenciaCorreios109587655432015873960900648idPendenciaCorreios"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Citação Expedida - e-Carta - Rodrigo Vinicius Goncalez"
-        },
-        {
-          "date": "2026-03-24",
-          "header": "TJGO",
-          "title": "Certidão Expedida - E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         }
       ],
       "partes_adversarias": [
@@ -1065,15 +1065,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 9,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 3,
-      "Diligências": 0,
-      "Outras": 2
+      "Acompanhamento": 4,
+      "Diligências": 1,
+      "Outras": 3
     },
-    "ultima_data": "2026-05-29"
+    "ultima_data": "2026-06-01"
   }
 }

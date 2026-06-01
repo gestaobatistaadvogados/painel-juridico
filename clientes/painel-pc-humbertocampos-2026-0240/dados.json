@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-05-31T10:12:27-03:00",
-    "gerado_em_humano": "31/05/2026 10:12",
+    "gerado_em": "2026-06-01T19:12:01-03:00",
+    "gerado_em_humano": "01/06/2026 19:12",
     "slug_url": "painel-pc-humbertocampos-2026-0240",
     "departamento": "direito_criminal"
   },
@@ -180,6 +180,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por José Carlos Miranda Nery Júnior (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção (25/05/2026 15:13:32))"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Humberto De Oliveira Campos - Polo Ativo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção - 25/05/2026 15:13:32)"
@@ -223,11 +228,6 @@
           "date": "2026-02-13",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-02-13",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
         }
       ],
       "partes_adversarias": [
