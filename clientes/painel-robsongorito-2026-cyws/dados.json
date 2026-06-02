@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-01T18:24:42-03:00",
-    "gerado_em_humano": "01/06/2026 18:24",
+    "gerado_em": "2026-06-02T17:06:06-03:00",
+    "gerado_em_humano": "02/06/2026 17:06",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -2907,54 +2907,54 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-05-29",
           "header": "TRT18",
-          "title": "Ata da Audiência"
+          "title": "Publicado(a) o(a) intimação em 01/06/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-29",
           "header": "TRT18",
-          "title": "Juntada a petição de Impugnação"
+          "title": "Publicado(a) o(a) intimação em 01/06/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-29",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência cancelada (19/05/2026 08:20 CEJUSC - 11ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 29/05/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-29",
           "header": "TRT18",
-          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 29/05/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência realizada (19/05/2026 08:20 CEJUSC - INICIAIS 11 - CEJUSC GOIÂNIA)"
+          "title": "Conclusos os autos para despacho (genérica) a NARAYANA TEIXEIRA HANNAS"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) AMANDA TELES CARDOSO"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Despacho"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Proferido despacho de mero expediente"
         },
         {
           "date": "2026-05-19",
           "header": "TRT18",
           "title": "Juntada a petição de Manifestação"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT18",
-          "title": "Audiência inicial por videoconferência designada (19/05/2026 08:20 CEJUSC - INICIAIS 11 - CEJUSC GOIÂNIA)"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Juntada a petição de Contestação"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Juntada a petição de Solicitação de Habilitação"
         }
       ],
       "partes_adversarias": [
@@ -3152,15 +3152,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 52,
+    "total": 50,
     "categorias": {
-      "Peças": 5,
+      "Peças": 3,
       "Audiências": 6,
       "Comunicações": 9,
       "Acompanhamento": 20,
       "Diligências": 3,
       "Outras": 9
     },
-    "ultima_data": "2026-06-01"
+    "ultima_data": "2026-06-02"
   }
 }

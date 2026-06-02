@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-01T19:09:44-03:00",
-    "gerado_em_humano": "01/06/2026 19:09",
+    "gerado_em": "2026-06-02T17:51:47-03:00",
+    "gerado_em_humano": "02/06/2026 17:51",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -5316,15 +5316,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 31,
+    "total": 34,
     "categorias": {
-      "Peças": 11,
+      "Peças": 12,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 14,
+      "Acompanhamento": 15,
       "Diligências": 1,
-      "Outras": 5
+      "Outras": 6
     },
-    "ultima_data": "2026-06-01"
+    "ultima_data": "2026-06-02"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-01T18:39:59-03:00",
-    "gerado_em_humano": "01/06/2026 18:39",
+    "gerado_em": "2026-06-02T17:21:38-03:00",
+    "gerado_em_humano": "02/06/2026 17:21",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -500,7 +500,18 @@
       "created_at": "2026-05-28 12:10:35",
       "process_date": "2026-05-28",
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-28",
+          "header": "TJDFT",
+          "title": "Audiência de conciliação   designada conduzida por #Não preenchido# em/para 20/07/2026 13:00,  Centro Judiciário de Solução de Conflitos e de Cidadania Virtual 1."
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJDFT",
+          "title": "Distribuído por sorteio"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CARLOS ANDERSON OLIVEIRA SILVA"
@@ -543,7 +554,28 @@
       "created_at": "2026-05-28 13:24:52",
       "process_date": "2026-05-28",
       "responsible": "LEONARDO VASCONCELOS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Processo Distribuído - Aparecida de Goiânia - UPJ Juizados Especiais Cíveis: 1º, 2º e 3º (Normal) - Distribuído para: Vanessa Rios Seabra"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Peticão Enviada"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "CARLOS ANDERSON OLIVEIRA SILVA"

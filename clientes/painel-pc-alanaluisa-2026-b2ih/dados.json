@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-01T19:10:06-03:00",
-    "gerado_em_humano": "01/06/2026 19:10",
+    "gerado_em": "2026-06-02T17:52:09-03:00",
+    "gerado_em_humano": "02/06/2026 17:52",
     "slug_url": "painel-pc-alanaluisa-2026-b2ih",
     "departamento": "direito_criminal"
   },
@@ -81,15 +81,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-01"
+    "ultima_data": "2026-06-02"
   }
 }

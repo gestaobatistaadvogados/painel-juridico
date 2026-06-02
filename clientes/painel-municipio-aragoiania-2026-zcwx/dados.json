@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-01T19:06:23-03:00",
-    "gerado_em_humano": "01/06/2026 19:06",
+    "gerado_em": "2026-06-02T17:48:24-03:00",
+    "gerado_em_humano": "02/06/2026 17:48",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -4766,6 +4766,31 @@
       "tribunal": "TJGO"
     },
     {
+      "id": 13413997,
+      "process_number": "5553515-89.2025.8.09.0069",
+      "protocol_number": null,
+      "folder": "3533",
+      "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)",
+      "step": "RECURSAL",
+      "type": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": "2025-08-18 00:00:00",
+      "created_at": "2025-08-18 00:00:00",
+      "process_date": "2025-07-14",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "FUNDO DE PREVIDENCIA SOCIAL DE ARAGOIANIA - ARAGOIANIA REPREVSA"
+        },
+        {
+          "name": "MARIA ANTONIA DE SOUSA OLIVEIRA"
+        }
+      ],
+      "fase_grupo": "recursal",
+      "tribunal": "TJGO"
+    },
+    {
       "id": 13413998,
       "process_number": "5555735-60.2025.8.09.0069",
       "protocol_number": null,
@@ -8300,6 +8325,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
           "date": "2025-06-03",
           "header": "TJGO",
           "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
@@ -8312,12 +8342,12 @@
         {
           "date": "2025-05-30",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO DE NÃO APRESENTAÇÃO DE CONTRAMINUTA AO ARE"
+          "title": "Movimentação Bloqueada"
         },
         {
           "date": "2025-05-30",
           "header": "TJGO",
-          "title": "Movimentação Bloqueada"
+          "title": "Certidão Expedida - CERTIDÃO DE NÃO APRESENTAÇÃO DE CONTRAMINUTA AO ARE"
         },
         {
           "date": "2025-05-04",
@@ -8332,22 +8362,17 @@
         {
           "date": "2025-03-28",
           "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso Agravo ao Stf)"
+        },
+        {
+          "date": "2025-03-28",
+          "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de SECRETÁRIO DE FINANÇAS DO MUNICÍPIO DE ARAGOIÂNIA (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
         },
         {
           "date": "2025-03-28",
           "header": "TJGO",
-          "title": "Intimação Expedida - Certidão de Intimação para Contraminutar Agravos p/STJ e STF"
-        },
-        {
-          "date": "2025-03-28",
-          "header": "TJGO",
           "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
-        },
-        {
-          "date": "2025-03-28",
-          "header": "TJGO",
-          "title": "Recurso Inserido - (Recurso Agravo ao Stf)"
         }
       ],
       "partes_adversarias": [
@@ -9353,18 +9378,40 @@
       ],
       "fase_grupo": "recursal",
       "tribunal": "—"
+    },
+    {
+      "id": 15393114,
+      "process_number": "5451875-19.2020.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "INDENIZATÓRIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-02 16:01:01",
+      "process_date": "2026-06-02",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "REGINA MARIA DO CARMO RODRIGUES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 32,
+    "total": 28,
     "categorias": {
       "Peças": 5,
-      "Audiências": 1,
+      "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 20,
+      "Acompanhamento": 17,
       "Diligências": 1,
       "Outras": 5
     },
-    "ultima_data": "2026-06-01"
+    "ultima_data": "2026-06-02"
   }
 }
