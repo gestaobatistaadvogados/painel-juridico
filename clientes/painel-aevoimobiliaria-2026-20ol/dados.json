@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-02T17:22:15-03:00",
-    "gerado_em_humano": "02/06/2026 17:22",
+    "gerado_em": "2026-06-03T17:52:34-03:00",
+    "gerado_em_humano": "03/06/2026 17:52",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -1094,7 +1094,58 @@
       "created_at": "2026-06-02 16:57:59",
       "process_date": null,
       "responsible": "LEONARDO VASCONCELOS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
+        }
+      ],
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
@@ -1110,6 +1161,6 @@
       "Diligências": 1,
       "Outras": 3
     },
-    "ultima_data": "2026-06-02"
+    "ultima_data": "2026-06-03"
   }
 }

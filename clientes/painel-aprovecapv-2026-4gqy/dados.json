@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-02T17:13:20-03:00",
-    "gerado_em_humano": "02/06/2026 17:13",
+    "gerado_em": "2026-06-03T17:43:25-03:00",
+    "gerado_em_humano": "03/06/2026 17:43",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -6011,6 +6011,11 @@
           "title": "Citação Efetivada - Para AAAPVEBMA (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
         },
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação - IMPUGNAÇÃO À CONTESTAÇÃO"
@@ -6023,17 +6028,17 @@
         {
           "date": "2026-05-18",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO - )"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (18/05/2026 14:00:07))"
         },
         {
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Audiência de Conciliação - Realizada sem Acordo - 18/05/2026 13:30"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO - )"
         },
         {
           "date": "2026-05-14",
@@ -6048,12 +6053,7 @@
         {
           "date": "2026-04-17",
           "header": "TJGO",
-          "title": "Certidão Expedida - LINK DA CONCILIAÇÃO"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
         }
       ],
       "partes_adversarias": [
@@ -6078,6 +6078,11 @@
       "process_date": "2026-05-06",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Intimação Via Whatsapp - Autor(a) - 1ª UPJ"
+        },
         {
           "date": "2026-05-27",
           "header": "TJGO",
@@ -6122,11 +6127,6 @@
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Contestação"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) BIPVAL - Código de Rastreamento Correios: YH166132849BR idPendenciaCorreios109187645432015873960332789idPendenciaCorreios"
         }
       ],
       "partes_adversarias": [
@@ -6346,15 +6346,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 47,
+    "total": 43,
     "categorias": {
-      "Peças": 11,
-      "Audiências": 4,
+      "Peças": 7,
+      "Audiências": 3,
       "Comunicações": 3,
-      "Acompanhamento": 19,
+      "Acompanhamento": 21,
       "Diligências": 6,
-      "Outras": 4
+      "Outras": 3
     },
-    "ultima_data": "2026-06-01"
+    "ultima_data": "2026-06-03"
   }
 }

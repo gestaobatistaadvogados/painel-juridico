@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-02T17:09:43-03:00",
-    "gerado_em_humano": "02/06/2026 17:09",
+    "gerado_em": "2026-06-03T17:39:43-03:00",
+    "gerado_em_humano": "03/06/2026 17:39",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -3787,6 +3787,24 @@
           "name": "BRUNO DE SÁ JESUS BOTELHO"
         }
       ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 15438480,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-03 15:00:19",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
     }

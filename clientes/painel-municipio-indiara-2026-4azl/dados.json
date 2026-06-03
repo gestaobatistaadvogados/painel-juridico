@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-02T17:33:41-03:00",
-    "gerado_em_humano": "02/06/2026 17:33",
+    "gerado_em": "2026-06-03T18:04:16-03:00",
+    "gerado_em_humano": "03/06/2026 18:04",
     "slug_url": "painel-municipio-indiara-2026-4azl",
     "departamento": "direito_publico"
   },
@@ -3194,6 +3194,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Ato Ordinatório (21/05/2026 12:29:39))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (21/05/2026 12:25:27))"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Indiara (Referente à Mov. Decisão -> Outras Decisões (19/05/2026 19:52:14))"
@@ -3216,17 +3226,7 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Audiência de Conciliação CEJUSC Artigo 334 CPC - (Agendada para 16/07/2026 13:00)"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (21/05/2026 12:25:27))"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. Ato Ordinatório (21/05/2026 12:29:39))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO CEJUSC Artigo 334 MARCADA)"
         },
         {
           "date": "2026-05-21",
@@ -3236,12 +3236,12 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO CEJUSC Artigo 334 MARCADA)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. Ato Ordinatório (21/05/2026 12:29:39))"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Ato Ordinatório - LINK DA AUDIÊNCIA - ZOOM"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Querlismar Alves Da Silva (Referente à Mov. Audiência de Conciliação CEJUSC Artigo 334 CPC (21/05/2026 12:25:27))"
         }
       ],
       "partes_adversarias": [
@@ -5679,6 +5679,31 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Jesus Novais (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente Ã Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Osvaldo Jesus Novais (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 17:02:14))"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Indiara em 12/05/2026 23:59:59 (Referente à Mov. Juntada -> Petição (15/04/2026 21:52:36))"
+        },
+        {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -5687,11 +5712,6 @@
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Certidão Expedida - Autos conclusos."
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Indiara em 12/05/2026 23:59:59 (Referente à Mov. Juntada -> Petição (15/04/2026 21:52:36))"
         },
         {
           "date": "2026-05-08",
@@ -5707,26 +5727,6 @@
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Indiara (Referente à Mov. Juntada -> Petição (15/04/2026 21:52:36))"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara - Polo Ativo (Referente à Mov. Juntada -> Petição - 15/04/2026 21:52:36)"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - Intimação - Juntar procuração"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Jesus Novais - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Osvaldo Jesus Novais (Referente à Mov. Ato Ordinatório (16/04/2026 13:34:11))"
         }
       ],
       "partes_adversarias": [
@@ -6548,9 +6548,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+          "title": "Decorrido Prazo - para Carlos Henrique Teodoro Dos Santos em 29/05/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (06/05/2026 12:38:26))"
+        },
+        {
+          "date": "2026-05-30",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Resposta"
         },
         {
           "date": "2026-05-29",
@@ -6566,6 +6571,11 @@
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Henrique Teodoro Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Indiara (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         },
         {
           "date": "2026-05-14",
@@ -6586,16 +6596,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Indiara em 06/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (31/03/2026 21:17:15))"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Diligencia Requerida"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Henrique Teodoro Dos Santos (Referente à Mov. Ato Ordinatório (06/05/2026 12:38:26))"
         }
       ],
       "partes_adversarias": [
@@ -9832,15 +9832,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 58,
+    "total": 56,
     "categorias": {
-      "Peças": 5,
+      "Peças": 4,
       "Audiências": 6,
       "Comunicações": 8,
       "Acompanhamento": 26,
       "Diligências": 6,
-      "Outras": 7
+      "Outras": 6
     },
-    "ultima_data": "2026-06-02"
+    "ultima_data": "2026-06-03"
   }
 }
