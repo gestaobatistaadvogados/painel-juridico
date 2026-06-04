@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T18:19:21-03:00",
-    "gerado_em_humano": "03/06/2026 18:19",
+    "gerado_em": "2026-06-04T15:49:20-03:00",
+    "gerado_em_humano": "04/06/2026 15:49",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -687,6 +687,16 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNCIPIO DE ARAGOIANIA (Referente à Mov. Juntada de Petição (21/05/2026 15:22:05))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)LUIZ ANTONIO RODRIGUES (Referente à Mov. Juntada de Petição (21/05/2026 15:22:05))"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)MUNCIPIO DE ARAGOIANIA (Referente à Mov. Certidão Expedida (18/05/2026 12:46:56))"
@@ -699,7 +709,7 @@
         {
           "date": "2026-05-26",
           "header": "TJGO",
-          "title": "Expedição de Documento - CARTA DE INTIMAÇÃO EXECUTADO - REF. EV. 198"
+          "title": "Intimação Expedida - On-line para Adv(s). de LUIZ ANTONIO RODRIGUES - Polo Passivo (Referente à Mov. Juntada -> Petição - 25/05/2026 15:43:37)"
         },
         {
           "date": "2026-05-26",
@@ -709,7 +719,7 @@
         {
           "date": "2026-05-26",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de LUIZ ANTONIO RODRIGUES - Polo Passivo (Referente à Mov. Juntada -> Petição - 25/05/2026 15:43:37)"
+          "title": "Expedição de Documento - CARTA DE INTIMAÇÃO EXECUTADO - REF. EV. 198"
         },
         {
           "date": "2026-05-25",
@@ -725,16 +735,6 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Expedição de Documento - CARTA INTIMAÇÃO - REF. EV. 193"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Juntada de Petição - EDITAL DE LEILÃO E INTIMAÇÃO"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNCIPIO DE ARAGOIANIA - Polo Ativo (Referente à Mov. Juntada de Petição - 21/05/2026 15:22:05)"
         }
       ],
       "partes_adversarias": [],
@@ -4561,14 +4561,19 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celia Maria Alves Pereira (Referente à Mov. Juntada -> Petição (22/05/2026 21:41:12))"
+          "title": "Juntada -> Petição - Requer-se expedição de RPV complementar"
         },
         {
           "date": "2026-05-24",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Celia Maria Alves Pereira - Polo Ativo (Referente à Mov. Juntada -> Petição - 22/05/2026 21:41:12)"
+        },
+        {
+          "date": "2026-05-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celia Maria Alves Pereira (Referente à Mov. Juntada -> Petição (22/05/2026 21:41:12))"
         },
         {
           "date": "2026-05-22",
@@ -4604,11 +4609,6 @@
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões"
         }
       ],
       "partes_adversarias": [

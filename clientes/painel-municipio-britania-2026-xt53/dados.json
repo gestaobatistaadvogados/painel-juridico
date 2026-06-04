@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T18:06:45-03:00",
-    "gerado_em_humano": "03/06/2026 18:06",
+    "gerado_em": "2026-06-04T15:36:38-03:00",
+    "gerado_em_humano": "04/06/2026 15:36",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -2205,6 +2205,46 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Contato com o(a) perito(a)."
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de RCE (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Maria Mendes Galvao (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Agencia Goiana De Infraestrutura E Transportes (Referente Ã Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente Ã Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Maria Mendes Galvao (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (31/05/2026 18:10:39))"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Decisão -> Decisão de Saneamento e Organização"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de RESTAURANTE CENTRAL EIRELI (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (31/05/2026 18:10:39))"
+        },
+        {
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -2212,47 +2252,7 @@
         {
           "date": "2026-03-23",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Britania em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Ana Maria Mendes Galvao em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para RESTAURANTE CENTRAL EIRELI em 20/03/2026 23:59:59 (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
           "title": "Processo Redistribuído - Aruanã - Vara das Fazendas Públicas (Direcionada Magistrado) - Distribuído para: THIAGO BRITO DE FARIAS"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Agencia Goiana De Infraestrutura E Transportes (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
-        },
-        {
-          "date": "2026-03-06",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Declaração -> Incompetência (04/03/2026 11:32:10))"
-        },
-        {
-          "date": "2026-03-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Ciente. Aguarda regular andamento do feito."
-        },
-        {
-          "date": "2026-03-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Maria Mendes Galvao - Polo Ativo (Referente à Mov. Decisão -> Declaração -> Incompetência - 04/03/2026 11:32:10)"
-        },
-        {
-          "date": "2026-03-04",
-          "header": "TJGO",
-          "title": "Decisão -> Declaração -> Incompetência -"
         }
       ],
       "partes_adversarias": [

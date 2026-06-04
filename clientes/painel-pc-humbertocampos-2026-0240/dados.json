@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T18:25:10-03:00",
-    "gerado_em_humano": "03/06/2026 18:25",
+    "gerado_em": "2026-06-04T15:55:15-03:00",
+    "gerado_em_humano": "04/06/2026 15:55",
     "slug_url": "painel-pc-humbertocampos-2026-0240",
     "departamento": "direito_criminal"
   },
@@ -240,15 +240,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 5,
+      "Acompanhamento": 6,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-29"
+    "ultima_data": "2026-06-04"
   }
 }

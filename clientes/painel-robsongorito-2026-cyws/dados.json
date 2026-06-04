@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T17:35:58-03:00",
-    "gerado_em_humano": "03/06/2026 17:35",
+    "gerado_em": "2026-06-04T15:05:38-03:00",
+    "gerado_em_humano": "04/06/2026 15:05",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -119,14 +119,44 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA"
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 01/06/2026"
         },
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) RONAN DE CASTRO CAMPOS"
+          "title": "Publicado(a) o(a) acórdão em 02/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 01/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) acórdão em 02/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 01/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) acórdão em 02/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) acórdão no Diário da Justiça Eletrônico do dia 01/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) acórdão em 02/06/2026"
         },
         {
           "date": "2026-05-29",
@@ -137,36 +167,6 @@
           "date": "2026-05-29",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) HOSPITAL RENAISSANCE LTDA - EM RECUPERACAO JUDICIAL"
-        },
-        {
-          "date": "2026-05-28",
-          "header": "TRT18",
-          "title": "Conhecido em parte o recurso de RONAN DE CASTRO CAMPOS - CPF: NNN.NNN.NNN-NN e não provido"
-        },
-        {
-          "date": "2026-05-28",
-          "header": "TRT18",
-          "title": "Acórdão"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) Pauta de Julgamento em 13/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) Pauta de Julgamento no Diário da Justiça Eletrônico do dia"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Incluído em pauta o processo para 22/05/2026 08:00 22/05/26-VIRTUAL-SALA4/LUCIANO(EMS/MNP/LSC) ()"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TRT18",
-          "title": "Recebidos os autos para incluir em pauta"
         }
       ],
       "partes_adversarias": [
@@ -304,6 +304,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
           "date": "2026-05-26",
           "header": "TRT18",
           "title": "Decorrido o prazo de EDINEUZA TRAJANO DA SILVA em 25/05/2026"
@@ -341,17 +346,12 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) EDINEUZA TRAJANO DA SILVA"
+          "title": "Decorrido o prazo de EDINEUZA TRAJANO DA SILVA em 13/05/2026"
         },
         {
           "date": "2026-05-14",
           "header": "TRT18",
           "title": "Decorrido o prazo de ROBSON GORITO PORTES em 13/05/2026"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de EDINEUZA TRAJANO DA SILVA em 13/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -753,6 +753,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Devolvido o mandado pelo Oficial de Justiça (cumprido com finalidade atingida)"
+        },
+        {
           "date": "2026-05-26",
           "header": "TRT18",
           "title": "Decorrido o prazo de SHIRGINEARA FRANCIELLY ALVES FERREIRA em 25/05/2026"
@@ -796,11 +801,6 @@
           "date": "2026-05-23",
           "header": "TRT18",
           "title": "Decorrido o prazo de RAFAEL HADDAD em 22/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Recebido o mandado pelo Oficial de Justiça para cumprimento"
         }
       ],
       "partes_adversarias": [
@@ -3152,12 +3152,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 51,
+    "total": 48,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 6,
       "Comunicações": 9,
-      "Acompanhamento": 22,
+      "Acompanhamento": 18,
       "Diligências": 4,
       "Outras": 10
     },

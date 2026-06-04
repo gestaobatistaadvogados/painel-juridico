@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T17:43:25-03:00",
-    "gerado_em_humano": "03/06/2026 17:43",
+    "gerado_em": "2026-06-04T15:13:09-03:00",
+    "gerado_em_humano": "04/06/2026 15:13",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -3552,6 +3552,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-05-29",
+          "header": "TJDFT",
+          "title": "Expedição de Intimação de Pauta."
+        },
+        {
           "date": "2026-05-27",
           "header": "TJDFT",
           "title": "Inclusão do processo para julgamento eletrônico de mérito"
@@ -3595,11 +3600,6 @@
           "date": "2026-04-27",
           "header": "TJDFT",
           "title": "Evoluída a classe de RECURSO INOMINADO CÍVEL (460) para EMBARGOS DE DECLARAÇÃO CÍVEL (1689)"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJDFT",
-          "title": "Juntada de Petição de embargos de declaração"
         }
       ],
       "partes_adversarias": [
@@ -4577,6 +4577,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJDFT",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJDFT",
+          "title": "Remetidos os Autos (em grau de recurso) para 2º Grau"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJDFT",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJDFT",
           "title": "Publicado Certidão em 27/05/2026."
@@ -4610,21 +4625,6 @@
           "date": "2026-04-30",
           "header": "TJDFT",
           "title": "Decorrido prazo de FRANCISCO ARISTIDES ARAUJO em 29/04/2026 23:59."
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJDFT",
-          "title": "Publicado Decisão em 28/04/2026."
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJDFT",
-          "title": "Disponibilizado no DJ Eletrônico em 27/04/2026"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJDFT",
-          "title": "Recebidos os autos"
         }
       ],
       "partes_adversarias": [
@@ -5024,14 +5024,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Upcar Reparacao Automotiva Ltda (Referente à Mov. Juntada de Documento (19/05/2026 14:50:47))"
         },
         {
           "date": "2026-05-21",
@@ -5064,14 +5064,14 @@
           "title": "Intimação Efetivada - Via WhatsApp - Perito (a) - Lucas Eduardo de Oliveira Silva"
         },
         {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Upcar Reparacao Automotiva Ltda (Referente à Mov. Juntada de Documento (19/05/2026 14:50:47))"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Juntada de Documento - Manifestação Perito"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Encaminhamento à CIV - Peritos"
         }
       ],
       "partes_adversarias": [

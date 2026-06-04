@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-03T17:52:34-03:00",
-    "gerado_em_humano": "03/06/2026 17:52",
+    "gerado_em": "2026-06-04T15:22:20-03:00",
+    "gerado_em_humano": "04/06/2026 15:22",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -198,14 +198,39 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Movimentação Bloqueada"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Certidão Expedida - INTIMAÇÃO EXECUTADO RENAJUD"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
-          "title": "Certidão Expedida - Encaminhamento ao CENOPES - SNIPER e INFOJUD"
+          "title": "Certidão Expedida - Intimação p/ parte exequente manifestar sobre citação não efetivada - ev. 20"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Encaminhamento ao CENOPES - SNIPER e INFOJUD"
         },
         {
           "date": "2026-05-26",
@@ -221,31 +246,6 @@
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Certidão Expedida (26/05/2026 10:06:53))"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Intimação p/ parte exequente manifestar sobre citação não efetivada - ev. 20"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Leila Cristina Vieira Antunes Silva em 13/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (11/03/2026 15:58:41))"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Via Whatsapp - Maciel Silva"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Certidão Expedida - UPJ - CERTIDÃO - ENCAMINHAMENTO CIV - WHATSAPP"
         }
       ],
       "partes_adversarias": [
