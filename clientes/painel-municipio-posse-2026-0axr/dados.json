@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-04T15:40:30-03:00",
-    "gerado_em_humano": "04/06/2026 15:40",
+    "gerado_em": "2026-06-05T14:44:33-03:00",
+    "gerado_em_humano": "05/06/2026 14:44",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -1899,6 +1899,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Ato Ordinatório (22/05/2026 16:06:32))"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Ato Ordinatório - intimar parte autora"
@@ -1912,11 +1917,6 @@
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
         },
         {
           "date": "2026-04-28",
@@ -1939,14 +1939,14 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Do Carmo Silva Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
         },
         {
-          "date": "2026-02-10",
+          "date": "2026-04-28",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Ferreira Da Luz (Referente à Mov. Despacho -> Mero Expediente - 28/04/2026 16:39:00)"
         },
         {
           "date": "2026-02-10",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 25/11/2025 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (20/10/2025 17:57:54))"
+          "title": "Autos Conclusos -"
         }
       ],
       "partes_adversarias": [

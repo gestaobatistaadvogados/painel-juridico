@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-04T15:22:20-03:00",
-    "gerado_em_humano": "04/06/2026 15:22",
+    "gerado_em": "2026-06-05T14:26:22-03:00",
+    "gerado_em_humano": "05/06/2026 14:26",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -1152,13 +1152,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 13,
+    "total": 11,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 7,
-      "Diligências": 1,
+      "Acompanhamento": 6,
+      "Diligências": 0,
       "Outras": 3
     },
     "ultima_data": "2026-06-03"

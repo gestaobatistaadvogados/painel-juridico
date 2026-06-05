@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-04T15:49:20-03:00",
-    "gerado_em_humano": "04/06/2026 15:49",
+    "gerado_em": "2026-06-05T14:53:19-03:00",
+    "gerado_em_humano": "05/06/2026 14:53",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -8960,6 +8960,26 @@
       "responsible": "SOFIA ROCHA RAMOS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - PARTE RECORRENTE"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente (15/05/2026 11:49:25))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Couto Empreendimentos Ltda (Referente à Mov. Despacho -> Mero Expediente - 15/05/2026 11:49:25)"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Couto Empreendimentos Ltda (Referente à Mov. Despacho -> Mero Expediente (15/05/2026 11:49:25))"
@@ -8970,14 +8990,9 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente - 15/05/2026 11:49:25)"
         },
         {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Couto Empreendimentos Ltda (Referente à Mov. Despacho -> Mero Expediente - 15/05/2026 11:49:25)"
-        },
-        {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Intimar recorrente para comprovar preparo recursal"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Couto Empreendimentos Ltda - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-05-15",
@@ -8987,27 +9002,12 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Couto Empreendimentos Ltda - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Despacho -> Mero Expediente - Intimar recorrente para comprovar preparo recursal"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Certidão Expedida - Ref. ao evento 32 habilitação DR. CAIO IGOR PUREZA DE FARIA REIS"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - RECURSO INOMINADO"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
         }
       ],
       "partes_adversarias": [
@@ -9392,7 +9392,58 @@
       "created_at": "2026-06-02 16:01:01",
       "process_date": "2026-06-02",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Tutela Antecipada Incidental - CUMPRIMENTO DE OBRIGAÇÃO DE FAZER, COM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA"
+        },
+        {
+          "date": "2025-05-19",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-05-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Regina Maria do Carmo Rodrigues - Polo Ativo (Referente à Mov. Juntada de Documento - 16/05/2025 18:47:19)"
+        },
+        {
+          "date": "2025-05-16",
+          "header": "TJGO",
+          "title": "Juntada de Documento - FORMALIZAÇÃO DE PRECATÓRIO - PAGAMENTO 1/2026"
+        },
+        {
+          "date": "2025-05-16",
+          "header": "TJGO",
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Certidão Expedida - ARQUIVADO - AGUARDANDO PAGAMENTO PRECATÓRIO"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Juntada de Documento - PRECATÓRIO GERAL - PROTOCOLO PROAD"
+        },
+        {
+          "date": "2025-02-18",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - FAZENDA PÚBLICA"
+        },
+        {
+          "date": "2025-02-17",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "REGINA MARIA DO CARMO RODRIGUES"
@@ -9408,10 +9459,10 @@
       "Peças": 4,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 23,
+      "Acompanhamento": 22,
       "Diligências": 0,
-      "Outras": 10
+      "Outras": 11
     },
-    "ultima_data": "2026-06-03"
+    "ultima_data": "2026-06-05"
   }
 }
