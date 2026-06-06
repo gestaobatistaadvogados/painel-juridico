@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:13:30-03:00",
-    "gerado_em_humano": "05/06/2026 14:13",
+    "gerado_em": "2026-06-06T09:15:45-03:00",
+    "gerado_em_humano": "06/06/2026 09:15",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -1033,29 +1033,34 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Ato Ordinatório (08/05/2026 12:52:18))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Ato Ordinatório - 08/05/2026 12:52:18)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIARIA LTDA (Referente à Mov. Ato Ordinatório (08/05/2026 12:52:18))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DENER RODRIGUES DE SOUZA - Polo Ativo (Referente à Mov. Ato Ordinatório - 08/05/2026 12:52:18)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Certidão Expedida - citação-ecartas"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Ato Ordinatório - LINK DE AUDIÊNCIA E ORIENTAÇÕES DO ZOOM"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Audiência de Conciliação Cejusc (07/05/2026 19:12:30))"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIARIA LTDA (Referente à Mov. Audiência de Conciliação Cejusc (07/05/2026 19:12:30))"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Audiência de Conciliação Cejusc - (Agendada para 24/06/2026 17:30:00)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO CEJUSC MARCADA)"
         },
         {
           "date": "2026-05-07",
@@ -1073,14 +1078,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de DENER RODRIGUES DE SOUZA (Referente à Mov. Despacho -> Determinação de Citação (03/02/2026 14:40:56))"
         },
         {
-          "date": "2026-02-03",
+          "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação -"
-        },
-        {
-          "date": "2026-02-03",
-          "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MY BROKER IMOBILIARIA LTDA (Referente à Mov. Audiência de Conciliação Cejusc (07/05/2026 19:12:30))"
         }
       ],
       "partes_adversarias": [

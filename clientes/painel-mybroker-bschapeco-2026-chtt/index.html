@@ -968,8 +968,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">05/06/2026 14:22</div>
-            <div><span class="ativos">0</span> processos ativos</div>
+            <div class="data">06/06/2026 09:24</div>
+            <div><span class="ativos">1</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -1050,14 +1050,223 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         
         <div class="grade-areas">
             
-            <div style="grid-column:1/-1; text-align:center; color:var(--cor-texto-suave); padding:2rem;">
-                Nenhum processo cadastrado no momento.
-            </div>
+            <article class="card-area"
+                     data-area-id="administrativo"
+                     role="button" tabindex="0"
+                     onclick="entrarArea('administrativo')"
+                     onkeydown="if(event.key==='Enter'||event.key===' '){event.preventDefault();entrarArea('administrativo');}">
+                <div class="area-icone-circ"><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V10M19 21V10M3 10h18M3 10l9-7 9 7M9 14v4M12 14v4M15 14v4"/></svg></div>
+                <h3>Administrativo</h3>
+                <div class="area-contador">
+                    1 processo
+                </div>
+                <div class="area-tags">
+                    
+                    
+                    
+                    <span class="area-tag ok">✓ sem pendências</span>
+                    
+                </div>
+                <div class="area-resumo">
+                    1 ativo
+                    e 0 arquivados.
+                </div>
+                <div class="area-explorar">explorar painel →</div>
+            </article>
             
         </div>
     </section>
 
     
+    
+    <section class="area-detalhe" id="area-administrativo" data-area="administrativo">
+
+        <div class="area-cabecalho">
+            <div class="icone-grande"><svg viewBox="0 0 24 24"><path d="M3 21h18M5 21V10M19 21V10M3 10h18M3 10l9-7 9 7M9 14v4M12 14v4M15 14v4"/></svg></div>
+            <div>
+                <h2>Administrativo</h2>
+                <div class="total-area">
+                    Total da área: <strong>1</strong>
+                    processo
+                    · 1 ativo
+                    · 0 arquivados
+                </div>
+            </div>
+            <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Indicadores</h3></div>
+        <div class="grade-kpis">
+            <div class="card-kpi">
+                <div class="card-kpi-rotulo">Total na Área</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">processos cadastrados</div>
+            </div>
+            <div class="card-kpi ativos">
+                <div class="card-kpi-rotulo">Ativos</div>
+                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-detalhe">em andamento</div>
+            </div>
+            <div class="card-kpi urgente">
+                <div class="card-kpi-rotulo">Ação Urgente</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">processos sinalizados</div>
+            </div>
+            <div class="card-kpi favoravel">
+                <div class="card-kpi-rotulo">Resolvidos</div>
+                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-detalhe">com encerramento registrado</div>
+            </div>
+            <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Alertas e Ações Necessárias</h3></div>
+        <div class="alertas-grid">
+            
+            
+            <div class="coluna-alerta urgente">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🔴</span>
+                    <h4>Ação Urgente</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta atencao">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟡</span>
+                    <h4>Atenção</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+            
+            <div class="coluna-alerta favoravel">
+                <div class="coluna-alerta-cabecalho">
+                    <span class="indicador-emoji">🟢</span>
+                    <h4>Resolvidos / Favoráveis</h4>
+                    <span class="contador">0</span>
+                </div>
+                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Distribuição</h3></div>
+        <div class="grade-graficos">
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Fase Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-fase-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tribunal</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tribunal-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Por Tipo de Ação</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-tipo-administrativo"></canvas>
+                    
+                </div>
+            </div>
+            <div class="card-grafico">
+                <div class="card-grafico-titulo">Status Processual</div>
+                <div class="card-grafico-canvas-container">
+                    
+                    <canvas id="grafico-status-administrativo"></canvas>
+                    
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Andamentos Recentes</h3></div>
+        <div class="timeline-wrap">
+            
+            <div class="timeline-vazia">Sem andamentos cadastrados nesta área.</div>
+            
+        </div>
+
+        
+        <div class="secao-titulo"><h3>Relação de Processos</h3></div>
+        <div class="tabela-container">
+            <div class="tabela-controles">
+                <input type="search" class="pesquisa-input"
+                       placeholder="Buscar por número, parte ou ação"
+                       data-area="administrativo"
+                       oninput="aplicarFiltros('administrativo')">
+                <div class="filtros" data-area="administrativo">
+                    <button class="filtro-btn ativo" data-fase="" type="button" onclick="filtrarFase('administrativo', '', this)">Todos</button>
+                    <button class="filtro-btn" data-fase="conhecimento" type="button" onclick="filtrarFase('administrativo', 'conhecimento', this)">Conhecimento</button>
+                    <button class="filtro-btn" data-fase="execucao" type="button" onclick="filtrarFase('administrativo', 'execucao', this)">Execução</button>
+                    <button class="filtro-btn" data-fase="recursal" type="button" onclick="filtrarFase('administrativo', 'recursal', this)">Recursal</button>
+                    <button class="filtro-btn" data-fase="arquivados" type="button" onclick="filtrarFase('administrativo', 'arquivados', this)">Arquivados</button>
+                </div>
+            </div>
+            <div class="tabela-wrap">
+                <table class="tabela-relacao" data-area="administrativo">
+                    <thead>
+                        <tr>
+                            <th onclick="ordenarTabela('administrativo', 'cnj')">Nº CNJ <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'partes')">Partes <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'tribunal')">Tribunal <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'acao')">Ação <span class="seta">⇅</span></th>
+                            <th onclick="ordenarTabela('administrativo', 'fase')">Fase <span class="seta">⇅</span></th>
+                            <th>Último Andamento</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-administrativo">
+                        
+                        
+                        
+                        <tr data-id="15505124"
+                            data-fase-grupo="conhecimento"
+                            data-busca=" administrativo bs imoveis ltda "
+                            onclick="abrirModalProcesso('15505124')">
+                            <td class="cnj-cell">—</td>
+                            <td class="partes-cell">
+                                <span class="cliente-side">BS IMOVEIS LTDA</span>
+                                
+                            </td>
+                            <td class="tribunal-cell">—</td>
+                            <td class="acao-cell">Administrativo</td>
+                            <td><span class="badge badge-fase-conhecimento">Análise Do Caso</span></td>
+                            <td class="ultimo-cell">
+                                
+                                <span class="vazio">Sem andamento recente</span>
+                                
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+            <div class="relacao-rodape">
+                <span id="rodape-administrativo">Mostrando 1 de 1 processos da área</span>
+            </div>
+        </div>
+    </section>
     
 
 </main>
@@ -1099,13 +1308,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 05/06/2026 14:22 — Documento de uso restrito do cliente.
+        Painel gerado em 06/06/2026 09:24 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{}</script>
+<script type="application/json" id="dados-processos-modal">{"15505124": {"cliente_name": "BS IMOVEIS LTDA", "created_at": "2026-06-05 16:59:48", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "\u2014", "responsible": "LEONARDO VASCONCELOS", "stage": "AN\u00c1LISE DO CASO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
+"administrativo": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [1, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Administrativo"]}, "tribunal": {"data": [1], "labels": ["\u2014"]}}
 }</script>
 
 <script>

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:40:41-03:00",
-    "gerado_em_humano": "05/06/2026 14:40",
+    "gerado_em": "2026-06-06T09:42:36-03:00",
+    "gerado_em_humano": "06/06/2026 09:42",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -123,6 +123,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-05-30",
+          "header": "TJGO",
+          "title": "Despacho Autos ao Contador"
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -135,17 +140,17 @@
         {
           "date": "2026-03-31",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APARECIDO MORAES SANTOS (Referente à Mov. Ato Ordinatório (31/03/2026 10:17:11))"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de APARECIDO MORAES SANTOS - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Ato Ordinatório - PARTE EXEQUENTE MANIFESTAR-SE SOBRE IMPUGNAÇÃO DE MOV. 122"
+        },
+        {
+          "date": "2026-03-31",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APARECIDO MORAES SANTOS (Referente à Mov. Ato Ordinatório (31/03/2026 10:17:11))"
         },
         {
           "date": "2026-03-30",
@@ -166,11 +171,6 @@
           "date": "2026-02-08",
           "header": "TJGO",
           "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"1283-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de Sentença contra a Fazenda Pública\""
-        },
-        {
-          "date": "2026-02-06",
-          "header": "TJGO",
-          "title": "Decisão -> deferimento -"
         }
       ],
       "partes_adversarias": [

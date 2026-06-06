@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:17:13-03:00",
-    "gerado_em_humano": "05/06/2026 14:17",
+    "gerado_em": "2026-06-06T09:19:24-03:00",
+    "gerado_em_humano": "06/06/2026 09:19",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -1690,9 +1690,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-22",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+          "title": "Juntada -> Petição - Manifestação - Resposta ao evento 42  Tempestivo DJEN 25/05/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
         },
         {
           "date": "2026-05-22",
@@ -1715,6 +1720,11 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (22/05/2026 10:02:44))"
         },
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+        },
+        {
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -1728,16 +1738,6 @@
           "date": "2026-03-27",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Monica Cristina Augusto (Referente à Mov. Ato Ordinatório (23/03/2026 14:11:45))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Ato Ordinatório (23/03/2026 14:11:45))"
         }
       ],
       "partes_adversarias": [
@@ -2653,8 +2653,8 @@
       "folder": null,
       "stage": "AÇÃO PROTOCOLADA/INICIADA",
       "step": "JUDICIAL",
-      "type": "ACIDENTE DE TRÂNSITO",
-      "group": "CÍVEL",
+      "type": "INDENIZAÇÃO DANOS MATERIAS",
+      "group": "PRIVADO",
       "status_closure": "2024-08-02 00:00:00",
       "created_at": "2024-06-03 00:00:00",
       "process_date": "2024-10-01",
@@ -5442,6 +5442,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TRT7",
+          "title": "malotedigital.jt.jus.br_malotedigital_goiania | Documento Diverso (RESTRITO)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT7",
+          "title": "envio CP TRT18 Goiânia | Certidão (RESTRITO)"
+        },
+        {
           "date": "2026-05-19",
           "header": "TRT7",
           "title": "Atualização | Planilha de Atualização de Cálculos (RESTRITO)"
@@ -5480,16 +5490,6 @@
           "date": "2026-03-13",
           "header": "TRT7",
           "title": "Decorrido o prazo de NANCY DE FREITAS VITOR em 12/03/2026"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TRT7",
-          "title": "Decorrido o prazo de ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS E BENEFICIOS MUTUOS APV em 12/03/2026"
-        },
-        {
-          "date": "2026-02-27",
-          "header": "TRT7",
-          "title": "Publicado(a) o(a) intimação em 02/03/2026"
         }
       ],
       "partes_adversarias": [
@@ -6346,12 +6346,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 45,
+    "total": 47,
     "categorias": {
       "Peças": 8,
-      "Audiências": 3,
+      "Audiências": 4,
       "Comunicações": 3,
-      "Acompanhamento": 21,
+      "Acompanhamento": 22,
       "Diligências": 5,
       "Outras": 5
     },

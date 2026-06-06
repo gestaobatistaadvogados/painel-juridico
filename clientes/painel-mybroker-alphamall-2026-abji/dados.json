@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:18:00-03:00",
-    "gerado_em_humano": "05/06/2026 14:18",
+    "gerado_em": "2026-06-06T09:20:12-03:00",
+    "gerado_em_humano": "06/06/2026 09:20",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -28,19 +28,19 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-05-14",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
+          "title": "Transitado em Julgado - para Talissa Alessandra Alves Moreira em 01/06/2026 23:59:59 (Referente Ã Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (14/05/2026 15:15:17))"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AGIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
+          "title": "Transitado em Julgado - para Alphamall Gestao Imobiliaria Ltda em 01/06/2026 23:59:59 (Referente Ã Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (14/05/2026 15:15:17))"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Talissa Alessandra Alves Moreira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
+          "title": "Processo Arquivado"
         },
         {
           "date": "2026-05-14",
@@ -60,22 +60,22 @@
         {
           "date": "2026-05-14",
           "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Talissa Alessandra Alves Moreira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (14/05/2026 15:15:17))"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Talissa Alessandra Alves Moreira (Referente à Mov. Decisão -> Outras Decisões (13/04/2026 16:06:28))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AGIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
         },
         {
-          "date": "2026-04-13",
+          "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alphamall Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (13/04/2026 16:06:28))"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Talissa Alessandra Alves Moreira (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Talissa Alessandra Alves Moreira (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
         }
       ],
       "partes_adversarias": [

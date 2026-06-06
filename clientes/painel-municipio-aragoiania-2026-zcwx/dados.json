@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:53:19-03:00",
-    "gerado_em_humano": "05/06/2026 14:53",
+    "gerado_em": "2026-06-06T09:55:07-03:00",
+    "gerado_em_humano": "06/06/2026 09:55",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -1982,6 +1982,11 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Processo em diligência (Primeiro Grau/CEJUSC/Outros) - Gabinete: (Encaminhado para: Luís Flávio Cunha Navarro)"
+        },
+        {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Aragoiania em 23/04/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (15/04/2026 11:21:53))"
@@ -1990,11 +1995,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Elisangela Fernanda Mendes Ribeiro (Referente à Mov. Despacho -> Mero Expediente (15/04/2026 11:21:53))"
         },
         {
           "date": "2026-04-15",
@@ -2150,6 +2150,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -2167,11 +2172,6 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (30/03/2026 08:41:22))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (30/03/2026 08:41:22))"
         },
         {
@@ -2185,6 +2185,11 @@
           "title": "Certidão Expedida - Ref. ao evento 54 habilitação DR. CAIO IGOR PUREZA DE FARIA REIS"
         },
         {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (30/03/2026 08:41:22))"
+        },
+        {
           "date": "2026-04-01",
           "header": "TJGO",
           "title": "Juntada -> Petição"
@@ -2193,11 +2198,6 @@
           "date": "2026-04-01",
           "header": "TJGO",
           "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Intimação Expedida - 30/03/2026 08:41:22)"
         }
       ],
       "partes_adversarias": [
@@ -9454,12 +9454,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 37,
+    "total": 36,
     "categorias": {
       "Peças": 4,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 22,
+      "Acompanhamento": 21,
       "Diligências": 0,
       "Outras": 11
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:07:25-03:00",
-    "gerado_em_humano": "05/06/2026 14:07",
+    "gerado_em": "2026-06-06T09:09:43-03:00",
+    "gerado_em_humano": "06/06/2026 09:09",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -1684,6 +1684,26 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) MARCELO EMILIO MONTEIRO"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
           "date": "2026-05-28",
           "header": "TRT18",
           "title": "Decorrido o prazo de MARCELO EMILIO MONTEIRO em 27/05/2026"
@@ -1691,31 +1711,6 @@
         {
           "date": "2026-05-22",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 25/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 25/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 25/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
         },
         {
@@ -1732,6 +1727,11 @@
           "date": "2026-05-22",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 25/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -2850,6 +2850,36 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 08/06/2026"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 03/06/2026"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 03/06/2026"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Publicado(a) o(a) intimação em 08/06/2026"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) JENESDEAN APOLINARIO MORAIS"
+        },
+        {
           "date": "2026-05-19",
           "header": "TRT18",
           "title": "Juntada a petição de Manifestação"
@@ -2862,42 +2892,12 @@
         {
           "date": "2026-05-12",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 12/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 13/05/2026"
         },
         {
           "date": "2026-05-12",
           "header": "TRT18",
           "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 12/05/2026"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 13/05/2026"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) JENESDEAN APOLINARIO MORAIS"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) PETERSON GUSTAVO NEVES"
-        },
-        {
-          "date": "2026-04-12",
-          "header": "TRT18",
-          "title": "Juntada a petição de Apresentação de Quesitos"
         }
       ],
       "partes_adversarias": [
@@ -3684,6 +3684,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de HOSPITAL AMPARO S/S LTDA (Referente à Mov. Decisão -> Indeferimento (25/05/2026 13:36:45))"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de HOSPITAL AMPARO S/S LTDA - Polo Passivo (Referente à Mov. Decisão -> Indeferimento - 25/05/2026 13:36:45)"
+        },
+        {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE GOIANIA em 21/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (25/03/2026 13:42:03))"
@@ -3711,27 +3721,17 @@
         {
           "date": "2026-03-25",
           "header": "TJGO",
+          "title": "Certidão Expedida - Troca do Procurador Geral do Município"
+        },
+        {
+          "date": "2026-03-25",
+          "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE GOIANIA (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-03-25",
           "header": "TJGO",
           "title": "Ato Ordinatório - Intima-se o exequente p/apresentar resposta a petição"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Troca do Procurador Geral do Município"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -3976,24 +3976,44 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) BRESSED PARTICIPACOES EIRELI"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) SERVICO DE ANESTESIOLOGIA AMPARO LTDA"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Despacho"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Expedido(a) intimação a(o) GRACILENE PINTO LIMA DE OLIVEIRA"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TRT18",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
           "date": "2026-06-02",
           "header": "TRT18",
           "title": "Conclusos os autos para despacho (genérica) a SARA LUCIA DAVI SOUSA"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de GRUPO RICARO LTDA em 28/05/2026"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de GRACILENE PINTO LIMA DE OLIVEIRA em 28/05/2026"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de BRESSED PARTICIPACOES EIRELI em 28/05/2026"
         },
         {
           "date": "2026-05-29",
@@ -4004,26 +4024,6 @@
           "date": "2026-05-29",
           "header": "TRT18",
           "title": "Decorrido o prazo de SERVICO DE ANESTESIOLOGIA AMPARO LTDA em 28/05/2026"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TRT18",
-          "title": "Decorrido o prazo de HOSPITAL AMPARO LTDA em 28/05/2026"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 20/05/2026"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 21/05/2026"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 20/05/2026"
         }
       ],
       "partes_adversarias": [
@@ -4984,54 +4984,54 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-28",
+          "date": "2026-06-03",
           "header": "TRT18",
-          "title": "Conclusos os autos para despacho (genérica) a ANTONIA HELENA GOMES BORGES TAVEIRA"
+          "title": "Publicado(a) o(a) intimação em 08/06/2026"
         },
         {
-          "date": "2026-05-27",
+          "date": "2026-06-03",
           "header": "TRT18",
-          "title": "Juntada a petição de Impugnação"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 03/06/2026"
         },
         {
-          "date": "2026-05-23",
+          "date": "2026-06-03",
           "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 03/06/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-03",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+          "title": "Publicado(a) o(a) intimação em 08/06/2026"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 20/05/2026"
+          "title": "Despacho - designa audiência presencial"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 19/05/2026"
+          "title": "Audiência de instrução designada (25/01/2027 09:50 Instrução (2) - Juiz Auxiliar - 14ª VARA DO TRABALHO DE GOIÂNIA)"
         },
         {
-          "date": "2026-05-19",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 20/05/2026"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) DIVINO AGUIAR MARCIANO RIBEIRO"
-        },
-        {
-          "date": "2026-05-18",
+          "date": "2026-06-02",
           "header": "TRT18",
           "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-06-02",
           "header": "TRT18",
-          "title": "Juntada a petição de Manifestação"
+          "title": "Expedido(a) intimação a(o) DIVINO AGUIAR MARCIANO RIBEIRO"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TRT18",
+          "title": "Conclusos os autos para despacho (genérica) a ANTONIA HELENA GOMES BORGES TAVEIRA"
         }
       ],
       "partes_adversarias": [
@@ -9019,14 +9019,9 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TRT18",
-          "title": "Ata da Audiência"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (26/05/2026 08:20 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+          "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
         },
         {
           "date": "2026-05-29",
@@ -9036,7 +9031,7 @@
         {
           "date": "2026-05-29",
           "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (29/05/2026 08:15 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+          "title": "Ata da Audiência"
         },
         {
           "date": "2026-05-29",
@@ -9049,6 +9044,16 @@
           "title": "Remetidos os autos para Vara do Trabalho por encerradas as atribuições do CEJUSC"
         },
         {
+          "date": "2026-05-29",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (29/05/2026 08:15 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (26/05/2026 08:20 CEJUSC INICIAL - ORDINÁRIO E SUMARÍSSIMO - 7ª VARA DO TRABALHO DE GOIÂNIA)"
+        },
+        {
           "date": "2026-05-27",
           "header": "TRT18",
           "title": "Juntada a petição de Manifestação"
@@ -9056,17 +9061,12 @@
         {
           "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TRT18",
-          "title": "Audiência inicial (rito sumaríssimo) por videoconferência designada (26/05/2026 08:20 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TRT18",
           "title": "Ata da Audiência"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TRT18",
+          "title": "Audiência inicial (rito sumaríssimo) por videoconferência realizada (26/05/2026 08:20 CEJUSC - INICIAIS 07 - CEJUSC GOIÂNIA)"
         }
       ],
       "partes_adversarias": [
@@ -9903,14 +9903,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 246,
+    "total": 244,
     "categorias": {
-      "Peças": 31,
-      "Audiências": 29,
-      "Comunicações": 56,
-      "Acompanhamento": 88,
-      "Diligências": 34,
-      "Outras": 8
+      "Peças": 29,
+      "Audiências": 30,
+      "Comunicações": 59,
+      "Acompanhamento": 84,
+      "Diligências": 33,
+      "Outras": 9
     },
     "ultima_data": "2026-06-05"
   }

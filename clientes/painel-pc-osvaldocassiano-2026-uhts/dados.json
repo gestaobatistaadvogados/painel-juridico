@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-05T14:59:40-03:00",
-    "gerado_em_humano": "05/06/2026 14:59",
+    "gerado_em": "2026-06-06T10:01:26-03:00",
+    "gerado_em_humano": "06/06/2026 10:01",
     "slug_url": "painel-pc-osvaldocassiano-2026-uhts",
     "departamento": "direito_criminal"
   },
@@ -101,6 +101,11 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-09",
           "header": "TJGO",
           "title": "Prazo Decorrido - prazo decorrido sem manifestação da parte promovida"
@@ -118,12 +123,12 @@
         {
           "date": "2026-02-03",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-02-03",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-01-30",
@@ -138,17 +143,12 @@
         {
           "date": "2026-01-16",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-01-16",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Osvaldo Cassiano De Faria (Referente à Mov. Despacho -> Mero Expediente (16/01/2026 06:10:03))"
         },
         {
           "date": "2026-01-16",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Cassiano De Faria - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 16/01/2026 06:10:03)"
+          "title": "Despacho -> Mero Expediente -"
         }
       ],
       "partes_adversarias": [
