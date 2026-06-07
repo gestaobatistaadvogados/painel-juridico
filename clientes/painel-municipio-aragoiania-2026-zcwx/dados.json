@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-06T09:55:07-03:00",
-    "gerado_em_humano": "06/06/2026 09:55",
+    "gerado_em": "2026-06-07T08:17:12-03:00",
+    "gerado_em_humano": "07/06/2026 08:17",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -4707,14 +4707,29 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-04-23",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Processo Arquivado"
+          "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Alvará Expedido - ALVARÁ EXPEDIDO (honorários sucumbencias) - AG. ASSINATURA"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Comprovantes de Pagamento"
         },
         {
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Processo Arquivado -"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
         },
         {
           "date": "2026-04-22",
@@ -4734,22 +4749,7 @@
         {
           "date": "2026-04-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hariany Goncalves Mendonca Cunha Franco (Referente à Mov. Certidão Expedida (10/04/2026 09:08:48))"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida - 10/04/2026 09:08:48)"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hariany Goncalves Mendonca Cunha Franco (Referente à Mov. Certidão Expedida - 10/04/2026 09:08:48)"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Certidão Expedida - ARQUIVADO ATÉ FUTURO PAGAMENTO RPV"
         },
         {
           "date": "2026-04-10",
@@ -5699,6 +5699,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (24/05/2026 17:58:17))"
+        },
+        {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Juntada -> Petição - Julgamento Antecipado da Lide"
@@ -5707,6 +5712,11 @@
           "date": "2026-05-24",
           "header": "TJGO",
           "title": "Prazo Decorrido - AUTORA"
+        },
+        {
+          "date": "2026-05-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - PARTES - ESPECIFICAREM PROVAS / MAN. JULGAMENTO ANTECIPADO DA LIDE"
         },
         {
           "date": "2026-05-24",
@@ -5724,11 +5734,6 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida - 24/05/2026 17:58:17)"
         },
         {
-          "date": "2026-05-24",
-          "header": "TJGO",
-          "title": "Intimação Expedida - PARTES - ESPECIFICAREM PROVAS / MAN. JULGAMENTO ANTECIPADO DA LIDE"
-        },
-        {
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Angela Maria De Moura (Referente à Mov. Juntada -> Petição -> Contestação (22/04/2026 14:30:18))"
@@ -5737,11 +5742,6 @@
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Angela Maria De Moura - Polo Ativo (Referente à Mov. Juntada -> Petição -> Contestação - 22/04/2026 14:30:18)"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contestação -"
         },
         {
           "date": "2026-04-22",
@@ -5918,6 +5918,21 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Requisição de Pequeno Valor Expedida (22/05/2026 12:43:51))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Certidão Expedida (22/05/2026 20:00:55))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Diligencia Requerida - petição"
@@ -5930,22 +5945,17 @@
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Certidão Expedida - ARQUIVADO ATÉ FUTURO PAGAMENTO RPV"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luis Alberto Basilio (Referente à Mov. Requisição de Pequeno Valor Expedida (22/05/2026 12:43:51))"
         },
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Requisição de Pequeno Valor Expedida"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Evelin Ducarmo Caetano Guimaraes Basilio (Referente à Mov. Requisição de Pequeno Valor Expedida (22/05/2026 12:43:51))"
         },
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Requisição de Pequeno Valor Expedida - 22/05/2026 12:43:51)"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luis Alberto Basilio (Referente à Mov. Requisição de Pequeno Valor Expedida - 22/05/2026 12:43:51)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Evelin Ducarmo Caetano Guimaraes Basilio (Referente à Mov. Certidão Expedida (22/05/2026 20:00:55))"
         },
         {
           "date": "2026-05-22",
@@ -5955,17 +5965,7 @@
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Evelin Ducarmo Caetano Guimaraes Basilio (Referente à Mov. Requisição de Pequeno Valor Expedida - 22/05/2026 12:43:51)"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida - 22/05/2026 20:00:55)"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Evelin Ducarmo Caetano Guimaraes Basilio (Referente à Mov. Certidão Expedida - 22/05/2026 20:00:55)"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Requisição de Pequeno Valor Expedida - 22/05/2026 12:43:51)"
         }
       ],
       "partes_adversarias": [

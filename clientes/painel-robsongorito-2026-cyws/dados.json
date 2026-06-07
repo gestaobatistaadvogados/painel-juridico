@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-06T09:12:00-03:00",
-    "gerado_em_humano": "06/06/2026 09:12",
+    "gerado_em": "2026-06-07T07:35:42-03:00",
+    "gerado_em_humano": "07/06/2026 07:35",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -465,9 +465,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-14",
+          "date": "2026-06-03",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) PAULO HENRIQUE DIAS SILVA"
+          "title": "Expedido(a) intimação a(o) ANTONIO PEREIRA DE LUCENA NETO"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Juntada a petição de Recurso Ordinário"
         },
         {
           "date": "2026-05-14",
@@ -487,7 +492,7 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
-          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 13/05/2026"
+          "title": "Expedido(a) intimação a(o) PAULO HENRIQUE DIAS SILVA"
         },
         {
           "date": "2026-05-14",
@@ -502,17 +507,12 @@
         {
           "date": "2026-05-14",
           "header": "TRT18",
+          "title": "Decorrido o prazo de RH3 EMPREENDIMENTOS E PARTICIPACOES LTDA em 13/05/2026"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TRT18",
           "title": "Decorrido o prazo de RICARDO ABDALLA HADDAD em 13/05/2026"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 30/04/2026"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 29/04/2026"
         }
       ],
       "partes_adversarias": [
@@ -3152,15 +3152,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 47,
+    "total": 48,
     "categorias": {
-      "Peças": 2,
+      "Peças": 1,
       "Audiências": 6,
       "Comunicações": 9,
-      "Acompanhamento": 16,
+      "Acompanhamento": 18,
       "Diligências": 4,
       "Outras": 10
     },
-    "ultima_data": "2026-06-05"
+    "ultima_data": "2026-06-06"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-06T09:58:33-03:00",
-    "gerado_em_humano": "06/06/2026 09:58",
+    "gerado_em": "2026-06-07T08:20:31-03:00",
+    "gerado_em_humano": "07/06/2026 08:20",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": "2026-02-05",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Goiânia - Central de Mandados (Mandado nº 7544134 / Para: Edvando Medeiros Firmino)"
+        },
         {
           "date": "2026-05-20",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-03-21",
           "header": "TJGO",
           "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Outras Decisões (09/02/2026 11:03:55))"
-        },
-        {
-          "date": "2026-02-19",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Edvando Medeiros Firmino - Código de Rastreamento Correios: YH048280313BR idPendenciaCorreios109387695432015873960413015idPendenciaCorreios"
         }
       ],
       "partes_adversarias": [
@@ -2589,6 +2589,26 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Decisão -> Indeferimento - Intime-se a exequente para indicar bens passíveis de penhora"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Decisão -> Indeferimento (CNJ:12455) - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Indeferimento (02/06/2026 19:09:10))"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - Levantamento de quantia"
@@ -2601,12 +2621,12 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Juntada de Documento - Decisão proferida nos autos apensos: 5428053-45"
+          "title": "Certidão Expedida - CENTRAL RENAJUD"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Certidão Expedida - CENTRAL RENAJUD"
+          "title": "Juntada de Documento - Decisão proferida nos autos apensos: 5428053-45"
         },
         {
           "date": "2026-05-20",
@@ -2617,26 +2637,6 @@
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Certidão Expedida (20/05/2026 17:26:29))"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Juntada de Documento - e-mail CEF - impossibilidade de cumprimento de alvará"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (25/04/2026 08:12:06))"
         }
       ],
       "partes_adversarias": [
