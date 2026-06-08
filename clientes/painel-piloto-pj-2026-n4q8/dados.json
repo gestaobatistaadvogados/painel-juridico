@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-07T07:33:28-03:00",
-    "gerado_em_humano": "07/06/2026 07:33",
+    "gerado_em": "2026-06-08T09:32:48-03:00",
+    "gerado_em_humano": "08/06/2026 09:32",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -7183,19 +7183,29 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-22",
+          "date": "2026-06-02",
           "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
+          "title": "Expedido(a) notificação a(o) JEAN THANIOS AWAD"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Juntada a petição de Apresentação de Quesitos"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Decorrido o prazo de HOSPITAL AMPARO LTDA em 01/06/2026"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Juntada a petição de Apresentação de Quesitos"
         },
         {
           "date": "2026-05-22",
           "header": "TRT18",
           "title": "Publicado(a) o(a) intimação em 25/05/2026"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TRT18",
-          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
         },
         {
           "date": "2026-05-22",
@@ -7208,29 +7218,19 @@
           "title": "Publicado(a) o(a) intimação em 25/05/2026"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-22",
           "header": "TRT18",
-          "title": "Proferido despacho de mero expediente"
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TRT18",
+          "title": "Disponibilizado (a) o(a) intimação no Diário da Justiça Eletrônico do dia 22/05/2026"
         },
         {
           "date": "2026-05-21",
           "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) ANA CAROLINE DA SILVA CORREA"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TRT18",
-          "title": "Expedido(a) intimação a(o) GRUPO RICARO LTDA"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TRT18",
-          "title": "Despacho"
+          "title": "Conclusos os autos para despacho (genérica) a MARCELLA DIAS ARAUJO FREITAS"
         }
       ],
       "partes_adversarias": [
@@ -7341,54 +7341,54 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OHL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Processo Arquivado"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Omni Hospitalar Ltda (Referente à Mov. Certidão Expedida (19/05/2026 22:20:36))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Omni Hospitalar Ltda (Referente à Mov. Decisão -> Determinação -> Arquivamento (02/06/2026 14:03:40))"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Certidão Expedida - Intimar promovente para indicar bens passíveis de penhora"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> Determinação -> Arquivamento (02/06/2026 14:03:40))"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OHL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Decisão -> Determinação -> Arquivamento"
         },
         {
-          "date": "2026-05-19",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Alvará Entregue - (Referente à Mov. Juntada -> Petição (14/05/2026 15:49:04))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OHL (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Comprovantes de Pagamento"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Omni Hospitalar Ltda em 28/05/2026 23:59:59 (Referente Ã Mov. Certidão Expedida (19/05/2026 22:20:36))"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Omni Hospitalar Ltda (Referente à Mov. Certidão Expedida (19/05/2026 13:26:04))"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Alvará expedido conforme decisão de evento 20"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Dados bancários"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OHL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -7496,6 +7496,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TRT18",
+          "title": "Juntada a petição de Impugnação"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TRT18",
+          "title": "Juntada a petição de Manifestação"
+        },
+        {
           "date": "2026-05-27",
           "header": "TRT18",
           "title": "Audiência inicial (rito sumaríssimo) por videoconferência cancelada (26/05/2026 09:20 CEJUSC - 10ª VARA DO TRABALHO DE GOIÂNIA)"
@@ -7508,22 +7518,22 @@
         {
           "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Audiência inicial por videoconferência realizada (26/05/2026 09:20 CEJUSC - INICIAIS 10 - CEJUSC GOIÂNIA)"
+          "title": "Ata da Audiência"
         },
         {
           "date": "2026-05-26",
           "header": "TRT18",
-          "title": "Ata da Audiência"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TRT18",
-          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
+          "title": "Audiência inicial por videoconferência realizada (26/05/2026 09:20 CEJUSC - INICIAIS 10 - CEJUSC GOIÂNIA)"
         },
         {
           "date": "2026-05-25",
           "header": "TRT18",
           "title": "Audiência inicial por videoconferência designada (26/05/2026 09:20 CEJUSC - INICIAIS 10 - CEJUSC GOIÂNIA)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TRT18",
+          "title": "Remetidos os autos para Centro Judiciário de Métodos Consensuais de Solução de Disputas - CEJUSC-JT (1º Grau) para tentativa de conciliação"
         },
         {
           "date": "2026-05-21",
@@ -7534,16 +7544,6 @@
           "date": "2026-05-21",
           "header": "TRT18",
           "title": "Juntada a petição de Solicitação de Habilitação"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TRT18",
-          "title": "Expedido(a) notificação a(o) HOSPITAL AMPARO LTDA"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TRT18",
-          "title": "Publicado(a) o(a) intimação em 10/04/2026"
         }
       ],
       "partes_adversarias": [
@@ -9907,11 +9907,11 @@
     "categorias": {
       "Peças": 27,
       "Audiências": 30,
-      "Comunicações": 59,
-      "Acompanhamento": 85,
+      "Comunicações": 58,
+      "Acompanhamento": 86,
       "Diligências": 33,
       "Outras": 9
     },
-    "ultima_data": "2026-06-06"
+    "ultima_data": "2026-06-08"
   }
 }

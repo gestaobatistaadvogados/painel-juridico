@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-07T07:52:12-03:00",
-    "gerado_em_humano": "07/06/2026 07:52",
+    "gerado_em": "2026-06-08T09:51:43-03:00",
+    "gerado_em_humano": "08/06/2026 09:51",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -406,7 +406,7 @@
       "process_number": "5284578-36.2023.8.09.0051",
       "protocol_number": "5284578-36.2023.8.09.0051",
       "folder": "1744",
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "stage": "AGUARDANDO AUDIÊNCIA",
       "step": "RECURSAL",
       "type": "IMISSÃO NA POSSE",
       "group": "CÍVEL",
@@ -471,7 +471,7 @@
           "name": "HUDSON PRATA JUNIOR"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {

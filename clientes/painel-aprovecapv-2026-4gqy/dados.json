@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-07T07:42:49-03:00",
-    "gerado_em_humano": "07/06/2026 07:42",
+    "gerado_em": "2026-06-08T09:42:13-03:00",
+    "gerado_em_humano": "08/06/2026 09:42",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -5911,9 +5911,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-26",
+          "date": "2026-06-05",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Godoi Valente Assessoria De Cobranca Ltda"
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Determinação de Citação (12/05/2026 22:23:27))"
+        },
+        {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Determinação de Citação (12/05/2026 22:23:27))"
         },
         {
           "date": "2026-05-26",
@@ -5921,9 +5926,9 @@
           "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Godoi Valente Assessoria De Cobranca Ltda"
         },
         {
-          "date": "2026-05-22",
+          "date": "2026-05-26",
           "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Sandro Coelho Ferreira Filho - Código de Rastreamento Correios: YH182054249BR idPendenciaCorreios109787605432015873960387741idPendenciaCorreios"
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Godoi Valente Assessoria De Cobranca Ltda"
         },
         {
           "date": "2026-05-22",
@@ -5931,14 +5936,14 @@
           "title": "Citação Expedida - Para (Polo Passivo) Alexandre Godoi Da Silva - Código de Rastreamento Correios: YH182054235BR idPendenciaCorreios109487675432015873960387748idPendenciaCorreios"
         },
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Sandro Coelho Ferreira Filho - Código de Rastreamento Correios: YH182054249BR idPendenciaCorreios109787605432015873960387741idPendenciaCorreios"
+        },
+        {
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) GVACL (comunicação: 109287655432563873107713828)"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Mudança de Assunto Processual"
         },
         {
           "date": "2026-05-12",
@@ -5953,12 +5958,7 @@
         {
           "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MANOEL MALOI (Referente à Mov. Despacho -> Determinação de Citação (CNJ:15216) - )"
+          "title": "Mudança de Assunto Processual"
         }
       ],
       "partes_adversarias": [
@@ -6346,15 +6346,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 47,
+    "total": 45,
     "categorias": {
       "Peças": 8,
       "Audiências": 4,
       "Comunicações": 3,
-      "Acompanhamento": 22,
+      "Acompanhamento": 21,
       "Diligências": 5,
-      "Outras": 5
+      "Outras": 4
     },
-    "ultima_data": "2026-06-05"
+    "ultima_data": "2026-06-08"
   }
 }
