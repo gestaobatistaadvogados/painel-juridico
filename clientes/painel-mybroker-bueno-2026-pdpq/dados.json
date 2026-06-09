@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:44:24-03:00",
-    "gerado_em_humano": "08/06/2026 09:44",
+    "gerado_em": "2026-06-09T08:16:37-03:00",
+    "gerado_em_humano": "09/06/2026 08:16",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 365 dias)"
+        },
         {
           "date": "2026-05-26",
           "header": "TJGO",
@@ -55,12 +60,7 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Ato Ordinatório - ATO ORDINATÓRIO - PROMOVER ANDAMENTO FEITO (suspensão)"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Bueno Broker Gestão Imobiliária Ltda em 14/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (05/05/2026 19:15:14))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-15",
@@ -70,12 +70,12 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Decorrido Prazo - para Bueno Broker Gestão Imobiliária Ltda em 14/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (05/05/2026 19:15:14))"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Ato Ordinatório - PRAZO DECORRIDO - PROMOVER ANDAMENTO FEITO (EXTINÇÃO) - UPJ"
+          "title": "Ato Ordinatório - ATO ORDINATÓRIO - PROMOVER ANDAMENTO FEITO (suspensão)"
         }
       ],
       "partes_adversarias": [
@@ -341,6 +341,11 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daiany Carolaine Meira De Sousa (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Incidente de Desconsideração de Personalidade Jurídica (CNJ:235) - )"
@@ -368,17 +373,12 @@
         {
           "date": "2026-04-11",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-04-11",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-02-19",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - CCSC - Andamento ao feito/ Suspensão (921, III, CPC)"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-02-19",
@@ -1453,15 +1453,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-05"
+    "ultima_data": "2026-06-08"
   }
 }

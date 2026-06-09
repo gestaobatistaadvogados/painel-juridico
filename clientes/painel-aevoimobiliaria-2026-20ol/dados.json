@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:51:05-03:00",
-    "gerado_em_humano": "08/06/2026 09:51",
+    "gerado_em": "2026-06-09T08:23:31-03:00",
+    "gerado_em_humano": "09/06/2026 08:23",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -198,6 +198,11 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-06-02",
           "header": "TJGO",
           "title": "Movimentação Bloqueada"
@@ -211,11 +216,6 @@
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Intimação p/ parte exequente manifestar sobre citação não efetivada - ev. 20"
         },
         {
           "date": "2026-05-26",
@@ -456,14 +456,19 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-25",
+          "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Juntada -> Petição - Citação por WhatsApp"
         },
         {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-25",
@@ -499,11 +504,6 @@
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Raphaela Pacheco Alexandre Linhares (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Ltda (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
         }
       ],
       "partes_adversarias": [
@@ -635,54 +635,54 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-05-07",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Wellington Gomes Ferreira em 06/05/2026 23:59:59 (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
+          "title": "Juntada de Documento - JUNTADA NOS AUTOS PRINCIPAIS - EMBARGOS À EXECUÇÃO - 1ª UPJ"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Citação Efetivada - Para Anderca Regina Costa Fernandes Gomes (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-05-02",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Citação Efetivada - Para Wellington Gomes Ferreira (Referente à Mov. Despacho -> Determinação de Citação (12/04/2026 16:00:44))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-20",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Anderca Regina Costa Fernandes Gomes - Código de Rastreamento Correios: YH127139522BR idPendenciaCorreios109687635432015873960766702idPendenciaCorreios"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-20",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Wellington Gomes Ferreira - Código de Rastreamento Correios: YH139461258BR idPendenciaCorreios109487655432015873960752509idPendenciaCorreios"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-12",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gustavo Crisostomo Nascimento (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-12",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Despacho -> Determinação de Citação -"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (01/06/2026 16:57:42))"
         },
         {
-          "date": "2026-04-06",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Paulo Cesar Ribeiro De Oliveira (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-03-31",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Certidão Expedida - INTIMAÇÃO PARA PARTE EMBARGADA APRESENTAR MANIFESTAÇÃO - 1ª UPJ"
         }
       ],
       "partes_adversarias": [
@@ -1096,19 +1096,19 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. - )"
+          "title": "Citação Expedida - Para (Polo Passivo) Debora Silveira Queiroz - Código de Rastreamento Correios: YH197659520BR idPendenciaCorreios109187665432015873960222292idPendenciaCorreios"
         },
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+          "title": "Certidão Expedida - CERTIDÃO-E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         },
         {
-          "date": "2026-05-29",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Decisão -> Outras Decisões (29/05/2026 10:35:08))"
+          "title": "Citação Expedida - e-Carta - Debora Silveira Queiroz"
         },
         {
           "date": "2026-05-29",
@@ -1138,12 +1138,12 @@
         {
           "date": "2026-05-29",
           "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. - )"
         },
         {
-          "date": "2026-05-28",
+          "date": "2026-05-29",
           "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
+          "title": "Decisão -> Outras Decisões"
         }
       ],
       "partes_adversarias": [],

@@ -966,8 +966,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">08/06/2026 10:22</div>
-            <div><span class="ativos">2</span> processos ativos</div>
+            <div class="data">09/06/2026 08:55</div>
+            <div><span class="ativos">1</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -988,7 +988,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             <h2>Trabalho realizado nos últimos 90 dias</h2>
 
             <div class="produtividade-numero-grande">
-                <span class="valor">0</span>
+                <span class="valor">2</span>
                 <span class="legenda">Tarefas Realizadas</span>
             </div>
 
@@ -996,7 +996,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">0</div>
+                    <div class="num">1</div>
                     <div class="lbl">Peças</div>
                 </div>
                 
@@ -1017,7 +1017,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 
                 <div class="produtividade-categoria">
-                    <div class="num">0</div>
+                    <div class="num">1</div>
                     <div class="lbl">Acompanhamento</div>
                 </div>
                 
@@ -1033,6 +1033,10 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
             </div>
 
+            
+            <div class="produtividade-rodape">
+                ▸ Última atividade: <strong>08/06/2026</strong>
+            </div>
             
         </div>
 
@@ -1060,14 +1064,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 </div>
                 <div class="area-tags">
                     
-                    <span class="area-tag urgente">⚡ 1 urgente</span>
                     
                     
+                    <span class="area-tag ok">✓ sem pendências</span>
                     
                 </div>
                 <div class="area-resumo">
-                    2 ativos
-                    e 1 arquivado.
+                    1 ativo
+                    e 2 arquivados.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1110,8 +1114,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="total-area">
                     Total da área: <strong>3</strong>
                     processos
-                    · 2 ativos
-                    · 1 arquivado
+                    · 1 ativo
+                    · 2 arquivados
                 </div>
             </div>
             <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
@@ -1127,17 +1131,17 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi ativos">
                 <div class="card-kpi-rotulo">Ativos</div>
-                <div class="card-kpi-numero">2</div>
+                <div class="card-kpi-numero">1</div>
                 <div class="card-kpi-detalhe">em andamento</div>
             </div>
             <div class="card-kpi urgente">
                 <div class="card-kpi-rotulo">Ação Urgente</div>
-                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-numero">0</div>
                 <div class="card-kpi-detalhe">processos sinalizados</div>
             </div>
             <div class="card-kpi favoravel">
                 <div class="card-kpi-rotulo">Resolvidos</div>
-                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-numero">2</div>
                 <div class="card-kpi-detalhe">com encerramento registrado</div>
             </div>
             <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
@@ -1152,16 +1156,10 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🔴</span>
                     <h4>Ação Urgente</h4>
-                    <span class="contador">1</span>
+                    <span class="contador">0</span>
                 </div>
                 
-                
-                <div class="card-alerta" onclick="abrirModalProcesso('12923874')">
-                    <div class="card-alerta-numero">5158828-53.2025.8.09.0051</div>
-                    <div class="card-alerta-descricao">Aguardando Audiência</div>
-                </div>
-                
-                
+                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
                 
             </div>
             
@@ -1182,9 +1180,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🟢</span>
                     <h4>Resolvidos / Favoráveis</h4>
-                    <span class="contador">1</span>
+                    <span class="contador">2</span>
                 </div>
                 
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('12923874')">
+                    <div class="card-alerta-numero">5158828-53.2025.8.09.0051</div>
+                    <div class="card-alerta-descricao">Recurso Protocolado/iniciado</div>
+                </div>
                 
                 <div class="card-alerta" onclick="abrirModalProcesso('13412335')">
                     <div class="card-alerta-numero">5177629-17.2025.8.09.0051</div>
@@ -1242,111 +1245,111 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">28/05/2026</div>
+                    <div class="timeline-data">03/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - ANA PAULA FERREIRA
+                        Intimação Via Telefone Efetivada - Para LAS (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (01/06/2026 22:33:47))
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">28/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - GEOVANNY MAGALHÃES FERREIRA
+                        Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534245 / Para: Ana Paula Ferreira)
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">19/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Certidão Expedida - Período de prisão e cumprimento de medidas cautelares
+                        Certidão Expedida - Tentativa de intimação
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">19/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Autos Conclusos - P/ SENTENÇA
+                        Intimação Via Telefone Efetivada - Para TBAS (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (01/06/2026 22:33:47))
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">19/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Juntada de Documento - certidao de antecedentes- projudi e SEEU
+                        Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534249 / Para: Geovanny Magalhães Ferreira)
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">18/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Juntada -&gt; Petição -&gt; Alegações finais - Memoriais
+                        Intimação Via Telefone Efetivada - Para MRS (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (01/06/2026 22:33:47))
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">12/05/2026</div>
+                    <div class="timeline-data">02/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Ato Ordinatório - Vista a defesa para alegações finais
+                        Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (01/06/2026 22:33:47))
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">12/05/2026</div>
+                    <div class="timeline-data">01/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Paula Ferreira (Referente à Mov. Ato Ordinatório (12/05/2026 12:04:12))
+                        Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência - Sentença Condenatória. Artigo 273, §§ 1º e 1º - B , incisos I e V do Código Pena
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">12/05/2026</div>
+                    <div class="timeline-data">01/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )
+                        Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente Ã Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (CNJ:219) - )
                     </div>
                 </div>
                 
                 <div class="timeline-item">
                     <div class="timeline-ponto"></div>
-                    <div class="timeline-data">12/05/2026</div>
+                    <div class="timeline-data">01/06/2026</div>
                     <div class="timeline-cnj">5158828-53.2025.8.09.0051</div>
                     <div class="timeline-titulo">
                         <span class="timeline-cabecalho-mov">Tjgo</span>
                          — 
-                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Paula Ferreira - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )
+                        Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (CNJ:219) - )
                     </div>
                 </div>
                 
@@ -1442,7 +1445,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                         
                         
                         <tr data-id="12923874"
-                            data-fase-grupo="conhecimento"
+                            data-fase-grupo="recursal"
                             data-busca="5158828-53.2025.8.09.0051 falsificação, corrupção ou adulteração de produtos terapêuticos geovanny magalhaes ferreira parte sob sigilo legal ministerio publico do estado de goias"
                             onclick="abrirModalProcesso('12923874')">
                             <td class="cnj-cell">5158828-53.2025.8.09.0051</td>
@@ -1460,14 +1463,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                             </td>
                             <td class="tribunal-cell">TJGO</td>
                             <td class="acao-cell">Falsificação, Corrupção Ou Adulteração De Produtos Terapêuticos</td>
-                            <td><span class="badge badge-fase-conhecimento">Aguardando Audiência</span></td>
+                            <td><span class="badge badge-fase-recursal">Recurso Protocolado/iniciado</span></td>
                             <td class="ultimo-cell">
                                 
-                                <div class="data">28/05/2026</div>
+                                <div class="data">03/06/2026</div>
                                 <div class="desc">
                                     <strong>Tjgo</strong>
                                      — 
-                                    Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - ANA PAULA FERREIRA
+                                    Intimação Via Telefone Efetivada - Para LAS (Referente à Mov. Julgamento -&gt; Com Resolução do Mérito -&gt; Procedência (01/06/2026 22:33:47))
                                 </div>
                                 
                             </td>
@@ -1905,14 +1908,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 08/06/2026 10:22 — Documento de uso restrito do cliente.
+        Painel gerado em 09/06/2026 08:55 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"12923874": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2026-02-02 11:44:43", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-05-28", "header": "TJGO", "title": "Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - ANA PAULA FERREIRA"}, {"date": "2026-05-28", "header": "TJGO", "title": "Juntada de Documento - FOLHA E TERMO DE COMPARECIMENTO - GEOVANNY MAGALH\u00c3ES FERREIRA"}, {"date": "2026-05-19", "header": "TJGO", "title": "Certid\u00e3o Expedida - Per\u00edodo de pris\u00e3o e cumprimento de medidas cautelares"}, {"date": "2026-05-19", "header": "TJGO", "title": "Autos Conclusos - P/ SENTEN\u00c7A"}, {"date": "2026-05-19", "header": "TJGO", "title": "Juntada de Documento - certidao de antecedentes- projudi e SEEU"}], "partes_adversarias": ["Parte sob sigilo legal", "MINISTERIO PUBLICO DO ESTADO DE GOIAS"], "process_date": null, "process_number": "5158828-53.2025.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "AGUARDANDO AUDI\u00caNCIA", "status_closure": "", "tribunal": "TJGO", "type": "FALSIFICA\u00c7\u00c3O, CORRUP\u00c7\u00c3O OU ADULTERA\u00c7\u00c3O DE PRODUTOS TERAP\u00caUTICOS"}, "13371542": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2026-02-25 11:23:54", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-04-07", "header": "TJGO", "title": "Certid\u00e3o Expedida - certid\u00e3o (arquivamento com ou sem custas)"}, {"date": "2026-04-07", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-04-07", "header": "TJGO", "title": "Transitado em Julgado - certid\u00e3o"}, {"date": "2026-04-07", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-03-23", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Geovanny Magalh\u00e3es Ferreira (Referente \u00e0 Mov. Decis\u00e3o -\u003e Outras Decis\u00f5es (04/03/2026 22:03:36))"}], "partes_adversarias": ["Parte sob sigilo legal"], "process_date": null, "process_number": "5158369-17.2026.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "", "tribunal": "TJGO", "type": "RESTITUI\u00c7\u00c3O DE COISAS APREENDIDAS"}, "13411032": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2025-08-11 00:00:00", "fase_grupo": "conhecimento", "folder": "3498", "movements_top5": [{"date": "2025-08-28", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2025-08-28", "header": "TJGO", "title": "Transitado em Julgado -"}, {"date": "2025-08-28", "header": "TJGO", "title": "Transitado em Julgado"}, {"date": "2025-08-28", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2025-08-11", "header": "TJGO", "title": "Intima\u00e7\u00e3o Lida - Por DANIEL ROBERTO DIAS DO AMARAL (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (06/08/2025 15:51:19))"}], "partes_adversarias": ["Parte sob sigilo legal", "MINISTERIO PUBLICO"], "process_date": "2025-04-03", "process_number": "5260923-64.2025.8.09.0051", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "AGENDADO ATENDIMENTO NO \u00d3RG\u00c3O (ENTRE EM CONTATO CONOSCO)", "status_closure": "2025-08-11 00:00:00", "tribunal": "TJGO", "type": "INQU\u00c9RITO POLICIAL"}, "13412335": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2025-05-01 00:00:00", "fase_grupo": "conhecimento", "folder": "2742", "movements_top5": [], "partes_adversarias": ["MINISTERIO PUBLICO DO ESTADO DE GOIAS"], "process_date": null, "process_number": "5177629-17.2025.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-05-01 00:00:00", "tribunal": "TJGO", "type": "CAUTELAR"}}</script>
+<script type="application/json" id="dados-processos-modal">{"12923874": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2026-02-02 11:44:43", "fase_grupo": "recursal", "folder": "", "movements_top5": [{"date": "2026-06-03", "header": "TJGO", "title": "Intima\u00e7\u00e3o Via Telefone Efetivada - Para LAS (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia (01/06/2026 22:33:47))"}, {"date": "2026-06-02", "header": "TJGO", "title": "Mandado Expedido - Para Goian\u00e9sia - Central de Mandados (Mandado n\u00ba 7534245 / Para: Ana Paula Ferreira)"}, {"date": "2026-06-02", "header": "TJGO", "title": "Certid\u00e3o Expedida - Tentativa de intima\u00e7\u00e3o"}, {"date": "2026-06-02", "header": "TJGO", "title": "Intima\u00e7\u00e3o Via Telefone Efetivada - Para TBAS (Referente \u00e0 Mov. Julgamento -\u003e Com Resolu\u00e7\u00e3o do M\u00e9rito -\u003e Proced\u00eancia (01/06/2026 22:33:47))"}, {"date": "2026-06-02", "header": "TJGO", "title": "Mandado Expedido - Para Goian\u00e9sia - Central de Mandados (Mandado n\u00ba 7534249 / Para: Geovanny Magalh\u00e3es Ferreira)"}], "partes_adversarias": ["Parte sob sigilo legal", "MINISTERIO PUBLICO DO ESTADO DE GOIAS"], "process_date": null, "process_number": "5158828-53.2025.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "RECURSO PROTOCOLADO/INICIADO", "status_closure": "2026-06-08 12:26:14", "tribunal": "TJGO", "type": "FALSIFICA\u00c7\u00c3O, CORRUP\u00c7\u00c3O OU ADULTERA\u00c7\u00c3O DE PRODUTOS TERAP\u00caUTICOS"}, "13371542": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2026-02-25 11:23:54", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [{"date": "2026-04-07", "header": "TJGO", "title": "Certid\u00e3o Expedida - certid\u00e3o (arquivamento com ou sem custas)"}, {"date": "2026-04-07", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2026-04-07", "header": "TJGO", "title": "Transitado em Julgado - certid\u00e3o"}, {"date": "2026-04-07", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2026-03-23", "header": "TJGO", "title": "Intima\u00e7\u00e3o Efetivada - Disponibilizada no primeiro e publicada no segundo dia \u00fatil (Lei 11.419/2006, art. 4\u00ba, \u00a7\u00a7 3\u00ba e 4\u00ba) - Adv(s). de Geovanny Magalh\u00e3es Ferreira (Referente \u00e0 Mov. Decis\u00e3o -\u003e Outras Decis\u00f5es (04/03/2026 22:03:36))"}], "partes_adversarias": ["Parte sob sigilo legal"], "process_date": null, "process_number": "5158369-17.2026.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "", "tribunal": "TJGO", "type": "RESTITUI\u00c7\u00c3O DE COISAS APREENDIDAS"}, "13411032": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2025-08-11 00:00:00", "fase_grupo": "conhecimento", "folder": "3498", "movements_top5": [{"date": "2025-08-28", "header": "TJGO", "title": "Processo Arquivado -"}, {"date": "2025-08-28", "header": "TJGO", "title": "Transitado em Julgado -"}, {"date": "2025-08-28", "header": "TJGO", "title": "Transitado em Julgado"}, {"date": "2025-08-28", "header": "TJGO", "title": "Processo Arquivado"}, {"date": "2025-08-11", "header": "TJGO", "title": "Intima\u00e7\u00e3o Lida - Por DANIEL ROBERTO DIAS DO AMARAL (Referente \u00e0 Mov. Decis\u00e3o -\u003e Determina\u00e7\u00e3o -\u003e Arquivamento (06/08/2025 15:51:19))"}], "partes_adversarias": ["Parte sob sigilo legal", "MINISTERIO PUBLICO"], "process_date": "2025-04-03", "process_number": "5260923-64.2025.8.09.0051", "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA", "stage": "AGENDADO ATENDIMENTO NO \u00d3RG\u00c3O (ENTRE EM CONTATO CONOSCO)", "status_closure": "2025-08-11 00:00:00", "tribunal": "TJGO", "type": "INQU\u00c9RITO POLICIAL"}, "13412335": {"cliente_name": "GEOVANNY MAGALHAES FERREIRA", "created_at": "2025-05-01 00:00:00", "fase_grupo": "conhecimento", "folder": "2742", "movements_top5": [], "partes_adversarias": ["MINISTERIO PUBLICO DO ESTADO DE GOIAS"], "process_date": null, "process_number": "5177629-17.2025.8.09.0051", "responsible": "MYREYA ALVES DOS SANTOS", "stage": "A\u00c7\u00c3O PROTOCOLADA/INICIADA", "status_closure": "2025-05-01 00:00:00", "tribunal": "TJGO", "type": "CAUTELAR"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"criminal": {"fase": {"colors": ["#2874a6"], "data": [3], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [2, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1, 1, 1], "labels": ["Falsifica\u00e7\u00e3o, Corrup\u00e7\u00e3o Ou Adultera\u00e7\u00e3o De Produtos Terap\u00eauticos", "Restitui\u00e7\u00e3o De Coisas Apreendidas", "Cautelar"]}, "tribunal": {"data": [3], "labels": ["TJGO"]}},
+"criminal": {"fase": {"colors": ["#2874a6", "#884ea0"], "data": [2, 1], "labels": ["Conhecimento", "Recursal"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [1, 2], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1, 1, 1], "labels": ["Falsifica\u00e7\u00e3o, Corrup\u00e7\u00e3o Ou Adultera\u00e7\u00e3o De Produtos Terap\u00eauticos", "Restitui\u00e7\u00e3o De Coisas Apreendidas", "Cautelar"]}, "tribunal": {"data": [3], "labels": ["TJGO"]}},
 "publico": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Inqu\u00e9rito Policial"]}, "tribunal": {"data": [1], "labels": ["TJGO"]}}
 }</script>
 

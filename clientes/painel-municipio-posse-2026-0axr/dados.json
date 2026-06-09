@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T10:08:29-03:00",
-    "gerado_em_humano": "08/06/2026 10:08",
+    "gerado_em": "2026-06-09T08:41:35-03:00",
+    "gerado_em_humano": "09/06/2026 08:41",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -642,6 +642,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Prazo Decorrido"
@@ -685,11 +690,6 @@
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Ofício(s) Expedido(s) - Ofício Precatório"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Certidão Expedida - expedição de documento"
         }
       ],
       "partes_adversarias": [
@@ -870,6 +870,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-30",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para Municipio De Posse (Mandado nº 6965728 / Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:47))"
+        },
+        {
           "date": "2026-03-11",
           "header": "TJGO",
           "title": "Mandado Expedido - Para Posse - Central de Mandados (Mandado nº 6965728 / Para: Municipio De Posse)"
@@ -892,12 +897,12 @@
         {
           "date": "2026-01-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-01-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2026-01-28",
@@ -913,11 +918,6 @@
           "date": "2025-12-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2025-06-27",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) JARMES ALVES DE OLIVEIRA JUNIOR (Referente à Mov. Despacho -> Mero Expediente (18/06/2025 15:13:14))"
         }
       ],
       "partes_adversarias": [
@@ -1332,9 +1332,9 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
-          "date": "2026-05-21",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (21/05/2026 16:36:06))"
         },
         {
           "date": "2026-05-21",
@@ -1345,6 +1345,11 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-21",
@@ -1375,11 +1380,6 @@
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Juntada de Documento - extrato/alvará PAGO"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
         }
       ],
       "partes_adversarias": [
@@ -1636,6 +1636,21 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão (cadastro dos autos no istj)"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Certidão de remessa dos autos ao STJ"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
           "date": "2026-03-24",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 19/03/2026 23:59:59 (Referente à Mov. Intimação Expedida (24/01/2026 21:41:38))"
@@ -1648,7 +1663,7 @@
         {
           "date": "2026-01-24",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
+          "title": "Certidão - Agravo em recurso especial autuado - AGRAVO STJ MOV. 99"
         },
         {
           "date": "2026-01-24",
@@ -1658,7 +1673,7 @@
         {
           "date": "2026-01-24",
           "header": "TJGO",
-          "title": "Certidão - Agravo em recurso especial autuado - AGRAVO STJ MOV. 99"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
         },
         {
           "date": "2026-01-23",
@@ -1669,21 +1684,6 @@
           "date": "2026-01-21",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (17/12/2025 16:27:02))"
-        },
-        {
-          "date": "2025-12-18",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lauro Ronei Domingues Barbosa (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial (17/12/2025 16:27:02))"
-        },
-        {
-          "date": "2025-12-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 17/12/2025 16:27:02)"
-        },
-        {
-          "date": "2025-12-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lauro Ronei Domingues Barbosa (Referente à Mov. Decisão -> Não-Admissão -> Recurso Especial - 17/12/2025 16:27:02)"
         }
       ],
       "partes_adversarias": [
@@ -1972,6 +1972,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-05-30",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para Municipio De Posse (Mandado nº 6927964 / Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:45))"
+        },
+        {
           "date": "2026-03-05",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 02/03/2026 23:59:59 (Referente à Mov. Despacho -> Mero Expediente (29/01/2026 20:31:45))"
@@ -1994,17 +1999,12 @@
         {
           "date": "2026-01-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-01-29",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2025-12-16",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 15/12/2025 23:59:59 (Referente à Mov. Ato Ordinatório (18/11/2025 10:51:24))"
+          "title": "Despacho -> Mero Expediente"
         },
         {
           "date": "2025-12-16",
@@ -2012,14 +2012,14 @@
           "title": "Autos Conclusos -"
         },
         {
+          "date": "2025-12-16",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Municipio De Posse em 15/12/2025 23:59:59 (Referente à Mov. Ato Ordinatório (18/11/2025 10:51:24))"
+        },
+        {
           "date": "2025-11-28",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Ato Ordinatório (18/11/2025 10:51:24))"
-        },
-        {
-          "date": "2025-11-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         }
       ],
       "partes_adversarias": [
@@ -3643,18 +3643,36 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 15536325,
+      "process_number": null,
+      "protocol_number": "9749/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-08 10:48:16",
+      "process_date": "2025-09-19",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 15,
+    "total": 16,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 10,
+      "Acompanhamento": 12,
       "Diligências": 0,
-      "Outras": 3
+      "Outras": 2
     },
-    "ultima_data": "2026-06-03"
+    "ultima_data": "2026-06-08"
   }
 }

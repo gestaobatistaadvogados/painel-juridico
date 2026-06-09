@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:42:13-03:00",
-    "gerado_em_humano": "08/06/2026 09:42",
+    "gerado_em": "2026-06-09T08:14:21-03:00",
+    "gerado_em_humano": "09/06/2026 08:14",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -28,6 +28,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - manifestação"
@@ -50,12 +55,12 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luiz Augusto Velloso Pires (Referente à Mov. Cálculo de Custas - 11/05/2026 18:36:50)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcus Vinicius Alves Moraes (Referente à Mov. Cálculo de Custas - 11/05/2026 18:36:50)"
         },
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcus Vinicius Alves Moraes (Referente à Mov. Cálculo de Custas - 11/05/2026 18:36:50)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luiz Augusto Velloso Pires (Referente à Mov. Cálculo de Custas - 11/05/2026 18:36:50)"
         },
         {
           "date": "2026-05-13",
@@ -71,11 +76,6 @@
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcus Vinicius Alves Moraes (Referente à Mov. Cálculo de Custas (11/05/2026 18:36:50))"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Associação de Apoio aos Proprietários de Veículos e Benefícios Mútuos (Referente à Mov. Cálculo de Custas - 11/05/2026 18:36:50)"
         }
       ],
       "partes_adversarias": [
@@ -1300,6 +1300,31 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mart Matos Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (05/06/2026 21:26:38))"
+        },
+        {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (05/06/2026 21:26:38))"
+        },
+        {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência em Parte"
+        },
+        {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mart Matos Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+        },
+        {
+          "date": "2026-06-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+        },
+        {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
@@ -1317,37 +1342,12 @@
         {
           "date": "2026-03-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mart Matos Dos Santos (Referente à Mov. Ato Ordinatório (12/03/2026 15:55:11))"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mart Matos Dos Santos (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
           "title": "Ato Ordinatório - Intimação das partes para impugnar/especificar provas que pretendem produzir"
         },
         {
           "date": "2026-03-12",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Ato Ordinatório (12/03/2026 15:55:11))"
-        },
-        {
-          "date": "2026-03-06",
-          "header": "TJGO",
-          "title": "Audiência de Conciliação Cejusc - Realizada sem Acordo - 05/03/2026 15:00"
-        },
-        {
-          "date": "2026-03-05",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Substabelecimento e carta de preposição"
         }
       ],
       "partes_adversarias": [
@@ -1519,9 +1519,39 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-22",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Alvará Expedido"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonardo Souza Costa (Referente à Mov. Juntada -> Petição (31/05/2026 17:12:29))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Juntada -> Petição (31/05/2026 17:12:29))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Juntada -> Petição - 31/05/2026 17:12:29)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leonardo Souza Costa (Referente à Mov. Juntada -> Petição - 31/05/2026 17:12:29)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Juntada -> Petição - 31/05/2026 17:12:29)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Juntada -> Petição (31/05/2026 17:12:29))"
+        },
+        {
+          "date": "2026-05-31",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Ciência decisão e status perícia"
         },
         {
           "date": "2026-05-22",
@@ -1529,44 +1559,14 @@
           "title": "Juntada de Documento - Comprovante de enc. de alvarás CEF e-mail."
         },
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Intimação Efetivada - Perito intimado - Prosseguir com os trabalhos - Agendar perícia"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonardo Souza Costa (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - intimar o perito a dar prosseguimento com os documentos constantes nos autos"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leonardo Souza Costa (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Matheus Carlos Ferreira Dos Reis (Referente à Mov. Despacho -> Mero Expediente (20/05/2026 15:28:46))"
         }
       ],
       "partes_adversarias": [
@@ -3257,9 +3257,44 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 20 dias)"
+        },
+        {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Decisão -> deferimento - Suspensão."
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para ANTONIO DE SOUSA JUNIOR em 19/05/2026 23:59:59 (Referente Ã Mov. Decisão -> Outras Decisões (23/04/2026 14:48:58))"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS em 16/04/2026 23:59:59 (Referente Ã Mov. Juntada -> Petição (16/03/2026 16:50:13))"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS em 19/05/2026 23:59:59 (Referente Ã Mov. Decisão -> Outras Decisões (23/04/2026 14:48:58))"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Juntada -> Petição - Informa protocolo de Agravo de Instrumento"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:48:58))"
         },
         {
           "date": "2026-04-23",
@@ -3270,41 +3305,6 @@
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ANTONIO DE SOUSA JUNIOR (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões - Rejeita Embargos"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:48:58))"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - Contrarazoes aos Embargos de Declaração"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS - Polo Passivo (Referente à Mov. Juntada -> Petição - 16/03/2026 16:50:13)"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de APROVEC ASSOCIACAO DE APOIO AOS PROPRIETARIOS DE VEICULOS (Referente à Mov. Juntada -> Petição (16/03/2026 16:50:13))"
         }
       ],
       "partes_adversarias": [
@@ -3688,7 +3688,7 @@
       "process_number": "5031583-59.2025.8.09.0051",
       "protocol_number": null,
       "folder": "2115",
-      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
       "step": "EXECUÇÃO/COBRANÇA",
       "type": "INDENIZAÇÃO POR DANOS MATERIAIS C/C DANOS MORAIS",
       "group": "PRIVADO",
@@ -3751,9 +3751,12 @@
       "partes_adversarias": [
         {
           "name": "JENNIFER CRISTINA SILVA BUENO"
+        },
+        {
+          "name": "REINALDO CAVALCANTE MARQUES"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "execucao",
       "tribunal": "TJGO"
     },
     {
@@ -4484,6 +4487,79 @@
       "partes_adversarias": [
         {
           "name": "ANTONIO DE SOUSA JUNIOR"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 13411244,
+      "process_number": "5634843-97.2022.8.09.0149",
+      "protocol_number": null,
+      "folder": "1332",
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2024-06-27 00:00:00",
+      "created_at": "2024-06-27 00:00:00",
+      "process_date": "2022-10-14",
+      "responsible": "FELLIPE LOPES",
+      "movements": [
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Aprovec- Go Associação De Apoio Aos Proprietários De Veículo Do Estado De Goiás (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 16:47:14)"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Charles Barros Dos Santos (Referente à Mov. Despacho -> Mero Expediente (25/05/2026 16:47:14))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aprovec- Go Associação De Apoio Aos Proprietários De Veículo Do Estado De Goiás (Referente à Mov. Despacho -> Mero Expediente (25/05/2026 16:47:14))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Charles Barros Dos Santos (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 16:47:14)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-03-05",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Charles Barros Dos Santos em 04/03/2026 23:59:59 (Referente à Mov. Ato Ordinatório (23/02/2026 13:41:34))"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Charles Barros Dos Santos - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimar parte autora."
+        },
+        {
+          "date": "2026-02-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Charles Barros Dos Santos (Referente à Mov. Ato Ordinatório (23/02/2026 13:41:34))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "CHARLES BARROS DOS SANTOS"
         }
       ],
       "fase_grupo": "conhecimento",
@@ -6006,14 +6082,39 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-27",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Citação Efetivada - Para AAAPVEBMA (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AAAPVEBMA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Decisão -> Outras Decisões (01/06/2026 16:28:55))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Associacao De Apoio Aos Proprietarios De Veiculos E Beneficios Mutuos Apv (Referente à Mov. Decisão -> Outras Decisões (01/06/2026 16:28:55))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Intimem-se as partes para manifestarem"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         },
         {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para AAAPVEBMA (Referente à Mov. Certidão Expedida (17/04/2026 17:19:49))"
         },
         {
           "date": "2026-05-26",
@@ -6029,31 +6130,6 @@
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. AUDIÊNCIA DE CONCILIAÇÃO - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (18/05/2026 14:00:07))"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Audiência de Conciliação - Realizada sem Acordo - 18/05/2026 13:30"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contestação - Contestação"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) AAAPVEBMA - Código de Rastreamento Correios: YH153596429BR idPendenciaCorreios109187645432015873960784760idPendenciaCorreios"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcelo Francisco De Melo (Referente à Mov. Audiência de Conciliação (17/04/2026 17:19:05))"
         }
       ],
       "partes_adversarias": [
@@ -6346,12 +6422,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 45,
+    "total": 46,
     "categorias": {
-      "Peças": 8,
+      "Peças": 9,
       "Audiências": 4,
-      "Comunicações": 3,
-      "Acompanhamento": 21,
+      "Comunicações": 2,
+      "Acompanhamento": 22,
       "Diligências": 5,
       "Outras": 4
     },

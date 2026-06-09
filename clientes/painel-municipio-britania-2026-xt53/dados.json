@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T10:04:46-03:00",
-    "gerado_em_humano": "08/06/2026 10:04",
+    "gerado_em": "2026-06-09T08:37:42-03:00",
+    "gerado_em_humano": "09/06/2026 08:37",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -2059,19 +2059,24 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Ofício Efetivado - (Referente à Mov. Decisão -> Outras Decisões (24/05/2026 14:21:59))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Ofício(s) Expedido(s)"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Decisão -> Outras Decisões (24/05/2026 14:21:59))"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
         },
         {
           "date": "2026-05-25",
@@ -2084,6 +2089,16 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SIMONE GAMA DOS SANTOS (Referente à Mov. Decisão -> Outras Decisões (24/05/2026 14:21:59))"
         },
         {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA (Referente à Mov. Decisão -> Outras Decisões - 24/05/2026 14:21:59)"
+        },
+        {
           "date": "2026-05-24",
           "header": "TJGO",
           "title": "Decisão -> Outras Decisões"
@@ -2092,21 +2107,6 @@
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Processo Desarquivado -"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Juntada de Documento - OFICIO 88 2026"
         }
       ],
       "partes_adversarias": [
@@ -2357,6 +2357,16 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Baixa Definitiva - PROCEDO À BAIXA DEFINITIVA E O ARQUIVAMENTO DOS AUTOS"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Precatório Enviado ao Tribunal (20/05/2026 13:16:41))"
@@ -2395,16 +2405,6 @@
           "date": "2026-05-02",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gildete Lima Carvalho Oliveira (Referente à Mov. Ato Ordinatório (27/04/2026 15:55:55))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         }
       ],
       "partes_adversarias": [

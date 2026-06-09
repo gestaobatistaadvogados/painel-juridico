@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:46:54-03:00",
-    "gerado_em_humano": "08/06/2026 09:46",
+    "gerado_em": "2026-06-09T08:19:13-03:00",
+    "gerado_em_humano": "09/06/2026 08:19",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -101,9 +101,14 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-04-29",
+          "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Romildo Pires Das Virgens - Polo Ativo (Referente à Mov. Juntada -> Petição - 15/04/2026 16:03:18)"
+          "title": "Autos Conclusos - P/ SENTENÃA"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - ACORDO"
         },
         {
           "date": "2026-04-29",
@@ -111,14 +116,19 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. Juntada -> Petição (15/04/2026 16:03:18))"
         },
         {
-          "date": "2026-04-24",
+          "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\""
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Romildo Pires Das Virgens - Polo Ativo (Referente à Mov. Juntada -> Petição - 15/04/2026 16:03:18)"
         },
         {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Evolução da Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\""
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"112-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Cumprimento de Sentença/Decisão -> Cumprimento de sentença\" para a classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\""
         },
         {
           "date": "2026-04-15",
@@ -133,17 +143,7 @@
         {
           "date": "2026-04-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Romildo Pires Das Virgens (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Procedência em Parte -"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (CNJ:221) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência em Parte (08/04/2026 09:14:04))"
         },
         {
           "date": "2026-04-08",
@@ -468,12 +468,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 1,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },

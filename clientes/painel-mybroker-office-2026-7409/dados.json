@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:49:34-03:00",
-    "gerado_em_humano": "08/06/2026 09:49",
+    "gerado_em": "2026-06-09T08:21:57-03:00",
+    "gerado_em_humano": "09/06/2026 08:21",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
         {
           "date": "2026-05-19",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
         }
       ],
       "partes_adversarias": [

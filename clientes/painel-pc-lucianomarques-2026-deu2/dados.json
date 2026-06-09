@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T10:21:18-03:00",
-    "gerado_em_humano": "08/06/2026 10:21",
+    "gerado_em": "2026-06-09T08:54:51-03:00",
+    "gerado_em_humano": "09/06/2026 08:54",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,26 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - 1ª Câmara Criminal (Direcionada Magistrado) - Distribuído para: DESEMBARGADOR J. PAGANUCCI JR."
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Recurso Convertido em Processo"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Certidão Expedida - CAC dos acudos"
@@ -45,16 +65,6 @@
         {
           "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogarorios Jairo Gomes e Dário Fonseca"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Leitura da denúncia aos acusados"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
           "title": "Mídia Publicada - Envio de Mídia Gravada em 20/05/2026 - 13:00 - Qualificação e Interrogatório Ana Lídia, Luciano Marques e Renato José"
         },
         {
@@ -66,16 +76,6 @@
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) RAFAEL SIMONETTI BUENO DA SILVA (Referente à Mov. Audiência de Instrução (12/05/2026 16:20:51))"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Desabilitação de Responsável - Promotor Responsável Desabilitado: Tiago Santana Gonçalves"
         }
       ],
       "partes_adversarias": [

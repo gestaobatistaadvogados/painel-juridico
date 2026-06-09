@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:52:08-03:00",
-    "gerado_em_humano": "08/06/2026 09:52",
+    "gerado_em": "2026-06-09T08:24:35-03:00",
+    "gerado_em_humano": "09/06/2026 08:24",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -99,7 +99,58 @@
       "created_at": "2025-03-06 00:00:00",
       "process_date": "2024-07-26",
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2025-08-13",
+          "header": "TJRJ",
+          "title": "Arquivado Definitivamente"
+        },
+        {
+          "date": "2025-08-13",
+          "header": "TJRJ",
+          "title": "Baixa Definitiva"
+        },
+        {
+          "date": "2025-08-12",
+          "header": "TJRJ",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2025-08-12",
+          "header": "TJRJ",
+          "title": "Juntada de mandado"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJRJ",
+          "title": "Decorrido prazo de GLOBALTEK WINDOW FILMS BRASIL - IMPORTACAO E DISTRIBUICAO LTDA em 09/07/2025 23:59."
+        },
+        {
+          "date": "2025-07-10",
+          "header": "TJRJ",
+          "title": "Expedição de Certidão."
+        },
+        {
+          "date": "2025-07-08",
+          "header": "TJRJ",
+          "title": "Ato ordinatório praticado"
+        },
+        {
+          "date": "2025-07-06",
+          "header": "TJRJ",
+          "title": "Decorrido prazo de GLOBALTEK WINDOW FILMS BRASIL - IMPORTACAO E DISTRIBUICAO LTDA em 03/07/2025 23:59."
+        },
+        {
+          "date": "2025-07-04",
+          "header": "TJRJ",
+          "title": "Juntada de Petição de requisição de mandado de pagamento"
+        },
+        {
+          "date": "2025-07-03",
+          "header": "TJRJ",
+          "title": "Juntada de Petição de petição"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "EVERTON PONTES TEIXEIRA"
@@ -123,6 +174,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJMA",
+          "title": "Juntada de Petição de petição"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJMA",
           "title": "Disponibilizado no DJ Eletrônico em  21/05/2026"
@@ -145,12 +201,12 @@
         {
           "date": "2025-12-02",
           "header": "TJMA",
-          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 01/12/2025 23:59."
+          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 01/12/2025 23:59."
         },
         {
           "date": "2025-12-02",
           "header": "TJMA",
-          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 01/12/2025 23:59."
+          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 01/12/2025 23:59."
         },
         {
           "date": "2025-11-18",
@@ -160,17 +216,12 @@
         {
           "date": "2025-11-06",
           "header": "TJMA",
-          "title": "Juntada de Petição de contrarrazões"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
           "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
         },
         {
           "date": "2025-11-06",
           "header": "TJMA",
-          "title": "Publicado Intimação em 06/11/2025."
+          "title": "Juntada de Petição de contrarrazões"
         }
       ],
       "partes_adversarias": [

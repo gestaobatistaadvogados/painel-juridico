@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-08T09:46:25-03:00",
-    "gerado_em_humano": "08/06/2026 09:46",
+    "gerado_em": "2026-06-09T08:18:43-03:00",
+    "gerado_em_humano": "09/06/2026 08:18",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -101,9 +101,9 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-05-22",
+          "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Embargos - 15/05/2026 19:08:54)"
+          "title": "Juntada -> Petição - Contrarrazões aos Embargos de Declaração"
         },
         {
           "date": "2026-05-22",
@@ -111,14 +111,14 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Juntada -> Petição -> Embargos (15/05/2026 19:08:54))"
         },
         {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Embargos - 15/05/2026 19:08:54)"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Embargos - EMBARGOS DE DECLARAÇÃO"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
         },
         {
           "date": "2026-05-06",
@@ -141,14 +141,14 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (06/05/2026 17:27:40))"
         },
         {
+          "date": "2026-05-06",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Alegações Finais"
         }
       ],
       "partes_adversarias": [
