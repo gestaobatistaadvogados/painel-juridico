@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:10:39-03:00",
-    "gerado_em_humano": "09/06/2026 08:10",
+    "gerado_em": "2026-06-10T08:49:43-03:00",
+    "gerado_em_humano": "10/06/2026 08:49",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -2983,6 +2983,41 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vega Construtora Xxvi Ltda. (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (01/06/2026 14:45:57))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marina Pereira Lima Stein (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (01/06/2026 14:45:57))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Decisão -> Acolhimento em Parte de Embargos de Declaração"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marina Pereira Lima Stein (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VCXL (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (01/06/2026 14:45:57))"
+        },
+        {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
@@ -2995,42 +3030,7 @@
         {
           "date": "2026-04-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vega Construtora Xxvi Ltda. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (15/04/2026 22:20:16))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marina Pereira Lima Stein (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (15/04/2026 22:20:16))"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. - )"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VCXL (Referente à Mov. - )"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marina Pereira Lima Stein (Referente à Mov. - )"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo -"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Homologação de Decisão de Juiz Leigo (15/04/2026 22:20:16))"
         }
       ],
       "partes_adversarias": [
@@ -3399,6 +3399,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - para MY BROKER IMOBILIÁRIA LTDA-ME em 01/06/2026 23:59:59 (Referente Ã Mov. Decisão -> Cancelamento da distribuição (07/05/2026 10:54:17))"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MY BROKER IMOBILIÁRIA LTDA-ME (Referente à Mov. Decisão -> Cancelamento da distribuição (CNJ:83) - )"
@@ -3437,16 +3447,6 @@
           "date": "2026-01-09",
           "header": "TJGO",
           "title": "Decisão -> Outras Decisões -"
-        },
-        {
-          "date": "2025-10-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2025-10-07",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutoria"
         }
       ],
       "partes_adversarias": [

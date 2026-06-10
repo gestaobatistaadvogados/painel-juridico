@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:18:14-03:00",
-    "gerado_em_humano": "09/06/2026 08:18",
+    "gerado_em": "2026-06-10T08:57:22-03:00",
+    "gerado_em_humano": "10/06/2026 08:57",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": "2024-04-09",
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-06-02",
+          "header": "TJMG",
+          "title": "Mandado devolvido entregue ao destinatário CINCOL CONSTRUTORA LTDA - ME - CNPJ: 11.466.821/0001-34 (REQUERIDO(A))"
+        },
         {
           "date": "2026-05-26",
           "header": "TJMG",
@@ -71,11 +76,6 @@
           "date": "2025-11-25",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2025-11-14",
-          "header": "TJMG",
-          "title": "Publicado Intimação em 14/11/2025."
         }
       ],
       "partes_adversarias": [
@@ -660,12 +660,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 12,
+    "total": 11,
     "categorias": {
       "Peças": 2,
       "Audiências": 1,
       "Comunicações": 3,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 2,
       "Outras": 0
     },

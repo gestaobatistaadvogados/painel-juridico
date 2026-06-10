@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:04:33-03:00",
-    "gerado_em_humano": "09/06/2026 08:04",
+    "gerado_em": "2026-06-10T08:43:34-03:00",
+    "gerado_em_humano": "10/06/2026 08:43",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -3215,6 +3215,41 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Despacho - recebe cumprimento de sentença."
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Instituto De Assistencia Dos Servidores Publicos Do Estado De Goias - Ipasgo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Maria Bernardo De Melo (Referente à Mov. Despacho -> Mero Expediente (02/06/2026 15:01:01))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Instituto De Assistencia Dos Servidores Publicos Do Estado De Goias - Ipasgo (Referente à Mov. Despacho -> Mero Expediente (02/06/2026 15:01:01))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Despacho -> Mero Expediente (02/06/2026 15:01:01))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Maria Bernardo De Melo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DESPACHO"
@@ -3228,41 +3263,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Juntada -> Petição - Cumprimento de Sentença"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Instituto De Assistencia Dos Servidores Publicos Do Estado De Goias - Ipasgo (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Maria Bernardo De Melo (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (CNJ:15163) - )"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Decisão -> Acolhimento em Parte de Embargos de Declaração -"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (14/03/2026 09:56:04))"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Instituto De Assistencia Dos Servidores Publicos Do Estado De Goias - Ipasgo (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (14/03/2026 09:56:04))"
-        },
-        {
-          "date": "2026-03-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Maria Bernardo De Melo (Referente à Mov. Decisão -> Acolhimento em Parte de Embargos de Declaração (14/03/2026 09:56:04))"
         }
       ],
       "partes_adversarias": [
@@ -5262,9 +5262,34 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-19",
+          "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agrevo Interno"
+          "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 03/06/2026 19:03:11)"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 22/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - Não Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (03/06/2026 19:03:11))"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 03/06/2026 19:03:11)"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (03/06/2026 19:03:11))"
         },
         {
           "date": "2026-05-19",
@@ -5272,9 +5297,9 @@
           "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Contrarrazões ao Agravo Interno"
+          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agrevo Interno"
         },
         {
           "date": "2026-05-07",
@@ -5284,32 +5309,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 07/05/2026 19:46:45)"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestacao"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a (Referente à Mov. Despacho -> Mero Expediente (15/04/2026 19:27:18))"
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Equatorial Goiás Distribuidora De Energia S/a - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 15/04/2026 19:27:18)"
-        },
-        {
-          "date": "2026-04-15",
-          "header": "TJGO",
-          "title": "Processo Reativado"
+          "title": "Despacho -> Mero Expediente - Contrarrazões ao Agravo Interno"
         }
       ],
       "partes_adversarias": [
@@ -9954,15 +9954,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 222,
+    "total": 219,
     "categorias": {
-      "Peças": 27,
-      "Audiências": 28,
+      "Peças": 28,
+      "Audiências": 26,
       "Comunicações": 48,
-      "Acompanhamento": 77,
+      "Acompanhamento": 74,
       "Diligências": 30,
-      "Outras": 12
+      "Outras": 13
     },
-    "ultima_data": "2026-06-08"
+    "ultima_data": "2026-06-09"
   }
 }

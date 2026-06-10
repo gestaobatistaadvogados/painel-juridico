@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:19:54-03:00",
-    "gerado_em_humano": "09/06/2026 08:19",
+    "gerado_em": "2026-06-10T08:59:03-03:00",
+    "gerado_em_humano": "10/06/2026 08:59",
     "slug_url": "painel-mybroker-curitiba-2026-isx9",
     "departamento": "direito_imobiliario"
   },
@@ -28,14 +28,14 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
-          "date": "2026-05-29",
+          "date": "2026-06-09",
           "header": "TJPR",
-          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - De MANDADO expedido(a) (seq. 129) em 13/05/2026 - Referente ao evento JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE (13/04/2026). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
+          "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 139) JUNTADA DE ATO ORDINATÓRIO (29/05/2026) e ao evento de expedição seq. 140."
         },
         {
           "date": "2026-05-29",
           "header": "TJPR",
-          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - De MANDADO expedido(a) (seq. 130) em 13/05/2026 - Referente ao evento JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE (13/04/2026). Parte: LEONARDO VICENTE SCHEWTSCHIK"
+          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - De MANDADO expedido(a) (seq. 129) em 13/05/2026 - Referente ao evento JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE (13/04/2026). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
         },
         {
           "date": "2026-05-29",
@@ -48,14 +48,19 @@
           "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 139) JUNTADA DE ATO ORDINATÓRIO (29/05/2026)."
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-29",
           "header": "TJPR",
-          "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 129) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:09). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
+          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - De MANDADO expedido(a) (seq. 130) em 13/05/2026 - Referente ao evento JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE (13/04/2026). Parte: LEONARDO VICENTE SCHEWTSCHIK"
         },
         {
           "date": "2026-05-21",
           "header": "TJPR",
           "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 130) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:39). Parte: LEONARDO VICENTE SCHEWTSCHIK"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJPR",
+          "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 129) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:09). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
         },
         {
           "date": "2026-05-14",
@@ -71,11 +76,6 @@
           "date": "2026-05-13",
           "header": "TJPR",
           "title": "EXPEDIÇÃO DE MANDADO Prazo de 15 dias úteis. Referente ao evento (seq. 128) JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE(13/04/2026 14:19:53). Natureza: Citação. Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK. Identificador do Cumprimento: 0016"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJPR",
-          "title": "EXPEDIÇÃO DE MANDADO Prazo de 15 dias úteis. Referente ao evento (seq. 128) JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE(13/04/2026 14:19:53). Natureza: Citação. Parte: LEONARDO VICENTE SCHEWTSCHIK. Identificador do Cumprimento: 0017"
         }
       ],
       "partes_adversarias": [

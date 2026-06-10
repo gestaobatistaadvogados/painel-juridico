@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:41:35-03:00",
-    "gerado_em_humano": "09/06/2026 08:41",
+    "gerado_em": "2026-06-10T09:21:02-03:00",
+    "gerado_em_humano": "10/06/2026 09:21",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -794,9 +794,9 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
-          "date": "2026-05-21",
+          "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (21/05/2026 16:30:42))"
         },
         {
           "date": "2026-05-21",
@@ -807,6 +807,11 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Processo Desarquivado"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-21",
@@ -837,11 +842,6 @@
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Juntada de Documento - comprovante/alvará pago"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
         }
       ],
       "partes_adversarias": [
@@ -3664,15 +3664,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 16,
+    "total": 18,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 2,
       "Acompanhamento": 12,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 3
     },
-    "ultima_data": "2026-06-08"
+    "ultima_data": "2026-06-09"
   }
 }

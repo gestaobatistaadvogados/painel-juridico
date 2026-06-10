@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:56:09-03:00",
-    "gerado_em_humano": "09/06/2026 08:56",
+    "gerado_em": "2026-06-10T09:35:53-03:00",
+    "gerado_em_humano": "10/06/2026 09:35",
     "slug_url": "painel-pc-humbertocampos-2026-0240",
     "departamento": "direito_criminal"
   },
@@ -170,8 +170,8 @@
       "process_number": "6071238-21.2025.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO JULGAMENTO",
-      "step": "JUDICIAL",
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
       "type": "DIFAMAÇÃO E INJÚRIA",
       "group": "CRIMINAL",
       "status_closure": null,
@@ -235,20 +235,20 @@
           "name": "Parte sob sigilo legal"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "arquivados",
       "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 0,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 6,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-08"
+    "ultima_data": null
   }
 }

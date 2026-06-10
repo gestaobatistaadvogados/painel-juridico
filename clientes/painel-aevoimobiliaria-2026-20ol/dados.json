@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:23:31-03:00",
-    "gerado_em_humano": "09/06/2026 08:23",
+    "gerado_em": "2026-06-10T09:02:44-03:00",
+    "gerado_em_humano": "10/06/2026 09:02",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -544,6 +544,21 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Passivo) Rodrigo Vinicius Goncalez - Código de Rastreamento Correios: YH197890628BR idPendenciaCorreios109087605432015873960221703idPendenciaCorreios"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Citação Expedida - E-Carta expedido para a Ré - Intimação/Cumprimento de Sentença"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Certidão Expedida - (E-Carta Expedido) - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS E NÃO PELA UPJ"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Certidão Expedida - UPJ - CERTIDÃO - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
@@ -561,11 +576,6 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
           "title": "Juntada de Documento - Resultado RENAJUD"
         },
         {
@@ -579,19 +589,9 @@
           "title": "Certidão Expedida - CENTRAL RENAJUD"
         },
         {
-          "date": "2026-04-17",
+          "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Rodrigo Vinicius Goncalez em 15/04/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (19/03/2026 15:08:15))"
-        },
-        {
-          "date": "2026-04-11",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para Rodrigo Vinicius Goncalez (Referente à Mov. Decisão -> Outras Decisões (19/03/2026 15:08:15))"
-        },
-        {
-          "date": "2026-03-28",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Rodrigo Vinicius Goncalez - Código de Rastreamento Correios: YH102112206BR idPendenciaCorreios109587655432015873960900648idPendenciaCorreios"
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
         }
       ],
       "partes_adversarias": [

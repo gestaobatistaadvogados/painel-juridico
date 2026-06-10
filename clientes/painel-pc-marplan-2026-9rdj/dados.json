@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:56:25-03:00",
-    "gerado_em_humano": "09/06/2026 08:56",
+    "gerado_em": "2026-06-10T09:36:09-03:00",
+    "gerado_em_humano": "10/06/2026 09:36",
     "slug_url": "painel-pc-marplan-2026-9rdj",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,11 @@
       "process_date": "2026-04-13",
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Parecer de Mérito (MP)"
+        },
         {
           "date": "2026-04-23",
           "header": "TJGO",
@@ -95,15 +100,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 2,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 0,
       "Diligências": 0,
-      "Outras": 1
+      "Outras": 2
     },
-    "ultima_data": "2026-04-27"
+    "ultima_data": "2026-06-09"
   }
 }

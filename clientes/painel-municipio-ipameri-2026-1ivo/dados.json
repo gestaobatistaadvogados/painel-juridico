@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:27:54-03:00",
-    "gerado_em_humano": "09/06/2026 08:27",
+    "gerado_em": "2026-06-10T09:07:12-03:00",
+    "gerado_em_humano": "10/06/2026 09:07",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -3485,6 +3485,26 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente Ã Mov. Cálculo de Custas - 01/06/2026 15:43:23)"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Cálculo de Custas"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Cálculo de Custas (01/06/2026 15:43:23))"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Cálculo de Custas - 01/06/2026 15:43:23)"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Certidão Expedida - Certidão - Contadoria."
@@ -3507,32 +3527,12 @@
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-03-16",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Despacho -> Mero Expediente (11/03/2026 18:40:27))"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ronizze Cristina Silva Peixoto (Referente à Mov. Despacho -> Mero Expediente - 11/03/2026 18:40:27)"
-        },
-        {
-          "date": "2026-03-11",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Certidão - Prazo."
+          "title": "Autos Conclusos -"
         }
       ],
       "partes_adversarias": [

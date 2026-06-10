@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-09T08:56:59-03:00",
-    "gerado_em_humano": "09/06/2026 08:56",
+    "gerado_em": "2026-06-10T09:36:43-03:00",
+    "gerado_em_humano": "10/06/2026 09:36",
     "slug_url": "painel-pc-valdomirogoncalves-2026-ojyc",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,9 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [],
       "partes_adversarias": [
+        {
+          "name": "Parte sob sigilo legal"
+        },
         {
           "name": "Parte sob sigilo legal"
         }
@@ -59,15 +62,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 0,
+    "total": 5,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
-      "Diligências": 0,
+      "Acompanhamento": 3,
+      "Diligências": 1,
       "Outras": 0
     },
-    "ultima_data": null
+    "ultima_data": "2026-06-09"
   }
 }
