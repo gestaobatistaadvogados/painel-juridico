@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:04:31-03:00",
-    "gerado_em_humano": "10/06/2026 09:04",
+    "gerado_em": "2026-06-11T09:34:55-03:00",
+    "gerado_em_humano": "11/06/2026 09:34",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -28,9 +28,24 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Intimação Via Whatsapp - Autor(a) - 1ª UPJ"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Cálculo de Custas"
+        },
+        {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Processo Reativado - Certidão - Reativar/ Desarquivar processo - 1ª UPJ"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-05-14",
@@ -41,11 +56,6 @@
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
         },
         {
           "date": "2026-04-13",
@@ -60,22 +70,12 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Alvará Expedido -"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Alvará expedido pelo pagamento voluntário (comprovante ao evento 81)"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Alvará Entregue - (Referente à Mov. Juntada de Documento (08/04/2026 18:15:46))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
           "title": "Alvará Expedido"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Alvará Expedido -"
         }
       ],
       "partes_adversarias": [
@@ -749,10 +749,10 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 1,
     "categorias": {
       "Peças": 0,
-      "Audiências": 1,
+      "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
       "Diligências": 0,

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:21:02-03:00",
-    "gerado_em_humano": "10/06/2026 09:21",
+    "gerado_em": "2026-06-11T09:51:01-03:00",
+    "gerado_em_humano": "11/06/2026 09:51",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -2396,6 +2396,79 @@
       "tribunal": "TJGO"
     },
     {
+      "id": 13414003,
+      "process_number": "5435026-53.2018.8.09.0000",
+      "protocol_number": null,
+      "folder": "3409",
+      "stage": "AGUARDANDO AUDIÊNCIA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO ORDINÁRIO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-07-10 00:00:00",
+      "created_at": "2025-07-10 00:00:00",
+      "process_date": "2018-09-14",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)O MUNICIPIO DE POSSE-GO (Referente à Mov. Decisão -> Outras Decisões (16/07/2025 15:14:48))"
+        },
+        {
+          "date": "2026-05-18",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Thiago Leandro Dias Pinheiro (Referente à Mov. Decisão -> Outras Decisões (16/07/2025 15:14:48))"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de O MUNICIPIO DE POSSE-GO - Polo Passivo (Referente à Mov. Decisão -> Outras Decisões - 16/07/2025 15:14:48)"
+        },
+        {
+          "date": "2026-05-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Posse - Promotoria da Vara Criminal - I (Referente à Mov. Decisão -> Outras Decisões - 16/07/2025 15:14:48)"
+        },
+        {
+          "date": "2025-11-18",
+          "header": "TJGO",
+          "title": "Expedição de Documento - CERTIDÃO"
+        },
+        {
+          "date": "2025-07-16",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2025-07-16",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões -"
+        },
+        {
+          "date": "2025-07-15",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Reposta à Acusação"
+        },
+        {
+          "date": "2025-07-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Resposta à Acyysalçai"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
       "id": 13414442,
       "process_number": null,
       "protocol_number": "4481/25",
@@ -3664,15 +3737,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 18,
+    "total": 20,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 12,
+      "Acompanhamento": 14,
       "Diligências": 0,
-      "Outras": 3
+      "Outras": 4
     },
-    "ultima_data": "2026-06-09"
+    "ultima_data": "2026-06-11"
   }
 }

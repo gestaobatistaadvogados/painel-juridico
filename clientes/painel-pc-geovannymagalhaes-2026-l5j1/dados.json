@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:35:32-03:00",
-    "gerado_em_humano": "10/06/2026 09:35",
+    "gerado_em": "2026-06-11T10:05:06-03:00",
+    "gerado_em_humano": "11/06/2026 10:05",
     "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,26 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - certidão (trânsito em julgado - MP - 1. Grau)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada de Documento - CONCLUÍDO COM AUTORIA DEFINIDA"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Apelação - Recursos de Apelação"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Intimação Via Telefone Efetivada - Para LAS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
@@ -35,7 +55,7 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534245 / Para: Ana Paula Ferreira)"
+          "title": "Intimação Via Telefone Efetivada - Para MRS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
         },
         {
           "date": "2026-06-02",
@@ -50,32 +70,12 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
+          "title": "Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534245 / Para: Ana Paula Ferreira)"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
           "title": "Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534249 / Para: Geovanny Magalhães Ferreira)"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Intimação Via Telefone Efetivada - Para MRS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Lauro Machado Nogueira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
-        },
-        {
-          "date": "2026-06-01",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Procedência - Sentença Condenatória. Artigo 273, §§ 1º e 1º - B , incisos I e V do Código Pena"
-        },
-        {
-          "date": "2026-06-01",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
-        },
-        {
-          "date": "2026-06-01",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Geovanny Magalhães Ferreira - Polo Passivo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         }
       ],
       "partes_adversarias": [

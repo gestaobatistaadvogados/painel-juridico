@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:04:47-03:00",
-    "gerado_em_humano": "10/06/2026 09:04",
+    "gerado_em": "2026-06-11T09:35:10-03:00",
+    "gerado_em_humano": "11/06/2026 09:35",
     "slug_url": "painel-municipio-rioquente-2026-klpo",
     "departamento": "direito_publico"
   },
@@ -228,11 +228,11 @@
       "process_number": null,
       "protocol_number": null,
       "folder": null,
-      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
-      "step": "ADMINISTRATIVO",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
       "type": "ADMINISTRATIVO",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-10 19:46:01",
       "created_at": "2026-03-18 15:48:24",
       "process_date": "2026-03-18",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
@@ -243,9 +243,9 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 5,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 3,

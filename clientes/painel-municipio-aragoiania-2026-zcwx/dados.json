@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:29:53-03:00",
-    "gerado_em_humano": "10/06/2026 09:29",
+    "gerado_em": "2026-06-11T09:59:41-03:00",
+    "gerado_em_humano": "11/06/2026 09:59",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -9169,11 +9169,11 @@
       "process_number": null,
       "protocol_number": "417/26",
       "folder": null,
-      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
-      "step": "ADMINISTRATIVO",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
       "type": "TCM",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-10 10:32:04",
       "created_at": "2026-05-26 11:46:27",
       "process_date": "2026-05-25",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
@@ -9451,18 +9451,54 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 15624508,
+      "process_number": null,
+      "protocol_number": "AUTOS EXTRAJUDICIAIS N. 202500418685",
+      "folder": "MINISTÉRIO PÚBLICO ARAGOIÂNIA",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-10 11:24:54",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 15624688,
+      "process_number": null,
+      "protocol_number": "AUTOS EXTRAJUDICIAIS N. 202600097146",
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-10 11:31:42",
+      "process_date": null,
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 33,
+    "total": 31,
     "categorias": {
-      "Peças": 2,
+      "Peças": 4,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 20,
       "Diligências": 2,
-      "Outras": 9
+      "Outras": 5
     },
-    "ultima_data": "2026-06-09"
+    "ultima_data": "2026-06-10"
   }
 }

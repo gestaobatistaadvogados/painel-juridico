@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:07:12-03:00",
-    "gerado_em_humano": "10/06/2026 09:07",
+    "gerado_em": "2026-06-11T09:37:32-03:00",
+    "gerado_em_humano": "11/06/2026 09:37",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -28,6 +28,16 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TRF01",
+          "title": "Juntada de petição intercorrente"
+        },
+        {
           "date": "2026-05-25",
           "header": "TRF01",
           "title": "Juntada de manifestação"
@@ -40,22 +50,12 @@
         {
           "date": "2026-05-06",
           "header": "TRF01",
-          "title": "Disponibilizado no DJ Eletrônico em 05/05/2026"
+          "title": "Publicado Intimação em 06/05/2026."
         },
         {
           "date": "2026-05-06",
           "header": "TRF01",
-          "title": "Publicado Intimação em 06/05/2026."
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TRF01",
-          "title": "Juntada de Certidão"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TRF01",
-          "title": "Expedida/certificada a intimação eletrônica"
+          "title": "Disponibilizado no DJ Eletrônico em 05/05/2026"
         },
         {
           "date": "2026-05-04",

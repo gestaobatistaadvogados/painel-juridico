@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-10T09:23:45-03:00",
-    "gerado_em_humano": "10/06/2026 09:23",
+    "gerado_em": "2026-06-11T09:53:39-03:00",
+    "gerado_em_humano": "11/06/2026 09:53",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -316,14 +316,14 @@
       "process_number": "6033189-20.2025.8.09.0144",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "stage": "SENTENÇA PROFERIDA (ENTRE EM CONTATO CONOSCO)",
       "step": "JUDICIAL",
       "type": "AÇÃO ORDINÁRIA C/C OBRIGAÇÃO DE FAZER",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-10 12:07:58",
       "created_at": "2026-03-14 19:26:10",
       "process_date": null,
-      "responsible": "DOUGLAS NUNES ALMEIDA",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
           "date": "2026-05-14",
@@ -3857,18 +3857,36 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 15641888,
+      "process_number": "5505000-55.2026.8.09.0144",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "MANDADO DE SEGURANÇA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-10 17:20:47",
+      "process_date": "2026-06-10",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 8,
+    "total": 12,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 5,
-      "Diligências": 1,
-      "Outras": 2
+      "Acompanhamento": 8,
+      "Diligências": 0,
+      "Outras": 3
     },
-    "ultima_data": "2026-06-09"
+    "ultima_data": "2026-06-10"
   }
 }
