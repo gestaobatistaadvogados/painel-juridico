@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:59:41-03:00",
-    "gerado_em_humano": "11/06/2026 09:59",
+    "gerado_em": "2026-06-12T09:32:51-03:00",
+    "gerado_em_humano": "12/06/2026 09:32",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -1380,19 +1380,19 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - Prazo Decorrido da movimentação 92"
+        },
+        {
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)SECRETARIA DE FINANÇAS DO MUNICÍPIO DE ARAGOIANIA (Referente à Mov. Despacho -> Mero Expediente (13/04/2026 14:15:42))"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de SECRETARIA DE FINANÇAS DO MUNICÍPIO DE ARAGOIANIA (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 14:15:42)"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-04-13",
@@ -1410,6 +1410,16 @@
           "title": "Despacho -> Mero Expediente"
         },
         {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente -"
+        },
+        {
+          "date": "2026-04-13",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de SECRETARIA DE FINANÇAS DO MUNICÍPIO DE ARAGOIANIA (Referente à Mov. Despacho -> Mero Expediente - 13/04/2026 14:15:42)"
+        },
+        {
           "date": "2026-04-08",
           "header": "TJGO",
           "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - PUBLICAÇÃO DIÁRIO Nº 4407/2026 DO DIA 08/04/2026"
@@ -1418,16 +1428,6 @@
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Movimentação Bloqueada -"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-02-23",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)SECRETARIA DE FINANÇAS DO MUNICÍPIO DE ARAGOIANIA (Referente à Mov. Despacho -> Mero Expediente (12/02/2026 11:14:20))"
         }
       ],
       "partes_adversarias": [
@@ -6476,6 +6476,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos de declaração - Embargos de Declaração"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (21/05/2026 13:43:28))"
@@ -6483,7 +6488,7 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fundo De Previdencia Social De Aragoiania - Aragoiania Reprevsa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celia Grigorio Barbosa De Souza (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (21/05/2026 13:43:28))"
         },
         {
           "date": "2026-05-21",
@@ -6498,12 +6503,12 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Celia Grigorio Barbosa De Souza (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fundo De Previdencia Social De Aragoiania - Aragoiania Reprevsa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         },
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celia Grigorio Barbosa De Souza (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (21/05/2026 13:43:28))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Celia Grigorio Barbosa De Souza (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         },
         {
           "date": "2026-05-21",
@@ -6519,11 +6524,6 @@
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-04-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (06/04/2026 14:23:26))"
         }
       ],
       "partes_adversarias": [
@@ -6549,6 +6549,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÃA"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - FAZENDA PÚBLICA"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Certidão Expedida (19/05/2026 13:20:16))"
@@ -6561,12 +6571,7 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Certidão Expedida - PARTES - ESPECIFICAREM PROVAS - MANIFESTAÇÃO JULGAMENTO ANTECIPADO DA LIDE"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Fernandes De Oliveira Cunha (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Juntada -> Petição -> Réplica"
         },
         {
           "date": "2026-05-19",
@@ -6581,22 +6586,17 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Réplica"
+          "title": "Certidão Expedida - PARTES - ESPECIFICAREM PROVAS - MANIFESTAÇÃO JULGAMENTO ANTECIPADO DA LIDE"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lucia Fernandes De Oliveira Cunha (Referente à Mov. Juntada -> Petição -> Contestação (11/05/2026 14:09:10))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Fernandes De Oliveira Cunha (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ana Lucia Fernandes De Oliveira Cunha - Polo Ativo (Referente à Mov. Juntada -> Petição -> Contestação - 11/05/2026 14:09:10)"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contestação - Contestação"
         }
       ],
       "partes_adversarias": [
@@ -7455,6 +7455,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Imobiliária Faiçal Ltda (Referente à Mov. Prazo Decorrido (27/05/2026 15:29:03))"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Imobiliária Faiçal Ltda - Confinante (Referente à Mov. Prazo Decorrido - 27/05/2026 15:29:03)"
@@ -7463,11 +7468,6 @@
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Prazo Decorrido - Edital para Imobiliária Faiçal Ltda"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Comprovante de envio edital para publicação"
         },
         {
           "date": "2026-04-14",
@@ -7492,17 +7492,17 @@
         {
           "date": "2026-04-14",
           "header": "TJGO",
+          "title": "Juntada de Documento - Comprovante de envio edital para publicação"
+        },
+        {
+          "date": "2026-04-14",
+          "header": "TJGO",
           "title": "Movimentação Bloqueada"
         },
         {
           "date": "2026-04-13",
           "header": "TJGO",
           "title": "Decisão -> Outras Decisões - Defere citação por edital do confinante."
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Habilitação de adv. (ev. 254)"
         }
       ],
       "partes_adversarias": [
@@ -7619,6 +7619,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões"
+        },
+        {
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Certidão - Recurso Especial autuado - MOV 31"
@@ -7662,11 +7667,6 @@
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Recurso especial"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Processo Arquivado -"
         }
       ],
       "partes_adversarias": [
@@ -9033,6 +9033,46 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joao Domingos De Araujo (Referente à Mov. Despacho -> Mero Expediente (08/06/2026 14:14:38))"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Domingos De Araujo - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 08/06/2026 14:14:38)"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - RETIFICAÇÃO VALOR DA CAUSA"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Retificação de Classe Processual - Houve uma mudança da classe \"188-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento Comum Cível\" para a classe \"1504-PROCESSO CÍVEL E DO TRABALHO -> Processo de Conhecimento -> Procedimento de Conhecimento -> Procedimento do Juizado Especial da Fazenda Pública\""
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) Municipio De Aragoiania (comunicação: 109387635432563873103788589)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - Guapó - Juizado das Fazendas Públicas (Normal) - Distribuído para: LUCIANE CRISTINA DUARTE DA SILVA"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Despacho inicial. Redistribuir para o Juizado. Citar."
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Decisão -> Concessão -> Gratuidade da Justiça"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -9041,46 +9081,6 @@
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Autos Conclusos - COM PEDIDO DE GRATUIDADE DA JUSTIÃA"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Domingos De Araujo - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Despacho. Emendar a inicial."
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joao Domingos De Araujo (Referente à Mov. Certidão Expedida (18/05/2026 12:43:15))"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joao Domingos De Araujo - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Processo Distribuído - Guapó - Vara das Fazendas Públicas (Normal) - Distribuído para: LUCIANE CRISTINA DUARTE DA SILVA"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Peticão Enviada"
         }
       ],
       "partes_adversarias": [
@@ -9490,15 +9490,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 31,
+    "total": 29,
     "categorias": {
-      "Peças": 4,
+      "Peças": 5,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 20,
-      "Diligências": 2,
+      "Acompanhamento": 19,
+      "Diligências": 0,
       "Outras": 5
     },
-    "ultima_data": "2026-06-10"
+    "ultima_data": "2026-06-11"
   }
 }

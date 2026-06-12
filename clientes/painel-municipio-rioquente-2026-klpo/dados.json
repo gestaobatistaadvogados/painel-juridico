@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:35:10-03:00",
-    "gerado_em_humano": "11/06/2026 09:35",
+    "gerado_em": "2026-06-12T09:08:32-03:00",
+    "gerado_em_humano": "12/06/2026 09:08",
     "slug_url": "painel-municipio-rioquente-2026-klpo",
     "departamento": "direito_publico"
   },
@@ -135,24 +135,29 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 08/06/2026 10:00)"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento em Parte - (Sessão do dia 08/06/2026 10:00)"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Intimação Lida - Por Regina Helena Viana (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de ADEIR JOAQUIM LOURENÇO (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/05/2026 10:12:02)"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Publicação Pauta Virtual 08/06/2026-DJE n.4439-Suplemento - Seção I - 27/05/2026"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/05/2026 10:12:02)"
         },
         {
           "date": "2026-05-27",
@@ -162,27 +167,22 @@
         {
           "date": "2026-05-27",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de ADEIR JOAQUIM LOURENÇO (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Publicação Pauta Virtual 08/06/2026-DJE n.4439-Suplemento - Seção I - 27/05/2026"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
           "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 08/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
         },
         {
           "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de CARLOS AUGUSTO BRANDÃO (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/05/2026 10:12:02)"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MARCIO PAZELLI LISBOA (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/05/2026 10:12:02)"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de CARLOS AUGUSTO BRANDÃO (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de MARCIO PAZELLI LISBOA (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (27/05/2026 10:12:02))"
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/05/2026 10:12:02)"
         }
       ],
       "partes_adversarias": [
@@ -243,15 +243,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 7,
     "categorias": {
       "Peças": 0,
-      "Audiências": 0,
+      "Audiências": 1,
       "Comunicações": 0,
       "Acompanhamento": 3,
-      "Diligências": 0,
+      "Diligências": 1,
       "Outras": 2
     },
-    "ultima_data": "2026-06-08"
+    "ultima_data": "2026-06-11"
   }
 }

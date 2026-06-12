@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:51:01-03:00",
-    "gerado_em_humano": "11/06/2026 09:51",
+    "gerado_em": "2026-06-12T09:24:14-03:00",
+    "gerado_em_humano": "12/06/2026 09:24",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -28,6 +28,31 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Universidade Federal De Goias - Polo Passivo (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 07/06/2026 14:24:37)"
+        },
+        {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
+        },
+        {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Adebora Rodrigues De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (07/06/2026 14:24:37))"
+        },
+        {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Adebora Rodrigues De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 07/06/2026 14:24:37)"
+        },
+        {
+          "date": "2026-06-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 07/06/2026 14:24:37)"
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Autos Conclusos -"
@@ -51,31 +76,6 @@
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Decorrido Prazo - para Municipio De Posse em 09/03/2026 23:59:59 (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - comprovante de recebimento/email/Procuradoria Federal"
-        },
-        {
-          "date": "2026-03-01",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Adebora Rodrigues De Sousa em 27/02/2026 23:59:59 (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - comprovante/envio - email/ à Procuradoria Federal em Goiás (PF/GO - AGU)"
-        },
-        {
-          "date": "2026-02-12",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição"
         }
       ],
       "partes_adversarias": [
@@ -1699,8 +1699,8 @@
       "process_number": null,
       "protocol_number": "04317/25",
       "folder": "2686",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "CAUTELAR",
       "group": "ADMINISTRATIVO",
       "status_closure": "2025-04-16 00:00:00",

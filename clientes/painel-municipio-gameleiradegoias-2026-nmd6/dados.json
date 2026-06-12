@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:53:39-03:00",
-    "gerado_em_humano": "11/06/2026 09:53",
+    "gerado_em": "2026-06-12T09:26:51-03:00",
+    "gerado_em_humano": "12/06/2026 09:26",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -3140,9 +3140,29 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fg Lubrificantes Ltda Me (Referente à Mov. Transitado em Julgado (08/06/2026 11:15:22))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fg Lubrificantes Ltda Me (Referente à Mov. Transitado em Julgado - 08/06/2026 11:15:22)"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - CERTIDÃO DE TRANSITO EM JULGADO"
+        },
+        {
           "date": "2026-05-04",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (23/04/2026 16:17:14))"
+        },
+        {
+          "date": "2026-04-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fg Lubrificantes Ltda Me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (23/04/2026 16:17:14))"
         },
         {
           "date": "2026-04-23",
@@ -3160,34 +3180,14 @@
           "title": "Julgamento -> Com Resolução do Mérito -> Procedência - Sentença 487 CPC - Procedente"
         },
         {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fg Lubrificantes Ltda Me (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (23/04/2026 16:17:14))"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer Falta de Interesse (MP) -"
-        },
-        {
           "date": "2026-04-07",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DESPACHO"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-04-07",
           "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: DOUGLAS NUNES ALMEIDA Procurador Responsável Atual: LEONEL NASCIMENTO CARVALHO JUNIOR"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: EDUARDO COSTA FERREIRA Procurador Responsável Atual: DOUGLAS NUNES ALMEIDA"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Mandado Cumprido - Para Municipio De Gameleira De Goias (Mandado nº 6956661 / Referente à Mov. Ato Ordinatório (10/03/2026 12:59:59))"
+          "title": "Juntada -> Petição -> Parecer Falta de Interesse (MP) -"
         }
       ],
       "partes_adversarias": [
@@ -3878,12 +3878,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 12,
+    "total": 11,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 8,
+      "Acompanhamento": 7,
       "Diligências": 0,
       "Outras": 3
     },

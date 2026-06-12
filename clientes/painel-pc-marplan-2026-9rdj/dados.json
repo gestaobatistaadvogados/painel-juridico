@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T10:05:40-03:00",
-    "gerado_em_humano": "11/06/2026 10:05",
+    "gerado_em": "2026-06-12T09:38:49-03:00",
+    "gerado_em_humano": "12/06/2026 09:38",
     "slug_url": "painel-pc-marplan-2026-9rdj",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,11 @@
       "process_date": "2026-04-13",
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
         {
           "date": "2026-06-01",
           "header": "TJGO",

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:32:08-03:00",
-    "gerado_em_humano": "11/06/2026 09:32",
+    "gerado_em": "2026-06-12T09:05:30-03:00",
+    "gerado_em_humano": "12/06/2026 09:05",
     "slug_url": "painel-mybroker-saojoseriopreto-2026-lpfy",
     "departamento": "direito_imobiliario"
   },
@@ -12,17 +12,36 @@
     "state": "",
     "identification_tipo": "PJ"
   },
-  "processos": [],
+  "processos": [
+    {
+      "id": 15735907,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-11 15:03:24",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    }
+  ],
   "atividade_90d": {
-    "total": 0,
+    "total": 1,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 0,
       "Diligências": 0,
-      "Outras": 0
+      "Outras": 1
     },
-    "ultima_data": null
+    "ultima_data": "2026-06-11"
   }
 }

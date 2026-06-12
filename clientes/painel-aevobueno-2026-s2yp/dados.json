@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-11T09:32:36-03:00",
-    "gerado_em_humano": "11/06/2026 09:32",
+    "gerado_em": "2026-06-12T09:05:57-03:00",
+    "gerado_em_humano": "12/06/2026 09:05",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,16 @@
       "process_date": "2026-03-09",
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ SENTENÃA"
+        },
         {
           "date": "2026-06-02",
           "header": "TJGO",
@@ -66,16 +76,6 @@
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Certidão Expedida - ENCAMINHAMENTO AO CENOPES - SNIPER"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Prazo Decorrido - SEM MANIFESTAÇÃO DO EXECUTADO P/ PAGAR A DÍVIDA EM 03 DIAS/REQUERER PARCELAMENTO"
         }
       ],
       "partes_adversarias": [
@@ -607,15 +607,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 5,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 4,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-09"
+    "ultima_data": "2026-06-11"
   }
 }
