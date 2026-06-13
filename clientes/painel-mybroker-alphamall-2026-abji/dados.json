@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T08:58:25-03:00",
-    "gerado_em_humano": "12/06/2026 08:58",
+    "gerado_em": "2026-06-13T07:42:32-03:00",
+    "gerado_em_humano": "13/06/2026 07:42",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -18,8 +18,8 @@
       "process_number": "5523712-18.2025.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2026-02-03 11:00:44",
@@ -83,7 +83,7 @@
           "name": "TALISSA ALESSANDRA ALVES MOREIRA"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "arquivados",
       "tribunal": "TJGO"
     },
     {

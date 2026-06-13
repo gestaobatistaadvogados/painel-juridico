@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:02:22-03:00",
-    "gerado_em_humano": "12/06/2026 09:02",
+    "gerado_em": "2026-06-13T07:46:28-03:00",
+    "gerado_em_humano": "13/06/2026 07:46",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -262,6 +262,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Juntada -> Petição - Interlocutória"
@@ -305,11 +310,6 @@
           "date": "2026-04-22",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - INFORMAR VALOR DO DÉBITO EXPRESSAMENTE EM PETIÇÃO E RECOLHER CUSTAS"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T08:50:26-03:00",
-    "gerado_em_humano": "12/06/2026 08:50",
+    "gerado_em": "2026-06-13T07:34:34-03:00",
+    "gerado_em_humano": "13/06/2026 07:34",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -3152,15 +3152,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 42,
+    "total": 43,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 4,
       "Comunicações": 6,
-      "Acompanhamento": 18,
-      "Diligências": 1,
+      "Acompanhamento": 19,
+      "Diligências": 2,
       "Outras": 12
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-12"
   }
 }

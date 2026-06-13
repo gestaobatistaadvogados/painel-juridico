@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:03:10-03:00",
-    "gerado_em_humano": "12/06/2026 09:03",
+    "gerado_em": "2026-06-13T07:47:16-03:00",
+    "gerado_em_humano": "13/06/2026 07:47",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,21 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (08/06/2026 14:44:35))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - ATO ORDINATÓRIO - AUTOR INFORMAR ENDEREÇO - 6ª UPJ"
+        },
         {
           "date": "2026-05-28",
           "header": "TJGO",
@@ -61,21 +76,6 @@
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eldorado Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Juntada de Documento - 04/05/2026 08:40:02)"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Resultado da busca de endereço"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Resultado da busca de endereço"
         }
       ],
       "partes_adversarias": [

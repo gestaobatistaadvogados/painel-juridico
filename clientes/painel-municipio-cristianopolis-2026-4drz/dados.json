@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:11:31-03:00",
-    "gerado_em_humano": "12/06/2026 09:11",
+    "gerado_em": "2026-06-13T07:55:32-03:00",
+    "gerado_em_humano": "13/06/2026 07:55",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -101,6 +101,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Juntada de Documento (28/05/2026 12:20:45))"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada de Documento - SEMAD - demanda em andamento"
@@ -133,17 +138,12 @@
         {
           "date": "2026-01-21",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Decisão -> deferimento (16/12/2025 13:13:07))"
-        },
-        {
-          "date": "2026-01-21",
-          "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Cristianopolis (Referente à Mov. Despacho -> Mero Expediente (18/12/2025 16:24:34))"
         },
         {
           "date": "2026-01-21",
           "header": "TJGO",
-          "title": "Ofício(s) Expedido(s)"
+          "title": "Ofício Efetivado - (Referente à Mov. Despacho -> Mero Expediente (10/10/2025 16:27:49))"
         },
         {
           "date": "2026-01-21",
@@ -174,6 +174,36 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por Waldir Lara Cardoso (Referente à Mov. Sessão Julgamento Adiado (24/04/2026 14:16:22))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Aplicação Multa SEMAD - Loteamento IRREGULAR"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Sessão Julgamento Adiado (24/04/2026 14:16:22))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
+        },
+        {
           "date": "2026-04-24",
           "header": "TJGO",
           "title": "Sessão Julgamento Adiado - (Adiado em razão do Pedido de Sustentação Oral Deferido na sessão de: 27/04/2026 10:00 - Próxima sessão prevista: 16/06/2026 09:00)"
@@ -192,36 +222,6 @@
           "date": "2026-04-08",
           "header": "TJGO",
           "title": "Intimação Lida - Por Tiago Santana Gonçalves (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 27/04/2026 10:00:00 (Virtual) - Cabe Pedido de Sustentação Oral )"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Relatório -> Pauta -> Pedido de inclusão em pauta -"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 07/04/2026 15:24:37)"
         }
       ],
       "partes_adversarias": [
@@ -247,6 +247,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - (UPJ) - PRAZO DECORRIDO P/ RECURSO PRECATÓRIO/RPV"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Estado De Goias (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (07/04/2026 20:59:43))"
@@ -259,17 +264,12 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-04-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (CNJ:14233) - )"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-04-07",
@@ -282,6 +282,11 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Município De Cristianópolis (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (CNJ:14233) - )"
         },
         {
+          "date": "2026-04-07",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Não-Acolhimento (CNJ:14233) - )"
+        },
+        {
           "date": "2026-02-03",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -290,11 +295,6 @@
           "date": "2026-01-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição - Manifestação"
-        },
-        {
-          "date": "2026-01-21",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Cristianópolis (Referente à Mov. Cálculo de Liquidaçao ( Cpc e Clt ) (09/12/2025 19:03:51))"
         }
       ],
       "partes_adversarias": [

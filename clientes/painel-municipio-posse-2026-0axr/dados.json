@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:24:14-03:00",
-    "gerado_em_humano": "12/06/2026 09:24",
+    "gerado_em": "2026-06-13T08:08:11-03:00",
+    "gerado_em_humano": "13/06/2026 08:08",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -484,6 +484,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Decisão -> Outras Decisões (21/05/2026 18:52:49))"
+        },
+        {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ronnie Falco Dos Reis (Referente à Mov. Decisão -> Outras Decisões (21/05/2026 18:52:49))"
@@ -506,12 +511,12 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 27/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Decorrido Prazo - para Municipio De Posse em 27/04/2026 23:59:59 (Referente à Mov. Ato Ordinatório (18/03/2026 09:30:46))"
         },
         {
           "date": "2026-03-30",
@@ -522,11 +527,6 @@
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - intimar as partes/sobre cálculo"
         },
         {
           "date": "2026-03-18",
@@ -3742,10 +3742,10 @@
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 14,
+      "Acompanhamento": 13,
       "Diligências": 0,
-      "Outras": 4
+      "Outras": 5
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-12"
   }
 }

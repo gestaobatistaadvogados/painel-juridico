@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T08:54:03-03:00",
-    "gerado_em_humano": "12/06/2026 08:54",
+    "gerado_em": "2026-06-13T07:38:10-03:00",
+    "gerado_em_humano": "13/06/2026 07:38",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -3389,8 +3389,8 @@
       "process_number": "5567675-02.2025.8.09.0011",
       "protocol_number": null,
       "folder": "3452",
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "ARQUIVADO/ENCERRADO",
+      "step": "ARQUIVAMENTO",
       "type": "INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA",
       "group": "PRIVADO",
       "status_closure": "2025-07-18 00:00:00",
@@ -3454,7 +3454,7 @@
           "name": "FIANZA CAUCAO S/A"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "arquivados",
       "tribunal": "TJGO"
     },
     {
@@ -3713,6 +3713,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BEAAA (Referente à Mov. Juntada -> Petição -> Impugnação ao cumprimento de sentença - 27/05/2026 22:05:03)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bringel E Azeredo Advogados Associados (Referente à Mov. Juntada -> Petição -> Impugnação ao cumprimento de sentença (27/05/2026 22:05:03))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença"
@@ -3736,21 +3751,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Juntada -> Petição - Pagamento integral"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BEAAA (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões - recebimento da inicial - intime-se para pagar"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bringel E Azeredo Advogados Associados (Referente à Mov. Decisão -> Outras Decisões (23/04/2026 14:53:17))"
         },
         {
           "date": "2026-04-23",
@@ -3822,6 +3822,6 @@
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-10"
+    "ultima_data": "2026-06-12"
   }
 }

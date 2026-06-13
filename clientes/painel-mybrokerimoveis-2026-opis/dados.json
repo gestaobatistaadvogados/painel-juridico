@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:08:17-03:00",
-    "gerado_em_humano": "12/06/2026 09:08",
+    "gerado_em": "2026-06-13T07:52:21-03:00",
+    "gerado_em_humano": "13/06/2026 07:52",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -326,6 +326,26 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-03",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 08/06/2026"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 09/06/2026."
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJMG",
+          "title": "Expedição de Carta precatória."
+        },
+        {
           "date": "2026-05-11",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
@@ -333,12 +353,12 @@
         {
           "date": "2026-04-24",
           "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026"
+          "title": "Publicado Intimação em 24/04/2026."
         },
         {
           "date": "2026-04-24",
           "header": "TJMG",
-          "title": "Publicado Intimação em 24/04/2026."
+          "title": "Disponibilizado no DJ Eletrônico em 23/04/2026"
         },
         {
           "date": "2026-04-22",
@@ -354,26 +374,6 @@
           "date": "2026-03-29",
           "header": "TJMG",
           "title": "Conclusos para despacho"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 18/03/2026"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJMG",
-          "title": "Publicado Intimação em 19/03/2026."
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJMG",
-          "title": "Expedida/certificada a comunicação eletrônica"
         }
       ],
       "partes_adversarias": [
@@ -686,9 +686,9 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-06-03",
+          "date": "2026-06-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Stella Porto Do Carmo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Contestação - 28/05/2026 21:54:27)"
+          "title": "Juntada -> Petição -> Impugnação - Impugnação à Contestação - Stella Porto do Carmo"
         },
         {
           "date": "2026-06-03",
@@ -696,9 +696,19 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Stella Porto Do Carmo (Referente à Mov. Juntada -> Petição -> Contestação (28/05/2026 21:54:27))"
         },
         {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Stella Porto Do Carmo - Polo Ativo (Referente à Mov. Juntada -> Petição -> Contestação - 28/05/2026 21:54:27)"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Contestação - Contestação"
+        },
+        {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Stella Porto Do Carmo - Polo Ativo (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
         },
         {
           "date": "2026-05-27",
@@ -711,11 +721,6 @@
           "title": "Decisão -> deferimento"
         },
         {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Stella Porto Do Carmo - Polo Ativo (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
-        },
-        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DESPACHO"
@@ -724,11 +729,6 @@
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Citação Efetivada - Para BIAL (Referente à Mov. Citação Não Efetivada (30/04/2026 01:48:45))"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Intercorrente - Nova Citação"
         },
         {
           "date": "2026-05-07",

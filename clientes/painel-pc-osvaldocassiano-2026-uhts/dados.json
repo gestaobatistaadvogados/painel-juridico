@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:39:04-03:00",
-    "gerado_em_humano": "12/06/2026 09:39",
+    "gerado_em": "2026-06-13T08:22:54-03:00",
+    "gerado_em_humano": "13/06/2026 08:22",
     "slug_url": "painel-pc-osvaldocassiano-2026-uhts",
     "departamento": "direito_criminal"
   },
@@ -268,6 +268,31 @@
       "process_date": "2026-05-12",
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Citação aberta pelo Domicilio Eletronico (Polo Passivo) Facebook Servicos Online Do Brasil Ltda."
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Palmeiras de Goiás - Central de Mandados (Mandado nº 7579102 / Para: Ademir Luiz Lemes Godoy)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Mandado Expedido - Para Palmeiras de Goiás - Central de Mandados (Mandado nº 7579125 / Para: Melk Janay Da Costa De Almeida Batista)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) FSOBL (comunicação: 109087635432563873103954071)"
+        },
         {
           "date": "2026-05-13",
           "header": "TJGO",

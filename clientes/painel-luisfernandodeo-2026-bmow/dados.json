@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:07:14-03:00",
-    "gerado_em_humano": "12/06/2026 09:07",
+    "gerado_em": "2026-06-13T07:51:19-03:00",
+    "gerado_em_humano": "13/06/2026 07:51",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -343,9 +343,24 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-05-21",
+          "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Juntada -> Petição - 20/05/2026 12:31:12)"
+          "title": "Decorrido Prazo - para LUIS FERNANDO DE OLIVEIRA em 01/06/2026 23:59:59 (Referente Ã Mov. Juntada -> Petição (20/05/2026 12:31:12))"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Certidão Expedida (10/06/2026 09:11:11))"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Certidão Expedida - REQUERER O QUE ENTENDER POR DIREITO"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-21",
@@ -353,9 +368,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Juntada -> Petição (20/05/2026 12:31:12))"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Termo de entrega voluntária"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Juntada -> Petição - 20/05/2026 12:31:12)"
         },
         {
           "date": "2026-05-20",
@@ -363,9 +378,9 @@
           "title": "Juntada -> Petição -> Procuração/substabelecimento com reserva de poderes - SUBSTABELECIMENTO"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Decisão -> Concessão -> Liminar - DECISÃO - TUTELA DE URGÊNCIA - DEFERIMENTO"
+          "title": "Juntada -> Petição - Termo de entrega voluntária"
         },
         {
           "date": "2026-04-27",
@@ -376,21 +391,6 @@
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Decisão -> Concessão -> Liminar (27/04/2026 17:42:40))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hudson Prata Junior (Referente à Mov. Decisão -> Concessão -> Liminar (CNJ:339) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LUIS FERNANDO DE OLIVEIRA (Referente à Mov. Decisão -> Concessão -> Liminar (CNJ:339) - )"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
         }
       ],
       "partes_adversarias": [
@@ -808,15 +808,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 8,
+    "total": 7,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 2,
       "Comunicações": 0,
-      "Acompanhamento": 3,
+      "Acompanhamento": 4,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 1
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-12"
   }
 }

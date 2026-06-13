@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T08:48:06-03:00",
-    "gerado_em_humano": "12/06/2026 08:48",
+    "gerado_em": "2026-06-13T07:32:16-03:00",
+    "gerado_em_humano": "13/06/2026 07:32",
     "slug_url": "painel-piloto-pj-2026-n4q8",
     "departamento": "direito_privado"
   },
@@ -101,6 +101,11 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - HONORARIOS PERICIAIS REDUZIDOS"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Certidão Expedida - Encaminhamento à CIV - Peritos"
@@ -113,12 +118,7 @@
         {
           "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Diligência WhatsApp - Perito - Rodrigo Vieira Silva"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valeria Cristina Cassiano (Referente à Mov. Juntada -> Petição - 18/05/2026 18:55:05)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valeria Cristina Cassiano (Referente à Mov. Juntada -> Petição (18/05/2026 18:55:05))"
         },
         {
           "date": "2026-05-20",
@@ -128,12 +128,17 @@
         {
           "date": "2026-05-20",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Diligência WhatsApp - Perito - Rodrigo Vieira Silva"
+        },
+        {
+          "date": "2026-05-20",
+          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Juntada -> Petição (18/05/2026 18:55:05))"
         },
         {
           "date": "2026-05-20",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valeria Cristina Cassiano (Referente à Mov. Juntada -> Petição (18/05/2026 18:55:05))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valeria Cristina Cassiano (Referente à Mov. Juntada -> Petição - 18/05/2026 18:55:05)"
         },
         {
           "date": "2026-05-18",
@@ -144,11 +149,6 @@
           "date": "2026-05-18",
           "header": "TJGO",
           "title": "Juntada -> Petição - HONORARIOS PERICIAIS"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> Nomeação -> Perito (22/04/2026 22:22:00))"
         }
       ],
       "partes_adversarias": [
@@ -827,14 +827,14 @@
       "process_number": "0000068-80.2026.5.18.0011",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO AUDIÊNCIA",
+      "stage": "AGUARDANDO JULGAMENTO",
       "step": "JUDICIAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
-      "status_closure": null,
+      "status_closure": "2026-06-12 15:53:34",
       "created_at": "2026-02-06 10:35:38",
       "process_date": null,
-      "responsible": "LUCAS MARINHO DA SILVA",
+      "responsible": "FELLIPE LOPES",
       "movements": [
         {
           "date": "2026-06-02",
@@ -1046,8 +1046,8 @@
       "process_number": "0002208-27.2025.5.18.0010",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO JULGAMENTO",
-      "step": "JUDICIAL",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
       "status_closure": "2026-05-23 18:25:30",
@@ -2247,8 +2247,8 @@
       "process_number": "0000122-31.2026.5.18.0016",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO JULGAMENTO",
-      "step": "JUDICIAL",
+      "stage": "RECURSO PROTOCOLADO/INICIADO",
+      "step": "RECURSAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
       "status_closure": "2026-04-06 17:38:48",
@@ -2312,7 +2312,7 @@
           "name": "ELISANGELA FARIA PEREIRA"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "recursal",
       "tribunal": "TRT18"
     },
     {
@@ -3069,34 +3069,29 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-05-12",
+          "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Iara Cristina De Avila Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
+          "title": "Transitado em Julgado - para Servico Social Autonomo De Assistencia A Saude Dos Servidores Publicos E Militares Do Estado De Goias - Ipasgo Saude em 08/06/2026 23:59:59 (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Servico Social Autonomo De Assistencia A Saude Dos Servidores Publicos E Militares Do Estado De Goias - Ipasgo Saude (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
+          "title": "Autos Devolvidos da Instância Superior"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 11/05/2026 10:00)"
+          "title": "Transitado em Julgado - para Hospital Amparo Ltda em 08/06/2026 23:59:59 (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 11/05/2026 10:00)"
+          "title": "Transitado em Julgado - para Iara Cristina De Avila Ferrari em 08/06/2026 23:59:59 (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 12/05/2026 15:58:14)"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Iara Cristina De Avila Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 12/05/2026 15:58:14)"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-05-12",
@@ -3109,14 +3104,19 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Iara Cristina De Avila Ferrari (Referente à Mov. - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Servico Social Autonomo De Assistencia A Saude Dos Servidores Publicos E Militares Do Estado De Goias - Ipasgo Saude (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
         },
         {
-          "date": "2026-04-16",
+          "date": "2026-05-12",
           "header": "TJGO",
-          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - Inclusão em pauta"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Iara Cristina De Avila Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (12/05/2026 15:58:14))"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Iara Cristina De Avila Ferrari (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 12/05/2026 15:58:14)"
         }
       ],
       "partes_adversarias": [
@@ -3288,54 +3288,54 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-05-25",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Juntada de Documento - ALVARÁ EXPEDIDO E ENCAMINHADO PELO SISCONDJ"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de WESLEY KLAYTON BARRETO SILVA (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Juntada de Documento - - Laudo Junta Médica"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de KELLEN CRISTIANE SILVA CARREON (Referente à Mov. Certidão Expedida (11/06/2026 17:53:39))"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Certidão Expedida - ALVARÁ ENCAMINHADO POR E-MAIL"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de KEYLA JACQUELINE MOREIRA DA SILVA (Referente à Mov. Certidão Expedida (11/06/2026 17:53:39))"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Alvará Expedido"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WESLEY KLAYTON BARRETO SILVA (Referente à Mov. Certidão Expedida (11/06/2026 17:53:39))"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de KEYLA JACQUELINE MOREIRA DA SILVA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (CNJ:200) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jesus Moreira da Silva (Referente à Mov. Certidão Expedida (11/06/2026 17:53:39))"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de KEYLA JACQUELINE MOREIRA DA SILVA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (14/05/2026 12:50:12))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de IONICE SILVEIRA BORGES (Referente à Mov. Certidão Expedida (11/06/2026 17:53:39))"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de KELLEN CRISTIANE SILVA CARREON (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (14/05/2026 12:50:12))"
+          "title": "Certidão Expedida - Ato ordinatório  Contrarrazões"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Urano Ribeiro Guimarães (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (14/05/2026 12:50:12))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jesus Moreira da Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de HOSPITAL AMPARO LTDA (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (CNJ:200) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de IONICE SILVEIRA BORGES (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-05-14",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Urano Ribeiro Guimarães (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Acolhimento de Embargos de Declaração (CNJ:200) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de KELLEN CRISTIANE SILVA CARREON (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -6390,6 +6390,31 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (09/06/2026 00:16:16))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (09/06/2026 00:16:16))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência - Obrigação de fazer satisfeita | Tutela confirmada"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -6402,26 +6427,6 @@
         {
           "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (13/05/2026 23:09:23))"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Amil Assistencia Medica Internacional S.a. (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (13/05/2026 23:09:23))"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
           "title": "Decisão -> Decisão de Saneamento e Organização - Decisão -> Saneamento -> Julgamento Antecipado -> Plano de Saúde"
         },
         {
@@ -6430,14 +6435,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
         },
         {
-          "date": "2026-05-12",
+          "date": "2026-05-13",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Resposta - MANIFESTAÇÃO"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mariana Danin Mastrella Pereira (Referente à Mov. Juntada -> Petição (15/04/2026 11:27:55))"
+          "title": "Autos Conclusos - P/ DECISÃO"
         }
       ],
       "partes_adversarias": [
@@ -7724,6 +7724,31 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Intimar primeiro réu para efetuar o depósito em conta vinculada - 10 dias"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Publicação no Diário da Justiça Eletrônico referente a mov. 247"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Intimação Efetivada (08/06/2026 16:09:00))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Hospital Amparo Ltda - Polo Passivo (Referente à Mov. Intimação Efetivada (CNJ:12266) - )"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Hospital Amparo Ltda em 25/05/2026 23:59:59 (Referente Ã Mov. Intimação Efetivada (07/05/2026 12:19:44))"
+        },
+        {
           "date": "2026-05-11",
           "header": "TJGO",
           "title": "Certidão Expedida - Certidão - Petição verificada"
@@ -7736,7 +7761,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Joaquim Neto Tavares (Referente à Mov. Intimação Efetivada (07/05/2026 12:19:44))"
+          "title": "Intimação Efetivada - Intime-se o primeiro réu para manifestar-se sobre o valor indicado"
         },
         {
           "date": "2026-05-07",
@@ -7746,32 +7771,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Intime-se o primeiro réu para manifestar-se sobre o valor indicado"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Joaquim Neto Tavares (Referente à Mov. Intimação Efetivada (CNJ:12266) - )"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Intimação Efetivada (07/05/2026 12:19:44))"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Unimed Goiânia Cooperativa De Trabalho Médico (Referente à Mov. Intimação Efetivada (07/05/2026 12:19:44))"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Juntada - Manifestação do perito"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unimed Goiânia Cooperativa De Trabalho Médico (Referente à Mov. Intimação Efetivada (CNJ:12266) - )"
         }
       ],
       "partes_adversarias": [
@@ -8545,14 +8545,14 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-06-03",
+          "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Decisão -> deferimento - Defere parcelamento art. 916 CPC. Alvará."
+          "title": "Alvará Expedido - Caixa Econômica Federal"
         },
         {
-          "date": "2026-06-03",
+          "date": "2026-06-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> deferimento (03/06/2026 18:37:30))"
+          "title": "Certidão Expedida - ALVARÁ EXPEDIDO - AGUARDANDO ASSINATURA (CAIXA)"
         },
         {
           "date": "2026-06-03",
@@ -8562,7 +8562,17 @@
         {
           "date": "2026-06-03",
           "header": "TJGO",
+          "title": "Decisão -> deferimento - Defere parcelamento art. 916 CPC. Alvará."
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NCESL (Referente à Mov. Decisão -> deferimento (CNJ:12444) - )"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Hospital Amparo Ltda (Referente à Mov. Decisão -> deferimento (03/06/2026 18:37:30))"
         },
         {
           "date": "2026-06-03",
@@ -8572,27 +8582,17 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Juntada -> Petição - Impugnação à Manifestação"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Impugnação à Manifestação"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Juntada -> Petição - Alvará"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Citação Efetivada - Para Hospital Amparo Ltda (Referente à Mov. Despacho -> Determinação de Citação (23/04/2026 19:06:08))"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Intimação - Exequente manifestar"
         }
       ],
       "partes_adversarias": [
@@ -9954,15 +9954,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 213,
+    "total": 216,
     "categorias": {
-      "Peças": 28,
+      "Peças": 31,
       "Audiências": 25,
-      "Comunicações": 47,
-      "Acompanhamento": 79,
-      "Diligências": 25,
-      "Outras": 9
+      "Comunicações": 43,
+      "Acompanhamento": 80,
+      "Diligências": 26,
+      "Outras": 11
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-12"
   }
 }

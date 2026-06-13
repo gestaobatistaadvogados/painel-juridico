@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:05:57-03:00",
-    "gerado_em_humano": "12/06/2026 09:05",
+    "gerado_em": "2026-06-13T07:50:03-03:00",
+    "gerado_em_humano": "13/06/2026 07:50",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -204,9 +204,9 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
-          "date": "2026-06-02",
+          "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (02/06/2026 10:37:12))"
+          "title": "Juntada -> Petição - PEDIDO DE RECONSIDERAÇÃO E DE DESBLOQUEIO IMEDIATO DE VALORES IMPENHORÁVEIS"
         },
         {
           "date": "2026-06-02",
@@ -221,7 +221,12 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mauricio Santos Dias (Referente à Mov. Certidão Expedida (02/06/2026 10:37:12))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (02/06/2026 10:37:12))"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Guimaraes Gomes (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-06-02",
@@ -236,22 +241,17 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Thiago Fernandes Goncalves (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (02/06/2026 10:37:12))"
         },
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Certidão Expedida - Para Exequente: manifestar sobre Impugnação à Penhora"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mauricio Santos Dias (Referente à Mov. Certidão Expedida (02/06/2026 10:37:12))"
         },
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mauricio Santos Dias (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Certidão Expedida - Para Exequente: manifestar sobre Impugnação à Penhora"
         }
       ],
       "partes_adversarias": [
@@ -335,9 +335,14 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - citação em novo endereço e via whatsApp"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - INTIMAÇÃO P/ ENDEREÇO ATUALIZADO/CONFIRMAR"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Certidão Expedida (27/05/2026 08:54:49))"
         },
         {
           "date": "2026-05-27",
@@ -347,7 +352,7 @@
         {
           "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Juntada -> Petição (13/05/2026 16:52:01))"
+          "title": "Certidão Expedida - CERTIDÃO - INTIMAÇÃO P/ ENDEREÇO ATUALIZADO/CONFIRMAR"
         },
         {
           "date": "2026-05-27",
@@ -362,7 +367,7 @@
         {
           "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Aevo Imobiliaria Bueno Ltda (Referente à Mov. Certidão Expedida (27/05/2026 08:54:49))"
+          "title": "Citação Não Efetivada - (Referente à Mov. Juntada -> Petição (13/05/2026 16:52:01))"
         },
         {
           "date": "2026-05-20",
@@ -378,11 +383,6 @@
           "date": "2026-05-19",
           "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO-E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
-        },
-        {
-          "date": "2026-05-13",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
         }
       ],
       "partes_adversarias": [
@@ -616,6 +616,6 @@
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-12"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:07:45-03:00",
-    "gerado_em_humano": "12/06/2026 09:07",
+    "gerado_em": "2026-06-13T07:51:50-03:00",
+    "gerado_em_humano": "13/06/2026 07:51",
     "slug_url": "painel-energynempilhad-2026-6j6w",
     "departamento": "direito_privado"
   },
@@ -27,6 +27,26 @@
       "process_date": "2025-08-25",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-06-11",
+          "header": "TJMA",
+          "title": "Decorrido prazo de GLOBAL WF COMERCIO LTDA em 10/06/2026 10:00."
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJMA",
+          "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJMA",
+          "title": "Expedição de informações pessoalmente."
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJMA",
+          "title": "Audiência de conciliação   realizada conduzida por Juiz(a) em/para 08/06/2026 10:00,  Juizado Especial Cível e Criminal de Paço do Lumiar."
+        },
         {
           "date": "2026-05-26",
           "header": "TJMA",
@@ -56,26 +76,6 @@
           "date": "2026-05-08",
           "header": "TJMA",
           "title": "Juntada de Petição de contestação"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJMA",
-          "title": "Conclusos para despacho"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJMA",
-          "title": "Juntada de Petição de petição"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJMA",
-          "title": "Juntada de termo"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJMA",
-          "title": "Mandado devolvido entregue ao destinatário"
         }
       ],
       "partes_adversarias": [

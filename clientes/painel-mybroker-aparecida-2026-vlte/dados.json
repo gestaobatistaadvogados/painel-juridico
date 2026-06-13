@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T09:01:53-03:00",
-    "gerado_em_humano": "12/06/2026 09:01",
+    "gerado_em": "2026-06-13T07:45:59-03:00",
+    "gerado_em_humano": "13/06/2026 07:45",
     "slug_url": "painel-mybroker-aparecida-2026-vlte",
     "departamento": "direito_imobiliario"
   },
@@ -101,6 +101,11 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-06-02",
           "header": "TJGO",
           "title": "Juntada -> Petição - Contrarrazões aos Embargos de Declaração"
@@ -123,11 +128,6 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marcos Abreu Cardoso Figueiredo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         },
         {
@@ -146,9 +146,9 @@
           "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
         },
         {
-          "date": "2026-04-28",
+          "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
         }
       ],
       "partes_adversarias": [
@@ -329,15 +329,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 0,
+    "total": 2,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": null
+    "ultima_data": "2026-06-12"
   }
 }

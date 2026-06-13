@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-12T08:59:51-03:00",
-    "gerado_em_humano": "12/06/2026 08:59",
+    "gerado_em": "2026-06-13T07:43:58-03:00",
+    "gerado_em_humano": "13/06/2026 07:43",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -177,6 +177,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestao Imobiliaria Ltda (Referente à Mov. Certidão Expedida (15/05/2026 12:53:21))"
@@ -189,17 +194,17 @@
         {
           "date": "2026-05-15",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-15",
+          "header": "TJGO",
           "title": "Certidão Expedida - Intima a parte Promovida para apresentar impugnação à penhora"
         },
         {
           "date": "2026-05-15",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BBGIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-07",
@@ -220,11 +225,6 @@
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO - DADOS BANCÁRIOS P/ EXPEDIÇÃO DE ALVARÁ 1ª UPJ"
-        },
-        {
-          "date": "2026-05-05",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Devolução Central Sisbajud - Penhora integral com transferência"
         }
       ],
       "partes_adversarias": [
@@ -611,6 +611,11 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Penhora Não Realizada - DEV. CENTRAL SISBAJUD - teimosinha - desbloqueio de valor irrisório (R$ 41,15)"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
@@ -623,11 +628,6 @@
         {
           "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Ato Ordinatório - Intimar p/ Juntar Planilha Débito"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (29/04/2026 08:19:26))"
         },
         {
@@ -636,14 +636,19 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
-          "date": "2026-04-28",
+          "date": "2026-04-29",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Ato Ordinatório - Intimar p/ Juntar Planilha Débito"
         },
         {
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Ato Ordinatório - 5ª UPJ* - Ato Ordinatório - Intimar P Juntar Planilha Débito"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-04-28",
@@ -654,11 +659,6 @@
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
