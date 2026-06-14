@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-13T08:16:44-03:00",
-    "gerado_em_humano": "13/06/2026 08:16",
+    "gerado_em": "2026-06-14T08:40:00-03:00",
+    "gerado_em_humano": "14/06/2026 08:40",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -1238,6 +1238,11 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
           "date": "2026-06-01",
           "header": "TRF01",
           "title": "Proferido despacho de mero expediente"
@@ -1281,11 +1286,6 @@
           "date": "2026-01-13",
           "header": "TRF01",
           "title": "Juntada de petição intercorrente"
-        },
-        {
-          "date": "2025-12-17",
-          "header": "TRF01",
-          "title": "Proferido despacho de mero expediente"
         }
       ],
       "partes_adversarias": [],
@@ -8547,6 +8547,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TRF01",
+          "title": "Juntada de certidão de julgamento colegiado"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TRF01",
+          "title": "Deliberado em Sessão - Julgado - Mérito"
+        },
+        {
           "date": "2026-05-12",
           "header": "TRF01",
           "title": "Publicado Intimação de Pauta em 12/05/2026."
@@ -8559,17 +8569,17 @@
         {
           "date": "2026-05-08",
           "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRF01",
           "title": "Inclusão do processo para julgamento eletrônico de mérito"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
         },
         {
           "date": "2026-04-22",
@@ -8579,22 +8589,12 @@
         {
           "date": "2026-04-17",
           "header": "TRF01",
-          "title": "Decorrido prazo de MUNICIPIO DE ARAGOIANIA em 16/04/2026 23:59."
+          "title": "Decorrido prazo de ESTADO DE GOIAS em 16/04/2026 23:59."
         },
         {
           "date": "2026-04-17",
           "header": "TRF01",
-          "title": "Decorrido prazo de ESTADO DE GOIAS em 16/04/2026 23:59."
-        },
-        {
-          "date": "2026-04-11",
-          "header": "TRF01",
-          "title": "Decorrido prazo de ISABELLY VITORIA CASTRO ALVES em 10/04/2026 23:59."
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TRF01",
-          "title": "Publicado Ato ordinatório em 16/03/2026."
+          "title": "Decorrido prazo de MUNICIPIO DE ARAGOIANIA em 16/04/2026 23:59."
         }
       ],
       "partes_adversarias": [
@@ -9394,6 +9394,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Processo Reativado"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -9432,16 +9442,6 @@
           "date": "2025-02-18",
           "header": "TJGO",
           "title": "Juntada de Documento - PRECATÓRIO GERAL - PROTOCOLO PROAD"
-        },
-        {
-          "date": "2025-02-18",
-          "header": "TJGO",
-          "title": "Prazo Decorrido - FAZENDA PÚBLICA"
-        },
-        {
-          "date": "2025-02-18",
-          "header": "TJGO",
-          "title": "Certidão Expedida - ARQUIVADO - AGUARDANDO PAGAMENTO PRECATÓRIO"
         }
       ],
       "partes_adversarias": [
