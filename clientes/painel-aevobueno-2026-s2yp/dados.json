@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:12:22-03:00",
-    "gerado_em_humano": "14/06/2026 08:12",
+    "gerado_em": "2026-06-15T11:18:10-03:00",
+    "gerado_em_humano": "15/06/2026 11:18",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -607,15 +607,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 5,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-12"
+    "ultima_data": "2026-06-15"
   }
 }

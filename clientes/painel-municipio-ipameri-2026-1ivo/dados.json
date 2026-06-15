@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:17:25-03:00",
-    "gerado_em_humano": "14/06/2026 08:17",
+    "gerado_em": "2026-06-15T11:23:15-03:00",
+    "gerado_em_humano": "15/06/2026 11:23",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -3485,6 +3485,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Juntada -> Petição"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Ipameri (Referente Ã Mov. Cálculo de Custas - 01/06/2026 15:43:23)"
@@ -3513,11 +3518,6 @@
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente - Remessa Contadoria"
-        },
-        {
-          "date": "2026-03-16",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-03-16",

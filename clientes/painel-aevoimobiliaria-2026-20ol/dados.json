@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:13:02-03:00",
-    "gerado_em_humano": "14/06/2026 08:13",
+    "gerado_em": "2026-06-15T11:18:50-03:00",
+    "gerado_em_humano": "15/06/2026 11:18",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -119,9 +119,14 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Thaize Pereira Da Silva (Referente à Mov. Certidão Expedida (28/05/2026 13:13:34))"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
-          "title": "Documento Expedido - Termo"
+          "title": "Documento Cumprido - Termo - (Referente à Mov. Juntada de Documento (26/05/2026 16:38:50))"
         },
         {
           "date": "2026-05-28",
@@ -136,17 +141,12 @@
         {
           "date": "2026-05-28",
           "header": "TJGO",
-          "title": "Documento Cumprido - Termo - (Referente à Mov. Juntada de Documento (26/05/2026 16:38:50))"
+          "title": "Documento Expedido - Termo"
         },
         {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Juntada de Documento - Devolução Central SISBAJUD - 5169118-93.2026.8.09.0051."
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Aevo Imobiliaria Ltda em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         },
         {
           "date": "2026-05-15",
@@ -164,9 +164,9 @@
           "title": "Decorrido Prazo - para Carlos Anderson Oliveira Silva em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         },
         {
-          "date": "2026-05-05",
+          "date": "2026-05-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Thaize Pereira Da Silva - Polo Passivo (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo - 29/04/2026 15:37:11)"
+          "title": "Decorrido Prazo - para Aevo Imobiliaria Ltda em 11/05/2026 23:59:59 (Referente à Mov. Decisão -> Nomeação -> Defensor Dativo (29/04/2026 15:37:11))"
         }
       ],
       "partes_adversarias": [
@@ -456,6 +456,21 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Citação -> Citação Expedida - CITAÇÃO- KENIA FERNANDES FRANCA/ (34) 9 9944-3699"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Despacho -> Determinação de Citação"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Juntada -> Petição - Citação por WhatsApp"
@@ -463,7 +478,22 @@
         {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fernanda Lopes Vilarinho Vieira (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Manoel Lessa Mota (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
         },
         {
           "date": "2026-05-25",
@@ -474,36 +504,6 @@
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carlos Anderson Oliveira Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fernanda Lopes Vilarinho Vieira (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rodrigo Simon Gruszezynski (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Raphaela Pacheco Alexandre Linhares (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Certidão Expedida - INTIMAR PARTE AUTORA- INFORMAR ENDEREÇO REQUERIDO(A) -1ª UPJ"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Raphaela Pacheco Alexandre Linhares (Referente à Mov. Certidão Expedida (25/05/2026 13:59:07))"
         }
       ],
       "partes_adversarias": [
@@ -1174,15 +1174,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 16,
+    "total": 17,
     "categorias": {
-      "Peças": 4,
+      "Peças": 5,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 8,
+      "Acompanhamento": 7,
       "Diligências": 0,
-      "Outras": 4
+      "Outras": 5
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-14"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:09:28-03:00",
-    "gerado_em_humano": "14/06/2026 08:09",
+    "gerado_em": "2026-06-15T11:15:16-03:00",
+    "gerado_em_humano": "15/06/2026 11:15",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -153,7 +153,19 @@
       ],
       "partes_adversarias": [
         {
+          "name": "AGENCIA MULTIFACE DE PROPAGANDA LTDA"
+        },
+        {
           "name": "ANDRE PROENCA SANTOS"
+        },
+        {
+          "name": "PAULO ERNESTO DE MORAES SILVA FILHO"
+        },
+        {
+          "name": "SPE 131 BRASIL INCORPORACAO LTDA."
+        },
+        {
+          "name": "UNIRE COORDENACAO IMOBILIARIA LTDA"
         }
       ],
       "fase_grupo": "recursal",
@@ -161,15 +173,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 5,
     "categorias": {
       "Peças": 1,
-      "Audiências": 0,
+      "Audiências": 1,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-27"
+    "ultima_data": "2026-06-15"
   }
 }

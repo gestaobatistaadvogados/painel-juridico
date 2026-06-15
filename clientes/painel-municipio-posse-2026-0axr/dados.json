@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:31:09-03:00",
-    "gerado_em_humano": "14/06/2026 08:31",
+    "gerado_em": "2026-06-15T11:36:58-03:00",
+    "gerado_em_humano": "15/06/2026 11:36",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -794,6 +794,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Celma Pereira Branco De Almeida Santos em 01/06/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (21/05/2026 16:30:42))"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (21/05/2026 16:30:42))"
@@ -801,17 +806,7 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
-          "title": "Juntada de Documento - Formalização de precatório"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
           "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-21",
@@ -826,7 +821,17 @@
         {
           "date": "2026-05-21",
           "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Celma Pereira Branco De Almeida Santos (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
         },
         {
           "date": "2026-03-13",
@@ -837,11 +842,6 @@
           "date": "2026-03-13",
           "header": "TJGO",
           "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Juntada de Documento - comprovante/alvará pago"
         }
       ],
       "partes_adversarias": [
@@ -1408,6 +1408,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Ato Ordinatório (25/05/2026 16:25:34))"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -1415,17 +1420,7 @@
         {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Juntada de Documento - Formalização de precatório"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
           "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-25",
@@ -1440,7 +1435,17 @@
         {
           "date": "2026-05-25",
           "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Nerícia De Santana Ribeiro Dos Santos (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Formalização de precatório"
         },
         {
           "date": "2026-03-02",
@@ -1451,11 +1456,6 @@
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Certidão Expedida - arquivamento nos termos da Nota Técnica nº 04/2023"
-        },
-        {
-          "date": "2026-03-02",
-          "header": "TJGO",
-          "title": "Juntada de Documento - extrato/alvará PAGO"
         }
       ],
       "partes_adversarias": [

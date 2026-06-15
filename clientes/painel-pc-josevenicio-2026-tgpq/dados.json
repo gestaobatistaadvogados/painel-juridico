@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:46:54-03:00",
-    "gerado_em_humano": "14/06/2026 08:46",
+    "gerado_em": "2026-06-15T11:52:45-03:00",
+    "gerado_em_humano": "15/06/2026 11:52",
     "slug_url": "painel-pc-josevenicio-2026-tgpq",
     "departamento": "direito_criminal"
   },
@@ -18,8 +18,8 @@
       "process_number": "5726723-67.2025.8.09.0117",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
-      "step": "RECURSAL",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
       "type": "AÇÃO DECLARATÓRIA E ANULATÓRIA C/C OBRIGAÇÃO DE FAZER",
       "group": "CRIMINAL",
       "status_closure": "2026-04-20 17:33:29",
@@ -83,20 +83,20 @@
           "name": "ESTADO DE GOIAS"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 2,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-04-16"
+    "ultima_data": "2026-06-15"
   }
 }

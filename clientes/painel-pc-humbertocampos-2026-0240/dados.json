@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-14T08:45:50-03:00",
-    "gerado_em_humano": "14/06/2026 08:45",
+    "gerado_em": "2026-06-15T11:51:41-03:00",
+    "gerado_em_humano": "15/06/2026 11:51",
     "slug_url": "painel-pc-humbertocampos-2026-0240",
     "departamento": "direito_criminal"
   },
@@ -180,9 +180,24 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Transitado em Julgado"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Intimação Lida - Por José Carlos Miranda Nery Júnior (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção (25/05/2026 15:13:32))"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção - 25/05/2026 15:13:32)"
         },
         {
           "date": "2026-05-26",
@@ -200,11 +215,6 @@
           "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: José Carlos Miranda Nery Júnior"
         },
         {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Goiânia - Promotoria da UPJ de crimes punidos com reclusão e detenção (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção - 25/05/2026 15:13:32)"
-        },
-        {
           "date": "2026-05-25",
           "header": "TJGO",
           "title": "Julgamento -> Com Resolução do Mérito -> Extinção da Punibilidade ou da Pena -> Decadência ou perempção"
@@ -212,22 +222,12 @@
         {
           "date": "2026-03-10",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
+          "title": "Certidão Expedida - Inércia de parte"
         },
         {
           "date": "2026-03-10",
           "header": "TJGO",
-          "title": "Certidão Expedida - Inércia de parte"
-        },
-        {
-          "date": "2026-02-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Humberto De Oliveira Campos - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 13/02/2026 15:31:27)"
-        },
-        {
-          "date": "2026-02-13",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
+          "title": "Autos Conclusos - P/ DESPACHO"
         }
       ],
       "partes_adversarias": [
