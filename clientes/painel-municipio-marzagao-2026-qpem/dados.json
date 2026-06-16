@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-15T11:37:07-03:00",
-    "gerado_em_humano": "15/06/2026 11:37",
+    "gerado_em": "2026-06-16T10:34:30-03:00",
+    "gerado_em_humano": "16/06/2026 10:34",
     "slug_url": "painel-municipio-marzagao-2026-qpem",
     "departamento": "direito_publico"
   },
@@ -51,12 +51,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 1,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 0
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-15T11:09:34-03:00",
-    "gerado_em_humano": "15/06/2026 11:09",
+    "gerado_em": "2026-06-16T10:07:20-03:00",
+    "gerado_em_humano": "16/06/2026 10:07",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -240,8 +240,8 @@
       "process_number": "1026476-95.2025.8.11.0003",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO PROTOCOLADO/INICIADO",
-      "step": "RECURSAL",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
       "type": "INDENIZAÇÃO POR DANOS MATERIAIS C/C DANOS MORAIS",
       "group": "PRIVADO",
       "status_closure": "2026-04-10 12:20:46",
@@ -305,7 +305,7 @@
           "name": "JOAO VICTOR GALVAO DO VALE"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJMT"
     },
     {
@@ -6422,13 +6422,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 48,
+    "total": 52,
     "categorias": {
       "Peças": 10,
       "Audiências": 2,
       "Comunicações": 1,
-      "Acompanhamento": 25,
-      "Diligências": 6,
+      "Acompanhamento": 28,
+      "Diligências": 7,
       "Outras": 4
     },
     "ultima_data": "2026-06-15"

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-15T11:49:20-03:00",
-    "gerado_em_humano": "15/06/2026 11:49",
+    "gerado_em": "2026-06-16T10:46:29-03:00",
+    "gerado_em_humano": "16/06/2026 10:46",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -5256,6 +5256,16 @@
       "responsible": "GABRIELA RODRIGUES PEREIRA",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Decisão -> Concessão -> Tutela Provisória (16/05/2026 12:23:02))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Automaticamente para (Polo Passivo)Sharks Imobiliaria Ltda (Referente à Mov. Decisão -> Concessão -> Tutela Provisória (16/05/2026 12:23:02))"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Citação Expedida - Para (Polo Passivo) SIL - Código de Rastreamento Correios: YH191491905BR idPendenciaCorreios109987605432015873960297505idPendenciaCorreios"
@@ -5263,17 +5273,17 @@
         {
           "date": "2026-05-26",
           "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Sharks Imobiliaria Ltda"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Sharks Imobiliaria Ltda"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
           "title": "Citação -> Citação Expedida - e-Carta Sharks Imobiliaria Ltda"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Sharks Imobiliaria Ltda"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) Sharks Imobiliaria Ltda"
         },
         {
           "date": "2026-05-25",
@@ -5288,22 +5298,12 @@
         {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maisa Rocha De Souza (Referente à Mov. Juntada de Documento - 25/05/2026 19:23:18)"
+          "title": "Juntada de Documento - Comprovante de Remoção de Restrição - autos apensos"
         },
         {
           "date": "2026-05-25",
           "header": "TJGO",
-          "title": "Juntada de Documento - Comprovante de Remoção de Restrição - autos apensos"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) SIL (comunicação: 109787655432563873107626127)"
-        },
-        {
-          "date": "2026-05-16",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maisa Rocha De Souza (Referente à Mov. Decisão -> Concessão -> Tutela Provisória (16/05/2026 12:23:02))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maisa Rocha De Souza (Referente à Mov. Juntada de Documento - 25/05/2026 19:23:18)"
         }
       ],
       "partes_adversarias": [
@@ -5397,13 +5397,13 @@
   "atividade_90d": {
     "total": 46,
     "categorias": {
-      "Peças": 14,
+      "Peças": 13,
       "Audiências": 1,
       "Comunicações": 2,
-      "Acompanhamento": 19,
+      "Acompanhamento": 20,
       "Diligências": 2,
       "Outras": 8
     },
-    "ultima_data": "2026-06-14"
+    "ultima_data": "2026-06-15"
   }
 }

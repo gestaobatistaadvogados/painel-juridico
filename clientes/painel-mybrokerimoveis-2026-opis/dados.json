@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-15T11:20:35-03:00",
-    "gerado_em_humano": "15/06/2026 11:20",
+    "gerado_em": "2026-06-16T10:18:13-03:00",
+    "gerado_em_humano": "16/06/2026 10:18",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -746,18 +746,40 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 15900922,
+      "process_number": "5542034-52.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "CARTA PRECATÓRIA / CITAÇÃO / CPC",
+      "group": "CÍVEL",
+      "status_closure": null,
+      "created_at": "2026-06-16 09:53:29",
+      "process_date": null,
+      "responsible": "FELLIPE LOPES",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JHOSAPHA LIMA DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 5,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 2,
       "Diligências": 1,
-      "Outras": 0
+      "Outras": 1
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-15"
   }
 }
