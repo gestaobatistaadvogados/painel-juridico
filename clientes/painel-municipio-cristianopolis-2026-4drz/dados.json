@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:21:28-03:00",
-    "gerado_em_humano": "16/06/2026 10:21",
+    "gerado_em": "2026-06-17T09:45:00-03:00",
+    "gerado_em_humano": "17/06/2026 09:45",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -174,6 +174,36 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Certidão Expedida (15/06/2026 09:48:32))"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Certidão Expedida (15/06/2026 09:48:32))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente Ã Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição - Manifestação"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Certidão Expedida - INSTRUÇÕES E LINK PARA SESSÃO HÍBRIDA DO DIA 16/06/2026 E POSTERIORES"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente Ã Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Intimação Lida - Por Waldir Lara Cardoso (Referente à Mov. Sessão Julgamento Adiado (24/04/2026 14:16:22))"
@@ -186,42 +216,12 @@
         {
           "date": "2026-06-08",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Cível (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
         },
         {
           "date": "2026-06-08",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Sessão Julgamento Adiado (24/04/2026 14:16:22))"
-        },
-        {
-          "date": "2026-06-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
-        },
-        {
-          "date": "2026-06-08",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Cristianopolis (Referente à Mov. Sessão Julgamento Adiado - 24/04/2026 14:16:22)"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Sessão Julgamento Adiado - (Adiado em razão do Pedido de Sustentação Oral Deferido na sessão de: 27/04/2026 10:00 - Próxima sessão prevista: 16/06/2026 09:00)"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Cristianopolis (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Waldir Lara Cardoso (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
-        },
-        {
-          "date": "2026-04-08",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por Tiago Santana Gonçalves (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (07/04/2026 15:24:37))"
         }
       ],
       "partes_adversarias": [

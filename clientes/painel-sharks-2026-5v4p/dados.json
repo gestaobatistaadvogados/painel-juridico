@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:46:29-03:00",
-    "gerado_em_humano": "16/06/2026 10:46",
+    "gerado_em": "2026-06-17T10:10:37-03:00",
+    "gerado_em_humano": "17/06/2026 10:10",
     "slug_url": "painel-sharks-2026-5v4p",
     "departamento": "direito_imobiliario"
   },
@@ -3049,9 +3049,19 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJPA",
+          "title": "Conclusos Para Despacho"
+        },
+        {
           "date": "2026-04-28",
           "header": "TJPA",
           "title": "Juntada De Petição De Petição"
+        },
+        {
+          "date": "2026-04-16",
+          "header": "TJPA",
+          "title": "Disponibilizado No Dj Eletrônico Em 17/04/2026"
         },
         {
           "date": "2026-04-16",
@@ -3062,11 +3072,6 @@
           "date": "2026-04-16",
           "header": "TJPA",
           "title": "Publicado Intimação Em 22/04/2026."
-        },
-        {
-          "date": "2026-04-16",
-          "header": "TJPA",
-          "title": "Disponibilizado No Dj Eletrônico Em 17/04/2026"
         },
         {
           "date": "2026-02-27",
@@ -5397,13 +5402,13 @@
   "atividade_90d": {
     "total": 46,
     "categorias": {
-      "Peças": 13,
+      "Peças": 14,
       "Audiências": 1,
       "Comunicações": 2,
-      "Acompanhamento": 20,
+      "Acompanhamento": 19,
       "Diligências": 2,
       "Outras": 8
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-16"
   }
 }

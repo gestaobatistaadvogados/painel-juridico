@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:11:07-03:00",
-    "gerado_em_humano": "16/06/2026 10:11",
+    "gerado_em": "2026-06-17T09:34:26-03:00",
+    "gerado_em_humano": "17/06/2026 09:34",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -657,12 +657,30 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJMG"
+    },
+    {
+      "id": 15912360,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2026-06-16 16:34:48",
+      "created_at": "2026-06-16 16:33:24",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 11,
+    "total": 10,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 1,
       "Comunicações": 3,
       "Acompanhamento": 4,

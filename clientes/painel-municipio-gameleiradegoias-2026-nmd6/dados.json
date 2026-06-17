@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:37:00-03:00",
-    "gerado_em_humano": "16/06/2026 10:37",
+    "gerado_em": "2026-06-17T10:00:53-03:00",
+    "gerado_em_humano": "17/06/2026 10:00",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -27,6 +27,11 @@
       "process_date": "2017-10-17",
       "responsible": "FELLIPE LOPES",
       "movements": [
+        {
+          "date": "2026-06-13",
+          "header": "TJGO",
+          "title": "Intimação Lida - Por (Polo Ativo) simone souza de oliveira carvalho (Referente à Mov. Transitado em Julgado (03/06/2026 12:56:44))"
+        },
         {
           "date": "2026-06-08",
           "header": "TJGO",
@@ -71,11 +76,6 @@
           "date": "2026-04-16",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Muncipio De Edeia/go (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (06/04/2026 16:22:16))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) simone souza de oliveira carvalho (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (06/04/2026 16:22:16))"
         }
       ],
       "partes_adversarias": [
@@ -3929,15 +3929,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 11,
+    "total": 12,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 6,
+      "Acompanhamento": 7,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-16"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:43:03-03:00",
-    "gerado_em_humano": "16/06/2026 10:43",
+    "gerado_em": "2026-06-17T10:07:06-03:00",
+    "gerado_em_humano": "17/06/2026 10:07",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -684,7 +684,7 @@
       "status_closure": "2025-03-05 00:00:00",
       "created_at": "2025-03-05 00:00:00",
       "process_date": "2006-04-10",
-      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
           "date": "2026-06-08",
@@ -737,7 +737,11 @@
           "title": "Juntada -> Petição - CERTIDÃO DE PUBLICAÇÃO DE EDITAL DE LEILÃO"
         }
       ],
-      "partes_adversarias": [],
+      "partes_adversarias": [
+        {
+          "name": "LUIZ ANTONIO RODRIGUES"
+        }
+      ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
@@ -2683,9 +2687,34 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Alvará Expedido - ALVARÁ EXPEDIDO (crédito autora/hon.contratuais) - AG. ASSINATURA"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Dados para Expedição de Alvará"
+        },
+        {
           "date": "2026-06-12",
           "header": "TJGO",
           "title": "Penhora Realizada - (Referente à Mov. Prazo Decorrido (08/06/2026 08:33:37))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Tiago Morais De Lima (Referente à Mov. Intimação Expedida (12/06/2026 07:20:47))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Tiago Morais De Lima - Polo Ativo (Referente à Mov. Intimação Expedida - 12/06/2026 07:20:47)"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - AUTORA - INFORMAR DADOS BANCÁRIOS"
         },
         {
           "date": "2026-06-08",
@@ -2705,32 +2734,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Processo Desarquivado"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Processo Reativado - Ref. ao evento 91"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Processo Reativado (CNJ:849) - )"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
           "title": "Juntada -> Petição - Transcurso de prazo - Pedido de penhora"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
-          "title": "Processo Arquivado -"
-        },
-        {
-          "date": "2026-02-24",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
         }
       ],
       "partes_adversarias": [
@@ -5908,11 +5912,11 @@
       "process_number": "5785439-37.2025.8.09.0069",
       "protocol_number": null,
       "folder": null,
-      "stage": "AGUARDANDO JULGAMENTO DA EXECUÇÃO",
+      "stage": "ARQUIVADO ATÉ FUTURO PAGAMENTO RPV",
       "step": "EXECUÇÃO/COBRANÇA",
       "type": "AÇÃO DE REPETIÇÃO DE INDÉBITO",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-16 16:45:35",
       "created_at": "2026-04-01 14:37:25",
       "process_date": "2025-09-25",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
@@ -5976,7 +5980,7 @@
           "name": "LUIS ALBERTO BASILIO"
         }
       ],
-      "fase_grupo": "execucao",
+      "fase_grupo": "arquivados",
       "tribunal": "TJGO"
     },
     {
@@ -5984,11 +5988,11 @@
       "process_number": "5723773-35.2025.8.09.0069",
       "protocol_number": null,
       "folder": null,
-      "stage": "RECURSO JULGADO (ENTRE EM CONTATO CONOSCO)",
-      "step": "RECURSAL",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
       "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-16 17:03:34",
       "created_at": "2026-04-08 17:25:47",
       "process_date": "2025-09-07",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
@@ -6049,7 +6053,7 @@
           "name": "ERICA DE PAULA ESTANISLAU OLIVEIRA"
         }
       ],
-      "fase_grupo": "recursal",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -7954,11 +7958,11 @@
       "process_number": "5701505-84.2025.8.09.0069",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "ELABORAÇÃO DE CÁLCULO",
+      "step": "EXECUÇÃO/COBRANÇA",
       "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C COBRANÇA",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-16 17:40:35",
       "created_at": "2026-04-27 17:03:47",
       "process_date": "2026-04-27",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
@@ -8547,54 +8551,54 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-15",
           "header": "TRF01",
-          "title": "Juntada de certidão de julgamento colegiado"
+          "title": "Expedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Juntada de petição intercorrente"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedida/certificada a intimação eletrônica"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Conhecido o recurso de UNIÃO FEDERAL - CNPJ: 00.394.411/0001-09 (RECORRIDO) e não-provido"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
         },
         {
           "date": "2026-06-10",
           "header": "TRF01",
           "title": "Deliberado em Sessão - Julgado - Mérito"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRF01",
-          "title": "Publicado Intimação de Pauta em 12/05/2026."
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TRF01",
-          "title": "Disponibilizado no DJ Eletrônico em 11/05/2026"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRF01",
-          "title": "Inclusão do processo para julgamento eletrônico de mérito"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TRF01",
-          "title": "Conclusos para julgamento"
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TRF01",
-          "title": "Decorrido prazo de ESTADO DE GOIAS em 16/04/2026 23:59."
-        },
-        {
-          "date": "2026-04-17",
-          "header": "TRF01",
-          "title": "Decorrido prazo de MUNICIPIO DE ARAGOIANIA em 16/04/2026 23:59."
         }
       ],
       "partes_adversarias": [
@@ -9490,15 +9494,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 29,
+    "total": 53,
     "categorias": {
-      "Peças": 4,
+      "Peças": 11,
       "Audiências": 2,
       "Comunicações": 0,
-      "Acompanhamento": 17,
-      "Diligências": 0,
+      "Acompanhamento": 32,
+      "Diligências": 2,
       "Outras": 6
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-17"
   }
 }

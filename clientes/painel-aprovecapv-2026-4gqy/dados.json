@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-16T10:07:20-03:00",
-    "gerado_em_humano": "16/06/2026 10:07",
+    "gerado_em": "2026-06-17T09:30:33-03:00",
+    "gerado_em_humano": "17/06/2026 09:30",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -2661,6 +2661,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-02",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
+          "date": "2026-06-01",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
@@ -2668,22 +2678,22 @@
         {
           "date": "2026-05-28",
           "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em 27/05/2026"
+          "title": "Publicado Intimação em 28/05/2026."
         },
         {
           "date": "2026-05-28",
           "header": "TJMG",
-          "title": "Publicado Intimação em 28/05/2026."
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJMG",
-          "title": "Expedida/certificada a comunicação eletrônica"
+          "title": "Disponibilizado no DJ Eletrônico em 27/05/2026"
         },
         {
           "date": "2026-05-26",
           "header": "TJMG",
           "title": "Proferido despacho de mero expediente"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
         },
         {
           "date": "2026-05-25",
@@ -2693,22 +2703,12 @@
         {
           "date": "2026-05-22",
           "header": "TJMG",
-          "title": "Disponibilizado no DJ Eletrônico em  21/05/2026"
+          "title": "Publicado Intimação em 22/05/2026."
         },
         {
           "date": "2026-05-22",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJMG",
-          "title": "Publicado Intimação em 22/05/2026."
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJMG",
-          "title": "Juntada de Outros documentos"
         }
       ],
       "partes_adversarias": [
@@ -4066,6 +4066,16 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJCE",
+          "title": "Publicado Intimação da Sentença em 16/06/2026. Documento: 206534276"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJCE",
+          "title": "Disponibilizado no DJ Eletrônico em 15/06/2026 Documento: 206534276"
+        },
+        {
           "date": "2026-06-12",
           "header": "TJCE",
           "title": "Expedida/certificada a comunicação eletrônica Documento: 206534276"
@@ -4103,17 +4113,7 @@
         {
           "date": "2026-04-28",
           "header": "TJCE",
-          "title": "Convertido(a) o(a) Julgamento em Diligência"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJCE",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJCE",
-          "title": "Expedida/certificada a comunicação eletrônica Documento: 201497331"
+          "title": "Audiência Instrução e Julgamento Cível designada conduzida por Juiz(a) em/para 03/06/2026 09:00, 03ª Unidade do Juizado Especial Cível da Comarca de Fortaleza."
         }
       ],
       "partes_adversarias": [
@@ -6422,15 +6422,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 52,
+    "total": 57,
     "categorias": {
       "Peças": 10,
       "Audiências": 2,
       "Comunicações": 1,
-      "Acompanhamento": 28,
-      "Diligências": 7,
+      "Acompanhamento": 31,
+      "Diligências": 9,
       "Outras": 4
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-17"
   }
 }
