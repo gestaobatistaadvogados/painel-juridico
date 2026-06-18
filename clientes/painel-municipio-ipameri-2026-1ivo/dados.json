@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:44:22-03:00",
-    "gerado_em_humano": "17/06/2026 09:44",
+    "gerado_em": "2026-06-18T09:18:39-03:00",
+    "gerado_em_humano": "18/06/2026 09:18",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -1822,9 +1822,9 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
-          "date": "2026-03-05",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-03-05",
@@ -1832,9 +1832,9 @@
           "title": "Processo Arquivado"
         },
         {
-          "date": "2026-02-10",
+          "date": "2026-03-05",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jose Vicente Da Silva Junior - Polo Ativo (Referente à Mov. Juntada de Documento - 10/02/2026 16:45:03)"
+          "title": "Processo Arquivado -"
         },
         {
           "date": "2026-02-10",
@@ -1847,9 +1847,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jose Vicente Da Silva Junior (Referente à Mov. Juntada de Documento (10/02/2026 16:45:03))"
         },
         {
-          "date": "2026-02-09",
+          "date": "2026-02-10",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jose Vicente Da Silva Junior - Polo Ativo (Referente à Mov. Juntada de Documento - 10/02/2026 16:45:03)"
         },
         {
           "date": "2026-02-09",
@@ -1859,7 +1859,7 @@
         {
           "date": "2026-02-09",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
+          "title": "Autos Conclusos -"
         },
         {
           "date": "2026-02-09",
@@ -1867,9 +1867,9 @@
           "title": "Despacho -> Mero Expediente -"
         },
         {
-          "date": "2026-02-08",
+          "date": "2026-02-09",
           "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação com Pedidos"
+          "title": "Despacho -> Mero Expediente"
         }
       ],
       "partes_adversarias": [
@@ -3336,6 +3336,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Juntada -> Petição"
@@ -3379,11 +3384,6 @@
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Decisão -> Indeferimento"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Autos Conclusos -"
         }
       ],
       "partes_adversarias": [
@@ -3409,6 +3409,31 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de RICARDO VAZ DE CARVALHO (Referente à Mov. Decisão -> Acolhimento em Parte de Exceção de Pré-Executividade - 15/06/2026 15:43:30)"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio de Ipameri/GO (Referente à Mov. Decisão -> Acolhimento em Parte de Exceção de Pré-Executividade (15/06/2026 15:43:30))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de RICARDO VAZ DE CARVALHO (Referente à Mov. Decisão -> Acolhimento em Parte de Exceção de Pré-Executividade (15/06/2026 15:43:30))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio de Ipameri/GO (Referente à Mov. Decisão -> Acolhimento em Parte de Exceção de Pré-Executividade - 15/06/2026 15:43:30)"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Decisão -> Acolhimento em Parte de Exceção de Pré-Executividade"
+        },
+        {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Autos Conclusos -"
@@ -3416,12 +3441,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Juntada de Documento - AR de Citação - ev.100 - YQ624056425BR"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Juntada de Documento - AR de Citação - ev.100 - YQ624056425BR"
+          "title": "Autos Conclusos"
         },
         {
           "date": "2026-04-13",
@@ -3432,31 +3457,6 @@
           "date": "2026-04-13",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente -"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos -"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJGO",
-          "title": "Autos Conclusos"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-03-09",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-01-22",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Exceção de pré-executividade -"
         }
       ],
       "partes_adversarias": [

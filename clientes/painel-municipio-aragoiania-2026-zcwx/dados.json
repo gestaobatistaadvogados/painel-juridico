@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:07:06-03:00",
-    "gerado_em_humano": "17/06/2026 10:07",
+    "gerado_em": "2026-06-18T09:40:50-03:00",
+    "gerado_em_humano": "18/06/2026 09:40",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -278,6 +278,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
           "date": "2026-06-09",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Célia Maria Alves Pereira Batista - Polo Ativo (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Rejeição (CNJ:14235) - )"
@@ -321,11 +326,6 @@
           "date": "2026-04-14",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença - Impugnação"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente (18/02/2026 18:03:03))"
         }
       ],
       "partes_adversarias": [
@@ -1001,6 +1001,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte - Decisão. CS. Acolhe em parte a impugnação ao CS. Remessa à Contadoria Judicial."
+        },
+        {
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -1013,11 +1018,6 @@
         {
           "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Intimação Expedida - AUTORA - MANIFESTAR IMPUGNAÇÃO CUMPRIMENTO DE SENTENÇA"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Damira Shirley Da Silva (Referente à Mov. Intimação Expedida (23/04/2026 12:12:24))"
         },
         {
@@ -1026,9 +1026,9 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Damira Shirley Da Silva - Polo Ativo (Referente à Mov. Intimação Expedida - 23/04/2026 12:12:24)"
         },
         {
-          "date": "2026-04-22",
+          "date": "2026-04-23",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença -"
+          "title": "Intimação Expedida - AUTORA - MANIFESTAR IMPUGNAÇÃO CUMPRIMENTO DE SENTENÇA"
         },
         {
           "date": "2026-04-22",
@@ -1036,9 +1036,9 @@
           "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença"
         },
         {
-          "date": "2026-04-09",
+          "date": "2026-04-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 23/02/2026 16:19:13)"
+          "title": "Juntada -> Petição -> Impugnação ao cumprimento de sentença -"
         },
         {
           "date": "2026-04-09",
@@ -1048,7 +1048,7 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente (23/02/2026 16:19:13))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 23/02/2026 16:19:13)"
         }
       ],
       "partes_adversarias": [
@@ -1599,14 +1599,34 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-05-13",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Prazo Decorrido - FAZENDA PÚBLICA"
+          "title": "Decisão -> Determinação -> Expedição de RPV - Decisão. CS. Rejeita a impugnação ao CS. Homologa cálculos da exequente. RPV."
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Gabriela Rosa Batista (Referente à Mov. Decisão -> Determinação -> Expedição de RPV (17/06/2026 10:05:12))"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gabriela Rosa Batista (Referente à Mov. Decisão -> Determinação -> Expedição de RPV (CNJ:12457) - )"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente Ã Mov. Decisão -> Determinação -> Expedição de RPV (CNJ:12457) - )"
         },
         {
           "date": "2026-05-13",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - FAZENDA PÚBLICA"
         },
         {
           "date": "2026-05-04",
@@ -1627,26 +1647,6 @@
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Certidão Expedida - Ref. ao evento 96, hab. Dr. CAIO IGOR PUREZA DE FARIA REIS"
-        },
-        {
-          "date": "2026-04-06",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente (25/03/2026 15:56:03))"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-03-25",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Despacho. CS. Intimar parte executada. Juntar planilha."
         }
       ],
       "partes_adversarias": [
@@ -1767,14 +1767,19 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-06-03",
+          "date": "2026-06-15",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carla Simone De Araujo Martins (Referente à Mov. Intimação Expedida (03/06/2026 07:37:56))"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (03/06/2026 07:37:56))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
         },
         {
           "date": "2026-06-03",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente Ã Mov. Intimação Expedida - 03/06/2026 07:37:56)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Carla Simone De Araujo Martins (Referente à Mov. Intimação Expedida (03/06/2026 07:37:56))"
         },
         {
           "date": "2026-06-03",
@@ -1785,6 +1790,11 @@
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Carla Simone De Araujo Martins (Referente à Mov. Intimação Expedida - 03/06/2026 07:37:56)"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente Ã Mov. Intimação Expedida - 03/06/2026 07:37:56)"
         },
         {
           "date": "2026-06-02",
@@ -1799,22 +1809,12 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (24/03/2026 06:46:02))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Intimação Expedida - 24/03/2026 06:46:02)"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Ref. ao evento 59, hab do Dr. CAIO IGOR PUREZA DE FARIA REIS"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
           "title": "Juntada -> Petição - Juntada de novos documentos"
+        },
+        {
+          "date": "2026-04-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Intimação Expedida (24/03/2026 06:46:02))"
         }
       ],
       "partes_adversarias": [
@@ -1913,6 +1913,26 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cinthia Martins Da Silva Soares (Referente à Mov. Decisão -> Recebimento -> Recurso -> Sem efeito suspensivo (16/06/2026 17:29:08))"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Decisão -> Recebimento -> Recurso -> Sem efeito suspensivo"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cinthia Martins Da Silva Soares (Referente à Mov. Decisão -> Recebimento -> Recurso -> Sem efeito suspensivo (CNJ:1059) - )"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente Ã Mov. Decisão -> Recebimento -> Recurso -> Sem efeito suspensivo (CNJ:1059) - )"
+        },
+        {
           "date": "2026-05-20",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DESPACHO"
@@ -1935,32 +1955,12 @@
         {
           "date": "2026-04-30",
           "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência -"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cinthia Martins Da Silva Soares (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (CNJ:220) - )"
         },
         {
           "date": "2026-04-30",
           "header": "TJGO",
           "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cinthia Martins Da Silva Soares (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/04/2026 10:37:47))"
-        },
-        {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (30/04/2026 10:37:47))"
         }
       ],
       "partes_adversarias": [
@@ -2154,6 +2154,26 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente Ã Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Juliana Paula Neri Da Silva (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (12/06/2026 13:16:35))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte - Decisão. CS. Acolhe em parte a impugnação ao CS. Homologa cálculos do executado."
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Juliana Paula Neri Da Silva - Polo Ativo (Referente à Mov. Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte (CNJ:14234) - )"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
@@ -2182,26 +2202,6 @@
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Intimação Expedida - 30/03/2026 08:41:22)"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Ref. ao evento 54 habilitação DR. CAIO IGOR PUREZA DE FARIA REIS"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (30/03/2026 08:41:22))"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-01",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -"
         }
       ],
       "partes_adversarias": [
@@ -2300,14 +2300,34 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos de declaração - Embargos de Declaração"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Certidão - Embargos de Declaração autuado (15/06/2026 11:38:45))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Certidão - Embargos de Declaração autuado - Apresentar contrarrazões aos embargos de declaração"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Certidão - Embargos de Declaração autuado (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Recurso Inserido - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Embargos -> Embargos de Declaração Cível)"
+        },
+        {
           "date": "2026-06-08",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (26/05/2026 20:38:16))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (26/05/2026 20:38:16))"
         },
         {
           "date": "2026-05-27",
@@ -2320,34 +2340,14 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento - 26/05/2026 20:38:16)"
         },
         {
+          "date": "2026-05-27",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (26/05/2026 20:38:16))"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Recurso Autuado - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Inominado Cível)"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Recurso Distribuído - 2ª Turma Recursal dos Juizados Especiais (Normal) - Distribuído para: Vitor Umbelino Soares Junior"
-        },
-        {
-          "date": "2026-05-18",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Recurso Inominado"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Ligiany Batista Damascena (Referente à Mov. Decisão -> Recebimento -> Recurso -> Sem efeito suspensivo (CNJ:1059) - )"
         }
       ],
       "partes_adversarias": [
@@ -3271,14 +3271,14 @@
       "responsible": "VANESSA ALESSANDRA GONZAGA",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Itau Unibanco S.a. em 11/06/2026 23:59:59 (Referente Ã Mov. Decisão -> Outras Decisões (29/05/2026 12:05:20))"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Resposta - Petição Intercorrente"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jose Antonio Campos Sales (Referente à Mov. Audiência de Instrução e Julgamento (29/05/2026 13:11:06))"
         },
         {
           "date": "2026-05-29",
@@ -3490,6 +3490,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Alvará Expedido"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Alvará Expedido - ALVARÁ EXPEDIDO (hon.sucumbencias) - AG. ASSINATURA"
@@ -3522,22 +3527,17 @@
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE ARAGOIÂNIA - Polo Passivo (Referente à Mov. Intimação Expedida - 06/05/2026 11:54:10)"
+          "title": "Intimação Expedida - FAZENDA PÚBLICA - PRAZO 15 DIAS"
         },
         {
           "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Intimação Expedida - FAZENDA PÚBLICA - PRAZO 15 DIAS"
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICÍPIO DE ARAGOIÂNIA - Polo Passivo (Referente à Mov. Intimação Expedida - 06/05/2026 11:54:10)"
         },
         {
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Juntada -> Petição - Interlocutoria"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Processo Desarquivado"
         }
       ],
       "partes_adversarias": [
@@ -4413,6 +4413,26 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daniela Regina Silva (Referente à Mov. Despacho -> Mero Expediente (11/06/2026 14:46:01))"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniela Regina Silva - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Fundo Municipal De Saude De Aragoiania - Polo Passivo (Referente Ã Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente - Despacho. Indefere produção prova documental suplementar.Intimar perito e autora"
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -4430,37 +4450,17 @@
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daniela Regina Silva (Referente à Mov. Certidão Expedida (09/04/2026 13:40:58))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fundo Municipal De Saude De Aragoiania (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fundo Municipal De Saude De Aragoiania (Referente à Mov. Certidão Expedida (09/04/2026 13:40:58))"
         },
         {
           "date": "2026-04-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daniela Regina Silva (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Ref. ao evento 62 MANIFESTAÇÃO DAS PARTES SOBRE O LAUDO PERICIAL"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Ref. ao evento 60/61"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (09/04/2026 13:40:58))"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daniela Regina Silva (Referente à Mov. Certidão Expedida (09/04/2026 13:40:58))"
         }
       ],
       "partes_adversarias": [
@@ -4565,6 +4565,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Aragoiania (Referente à Mov. Intimação Expedida (03/06/2026 07:55:28))"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJGO",
           "title": "Intimação Expedida - FAZENDA PÚBLICA - MANIFESTAR RPV COMPLEMENTAR - PRAZO 15 DIAS"
@@ -4608,11 +4613,6 @@
           "date": "2026-05-12",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Decisão -> Acolhimento de Embargos de Declaração (CNJ:15162) - )"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Celia Maria Alves Pereira (Referente à Mov. Decisão -> Acolhimento de Embargos de Declaração (12/05/2026 11:52:02))"
         }
       ],
       "partes_adversarias": [
@@ -5557,54 +5557,54 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Aragoiania (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 09/06/2026 15:24:07)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alvaro Sergio Fuzo (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (09/06/2026 15:24:07))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Valdivino De Oliveira Terra (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (09/06/2026 15:24:07))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Fabio Neres Prates Da Costa (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (09/06/2026 15:24:07))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 22/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fabio Neres Prates Da Costa (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 09/06/2026 15:24:07)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alvaro Sergio Fuzo (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 09/06/2026 15:24:07)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valdivino De Oliveira Terra (Referente à Mov. Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - 09/06/2026 15:24:07)"
+        },
+        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Ofício(s) Expedido(s) - OFÍCIO COMUNICATÓRIO"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Pendência Verificada - CEJUSC 2º Grau"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJGO",
-          "title": "Processo Redistribuído - 10ª Câmara Cível (Direcionada Magistrado) - Distribuído para: DESEMBARGADOR ANDERSON MÁXIMO DE HOLANDA"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Recurso Autuado - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível)"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Conciliação CEJUSC"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Recurso Distribuído - 1ª Câmara Cível (Normal) - Distribuído para: Altair Guerra da Costa"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Remessa em grau de recurso - REMESSA À INSTÂNCIA SUPERIOR"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Decisão -> Determinação -> Redistribuição por prevenção"
         }
       ],
       "partes_adversarias": [
@@ -6239,6 +6239,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Decisão -> Impugnação ao Cumprimento de Sentença -> Acolhimento em Parte - Decisão. CS. Acolhe em parte a impugnação ao CS. Remessa à Contadoria Judicial."
+        },
+        {
           "date": "2026-05-06",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -6282,11 +6287,6 @@
           "date": "2026-04-09",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Despacho -> Mero Expediente (25/03/2026 17:11:19))"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 25/03/2026 17:11:19)"
         }
       ],
       "partes_adversarias": [
@@ -8234,54 +8234,54 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Chagas De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 08/06/2026 20:21:46)"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (08/06/2026 20:21:46))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Andre Chagas De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (08/06/2026 20:21:46))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 08/06/2026 20:21:46)"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (08/06/2026 20:21:46))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Chagas De Sousa (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Andre Chagas De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (08/06/2026 20:21:46))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 28/05/2026 13:30)"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 28/05/2026 13:30)"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - INSTRUÇÕES PARA SUSTENTAÇÃO ORAL E LINK ACESSO"
-        },
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Sessão Julgamento Adiado - (Adiado em razão do Pedido de Sustentação Oral Deferido na sessão de: 18/05/2026 10:00 - Próxima sessão prevista: 28/05/2026 13:30)"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Chagas De Sousa (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 04/05/2026 18:32:50)"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 18/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Relatório -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Municipio De Aragoiania (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (04/05/2026 18:32:50))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Andre Chagas De Sousa (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (04/05/2026 18:32:50))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 04/05/2026 18:32:50)"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Parecer Falta de Interesse (MP)"
         }
       ],
       "partes_adversarias": [
@@ -8329,6 +8329,11 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 360 dias)"
+        },
+        {
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Término da Suspensão do Processo"
@@ -8366,17 +8371,12 @@
         {
           "date": "2025-03-28",
           "header": "TJGO",
-          "title": "Recurso Inserido - (Recurso Agravo ao Stf)"
+          "title": "Intimação Expedida - Certidão de Intimação para Contraminutar Agravos p/STJ e STF"
         },
         {
           "date": "2025-03-28",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de SECRETÁRIO DE FINANÇAS DO MUNICÍPIO DE ARAGOIÂNIA (Referente à Mov. Intimação Expedida (CNJ:12265) - )"
-        },
-        {
-          "date": "2025-03-28",
-          "header": "TJGO",
-          "title": "Recurso Inserido - (Recurso Agravo ao Stj)"
         }
       ],
       "partes_adversarias": [
@@ -8402,6 +8402,16 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Prazo Decorrido - PARTES"
+        },
+        {
           "date": "2026-06-08",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
@@ -8410,16 +8420,6 @@
           "date": "2026-05-29",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Guapó - Promotoria das Fazendas Públicas (Referente Ã Mov. Certidão Expedida - 06/05/2026 13:32:08)"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Aparecida Souza Da Silva Santos (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-05-06",
@@ -8447,9 +8447,9 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Aparecida Souza Da Silva Santos (Referente à Mov. Certidão Expedida (06/05/2026 13:32:08))"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-05-06",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Municipio De Aragoiania (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -8812,9 +8812,44 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Ativo) Estelita Maria Lobo Borges - Código de Rastreamento Correios: YH208678694BR idPendenciaCorreios109987675432015873960254721idPendenciaCorreios"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Ativo) WILMAR TATICO BORGES - Código de Rastreamento Correios: YH208678646BR idPendenciaCorreios109887625432015873960254727idPendenciaCorreios"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Certidão Expedida - E-cartas enviado ao autor para prosseguimento do feito"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para Estelita Maria Lobo Borges em 02/06/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (22/05/2026 10:17:19))"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para WILMAR TATICO BORGES em 02/06/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (22/05/2026 10:17:19))"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
+        },
+        {
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Ato Ordinatório - Intimar autor para prosseguimento do feito sob pena de extinção"
+        },
+        {
+          "date": "2026-05-22",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
         },
         {
           "date": "2026-05-22",
@@ -8825,41 +8860,6 @@
           "date": "2026-05-22",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Estelita Maria Lobo Borges em 21/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para WILMAR TATICO BORGES em 21/05/2026 23:59:59 (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
-        },
-        {
-          "date": "2026-05-22",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Ato Ordinatório (22/05/2026 10:17:19))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WILMAR TATICO BORGES (Referente à Mov. Certidão Expedida (12/05/2026 17:36:07))"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Estelita Maria Lobo Borges (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -8890,6 +8890,16 @@
       "process_date": "2026-05-19",
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Município De Aragoiânia (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (01/06/2026 09:07:34))"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Estado De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (01/06/2026 09:07:34))"
+        },
         {
           "date": "2026-06-01",
           "header": "TJGO",
@@ -8923,22 +8933,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Troca de Responsável - Novo relator: DESEMBARGADOR AMARAL WILSON DE OLIVEIRA"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/04/2026 07:51:05)"
         },
         {
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Município De Aragoiânia (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 27/04/2026 07:51:05)"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 25/05/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Extraordinário - Não Cabe Pedido de Sustentação Oral )"
         }
       ],
       "partes_adversarias": [
@@ -9491,16 +9491,81 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 15935966,
+      "process_number": "5815743-87.2023.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO CIVIL PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-17 16:45:00",
+      "process_date": "2026-06-17",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MINISTERIO PUBLICO DO ESTADO DE GOIAS"
+        },
+        {
+          "name": "ALTAMIRA JOANA FLOR"
+        },
+        {
+          "name": "JAILSON MEIRA RAMIRO"
+        },
+        {
+          "name": "THIAGO DIAS DA SILVA"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
+      "id": 15942142,
+      "process_number": "5419334-20.2026.8.09.0069",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-17 16:59:16",
+      "process_date": "2026-06-17",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "ANTONIO RODRIGUES ROSA"
+        },
+        {
+          "name": "LUCAS RODRIGUES RIOS"
+        },
+        {
+          "name": "MARINEID DAS GRACAS PINTO E ROSA"
+        },
+        {
+          "name": "PEDRO PAULO ROSA RIOS"
+        },
+        {
+          "name": "ROSANGELA DE JESUS FARIAS MARTINS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 53,
+    "total": 52,
     "categorias": {
       "Peças": 11,
       "Audiências": 2,
       "Comunicações": 0,
-      "Acompanhamento": 32,
-      "Diligências": 2,
+      "Acompanhamento": 30,
+      "Diligências": 3,
       "Outras": 6
     },
     "ultima_data": "2026-06-17"

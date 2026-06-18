@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:00:53-03:00",
-    "gerado_em_humano": "17/06/2026 10:00",
+    "gerado_em": "2026-06-18T09:34:43-03:00",
+    "gerado_em_humano": "18/06/2026 09:34",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -624,6 +624,31 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eliane Chagas De Moraes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 16/06/2026 15:16:18)"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 15/06/2026 10:00)"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento - 16/06/2026 15:16:18)"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Não-Provimento - (Sessão do dia 15/06/2026 10:00)"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eliane Chagas De Moraes (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Não-Provimento (16/06/2026 15:16:18))"
+        },
+        {
           "date": "2026-06-08",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (29/05/2026 14:55:39))"
@@ -636,42 +661,17 @@
         {
           "date": "2026-05-29",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eliane Chagas De Moraes (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (29/05/2026 14:55:39))"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente Ã Mov. - )"
-        },
-        {
-          "date": "2026-05-29",
-          "header": "TJGO",
           "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual - DESPACHO MARCAR SESSÃO VIRTUAL"
         },
         {
           "date": "2026-05-29",
           "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eliane Chagas De Moraes (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (29/05/2026 14:55:39))"
+        },
+        {
+          "date": "2026-05-29",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Eliane Chagas De Moraes (Referente à Mov. - )"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Recurso Autuado - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Recurso Inominado Cível)"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Recurso Distribuído - 1ª Turma Recursal dos Juizados Especiais (Normal) - Distribuído para: Claudiney Alves de Melo"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Decisão -> Recebimento -> Recurso -> Com efeito suspensivo (22/04/2026 14:10:17))"
         }
       ],
       "partes_adversarias": [
@@ -916,6 +916,21 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Juntada de laudo pericial - LAUDO MÉDICO PERICIAL"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Evanilda Batista De Oliveira - Polo Ativo (Referente à Mov. Juntada -> Petição -> Diligencia Requerida - 26/03/2026 11:52:50)"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Evanilda Batista De Oliveira (Referente à Mov. Juntada -> Petição -> Diligencia Requerida (26/03/2026 11:52:50))"
+        },
+        {
           "date": "2026-04-06",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Certidão Expedida (23/03/2026 14:39:46))"
@@ -923,17 +938,12 @@
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Certidão Expedida (19/03/2026 17:01:14))"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Decisão -> Nomeação -> Perito (05/03/2026 14:11:43))"
         },
         {
           "date": "2026-03-30",
           "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Decisão -> Nomeação -> Perito (05/03/2026 14:11:43))"
-        },
-        {
-          "date": "2026-03-26",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Diligencia Requerida"
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Certidão Expedida (19/03/2026 17:01:14))"
         },
         {
           "date": "2026-03-26",
@@ -941,29 +951,19 @@
           "title": "Juntada -> Petição -> Diligencia Requerida -"
         },
         {
-          "date": "2026-03-23",
+          "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: DOUGLAS NUNES ALMEIDA Procurador Responsável Atual: LEONEL NASCIMENTO CARVALHO JUNIOR"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Evanilda Batista De Oliveira (Referente à Mov. Certidão Expedida (23/03/2026 14:39:46))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Nota de Foro Expedida (12/03/2026 13:14:49))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Juntada de Documento - comprovante de envio dos quesitos ao perito"
+          "title": "Juntada -> Petição -> Diligencia Requerida"
         },
         {
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Certidão Expedida - Cientificação do perito acerca dos quesitos apresentados nos eventos 50 e 51"
+        },
+        {
+          "date": "2026-03-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Evanilda Batista De Oliveira (Referente à Mov. Certidão Expedida - 23/03/2026 14:39:46)"
         }
       ],
       "partes_adversarias": [
@@ -1960,6 +1960,21 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Rita De Sousa Costa (Referente à Mov. Juntada de Documento (12/06/2026 13:54:40))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Rita De Sousa Costa - Polo Ativo (Referente à Mov. Juntada de Documento - 12/06/2026 13:54:40)"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Juntada de Documento - comprovante de pagamento do alvará"
+        },
+        {
           "date": "2026-05-07",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Maria Rita De Sousa Costa (Referente à Mov. Alvará Expedido (07/05/2026 14:50:45))"
@@ -1993,21 +2008,6 @@
           "date": "2026-03-30",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Despacho -> Mero Expediente (05/02/2026 13:30:34))"
-        },
-        {
-          "date": "2026-03-23",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: DOUGLAS NUNES ALMEIDA Procurador Responsável Atual: LEONEL NASCIMENTO CARVALHO JUNIOR"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 05/02/2026 13:30:34)"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: EDUARDO COSTA FERREIRA Procurador Responsável Atual: DOUGLAS NUNES ALMEIDA"
         }
       ],
       "partes_adversarias": [
@@ -2109,6 +2109,21 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Resposta - resposta aos Embargos"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO - ATO ORDINATÓRIO - INTIMAÇÃO DO EMBARGADO"
@@ -2136,27 +2151,12 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 28/05/2026 15:21:03)"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Magna Pereira Rodrigues Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento (28/05/2026 15:21:03))"
         },
         {
           "date": "2026-06-02",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Magna Pereira Rodrigues Dos Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 28/05/2026 15:21:03)"
-        },
-        {
-          "date": "2026-05-28",
-          "header": "TJGO",
-          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 25/05/2026 10:00)"
-        },
-        {
-          "date": "2026-05-28",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Provimento - (Sessão do dia 25/05/2026 10:00)"
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Provimento - 28/05/2026 15:21:03)"
         }
       ],
       "partes_adversarias": [
@@ -3218,14 +3218,14 @@
           "title": "Intimação Lida - Automaticamente para (Polo Ativo)Município De Gameleira De Goiás (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (02/06/2026 17:09:09))"
         },
         {
-          "date": "2026-06-02",
+          "date": "2026-06-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Espolio de Regiana Galdino Andre-representado por Manoel Edil André da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (02/06/2026 17:09:09))"
+          "title": "Intimação Expedida - On-line para Adv(s). de Município De Gameleira De Goiás - Polo Ativo (Referente Ã Mov. Juntada -> Petição - 12/06/2026 10:26:43)"
         },
         {
-          "date": "2026-06-02",
+          "date": "2026-06-12",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Espolio de Regiana Galdino Andre-representado por Manoel Edil André da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+          "title": "Juntada -> Petição - Embargos de declaração"
         },
         {
           "date": "2026-06-02",
@@ -3240,7 +3240,17 @@
         {
           "date": "2026-06-02",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Espolio de Regiana Galdino Andre-representado por Manoel Edil André da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Gilberto Galdino De Souza (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Espolio de Regiana Galdino Andre-representado por Manoel Edil André da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (02/06/2026 17:09:09))"
         },
         {
           "date": "2026-06-02",
@@ -3251,16 +3261,6 @@
           "date": "2026-03-23",
           "header": "TJGO",
           "title": "Troca de Responsável - Procurador Responsável Anterior: DOUGLAS NUNES ALMEIDA Procurador Responsável Atual: LEONEL NASCIMENTO CARVALHO JUNIOR"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Troca de Responsável - Procurador Responsável Anterior: EDUARDO COSTA FERREIRA Procurador Responsável Atual: DOUGLAS NUNES ALMEIDA"
-        },
-        {
-          "date": "2026-03-12",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
         }
       ],
       "partes_adversarias": [
@@ -3289,6 +3289,11 @@
       "responsible": "DOUGLAS NUNES ALMEIDA",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
           "date": "2026-06-02",
           "header": "TJGO",
           "title": "Juntada -> Petição - Requer chamamento do feito à ordem - precatórios não remetidos"
@@ -3296,22 +3301,17 @@
         {
           "date": "2026-05-28",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
+          "title": "Juntada -> Petição -> Pedido de reconsideração"
         },
         {
           "date": "2026-05-28",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Pedido de reconsideração"
+          "title": "Autos Conclusos - P/ DESPACHO"
         },
         {
           "date": "2026-05-14",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (04/05/2026 06:35:04))"
-        },
-        {
-          "date": "2026-05-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
         },
         {
           "date": "2026-05-04",
@@ -3329,14 +3329,14 @@
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de M&s Anápolis Aluguel De Equipamentos Eireli - Me Casa Do Construtor (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
         },
         {
+          "date": "2026-05-04",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Gameleira De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ SENTENÇA"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Gameleira De Goias (Referente à Mov. Alvará Expedido (17/03/2026 06:02:07))"
         }
       ],
       "partes_adversarias": [
@@ -3929,15 +3929,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 12,
+    "total": 13,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 7,
+      "Acompanhamento": 8,
       "Diligências": 0,
       "Outras": 3
     },
-    "ultima_data": "2026-06-16"
+    "ultima_data": "2026-06-17"
   }
 }

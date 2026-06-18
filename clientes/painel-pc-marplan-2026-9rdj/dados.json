@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:13:14-03:00",
-    "gerado_em_humano": "17/06/2026 10:13",
+    "gerado_em": "2026-06-18T09:46:49-03:00",
+    "gerado_em_humano": "18/06/2026 09:46",
     "slug_url": "painel-pc-marplan-2026-9rdj",
     "departamento": "direito_criminal"
   },
@@ -105,15 +105,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 3,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 1,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-09"
+    "ultima_data": "2026-06-17"
   }
 }

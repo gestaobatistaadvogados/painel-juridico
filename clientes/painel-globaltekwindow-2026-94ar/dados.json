@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:41:00-03:00",
-    "gerado_em_humano": "17/06/2026 09:41",
+    "gerado_em": "2026-06-18T09:15:22-03:00",
+    "gerado_em_humano": "18/06/2026 09:15",
     "slug_url": "painel-globaltekwindow-2026-94ar",
     "departamento": "direito_privado"
   },
@@ -174,6 +174,21 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-17",
+          "header": "TJMA",
+          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 16/06/2026 23:59."
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJMA",
+          "title": "Decorrido prazo de BERTOLDO KLINGER BARROS REGO NETO em 16/06/2026 23:59."
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJMA",
+          "title": "Decorrido prazo de LUCAS MARINHO DA SILVA em 16/06/2026 23:59."
+        },
+        {
           "date": "2026-06-01",
           "header": "TJMA",
           "title": "Juntada de Petição de petição"
@@ -181,12 +196,12 @@
         {
           "date": "2026-05-22",
           "header": "TJMA",
-          "title": "Disponibilizado no DJ Eletrônico em  21/05/2026"
+          "title": "Publicado Intimação em 22/05/2026."
         },
         {
           "date": "2026-05-22",
           "header": "TJMA",
-          "title": "Publicado Intimação em 22/05/2026."
+          "title": "Disponibilizado no DJ Eletrônico em  21/05/2026"
         },
         {
           "date": "2026-05-20",
@@ -201,27 +216,12 @@
         {
           "date": "2025-12-02",
           "header": "TJMA",
-          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 01/12/2025 23:59."
+          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 01/12/2025 23:59."
         },
         {
           "date": "2025-12-02",
           "header": "TJMA",
-          "title": "Decorrido prazo de LEONARDO DE OLIVEIRA PEREIRA BATISTA em 01/12/2025 23:59."
-        },
-        {
-          "date": "2025-11-18",
-          "header": "TJMA",
-          "title": "Conclusos para despacho"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
-          "title": "Disponibilizado no DJ Eletrônico em  05/11/2025"
-        },
-        {
-          "date": "2025-11-06",
-          "header": "TJMA",
-          "title": "Juntada de Petição de contrarrazões"
+          "title": "Decorrido prazo de DAIANE NUNES ANANIAS em 01/12/2025 23:59."
         }
       ],
       "partes_adversarias": [
@@ -234,15 +234,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 0,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 0,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-05-26"
+    "ultima_data": null
   }
 }

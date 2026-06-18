@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:23:04-03:00",
-    "gerado_em_humano": "17/06/2026 09:23",
+    "gerado_em": "2026-06-18T08:57:48-03:00",
+    "gerado_em_humano": "18/06/2026 08:57",
     "slug_url": "painel-robsongorito-2026-cyws",
     "departamento": "direito_privado"
   },
@@ -2703,8 +2703,8 @@
       "process_number": "0000783-55.2026.5.18.0001",
       "protocol_number": null,
       "folder": null,
-      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
-      "step": "ADMINISTRATIVO",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
       "type": "RECLAMAÇÃO TRABALHISTA",
       "group": "PRIVADO",
       "status_closure": "2026-05-12 13:54:40",
@@ -3152,12 +3152,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 53,
+    "total": 56,
     "categorias": {
       "Peças": 0,
-      "Audiências": 4,
-      "Comunicações": 8,
-      "Acompanhamento": 24,
+      "Audiências": 6,
+      "Comunicações": 12,
+      "Acompanhamento": 21,
       "Diligências": 1,
       "Outras": 16
     },

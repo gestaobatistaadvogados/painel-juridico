@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:13:30-03:00",
-    "gerado_em_humano": "17/06/2026 10:13",
+    "gerado_em": "2026-06-18T09:47:04-03:00",
+    "gerado_em_humano": "18/06/2026 09:47",
     "slug_url": "painel-pc-osvaldocassiano-2026-uhts",
     "departamento": "direito_criminal"
   },
@@ -174,6 +174,31 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Osvaldo Cassiano De Faria (Referente à Mov. Despacho -> Mero Expediente (16/06/2026 16:32:41))"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Katia Pereira Coelho Camargo (Referente à Mov. Despacho -> Mero Expediente (16/06/2026 16:32:41))"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Osvaldo Cassiano De Faria (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Katia Pereira Coelho Camargo (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
           "date": "2026-03-02",
           "header": "TJGO",
           "title": "Juntada -> Petição -> Contestação - contestação"
@@ -197,31 +222,6 @@
           "date": "2026-02-18",
           "header": "TJGO",
           "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-02-13",
-          "header": "TJGO",
-          "title": "Documento Cumprido - Carta de Notificação - (Referente à Mov. Decisão -> deferimento (16/01/2026 06:12:23))"
-        },
-        {
-          "date": "2026-02-05",
-          "header": "TJGO",
-          "title": "Documento Expedido - Para (Polo Passivo) FSOBL - Código de Rastreamento Correios: YH035630378BR idPendenciaCorreios109387695432015873960436813idPendenciaCorreios"
-        },
-        {
-          "date": "2026-02-02",
-          "header": "TJGO",
-          "title": "Certidão Expedida - cumprida diligências de ev. retro"
-        },
-        {
-          "date": "2026-01-16",
-          "header": "TJGO",
-          "title": "Decisão -> deferimento -"
-        },
-        {
-          "date": "2025-12-20",
-          "header": "TJGO",
-          "title": "Documento Cumprido - Carta de Notificação - (Referente à Mov. Decisão -> Não-Concessão -> Liminar (11/11/2025 11:30:03))"
         }
       ],
       "partes_adversarias": [

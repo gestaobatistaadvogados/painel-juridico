@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:39:54-03:00",
-    "gerado_em_humano": "17/06/2026 09:39",
+    "gerado_em": "2026-06-18T09:14:19-03:00",
+    "gerado_em_humano": "18/06/2026 09:14",
     "slug_url": "painel-aevoimobiliaria-2026-20ol",
     "departamento": "direito_imobiliario"
   },
@@ -198,14 +198,19 @@
       "responsible": "SAMUEL DOS REIS MACHADO",
       "movements": [
         {
-          "date": "2026-06-08",
+          "date": "2026-06-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+          "title": "Juntada -> Petição - Petição Interlocutória"
         },
         {
           "date": "2026-06-08",
           "header": "TJGO",
           "title": "Certidão Expedida - INTIMAÇÃO PARA RESPOSTA DE MANIFESTAÇÃO"
+        },
+        {
+          "date": "2026-06-08",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de AIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
           "date": "2026-06-08",
@@ -225,12 +230,12 @@
         {
           "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
+          "title": "Certidão Expedida - INTIMAÇÃO EXECUTADO RENAJUD"
         },
         {
           "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Certidão Expedida - INTIMAÇÃO EXECUTADO RENAJUD"
+          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
         },
         {
           "date": "2026-05-26",
@@ -241,11 +246,6 @@
           "date": "2026-05-26",
           "header": "TJGO",
           "title": "Certidão Expedida - Encaminhamento ao CENOPES - SNIPER e INFOJUD"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
         }
       ],
       "partes_adversarias": [
@@ -1208,15 +1208,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 19,
+    "total": 18,
     "categorias": {
       "Peças": 6,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 8,
+      "Acompanhamento": 7,
       "Diligências": 0,
       "Outras": 5
     },
-    "ultima_data": "2026-06-16"
+    "ultima_data": "2026-06-17"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:34:26-03:00",
-    "gerado_em_humano": "17/06/2026 09:34",
+    "gerado_em": "2026-06-18T09:08:57-03:00",
+    "gerado_em_humano": "18/06/2026 09:08",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -363,14 +363,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-15",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Juntada -> Petição - Interl. Manutenção do Sobrestamento"
         },
         {
           "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIUL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VREL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-06-10",
@@ -385,17 +385,12 @@
         {
           "date": "2026-06-10",
           "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VREL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-06-10",
@@ -405,12 +400,17 @@
         {
           "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Reserva 153 Empreendimentos Imobiliarios Spe Ltda (Referente à Mov. Despacho -> Mero Expediente (10/06/2026 15:01:19))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -> Mero Expediente (10/06/2026 15:01:19))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIUL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Reserva 153 Empreendimentos Imobiliarios Spe Ltda (Referente à Mov. Despacho -> Mero Expediente (10/06/2026 15:01:19))"
         }
       ],
       "partes_adversarias": [

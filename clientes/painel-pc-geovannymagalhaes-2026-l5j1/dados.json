@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:12:40-03:00",
-    "gerado_em_humano": "17/06/2026 10:12",
+    "gerado_em": "2026-06-18T09:46:16-03:00",
+    "gerado_em_humano": "18/06/2026 09:46",
     "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
     "departamento": "direito_criminal"
   },
@@ -27,6 +27,16 @@
       "process_date": null,
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para Geovanny Magalhães Ferreira (Mandado nº 7534249 / Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para Ana Paula Ferreira (Mandado nº 7534245 / Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
+        },
         {
           "date": "2026-06-09",
           "header": "TJGO",
@@ -66,16 +76,6 @@
           "date": "2026-06-02",
           "header": "TJGO",
           "title": "Intimação Via Telefone Efetivada - Para TBAS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534245 / Para: Ana Paula Ferreira)"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Mandado Expedido - Para Goianésia - Central de Mandados (Mandado nº 7534249 / Para: Geovanny Magalhães Ferreira)"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:54:11-03:00",
-    "gerado_em_humano": "17/06/2026 09:54",
+    "gerado_em": "2026-06-18T09:28:16-03:00",
+    "gerado_em_humano": "18/06/2026 09:28",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -1910,6 +1910,21 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-14",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - MINISTÉRIO PÚBLICO MANIFESTAR-SE E PROMOVER O ANDAMENTO DO FEITO"
+        },
+        {
+          "date": "2026-06-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente Ã Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-14",
+          "header": "TJGO",
+          "title": "Decorrido Prazo - para 01ª Promotoria em 10/06/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (07/05/2026 11:18:40))"
+        },
+        {
           "date": "2026-06-09",
           "header": "TJGO",
           "title": "Decorrido Prazo - para MUNICIPIO DE BRITANIA em 08/06/2026 23:59:59 (Referente Ã Mov. Ato Ordinatório (07/05/2026 11:18:40))"
@@ -1927,7 +1942,7 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-05-07",
@@ -1937,27 +1952,12 @@
         {
           "date": "2026-05-07",
           "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Aruanã - Promotoria das Fazendas Públicas (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+          "title": "Intimação Expedida - On-line para Adv(s). de MUNICIPIO DE BRITANIA - Polo Passivo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
         },
         {
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Atualização de Conta -"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Atualização de Conta"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Certidão Expedida (17/03/2026 16:23:27))"
-        },
-        {
-          "date": "2026-03-18",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Certidão Expedida (17/03/2026 16:23:27))"
         }
       ],
       "partes_adversarias": [
@@ -2576,9 +2576,24 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-14",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório - 21/05/2026 15:57:31)"
+        },
+        {
+          "date": "2026-06-14",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Marluce Lazara De Jesus Antunes (Referente à Mov. Ato Ordinatório (21/05/2026 15:57:31))"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Intimação Lida - Por (Polo Passivo) MARTINS GAMA DOS SANTOS FILHO (Referente à Mov. Precatório Enviado ao Tribunal (25/05/2026 11:51:23))"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
         },
         {
           "date": "2026-05-25",
@@ -2596,11 +2611,6 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Britania (Referente à Mov. Precatório Enviado ao Tribunal - 25/05/2026 11:51:23)"
         },
         {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Precatório Enviado ao Tribunal - Para Departamento de Precatórios - DEPRE"
-        },
-        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Marluce Lazara De Jesus Antunes - Polo Ativo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
@@ -2614,16 +2624,6 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Ato Ordinatório - PROCURADOR DA PARTE AUTORA APRESENTAR PLANILHA DE CÁLCULOS"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Britania em 08/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Marluce Lazara De Jesus Antunes em 07/05/2026 23:59:59 (Referente à Mov. Ato Ordinatório (27/04/2026 15:42:10))"
         }
       ],
       "partes_adversarias": [],

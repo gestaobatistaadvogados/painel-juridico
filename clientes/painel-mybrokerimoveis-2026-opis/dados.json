@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:41:42-03:00",
-    "gerado_em_humano": "17/06/2026 09:41",
+    "gerado_em": "2026-06-18T09:16:03-03:00",
+    "gerado_em_humano": "18/06/2026 09:16",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -28,6 +28,41 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - INICIAL CS"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imoveis Aluguel Ltda (Referente à Mov. Decisão -> Outras Decisões (12/06/2026 13:42:28))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Loft Solucoes Financeiras S/a (Referente à Mov. Decisão -> Outras Decisões (12/06/2026 13:42:28))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de LSFS (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIAL (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJGO",
+          "title": "Juntada de Documento - RESPOSTA AO DESPACHO"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Intimação Efetivada - Intimação Via Whatsapp - Autor(a) - 1ª UPJ"
@@ -40,42 +75,7 @@
         {
           "date": "2026-05-14",
           "header": "TJGO",
-          "title": "Processo Reativado - Certidão - Reativar/ Desarquivar processo - 1ª UPJ"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
-          "title": "Juntada de Documento - MANIFESTAÇÃO DA PARTE AUTORA- pedido contadoria"
-        },
-        {
-          "date": "2026-05-14",
-          "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Processo Arquivado -"
-        },
-        {
-          "date": "2026-04-13",
-          "header": "TJGO",
-          "title": "Processo Arquivado"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Alvará Expedido"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Alvará Expedido -"
         }
       ],
       "partes_adversarias": [
@@ -771,13 +771,13 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 2,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
-      "Diligências": 1,
+      "Acompanhamento": 0,
+      "Diligências": 0,
       "Outras": 1
     },
     "ultima_data": "2026-06-15"

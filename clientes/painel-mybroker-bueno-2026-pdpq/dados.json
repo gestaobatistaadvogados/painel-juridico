@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T09:32:48-03:00",
-    "gerado_em_humano": "17/06/2026 09:32",
+    "gerado_em": "2026-06-18T09:07:21-03:00",
+    "gerado_em_humano": "18/06/2026 09:07",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -611,6 +611,21 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Expedição de Documento (12/06/2026 14:28:15))"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Expedição de Documento (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Expedição de Documento - CERTIDÃO DE INTIMAÇÃO - SISBAJUD"
+        },
+        {
           "date": "2026-06-11",
           "header": "TJGO",
           "title": "Penhora Não Realizada - DEV. CENTRAL SISBAJUD - teimosinha - desbloqueio de valor irrisório (R$ 41,15)"
@@ -644,21 +659,6 @@
           "date": "2026-04-28",
           "header": "TJGO",
           "title": "Ato Ordinatório - 5ª UPJ* - Ato Ordinatório - Intimar P Juntar Planilha Débito"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Ato Ordinatório (28/04/2026 13:14:13))"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
         }
       ],
       "partes_adversarias": [

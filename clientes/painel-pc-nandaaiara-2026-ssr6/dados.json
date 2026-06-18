@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-17T10:11:22-03:00",
-    "gerado_em_humano": "17/06/2026 10:11",
+    "gerado_em": "2026-06-18T09:44:59-03:00",
+    "gerado_em_humano": "18/06/2026 09:44",
     "slug_url": "painel-pc-nandaaiara-2026-ssr6",
     "departamento": "direito_criminal"
   },
@@ -103,15 +103,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 2,
     "categorias": {
-      "Peças": 1,
+      "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 2,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 0
     },
-    "ultima_data": "2026-06-16"
+    "ultima_data": "2026-06-17"
   }
 }
