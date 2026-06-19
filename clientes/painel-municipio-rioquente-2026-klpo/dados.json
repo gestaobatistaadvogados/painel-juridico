@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:16:18-03:00",
-    "gerado_em_humano": "18/06/2026 09:16",
+    "gerado_em": "2026-06-19T09:31:52-03:00",
+    "gerado_em_humano": "19/06/2026 09:31",
     "slug_url": "painel-municipio-rioquente-2026-klpo",
     "departamento": "direito_publico"
   },
@@ -214,7 +214,7 @@
       "step": "ADMINISTRATIVO",
       "type": "ADMINISTRATIVO",
       "group": "PÚBLICO",
-      "status_closure": null,
+      "status_closure": "2026-06-18 11:21:09",
       "created_at": "2026-03-17 13:00:11",
       "process_date": "2026-03-17",
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
@@ -240,18 +240,36 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 15968219,
+      "process_number": "5533923-63.2026.8.09.0024",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "SERVIDOR PÚBLICO CIVIL / SISTEMA REMUNERATÓRIO E BENEFÍCIOS",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-18 11:23:24",
+      "process_date": null,
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 1,
       "Comunicações": 0,
       "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-11"
+    "ultima_data": "2026-06-18"
   }
 }

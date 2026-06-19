@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:19:15-03:00",
-    "gerado_em_humano": "18/06/2026 09:19",
+    "gerado_em": "2026-06-19T09:34:54-03:00",
+    "gerado_em_humano": "19/06/2026 09:34",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -310,10 +310,10 @@
       "process_number": "1020951-71.2021.4.01.3500",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
-      "type": "NULIDADE / ATO ADMINISTRATIVO",
-      "group": "ADMINISTRATIVO",
+      "stage": "AGUARDANDO JULGAMENTO DO RECURSO",
+      "step": "RECURSAL",
+      "type": "ADMINISTRATIVO",
+      "group": "PÚBLICO",
       "status_closure": "2021-03-29 00:00:00",
       "created_at": "2021-01-28 00:00:00",
       "process_date": "2021-05-28",
@@ -372,13 +372,10 @@
       ],
       "partes_adversarias": [
         {
-          "name": "NÃO INFORMADO"
-        },
-        {
           "name": "UNIÃO FEDERAL"
         }
       ],
-      "fase_grupo": "conhecimento",
+      "fase_grupo": "recursal",
       "tribunal": "TRF1"
     },
     {
@@ -563,15 +560,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 1,
+    "total": 4,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 0,
+      "Acompanhamento": 1,
       "Diligências": 0,
-      "Outras": 1
+      "Outras": 2
     },
-    "ultima_data": "2026-04-12"
+    "ultima_data": "2026-06-18"
   }
 }

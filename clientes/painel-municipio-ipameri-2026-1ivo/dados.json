@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:18:39-03:00",
-    "gerado_em_humano": "18/06/2026 09:18",
+    "gerado_em": "2026-06-19T09:34:17-03:00",
+    "gerado_em_humano": "19/06/2026 09:34",
     "slug_url": "painel-municipio-ipameri-2026-1ivo",
     "departamento": "direito_publico"
   },
@@ -2779,14 +2779,14 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-18",
+          "header": "TRF01",
+          "title": "Decorrido prazo de SUPERINTENDÊNCIA DO DESENVOLVIMENTO DO CENTRO OESTE em 17/06/2026 23:59."
+        },
+        {
           "date": "2026-05-21",
           "header": "TRF01",
           "title": "Decorrido prazo de WILSON GERALDO SUGAI em 20/05/2026 23:59."
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TRF01",
-          "title": "Publicado Intimação em 28/04/2026."
         },
         {
           "date": "2026-04-28",
@@ -2797,6 +2797,21 @@
           "date": "2026-04-28",
           "header": "TRF01",
           "title": "Juntada de ciência"
+        },
+        {
+          "date": "2026-04-28",
+          "header": "TRF01",
+          "title": "Publicado Intimação em 28/04/2026."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-04-24",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
         },
         {
           "date": "2026-04-24",
@@ -2811,22 +2826,7 @@
         {
           "date": "2026-04-24",
           "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TRF01",
-          "title": "Expedição de Outros documentos."
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TRF01",
           "title": "Expedida/certificada a intimação eletrônica"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TRF01",
-          "title": "Conhecido o recurso de WILSON GERALDO SUGAI - CPF: 096.977.481-87 (APELANTE) e provido"
         }
       ],
       "partes_adversarias": [

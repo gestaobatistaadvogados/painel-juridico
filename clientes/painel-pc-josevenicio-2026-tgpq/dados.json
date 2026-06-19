@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:47:35-03:00",
-    "gerado_em_humano": "18/06/2026 09:47",
+    "gerado_em": "2026-06-19T10:03:59-03:00",
+    "gerado_em_humano": "19/06/2026 10:03",
     "slug_url": "painel-pc-josevenicio-2026-tgpq",
     "departamento": "direito_criminal"
   },
@@ -88,15 +88,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 5,
     "categorias": {
       "Peças": 0,
       "Audiências": 1,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-18"
   }
 }

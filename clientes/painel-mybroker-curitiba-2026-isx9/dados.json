@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:10:40-03:00",
-    "gerado_em_humano": "18/06/2026 09:10",
+    "gerado_em": "2026-06-19T09:26:02-03:00",
+    "gerado_em_humano": "19/06/2026 09:26",
     "slug_url": "painel-mybroker-curitiba-2026-isx9",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,21 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-06-18",
+          "header": "TJPR",
+          "title": "JUNTADA DE ATO ORDINATÓRIO"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJPR",
+          "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 147) JUNTADA DE ATO ORDINATÓRIO (18/06/2026)."
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJPR",
+          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - Referente a CITAÇÃO expedida em 14/05/2026 para LEONARDO VICENTE SCHEWTSCHIK"
+        },
+        {
           "date": "2026-06-15",
           "header": "TJPR",
           "title": "CONFIRMADA A INTIMAÇÃO ELETRÔNICA Referente ao evento (seq. 143) JUNTADA DE ATO ORDINATÓRIO (09/06/2026) e ao evento de expedição seq. 144."
@@ -40,27 +55,17 @@
         {
           "date": "2026-06-09",
           "header": "TJPR",
-          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - Referente a CITAÇÃO expedida em 14/05/2026 para LEONARDO VICENTE SCHEWTSCHIK"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJPR",
-          "title": "JUNTADA DE ATO ORDINATÓRIO"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJPR",
           "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 143) JUNTADA DE ATO ORDINATÓRIO (09/06/2026)."
         },
         {
-          "date": "2026-05-29",
+          "date": "2026-06-09",
           "header": "TJPR",
           "title": "JUNTADA DE ATO ORDINATÓRIO"
         },
         {
-          "date": "2026-05-29",
+          "date": "2026-06-09",
           "header": "TJPR",
-          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - De MANDADO expedido(a) (seq. 129) em 13/05/2026 - Referente ao evento JUNTADA DE PETIÇÃO DE MANIFESTAÇÃO DA PARTE (13/04/2026). Parte: JENNIFER DANIELI NATACHI CASTILHO SCHEWTSCHIK"
+          "title": "JUNTADA DE COMPROVANTE Devolução sem Leitura - Referente a CITAÇÃO expedida em 14/05/2026 para LEONARDO VICENTE SCHEWTSCHIK"
         },
         {
           "date": "2026-05-29",
@@ -71,11 +76,6 @@
           "date": "2026-05-29",
           "header": "TJPR",
           "title": "EXPEDIÇÃO DE INTIMAÇÃO Referente ao evento (seq. 139) JUNTADA DE ATO ORDINATÓRIO (29/05/2026)."
-        },
-        {
-          "date": "2026-05-21",
-          "header": "TJPR",
-          "title": "MANDADO DEVOLVIDO Referente ao evento (seq. 130) EXPEDIÇÃO DE MANDADO (13/05/2026 16:13:39). Parte: LEONARDO VICENTE SCHEWTSCHIK"
         }
       ],
       "partes_adversarias": [

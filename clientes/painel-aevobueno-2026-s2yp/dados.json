@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-18T09:13:37-03:00",
-    "gerado_em_humano": "18/06/2026 09:13",
+    "gerado_em": "2026-06-19T09:29:04-03:00",
+    "gerado_em_humano": "19/06/2026 09:29",
     "slug_url": "painel-aevobueno-2026-s2yp",
     "departamento": "direito_imobiliario"
   },
@@ -335,6 +335,21 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) Francisco Joao Magalhaes Do Nascimento - Código de Rastreamento Correios: YH213268564BR idPendenciaCorreios109587695432015873960208454idPendenciaCorreios"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Citação Expedida - E-CARTA - FRANCISCO JOAO MAGALHAES DO NASCIMENTO"
+        },
+        {
+          "date": "2026-06-12",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO-E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
+        },
+        {
           "date": "2026-06-09",
           "header": "TJGO",
           "title": "Juntada -> Petição - citação em novo endereço e via whatsApp"
@@ -368,21 +383,6 @@
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Citação Não Efetivada - (Referente à Mov. Juntada -> Petição (13/05/2026 16:52:01))"
-        },
-        {
-          "date": "2026-05-20",
-          "header": "TJGO",
-          "title": "Citação Expedida - Para (Polo Passivo) Francisco Joao Magalhaes Do Nascimento - Código de Rastreamento Correios: YH180360453BR idPendenciaCorreios109787675432015873960355226idPendenciaCorreios"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Citação Expedida - e-Carta - Francisco Joao Magalhaes Do Nascimento"
-        },
-        {
-          "date": "2026-05-19",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO-E:CARTA - CUMPRIMENTO DEVOLUÇÃO PELOS CORREIOS"
         }
       ],
       "partes_adversarias": [
@@ -616,6 +616,6 @@
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-16"
+    "ultima_data": "2026-06-18"
   }
 }
