@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-19T09:21:10-03:00",
-    "gerado_em_humano": "19/06/2026 09:21",
+    "gerado_em": "2026-06-20T07:47:12-03:00",
+    "gerado_em_humano": "20/06/2026 07:47",
     "slug_url": "painel-mybroker-alphamall-2026-abji",
     "departamento": "direito_imobiliario"
   },
@@ -912,15 +912,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 6,
     "categorias": {
       "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 3,
       "Diligências": 0,
-      "Outras": 0
+      "Outras": 1
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-19"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-19T09:16:35-03:00",
-    "gerado_em_humano": "19/06/2026 09:16",
+    "gerado_em": "2026-06-20T07:42:43-03:00",
+    "gerado_em_humano": "20/06/2026 07:42",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -1918,79 +1918,6 @@
       "partes_adversarias": [
         {
           "name": "PAULO RICARDO COELHO PEREIRA VALLE"
-        }
-      ],
-      "fase_grupo": "conhecimento",
-      "tribunal": "TJGO"
-    },
-    {
-      "id": 13413453,
-      "process_number": "5401917-16.2023.8.09.0051",
-      "protocol_number": null,
-      "folder": "119",
-      "stage": "ELABORAÇÃO DE CÁLCULO",
-      "step": "EXECUÇÃO/COBRANÇA",
-      "type": "AÇÃO DE COBRANÇA - SEM DESPEJO",
-      "group": "IMOBILIÁRIO",
-      "status_closure": "2023-07-31 00:00:00",
-      "created_at": "2023-07-31 00:00:00",
-      "process_date": "2023-06-27",
-      "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [
-        {
-          "date": "2026-05-15",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Via Whatsapp - Stela Cristini De Sousa Lopes"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Encaminhamento Civ - Stela Cristini De Sousa Lopes - (77) 8868-9998"
-        },
-        {
-          "date": "2026-05-12",
-          "header": "TJGO",
-          "title": "Certidão Expedida - UPJ - CERTIDÃO - ENCAMINHAMENTO CIV - WHATSAPP"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJGO",
-          "title": "Certidão Expedida - CERTIDÃO - 854, §3°- PENHORA - CUMPRIMENTO DE SENTENÇA"
-        },
-        {
-          "date": "2026-05-06",
-          "header": "TJGO",
-          "title": "Juntada de Documento - Devolução CENTRAL SISBAJUD - Penhora Parcialmente Frutifera - Transf. de Valores"
-        },
-        {
-          "date": "2026-03-19",
-          "header": "TJGO",
-          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Planilha de débitos atualizada"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lucimar Nunes Da Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Intimação p/ parte exequente apresentar planilha de valores atualizados"
-        },
-        {
-          "date": "2026-03-13",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Lucimar Nunes Da Silva (Referente à Mov. Certidão Expedida (13/03/2026 10:54:51))"
-        }
-      ],
-      "partes_adversarias": [
-        {
-          "name": "SIDNEI LOPES DE SOUSA"
         }
       ],
       "fase_grupo": "conhecimento",

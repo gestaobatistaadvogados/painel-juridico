@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-19T09:20:23-03:00",
-    "gerado_em_humano": "19/06/2026 09:20",
+    "gerado_em": "2026-06-20T07:46:27-03:00",
+    "gerado_em_humano": "20/06/2026 07:46",
     "slug_url": "painel-aprovecapv-2026-4gqy",
     "departamento": "direito_privado"
   },
@@ -4956,6 +4956,79 @@
       "tribunal": "TJGO"
     },
     {
+      "id": 13411271,
+      "process_number": "0271505-85.2024.8.06.0001",
+      "protocol_number": null,
+      "folder": "1720",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "PROCEDIMENTO COMUM CIVEL",
+      "group": "PRIVADO",
+      "status_closure": "2024-10-30 00:00:00",
+      "created_at": "2024-10-30 00:00:00",
+      "process_date": "2024-09-26",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [
+        {
+          "date": "2026-06-12",
+          "header": "TJCE",
+          "title": "Publicado Intimação em 12/06/2026. Documento: 204137792"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJCE",
+          "title": "Disponibilizado no DJ Eletrônico em 11/06/2026 Documento: 204137792"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJCE",
+          "title": "Expedida/certificada a comunicação eletrônica Documento: 204137792"
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJCE",
+          "title": "Proferidas outras decisões não especificadas"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJCE",
+          "title": "Conclusos para despacho"
+        },
+        {
+          "date": "2026-02-03",
+          "header": "TJCE",
+          "title": "Juntada de certidão de decurso de prazo"
+        },
+        {
+          "date": "2025-11-13",
+          "header": "TJCE",
+          "title": "Decorrido prazo de NEFI DE OLIVEIRA GIRAO em 05/11/2025 23:59."
+        },
+        {
+          "date": "2025-10-29",
+          "header": "TJCE",
+          "title": "Publicado Intimação em 29/10/2025. Documento: 178678660"
+        },
+        {
+          "date": "2025-10-28",
+          "header": "TJCE",
+          "title": "Disponibilizado no DJ Eletrônico em 28/10/2025 Documento: 178678660"
+        },
+        {
+          "date": "2025-10-27",
+          "header": "TJCE",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "JOSE AIRTON RIBEIRO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJCE"
+    },
+    {
       "id": 13411276,
       "process_number": "5445118-63.2020.8.09.0051",
       "protocol_number": null,
@@ -6520,15 +6593,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 58,
+    "total": 61,
     "categorias": {
-      "Peças": 13,
+      "Peças": 14,
       "Audiências": 1,
       "Comunicações": 1,
-      "Acompanhamento": 31,
-      "Diligências": 8,
-      "Outras": 4
+      "Acompanhamento": 36,
+      "Diligências": 6,
+      "Outras": 3
     },
-    "ultima_data": "2026-06-18"
+    "ultima_data": "2026-06-19"
   }
 }

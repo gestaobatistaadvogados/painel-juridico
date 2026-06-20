@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-19T09:50:46-03:00",
-    "gerado_em_humano": "19/06/2026 09:50",
+    "gerado_em": "2026-06-20T08:16:06-03:00",
+    "gerado_em_humano": "20/06/2026 08:16",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -3926,18 +3926,97 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 16010432,
+      "process_number": "1048272-81.2021.4.01.3500",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AGUARDANDO JULGAMENTO",
+      "step": "JUDICIAL",
+      "type": "CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-19 14:42:57",
+      "process_date": "2021-10-11",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [
+        {
+          "date": "2026-06-02",
+          "header": "TRF01",
+          "title": "Decorrido prazo de DEFENSORIA PUBLICA DA UNIAO em 01/06/2026 23:59."
+        },
+        {
+          "date": "2026-05-13",
+          "header": "TRF01",
+          "title": "Juntada de petição intercorrente"
+        },
+        {
+          "date": "2026-05-12",
+          "header": "TRF01",
+          "title": "Juntada de certidão"
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-11",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Outros documentos."
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Requisição de pagamento de pequeno valor preparada para envio"
+        },
+        {
+          "date": "2026-05-08",
+          "header": "TRF01",
+          "title": "Expedição de Documento RPV."
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ESTADO DE GOIAS"
+        },
+        {
+          "name": "UNIÃO FEDERAL"
+        },
+        {
+          "name": "DEFENSORIA PUBLICA DA UNIAO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TRF1"
     }
   ],
   "atividade_90d": {
-    "total": 11,
+    "total": 15,
     "categorias": {
-      "Peças": 1,
+      "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 7,
-      "Diligências": 0,
+      "Acompanhamento": 9,
+      "Diligências": 1,
       "Outras": 3
     },
-    "ultima_data": "2026-06-17"
+    "ultima_data": "2026-06-19"
   }
 }

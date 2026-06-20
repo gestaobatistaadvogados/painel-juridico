@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-19T09:48:03-03:00",
-    "gerado_em_humano": "19/06/2026 09:48",
+    "gerado_em": "2026-06-20T08:13:27-03:00",
+    "gerado_em_humano": "20/06/2026 08:13",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -3752,17 +3752,35 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 16004226,
+      "process_number": null,
+      "protocol_number": "8833/25",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-19 10:39:10",
+      "process_date": "2026-03-19",
+      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 23,
+    "total": 20,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 17,
+      "Acompanhamento": 15,
       "Diligências": 0,
-      "Outras": 4
+      "Outras": 3
     },
     "ultima_data": "2026-06-19"
   }
