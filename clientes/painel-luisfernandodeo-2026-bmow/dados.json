@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:39:33-03:00",
-    "gerado_em_humano": "21/06/2026 08:39",
+    "gerado_em": "2026-06-23T08:39:39-03:00",
+    "gerado_em_humano": "23/06/2026 08:39",
     "slug_url": "painel-luisfernandodeo-2026-bmow",
     "departamento": "direito_privado"
   },
@@ -123,9 +123,34 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Contrarrazões - Contrarrazões ao Agravo Interno"
+        },
+        {
           "date": "2026-05-27",
           "header": "TJGO",
           "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - PUBLICAÇÃO DIÁRIO DJEN DO DIA 27/05/2026"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2026-05-25",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
         },
         {
           "date": "2026-05-25",
@@ -138,21 +163,6 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Despacho -> Mero Expediente (25/05/2026 13:46:50))"
         },
         {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Arthur Henrique Alves Gouveia (Referente à Mov. Despacho -> Mero Expediente - 25/05/2026 13:46:50)"
-        },
-        {
-          "date": "2026-05-25",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente"
-        },
-        {
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Juntada -> Petição - Agravo Interno"
@@ -161,16 +171,6 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-05-11",
-          "header": "TJGO",
-          "title": "Publicado \"Ato Publicado\" em \"Data da Publicação\". - PUBLICAÇÃO DIÁRIO Nº 4427/2026 DO DIA 11/05/2026"
-        },
-        {
-          "date": "2026-05-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Renato Costa Rodrigues (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Negação Monocrática de Provimento (07/05/2026 14:36:56))"
         }
       ],
       "partes_adversarias": [
@@ -584,14 +584,19 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2025-12-20",
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Término da Suspensão do Processo"
+        },
+        {
+          "date": "2026-06-18",
           "header": "TJGO",
           "title": "Despacho -> Suspensão ou Sobrestamento - (Por 180 dias)"
         },
         {
-          "date": "2025-12-19",
+          "date": "2025-12-20",
           "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Passivo) Alexandre Moreira Lima (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
+          "title": "Despacho -> Suspensão ou Sobrestamento - (Por 180 dias)"
         },
         {
           "date": "2025-12-19",
@@ -624,14 +629,9 @@
           "title": "Intimação Lida - Por (Polo Passivo) Alexandre Moreira Lima (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
         },
         {
-          "date": "2025-12-17",
+          "date": "2025-12-19",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DESPACHO"
-        },
-        {
-          "date": "2025-12-11",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Distribuição IDPJ"
+          "title": "Intimação Lida - Por (Polo Passivo) Alexandre Moreira Lima (Referente à Mov. Despacho -> Mero Expediente (19/12/2025 00:17:30))"
         }
       ],
       "partes_adversarias": [
@@ -808,15 +808,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 5,
+    "total": 4,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 4,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-12"
+    "ultima_data": "2026-06-11"
   }
 }

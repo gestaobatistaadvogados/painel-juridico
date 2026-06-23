@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:33:34-03:00",
-    "gerado_em_humano": "21/06/2026 08:33",
+    "gerado_em": "2026-06-23T08:33:29-03:00",
+    "gerado_em_humano": "23/06/2026 08:33",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -363,34 +363,14 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Manifestação"
+        },
+        {
           "date": "2026-06-15",
           "header": "TJGO",
           "title": "Juntada -> Petição - Interl. Manutenção do Sobrestamento"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VREL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - concordancia ev. 194 - Julgamento antecipado"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de R1EISL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
           "date": "2026-06-10",
@@ -400,7 +380,7 @@
         {
           "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+          "title": "Juntada -> Petição - concordancia ev. 194 - Julgamento antecipado"
         },
         {
           "date": "2026-06-10",
@@ -410,7 +390,27 @@
         {
           "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Reserva 153 Empreendimentos Imobiliarios Spe Ltda (Referente à Mov. Despacho -> Mero Expediente (10/06/2026 15:01:19))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de UGEIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de R1EISL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Giovana Cozzolino Carrara (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sergio Akira Ogau (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
+        },
+        {
+          "date": "2026-06-10",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de VREL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         }
       ],
       "partes_adversarias": [
@@ -673,6 +673,28 @@
       "responsible": "LEONARDO VASCONCELOS",
       "movements": [],
       "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 16047298,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": "2026-06-22 17:12:11",
+      "created_at": "2026-06-22 17:11:37",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "MILENA FABIANO CORREA DE OLIVEIRA"
+        }
+      ],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
     }

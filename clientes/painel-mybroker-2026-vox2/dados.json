@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:26:02-03:00",
-    "gerado_em_humano": "21/06/2026 08:26",
+    "gerado_em": "2026-06-23T08:25:53-03:00",
+    "gerado_em_humano": "23/06/2026 08:25",
     "slug_url": "painel-mybroker-2026-vox2",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,46 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução Central Sisbajud - Penhora integral - Com transferência"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Walkiria Gonçalves Ferreira (Referente à Mov. Juntada de Documento (19/06/2026 08:50:05))"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltdame (Referente à Mov. Juntada de Documento (19/06/2026 08:50:05))"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Incorporadora Spe 11 Padre Pereira Goiânia (Referente à Mov. Juntada de Documento (19/06/2026 08:50:05))"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Walkiria Gonçalves Ferreira (Referente à Mov. Juntada de Documento - 19/06/2026 08:50:05)"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imobiliária Ltdame (Referente à Mov. Juntada de Documento - 19/06/2026 08:50:05)"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Incorporadora Spe 11 Padre Pereira Goiânia (Referente à Mov. Juntada de Documento - 19/06/2026 08:50:05)"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Troca de Responsável - Proad 202605000744740 Novo responsável: PAULO ROBERTO PALUDO"
+        },
+        {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Juntada -> Petição - MANIFESTAÇÃO"
@@ -35,47 +75,7 @@
         {
           "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Walkiria Gonçalves Ferreira (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Esclarecimentos. Intimação Partes."
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de My Broker Imobiliária Ltdame (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Incorporadora Spe 11 Padre Pereira Goiânia (Referente à Mov. Certidão Expedida (27/05/2026 17:02:28))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Walkiria Gonçalves Ferreira (Referente à Mov. Certidão Expedida (27/05/2026 17:02:28))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltdame (Referente à Mov. Certidão Expedida (27/05/2026 17:02:28))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Walkiria Gonçalves Ferreira em 30/04/2026 23:59:59 (Referente à Mov. Juntada -> Petição (15/04/2026 10:08:19))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para Walkiria Gonçalves Ferreira em 22/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (28/04/2026 18:25:04))"
-        },
-        {
-          "date": "2026-05-27",
-          "header": "TJGO",
-          "title": "Decorrido Prazo - para My Broker Imobiliária Ltdame em 22/05/2026 23:59:59 (Referente à Mov. Decisão -> Outras Decisões (28/04/2026 18:25:04))"
         }
       ],
       "partes_adversarias": [
@@ -104,6 +104,46 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - ALVARÁ EXPEDIDO"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença - Extinção por pagamento l Expedir alvarás l Arquivar"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (18/06/2026 16:25:04))"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Crisley Donizete Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (CNJ:196) - )"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (18/06/2026 16:25:04))"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Crisley Donizete Da Silva (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Extinção da execução ou do cumprimento da sentença (18/06/2026 16:25:04))"
+        },
+        {
           "date": "2026-05-08",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -112,46 +152,6 @@
           "date": "2026-05-05",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Decisão -> Outras Decisões - Exequente manifestar pedido compensação - 5 dias"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
-        },
-        {
-          "date": "2026-04-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Rafael Goncalves Santana Borges (Referente à Mov. Decisão -> Outras Decisões (27/04/2026 21:07:28))"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Levantamento de valores"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Crisley Donizete Da Silva - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -250,14 +250,19 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Troca de Responsável - Troca de Responsável - Proad 202605000744740 Novo responsável: PAULO ROBERTO PALUDO"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Juntada -> Petição - Manifestação"
-        },
-        {
-          "date": "2026-04-24",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valério De Faria Machado (Referente à Mov. Juntada -> Petição - 17/04/2026 15:22:48)"
         },
         {
           "date": "2026-04-24",
@@ -275,6 +280,11 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alessandra Soares Araújo Machado (Referente à Mov. Juntada -> Petição (17/04/2026 15:22:48))"
         },
         {
+          "date": "2026-04-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Valério De Faria Machado (Referente à Mov. Juntada -> Petição - 17/04/2026 15:22:48)"
+        },
+        {
           "date": "2026-04-17",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição Interlocutoria"
@@ -283,16 +293,6 @@
           "date": "2026-04-15",
           "header": "TJGO",
           "title": "Juntada de Documento -"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Alessandra Soares Araújo Machado (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
-        },
-        {
-          "date": "2026-04-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliária Ltda (Referente à Mov. Decisão -> Outras Decisões (09/04/2026 15:34:58))"
         },
         {
           "date": "2026-04-09",
@@ -3569,11 +3569,6 @@
         {
           "date": "2025-10-08",
           "header": "TJGO",
-          "title": "Processo Arquivado -"
-        },
-        {
-          "date": "2025-10-08",
-          "header": "TJGO",
           "title": "Certidão Expedida - CERTIDÃO - TRÂNSITO EM JULGADO - 1ª UPJ"
         },
         {
@@ -3582,9 +3577,9 @@
           "title": "Processo Arquivado"
         },
         {
-          "date": "2025-09-19",
+          "date": "2025-10-08",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vladimir Rocha (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (19/09/2025 20:18:34))"
+          "title": "Processo Arquivado -"
         },
         {
           "date": "2025-09-19",
@@ -3604,7 +3599,7 @@
         {
           "date": "2025-09-19",
           "header": "TJGO",
-          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Ausência de pressupostos processuais"
         },
         {
           "date": "2025-09-19",
@@ -3612,9 +3607,14 @@
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (19/09/2025 20:18:34))"
         },
         {
-          "date": "2025-09-02",
+          "date": "2025-09-19",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ SENTENÇA"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Vladimir Rocha (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção (19/09/2025 20:18:34))"
+        },
+        {
+          "date": "2025-09-19",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção"
         }
       ],
       "partes_adversarias": [
@@ -3640,14 +3640,19 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-06-09",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BEAAA (Referente à Mov. Juntada -> Petição -> Impugnação ao cumprimento de sentença - 27/05/2026 22:05:03)"
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-06-09",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bringel E Azeredo Advogados Associados (Referente à Mov. Juntada -> Petição -> Impugnação ao cumprimento de sentença (27/05/2026 22:05:03))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BEAAA (Referente à Mov. Juntada -> Petição -> Impugnação ao cumprimento de sentença - 27/05/2026 22:05:03)"
         },
         {
           "date": "2026-06-09",
@@ -3662,12 +3667,12 @@
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Juntada -> Petição (06/05/2026 12:44:42))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/05/2026 12:44:42)"
         },
         {
           "date": "2026-05-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Juntada -> Petição - 06/05/2026 12:44:42)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Broker Imobiliaria Ltda (Referente à Mov. Juntada -> Petição (06/05/2026 12:44:42))"
         },
         {
           "date": "2026-05-06",
@@ -3683,11 +3688,6 @@
           "date": "2026-04-23",
           "header": "TJGO",
           "title": "Juntada de Documento - juntada procuração e Substabelecimento dos autos principais"
-        },
-        {
-          "date": "2026-04-23",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de BIL - Polo Passivo (Referente à Mov. Decisão -> Outras Decisões - 23/04/2026 14:53:17)"
         }
       ],
       "partes_adversarias": [
@@ -3725,11 +3725,11 @@
       "process_number": null,
       "protocol_number": null,
       "folder": null,
-      "stage": "ANÁLISE DO CASO",
-      "step": "NEGOCIAÇÃO",
+      "stage": "PROCESSOS ADMINISTRATIVOS PÚBLICO",
+      "step": "ADMINISTRATIVO",
       "type": "ADMINISTRATIVO",
       "group": "ADMINISTRATIVO",
-      "status_closure": null,
+      "status_closure": "2026-06-22 13:03:19",
       "created_at": "2026-06-03 15:00:19",
       "process_date": null,
       "responsible": "LEONARDO VASCONCELOS",
@@ -3749,6 +3749,6 @@
       "Diligências": 1,
       "Outras": 2
     },
-    "ultima_data": "2026-06-19"
+    "ultima_data": "2026-06-22"
   }
 }

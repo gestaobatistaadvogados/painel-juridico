@@ -966,8 +966,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
         <div class="info-atualizacao">
             <div>Última atualização</div>
-            <div class="data">21/06/2026 08:35</div>
-            <div><span class="ativos">1</span> processos ativos</div>
+            <div class="data">23/06/2026 08:35</div>
+            <div><span class="ativos">0</span> processos ativos</div>
         </div>
     </div>
 </header>
@@ -1066,8 +1066,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                     
                 </div>
                 <div class="area-resumo">
-                    1 ativo
-                    e 0 arquivados.
+                    0 ativos
+                    e 1 arquivado.
                 </div>
                 <div class="area-explorar">explorar painel →</div>
             </article>
@@ -1086,8 +1086,8 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="total-area">
                     Total da área: <strong>1</strong>
                     processo
-                    · 1 ativo
-                    · 0 arquivados
+                    · 0 ativos
+                    · 1 arquivado
                 </div>
             </div>
             <button class="btn-voltar" type="button" onclick="voltarAreas()">← Voltar para áreas</button>
@@ -1103,7 +1103,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi ativos">
                 <div class="card-kpi-rotulo">Ativos</div>
-                <div class="card-kpi-numero">1</div>
+                <div class="card-kpi-numero">0</div>
                 <div class="card-kpi-detalhe">em andamento</div>
             </div>
             <div class="card-kpi urgente">
@@ -1113,7 +1113,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
             </div>
             <div class="card-kpi favoravel">
                 <div class="card-kpi-rotulo">Resolvidos</div>
-                <div class="card-kpi-numero">0</div>
+                <div class="card-kpi-numero">1</div>
                 <div class="card-kpi-detalhe">com encerramento registrado</div>
             </div>
             <!-- 5o KPI desativado por D1 (cobertura 0% de contingency no piloto) -->
@@ -1152,10 +1152,16 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                 <div class="coluna-alerta-cabecalho">
                     <span class="indicador-emoji">🟢</span>
                     <h4>Resolvidos / Favoráveis</h4>
-                    <span class="contador">0</span>
+                    <span class="contador">1</span>
                 </div>
                 
-                <div class="card-alerta-vazio">Nenhum item nesta categoria.</div>
+                
+                <div class="card-alerta" onclick="abrirModalProcesso('13934364')">
+                    <div class="card-alerta-numero">—</div>
+                    <div class="card-alerta-descricao">Processos Administrativos Público</div>
+                </div>
+                
+                
                 
             </div>
             
@@ -1249,7 +1255,7 @@ table.tabela-relacao tbody tr.escondido { display: none; }
                             </td>
                             <td class="tribunal-cell">—</td>
                             <td class="acao-cell">Administrativo</td>
-                            <td><span class="badge badge-fase-conhecimento">Análise Do Caso</span></td>
+                            <td><span class="badge badge-fase-conhecimento">Processos Administrativos Público</span></td>
                             <td class="ultimo-cell">
                                 
                                 <span class="vazio">Sem andamento recente</span>
@@ -1306,14 +1312,14 @@ table.tabela-relacao tbody tr.escondido { display: none; }
         </div>
     </div>
     <div class="rodape-final">
-        Painel gerado em 21/06/2026 08:35 — Documento de uso restrito do cliente.
+        Painel gerado em 23/06/2026 08:35 — Documento de uso restrito do cliente.
     </div>
 </footer>
 
 
-<script type="application/json" id="dados-processos-modal">{"13934364": {"cliente_name": "MY BROKER IMOBILIARIA JOAO PESSOA", "created_at": "2026-03-30 16:36:27", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "\u2014", "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO", "stage": "AN\u00c1LISE DO CASO", "status_closure": "", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}}</script>
+<script type="application/json" id="dados-processos-modal">{"13934364": {"cliente_name": "MY BROKER IMOBILIARIA JOAO PESSOA", "created_at": "2026-03-30 16:36:27", "fase_grupo": "conhecimento", "folder": "", "movements_top5": [], "partes_adversarias": [], "process_date": null, "process_number": "\u2014", "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO", "stage": "PROCESSOS ADMINISTRATIVOS P\u00daBLICO", "status_closure": "2026-06-22 13:13:15", "tribunal": "\u2014", "type": "ADMINISTRATIVO"}}</script>
 <script type="application/json" id="dados-graficos-areas">{
-"administrativo": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [1, 0], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Administrativo"]}, "tribunal": {"data": [1], "labels": ["\u2014"]}}
+"administrativo": {"fase": {"colors": ["#2874a6"], "data": [1], "labels": ["Conhecimento"]}, "status": {"colors": ["#C9A84C", "#9ca3af"], "data": [0, 1], "labels": ["Ativos", "Arquivados"]}, "tipo_acao": {"data": [1], "labels": ["Administrativo"]}, "tribunal": {"data": [1], "labels": ["\u2014"]}}
 }</script>
 
 <script>

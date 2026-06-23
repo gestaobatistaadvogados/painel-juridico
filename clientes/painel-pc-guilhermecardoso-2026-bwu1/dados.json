@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T09:09:39-03:00",
-    "gerado_em_humano": "21/06/2026 09:09",
+    "gerado_em": "2026-06-23T09:10:10-03:00",
+    "gerado_em_humano": "23/06/2026 09:10",
     "slug_url": "painel-pc-guilhermecardoso-2026-bwu1",
     "departamento": "direito_criminal"
   },
@@ -28,54 +28,54 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
-          "date": "2026-06-10",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Apelação - Manifestação MP - Apelação"
+          "title": "Recurso Autuado - (Recurso PROCESSO CRIMINAL -> Recursos -> Apelação Criminal)"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NANDA AIARA ARAUJO MARQUES - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
+          "title": "Juntada -> Petição -> Contrarrazões"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WANDERSON CAIO GOMES ELEAQUIM (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
+          "title": "Despacho -> Mero Expediente"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Recurso Distribuído - 4ª Câmara Criminal (Normal) - Distribuído para: WILD AFONSO OGAWA"
+        },
+        {
+          "date": "2026-06-17",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SILVOYNE VERISSIMO DE OLIVEIRA - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de NATALIA GABRIELA SILVA - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WANDERSON CAIO GOMES ELEAQUIM (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de WANDERSON CAIO GOMES ELEAQUIM - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de NATALIA GABRIELA SILVA (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de GUILHERME CARDOSO ELEAQUIM - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de NANDA AIARA ARAUJO MARQUES (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de GUILHERME CARDOSO ELEAQUIM (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
-        },
-        {
-          "date": "2026-06-10",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de SILVOYNE VERISSIMO DE OLIVEIRA (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
+          "title": "Juntada -> Petição - Manifestação"
         }
       ],
       "partes_adversarias": [

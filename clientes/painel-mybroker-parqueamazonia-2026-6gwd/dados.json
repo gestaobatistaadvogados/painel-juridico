@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:34:34-03:00",
-    "gerado_em_humano": "21/06/2026 08:34",
+    "gerado_em": "2026-06-23T08:34:29-03:00",
+    "gerado_em_humano": "23/06/2026 08:34",
     "slug_url": "painel-mybroker-parqueamazonia-2026-6gwd",
     "departamento": "direito_imobiliario"
   },
@@ -27,6 +27,11 @@
       "process_date": null,
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
+        {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Remessa à Central de Intimação Remota do Interior p/ citação na ação de Execução"
+        },
         {
           "date": "2026-05-18",
           "header": "TJGO",
@@ -65,17 +70,12 @@
         {
           "date": "2026-03-27",
           "header": "TJGO",
-          "title": "Nota de Foro Expedida - Ato ordinatorio- Intima parte autora para requerer o que entender de direito."
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
         },
         {
           "date": "2026-03-27",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) - Polo Ativo (Referente à Mov. Nota de Foro Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-03-27",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de L V Gestão Imobiliária Ltda (my Brooker) (Referente à Mov. Nota de Foro Expedida (27/03/2026 16:08:42))"
         }
       ],
       "partes_adversarias": [

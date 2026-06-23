@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T09:10:51-03:00",
-    "gerado_em_humano": "21/06/2026 09:10",
+    "gerado_em": "2026-06-23T09:11:23-03:00",
+    "gerado_em_humano": "23/06/2026 09:11",
     "slug_url": "painel-pc-geovannymagalhaes-2026-l5j1",
     "departamento": "direito_criminal"
   },
@@ -28,14 +28,44 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Mandado Cumprido - Para Geovanny Magalhães Ferreira (Mandado nº 7534249 / Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
+          "title": "Recurso Autuado - (Recurso PROCESSO CRIMINAL -> Recursos -> Apelação Criminal)"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ O RELATOR"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Processo Redistribuído - 4ª Câmara Criminal (Direcionada Magistrado) - Distribuído para: DESEMBARGADOR IVO FAVARO"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Recurso Distribuído - 1ª Câmara Criminal (Normal) - Distribuído para: DESEMBARGADOR J. PAGANUCCI JR."
+        },
+        {
+          "date": "2026-06-20",
+          "header": "TJGO",
+          "title": "Decisão -> Recebimento -> Recurso -> Com efeito suspensivo - Decisão. Recebe recurso"
         },
         {
           "date": "2026-06-15",
           "header": "TJGO",
           "title": "Mandado Cumprido - Para Ana Paula Ferreira (Mandado nº 7534245 / Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Mandado Cumprido - Para Geovanny Magalhães Ferreira (Mandado nº 7534249 / Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
         },
         {
           "date": "2026-06-09",
@@ -45,37 +75,7 @@
         {
           "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Certidão Expedida - certidão (trânsito em julgado - MP - 1. Grau)"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJGO",
           "title": "Juntada de Documento - CONCLUÍDO COM AUTORIA DEFINIDA"
-        },
-        {
-          "date": "2026-06-08",
-          "header": "TJGO",
-          "title": "Juntada -> Petição -> Apelação - Recursos de Apelação"
-        },
-        {
-          "date": "2026-06-03",
-          "header": "TJGO",
-          "title": "Intimação Via Telefone Efetivada - Para LAS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Intimação Via Telefone Efetivada - Para MRS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Certidão Expedida - Tentativa de intimação"
-        },
-        {
-          "date": "2026-06-02",
-          "header": "TJGO",
-          "title": "Intimação Via Telefone Efetivada - Para TBAS (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (01/06/2026 22:33:47))"
         }
       ],
       "partes_adversarias": [

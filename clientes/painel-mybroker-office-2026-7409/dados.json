@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:37:15-03:00",
-    "gerado_em_humano": "21/06/2026 08:37",
+    "gerado_em": "2026-06-23T08:37:12-03:00",
+    "gerado_em_humano": "23/06/2026 08:37",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -945,6 +945,16 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-06-01",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
@@ -983,16 +993,6 @@
           "date": "2026-03-31",
           "header": "TJGO",
           "title": "Ato Ordinatório - exequente manifestar em 30 dias"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Juntada de Documento - - CENOPES Central de Operacionalização Sistemas Conveniados"
-        },
-        {
-          "date": "2026-03-30",
-          "header": "TJGO",
-          "title": "Certidão Expedida - AUTOS REMETIDOS À CENOPES"
         }
       ],
       "partes_adversarias": [
@@ -1380,54 +1380,54 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-20",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Documento Cumprido - Edital - (Referente à Mov. Despacho -> Mero Expediente (16/06/2026 10:34:38))"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Juntada -> Petição - manifestação"
+          "title": "Certidão Expedida - COMPROVANTE DE ENVIO DO EDITAL PARA PUBLICAÇÃO"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada - 15/04/2026 01:50:28)"
+          "title": "Documento Expedido - Edital para Fernanda Vieira Martins"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-17",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cleison Dias Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:38))"
+          "title": "Certidão Expedida - COMPROVANTE DE PUBLICAÇÃO DO EDITAL NO ÁTRIO DO FÓRUM"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
+          "title": "Despacho -> Mero Expediente"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Citação Não Efetivada - (Referente à Mov. Despacho -> Mero Expediente (30/03/2025 22:31:35))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada (15/04/2026 01:50:38))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleison Dias Brandao (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleison Dias Brandao (Referente à Mov. Citação Não Efetivada - 15/04/2026 01:50:28)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Cleison Dias Brandao (Referente à Mov. Despacho -> Mero Expediente (16/06/2026 10:34:38))"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Citação Não Efetivada - 15/04/2026 01:50:38)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Despacho -> Mero Expediente (CNJ:11010) - )"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-06-16",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Cleison Dias Brandao (Referente à Mov. Citação Não Efetivada - 15/04/2026 01:50:38)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dionice Mendes Dos Santos Brandao (Referente à Mov. Despacho -> Mero Expediente (16/06/2026 10:34:38))"
         }
       ],
       "partes_adversarias": [
@@ -1571,14 +1571,14 @@
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 3,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 1,
       "Diligências": 0,
-      "Outras": 2
+      "Outras": 1
     },
     "ultima_data": "2026-06-17"
   }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:32:16-03:00",
-    "gerado_em_humano": "21/06/2026 08:32",
+    "gerado_em": "2026-06-23T08:32:08-03:00",
+    "gerado_em_humano": "23/06/2026 08:32",
     "slug_url": "painel-mybroker-mhrs-2026-tph3",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,31 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (17/06/2026 18:04:35))"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Mhrs Gestão Imobiliária Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (17/06/2026 18:04:35))"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência - Sentença - procedência"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mhrs Gestão Imobiliária Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (CNJ:219) - )"
+        },
+        {
           "date": "2026-04-05",
           "header": "TJGO",
           "title": "Juntada -> Petição - Petição"
@@ -40,42 +65,17 @@
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
+          "title": "Juntada -> Petição -"
         },
         {
           "date": "2026-03-26",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 05/03/2026 - 16:00 - Mídias Audiências de Instrução"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Mídia Publicada - Envio de Mídia Gravada em 05/03/2026 - 16:00 - Mídias Audiências de Instrução"
+          "title": "Juntada -> Petição"
         },
         {
           "date": "2026-03-17",
           "header": "TJGO",
           "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. Audiência de Instrução e Julgamento (17/03/2026 20:01:30))"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Audiência de Instrução e Julgamento - Realizada sem Acordo - 05/03/2026 16:00"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Mhrs Gestão Imobiliária Ltda (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
-        },
-        {
-          "date": "2026-03-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Diego Leonardo Santana Daher (Referente à Mov. AUDIÊNCIA INSTRUÇÃO E JULGAMENTO - )"
         }
       ],
       "partes_adversarias": [

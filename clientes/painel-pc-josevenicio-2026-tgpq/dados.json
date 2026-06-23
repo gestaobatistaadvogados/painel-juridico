@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T09:12:10-03:00",
-    "gerado_em_humano": "21/06/2026 09:12",
+    "gerado_em": "2026-06-23T09:12:43-03:00",
+    "gerado_em_humano": "23/06/2026 09:12",
     "slug_url": "painel-pc-josevenicio-2026-tgpq",
     "departamento": "direito_criminal"
   },
@@ -28,9 +28,19 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-19",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (09/06/2026 18:08:47))"
+        },
+        {
           "date": "2026-06-10",
           "header": "TJGO",
           "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 29/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - Cabe Pedido de Sustentação Oral )"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jose Venicio Mendes Da Silva (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (CNJ:12313) - )"
         },
         {
           "date": "2026-06-09",
@@ -46,11 +56,6 @@
           "date": "2026-06-09",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Estado De Goias (Referente Ã Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (CNJ:12313) - )"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jose Venicio Mendes Da Silva (Referente à Mov. Despacho -> Pauta -> Pedido de Inclusão em Pauta de Sessão Virtual (CNJ:12313) - )"
         },
         {
           "date": "2026-05-26",
@@ -71,11 +76,6 @@
           "date": "2026-04-27",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Estado De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento Monocrático (16/04/2026 16:01:50))"
-        },
-        {
-          "date": "2026-04-22",
-          "header": "TJGO",
-          "title": "Recurso Inserido - (Recurso PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível)"
         }
       ],
       "partes_adversarias": [

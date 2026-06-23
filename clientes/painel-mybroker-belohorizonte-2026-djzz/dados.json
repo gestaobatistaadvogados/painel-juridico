@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T08:34:49-03:00",
-    "gerado_em_humano": "21/06/2026 08:34",
+    "gerado_em": "2026-06-23T08:34:44-03:00",
+    "gerado_em_humano": "23/06/2026 08:34",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -28,54 +28,54 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-05-25",
+          "date": "2026-06-19",
           "header": "TJMG",
-          "title": "Evento: 89\nDescrição: Publicado no DJEN - no dia 25/05/2026 - Refer. aos Eventos: 85, 86, 87"
+          "title": "Evento: 101\nDescrição: Publicado no DJEN - no dia 19/06/2026 - Refer. ao Evento: 96"
         },
         {
-          "date": "2026-05-22",
+          "date": "2026-06-19",
           "header": "TJMG",
-          "title": "Evento: 88\nDescrição: Disponibilizado no DJEN - no dia 22/05/2026 - Refer. aos Eventos: 85, 86, 87"
+          "title": "Evento: 100\nDescrição: Publicado no DJEN - no dia 19/06/2026 - Refer. aos Eventos: 92, 93"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-18",
           "header": "TJMG",
-          "title": "Evento: 84\nDescrição: Embargos de Declaração Não-acolhidos"
+          "title": "Evento: 98\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. aos Eventos: 92, 93"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-18",
           "header": "TJMG",
-          "title": "Evento: 87\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 26/05/2026 00:00:00\nData final: 17/06/2026 23:59:59"
+          "title": "Evento: 99\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. ao Evento: 96"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 83\nDescrição: Conclusos para Julgamento"
+          "title": "Evento: 90\nDescrição: Confirmada a intimação eletrônica - Refer. ao Evento: 62"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 82\nDescrição: Conclusos para Decisão"
+          "title": "Evento: 95\nDescrição: APELAÇÃO - Refer. aos Eventos: 85 e 86"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 86\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(AUTOR -  CLAUBERTH DUARTE FIGUEIREDO)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+          "title": "Evento: 96\nDescrição: Expedida/certificada a intimação eletrônica - Contrarrazões\nRefer.  ao Evento 95\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 22/06/2026 00:00:00\nData final: 10/07/2026 23:59:59"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 85\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+          "title": "Evento: 97\nDescrição: Ato ordinatório praticado   Documento encaminhado à disponibilização no Diário Eletrônico - no dia 18/06/2026 - Refer. ao Evento: 96"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 87\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:AGUARD. ABERTURA"
+          "title": "Evento: 91\nDescrição: APELAÇÃO - Refer. aos Eventos: 62 e 87"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-06-17",
           "header": "TJMG",
-          "title": "Evento: 86\nDescrição: Expedida/certificada a intimação eletrônica\nRefer.  ao Evento 84\n(AUTOR -  CLAUBERTH DUARTE FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 26/05/2026 00:00:00\nData final: 17/06/2026 23:59:59"
+          "title": "Evento: 92\nDescrição: Expedida/certificada a intimação eletrônica - Contrarrazões\nRefer.  ao Evento 91\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 22/06/2026 00:00:00\nData final: 10/07/2026 23:59:59"
         }
       ],
       "partes_adversarias": [

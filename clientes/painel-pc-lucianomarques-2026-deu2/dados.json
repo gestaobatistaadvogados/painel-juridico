@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-21T09:09:54-03:00",
-    "gerado_em_humano": "21/06/2026 09:09",
+    "gerado_em": "2026-06-23T09:10:25-03:00",
+    "gerado_em_humano": "23/06/2026 09:10",
     "slug_url": "painel-pc-lucianomarques-2026-deu2",
     "departamento": "direito_criminal"
   },
@@ -28,9 +28,9 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
-          "date": "2026-06-11",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Despacho -> Mero Expediente - Intime-se o MP para alegações finais"
+          "title": "Intimação Lida - Automaticamente para Ministério Público (Referente à Mov. Despacho -> Mero Expediente (11/06/2026 14:50:22))"
         },
         {
           "date": "2026-06-11",
@@ -38,9 +38,9 @@
           "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Criminal (Referente Ã Mov. Despacho -> Mero Expediente - 11/06/2026 14:50:22)"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-11",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
+          "title": "Despacho -> Mero Expediente - Intime-se o MP para alegações finais"
         },
         {
           "date": "2026-06-10",
@@ -48,24 +48,14 @@
           "title": "Certidão Expedida - CERTIDÃO"
         },
         {
-          "date": "2026-06-09",
+          "date": "2026-06-10",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Jairo Gomes Pereira Junior - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 09/06/2026 00:49:03)"
+          "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
           "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luciano Marques Ribeiro (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
-        },
-        {
-          "date": "2026-06-09",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Jose Tuma - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 09/06/2026 00:49:03)"
         },
         {
           "date": "2026-06-09",
@@ -75,7 +65,17 @@
         {
           "date": "2026-06-09",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Renato Jose Tuma - Polo Passivo (Referente à Mov. Despacho -> Mero Expediente - 09/06/2026 00:49:03)"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Ana Lidia Goncalves Ribeiro Amorim (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Jairo Gomes Pereira Junior (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Dario Fonseca Faustino (Referente à Mov. Despacho -> Mero Expediente (09/06/2026 00:49:03))"
         }
       ],
       "partes_adversarias": [
