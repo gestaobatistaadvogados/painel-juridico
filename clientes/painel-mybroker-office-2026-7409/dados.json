@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:37:12-03:00",
-    "gerado_em_humano": "23/06/2026 08:37",
+    "gerado_em": "2026-06-26T08:13:19-03:00",
+    "gerado_em_humano": "26/06/2026 08:13",
     "slug_url": "painel-mybroker-office-2026-7409",
     "departamento": "direito_imobiliario"
   },
@@ -18,8 +18,8 @@
       "process_number": "6041275-02.2024.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "ARQUIVADO POR DETERMINAÇÃO JUDICIAL",
-      "step": "ARQUIVAMENTO",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": null,
@@ -83,7 +83,7 @@
           "name": "DAVID RUAN DA SILVA MENDONCA"
         }
       ],
-      "fase_grupo": "arquivados",
+      "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
     },
     {
@@ -91,8 +91,8 @@
       "process_number": "6040649-80.2024.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "SENTENÇA PROFERIDA (ENTRE EM CONTATO CONOSCO)",
-      "step": "JUDICIAL",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": null,
@@ -100,6 +100,21 @@
       "process_date": null,
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Processo Reativado"
+        },
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
         {
           "date": "2026-02-26",
           "header": "TJGO",
@@ -129,21 +144,6 @@
           "date": "2026-02-04",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de MAYRA SUENNYA DOS SANTOS RIBEIRO (Referente à Mov. Julgamento -> Com Resolução do Mérito -> impugnação à execução -> improcedência (CNJ:12453) - )"
-        },
-        {
-          "date": "2026-02-04",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> impugnação à execução -> improcedência (CNJ:12453) - )"
-        },
-        {
-          "date": "2026-02-04",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> impugnação à execução -> improcedência -"
-        },
-        {
-          "date": "2026-02-04",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> impugnação à execução -> improcedência"
         },
         {
           "date": "2026-02-04",
@@ -247,9 +247,9 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
-          "date": "2026-05-27",
+          "date": "2026-06-24",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Juntada -> Petição - Petição Interlocutória"
         },
         {
           "date": "2026-05-27",
@@ -257,9 +257,9 @@
           "title": "Juntada de Documento - Alvará Pago"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-27",
           "header": "TJGO",
-          "title": "Certidão Expedida - Alvará expedido (267,15 - BB): ag. conf. e assinatura do Juiz."
+          "title": "Autos Conclusos - P/ DECISÃO"
         },
         {
           "date": "2026-05-21",
@@ -270,6 +270,11 @@
           "date": "2026-05-21",
           "header": "TJGO",
           "title": "Certidão Expedida - Ev. 96: equívoco na indicação do CNPJ."
+        },
+        {
+          "date": "2026-05-21",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Alvará expedido (267,15 - BB): ag. conf. e assinatura do Juiz."
         },
         {
           "date": "2026-05-18",
@@ -290,11 +295,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-29",
-          "header": "TJGO",
-          "title": "Certidão Expedida - exequente informar dados bancários para alvará (não pix)"
         }
       ],
       "partes_adversarias": [
@@ -310,8 +310,8 @@
       "process_number": "5774904-74.2023.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "CITAÇÃO DO DEVEDOR PARA PAGAMENTO",
-      "step": "EXECUÇÃO/COBRANÇA",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": null,
@@ -518,8 +518,8 @@
       "process_number": "5757488-93.2023.8.09.0051",
       "protocol_number": null,
       "folder": "764",
-      "stage": "ELABORAÇÃO DE CÁLCULO",
-      "step": "EXECUÇÃO/COBRANÇA",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "ALUGUEL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-04-25 00:00:00",
@@ -752,15 +752,66 @@
       "process_number": "5796126-36.2023.8.09.0007",
       "protocol_number": null,
       "folder": "1134",
-      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
-      "step": "ARQUIVAMENTO",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "ALUGUEL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-06-13 00:00:00",
       "created_at": "2024-06-13 00:00:00",
       "process_date": "2023-11-28",
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2025-01-13",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-01-10",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
+        },
+        {
+          "date": "2025-01-10",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de OGIL (Referente à Mov. - )"
+        },
+        {
+          "date": "2025-01-07",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-01-07",
+          "header": "TJGO",
+          "title": "Penhora Realizada - (Referente à Mov. Despacho -> Mero Expediente (28/11/2024 15:50:56))"
+        },
+        {
+          "date": "2024-11-28",
+          "header": "TJGO",
+          "title": "Documento Expedido - Penhora online"
+        },
+        {
+          "date": "2024-11-28",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de OGIL (Referente à Mov. - )"
+        },
+        {
+          "date": "2024-11-28",
+          "header": "TJGO",
+          "title": "Despacho -> Mero Expediente"
+        },
+        {
+          "date": "2024-11-28",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DESPACHO"
+        },
+        {
+          "date": "2024-11-26",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "GABRIEL HENRIQUE CARDOSO GOMES"
@@ -891,15 +942,66 @@
       "process_number": "5094903-20.2024.8.09.0051",
       "protocol_number": null,
       "folder": "540",
-      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
-      "step": "ARQUIVAMENTO",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "ALUGUEL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-02-19 00:00:00",
       "created_at": "2024-02-19 00:00:00",
       "process_date": "2024-02-14",
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2025-01-24",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2025-01-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de OGIL (Referente à Mov. Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis (CNJ:11375) - )"
+        },
+        {
+          "date": "2025-01-23",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Inexistência de bens penhoráveis"
+        },
+        {
+          "date": "2025-01-21",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-01-21",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutoria"
+        },
+        {
+          "date": "2024-12-18",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2024-12-18",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões - Exequente indicar bens passíveis de penhora - 5 dias"
+        },
+        {
+          "date": "2024-12-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2024-12-16",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Interlocutória"
+        },
+        {
+          "date": "2024-12-09",
+          "header": "TJGO",
+          "title": "Certidão Expedida - INTIMAÇÃO EXEQUENTE 05 DIAS 1ª UPJ"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "MATEUS CRISPIM RAMO"
@@ -913,15 +1015,66 @@
       "process_number": "5104822-33.2024.8.09.0051",
       "protocol_number": null,
       "folder": "933",
-      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
-      "step": "ARQUIVAMENTO",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "ALUGUEL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-05-20 00:00:00",
       "created_at": "2024-05-20 00:00:00",
       "process_date": "2024-02-19",
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2026-01-12",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Outras Decisões (09/01/2026 16:30:30))"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL - Polo Ativo (Referente à Mov. Decisão -> Outras Decisões (CNJ:12164) - )"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Decisão -> Outras Decisões"
+        },
+        {
+          "date": "2026-01-09",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2025-12-18",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Certidão Expedida (05/12/2025 16:28:21))"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - REQUERER O QUE ENTENDER DE DIREITO - 1ª UPJ"
+        },
+        {
+          "date": "2025-12-05",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Devolução-penhora infrutifera"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "PAULO RICARDO BRITO SILVA"
@@ -945,6 +1098,26 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (CNJ:11382) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Certidão Expedida - PENHORA ONLINE - CENTRAL SISBAJUD"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Decisão -> Determinação -> Bloqueio/penhora on line (23/06/2026 11:55:20))"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Decisão -> Determinação -> Bloqueio/penhora on line"
+        },
+        {
           "date": "2026-06-22",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
@@ -957,7 +1130,7 @@
         {
           "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
+          "title": "Decisão -> Decisão de Saneamento e Organização"
         },
         {
           "date": "2026-06-01",
@@ -967,32 +1140,12 @@
         {
           "date": "2026-06-01",
           "header": "TJGO",
-          "title": "Decisão -> Decisão de Saneamento e Organização"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Decisão -> Decisão de Saneamento e Organização (CNJ:12387) - )"
         },
         {
           "date": "2026-05-28",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ DECISÃO"
-        },
-        {
-          "date": "2026-05-26",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição Interlocutória"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de My Office Gestao Imobiliaria Ltda (Referente à Mov. Ato Ordinatório (31/03/2026 07:28:38))"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de OGIL (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
-        },
-        {
-          "date": "2026-03-31",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - exequente manifestar em 30 dias"
         }
       ],
       "partes_adversarias": [
@@ -1571,15 +1724,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-17"
+    "ultima_data": "2026-06-25"
   }
 }

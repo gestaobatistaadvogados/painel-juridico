@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:44:04-03:00",
-    "gerado_em_humano": "23/06/2026 08:44",
+    "gerado_em": "2026-06-26T08:20:14-03:00",
+    "gerado_em_humano": "26/06/2026 08:20",
     "slug_url": "painel-municipio-cristianopolis-2026-4drz",
     "departamento": "direito_publico"
   },
@@ -174,6 +174,21 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - (Ao Desembargador - Altair Guerra da Costa - Desembargador)"
+        },
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Autos Conclusos - (Ao Desembargador - José Proto de Oliveira - Desembargador)"
+        },
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Retirado de Pauta - (Sessão do dia 23/06/2026 09:00)"
+        },
+        {
           "date": "2026-06-19",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente - Despacho"
@@ -182,11 +197,6 @@
           "date": "2026-06-18",
           "header": "TJGO",
           "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Cristianopolis (Referente à Mov. Sessão Julgamento Adiado (24/04/2026 14:16:22))"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Petição - Manifestação"
         },
         {
           "date": "2026-06-17",
@@ -201,27 +211,17 @@
         {
           "date": "2026-06-17",
           "header": "TJGO",
+          "title": "Juntada -> Petição - Petição - Manifestação"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
           "title": "Pedido de Vista - (Ao Desembargador - Altair Guerra da Costa - Desembargador)"
         },
         {
           "date": "2026-06-17",
           "header": "TJGO",
           "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-06-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Certidão Expedida (15/06/2026 09:48:32))"
-        },
-        {
-          "date": "2026-06-16",
-          "header": "TJGO",
-          "title": "Intimação Lida - Por (Polo Ativo) Tiago Santana Gonçalves (Referente à Mov. Certidão Expedida (15/06/2026 09:48:32))"
-        },
-        {
-          "date": "2026-06-15",
-          "header": "TJGO",
-          "title": "Intimação Expedida - On-line para Santa Cruz de Goiás - Promotoria das Fazendas Públicas (Referente Ã Mov. Certidão Expedida (CNJ:60) - )"
         }
       ],
       "partes_adversarias": [
@@ -320,6 +320,11 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-24",
+          "header": "TRF01",
+          "title": "Juntada de contrarrazões"
+        },
+        {
           "date": "2026-06-09",
           "header": "TRF01",
           "title": "Expedição de Outros documentos."
@@ -357,17 +362,12 @@
         {
           "date": "2025-12-05",
           "header": "TRF01",
-          "title": "Juntada de Certidão"
+          "title": "Declarada decadência ou prescrição"
         },
         {
           "date": "2025-12-05",
           "header": "TRF01",
           "title": "Expedida/certificada a comunicação eletrônica"
-        },
-        {
-          "date": "2025-12-05",
-          "header": "TRF01",
-          "title": "Declarada decadência ou prescrição"
         }
       ],
       "partes_adversarias": [
@@ -569,6 +569,6 @@
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-19"
+    "ultima_data": "2026-06-24"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:40:46-03:00",
-    "gerado_em_humano": "23/06/2026 08:40",
+    "gerado_em": "2026-06-26T08:16:56-03:00",
+    "gerado_em_humano": "26/06/2026 08:16",
     "slug_url": "painel-mybrokerimoveis-2026-opis",
     "departamento": "direito_privado"
   },
@@ -104,54 +104,54 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
-          "date": "2026-06-03",
+          "date": "2026-06-23",
           "header": "TJGO",
-          "title": "Juntada -> Petição -> Habilitação Requerida - Pedido de habilitação de crédito"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alexandre Ramos Pimenta, representado por NARIA CRISTINA RAMOS DE GODOI - INVENTARIANTE (Referente à Mov. Certidão Expedida (23/06/2026 09:51:58))"
         },
         {
-          "date": "2026-05-15",
+          "date": "2026-06-23",
           "header": "TJGO",
-          "title": "Autos Conclusos - P/ DECISÃO"
+          "title": "Certidão Expedida - Intimação p/ manifestação das partes - Ev. 502"
         },
         {
-          "date": "2026-04-30",
+          "date": "2026-06-23",
           "header": "TJGO",
-          "title": "Juntada -> Petição -"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Pedro Duarte Silva Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-30",
-          "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fabiola Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leonardo Rodrigues Pimenta (Referente à Mov. Certidão Expedida (14/04/2026 17:50:10))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Pedro Duarte Silva Pimenta (Referente à Mov. Certidão Expedida (14/04/2026 17:50:10))"
-        },
-        {
-          "date": "2026-04-14",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Alexandre Ramos Pimenta, representado por NARIA CRISTINA RAMOS DE GODOI - INVENTARIANTE (Referente à Mov. Certidão Expedida (14/04/2026 17:50:10))"
-        },
-        {
-          "date": "2026-04-14",
+          "date": "2026-06-23",
           "header": "TJGO",
           "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leonardo Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
         },
         {
-          "date": "2026-04-14",
+          "date": "2026-06-23",
           "header": "TJGO",
-          "title": "Certidão Expedida - Pagamento das custas iniciais/complementares atualizada"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Lorena Da Cruz Neves Pimenta Gutierrez (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Fabiola Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Leticia Rodrigues Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Maria Angélica De Oliveira Pimenta (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Sandra Aparecida De Miranda Nunes (Referente à Mov. Certidão Expedida (CNJ:60) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Leticia Rodrigues Pimenta (Referente à Mov. Certidão Expedida (23/06/2026 09:51:58))"
         }
       ],
       "partes_adversarias": [
@@ -326,6 +326,11 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-16",
+          "header": "TJMG",
+          "title": "Juntada de Petição de manifestação"
+        },
+        {
           "date": "2026-06-03",
           "header": "TJMG",
           "title": "Disponibilizado no DJ Eletrônico em 08/06/2026"
@@ -369,11 +374,6 @@
           "date": "2026-04-16",
           "header": "TJMG",
           "title": "Proferido despacho de mero expediente"
-        },
-        {
-          "date": "2026-03-29",
-          "header": "TJMG",
-          "title": "Conclusos para despacho"
         }
       ],
       "partes_adversarias": [
@@ -762,6 +762,16 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
+          "date": "2026-06-18",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2026-06-16",
+          "header": "TJGO",
+          "title": "Juntada de Documento - Informativo BERNA: A BERNA IA detectou, no sistema Projudi/PJD, mais de um processo envolvendo as mesmas partes, conforme relacao."
+        },
+        {
           "date": "2026-06-16",
           "header": "TJGO",
           "title": "Processo Distribuído - Goiânia - 2ª UPJ Juizados Especiais Cíveis: 6º, 7º, 8º, 9º, 10º e 11º (Normal) - Distribuído para: LUCAS DE MENDONÇA LAGARES"
@@ -779,18 +789,91 @@
       ],
       "fase_grupo": "conhecimento",
       "tribunal": "TJGO"
+    },
+    {
+      "id": 16103296,
+      "process_number": "5472461-24.2026.8.09.0051",
+      "protocol_number": null,
+      "folder": null,
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS",
+      "group": "PRIVADO",
+      "status_closure": null,
+      "created_at": "2026-06-24 15:21:09",
+      "process_date": "2026-06-24",
+      "responsible": "LUCAS MARINHO DA SILVA",
+      "movements": [
+        {
+          "date": "2026-06-21",
+          "header": "TJGO",
+          "title": "Citação Efetivada - Para BIAL (Referente à Mov. Certidão Expedida (03/06/2026 17:01:22))"
+        },
+        {
+          "date": "2026-06-09",
+          "header": "TJGO",
+          "title": "Citação Expedida - Para (Polo Passivo) BIAL - Código de Rastreamento Correios: YH208660530BR idPendenciaCorreios109287675432015873960258085idPendenciaCorreios"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - CITAÇÃO NÃO EFETIVADA VIA DOMICILIO ELETRONICO 1ª UPJ"
+        },
+        {
+          "date": "2026-06-03",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Citação via Domicilio Eletronico expirada (Polo Passivo) My Broker Imoveis Aluguel Ltda"
+        },
+        {
+          "date": "2026-06-02",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Para (Polo Ativo) Alex Vieira Dos Santos - Código de Rastreamento Correios: YH194069183BR idPendenciaCorreios109187665432015873960275302idPendenciaCorreios"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Citação Expedida - Via Domicílio Eletrônico para (Polo Passivo) BIAL (comunicação: 109587615432563873100993538)"
+        },
+        {
+          "date": "2026-05-28",
+          "header": "TJGO",
+          "title": "Decisão -> Não-Concessão -> Tutela Provisória"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - CHECK LIST SEM PENDÊNCIAS"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Certidão Expedida - CERTIDÃO - NÃO HÁ PROCESSOS ENVOLVENDO MESMAS PARTES"
+        },
+        {
+          "date": "2026-05-26",
+          "header": "TJGO",
+          "title": "Autos Conclusos"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "ALEX VIEIRA DOS SANTOS"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
     }
   ],
   "atividade_90d": {
-    "total": 4,
+    "total": 5,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-21"
+    "ultima_data": "2026-06-24"
   }
 }

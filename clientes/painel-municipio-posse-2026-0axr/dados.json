@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:57:00-03:00",
-    "gerado_em_humano": "23/06/2026 08:57",
+    "gerado_em": "2026-06-26T08:33:13-03:00",
+    "gerado_em_humano": "26/06/2026 08:33",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -28,19 +28,19 @@
       "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
       "movements": [
         {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Universidade Federal De Goias (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (07/06/2026 14:24:37))"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Passivo)Municipio De Posse (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (07/06/2026 14:24:37))"
+        },
+        {
           "date": "2026-06-11",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Universidade Federal De Goias - Polo Passivo (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 07/06/2026 14:24:37)"
-        },
-        {
-          "date": "2026-06-07",
-          "header": "TJGO",
-          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
-        },
-        {
-          "date": "2026-06-07",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Adebora Rodrigues De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (07/06/2026 14:24:37))"
         },
         {
           "date": "2026-06-07",
@@ -53,14 +53,14 @@
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse (Referente Ã Mov. Julgamento -> Com Resolução do Mérito -> Improcedência - 07/06/2026 14:24:37)"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-06-07",
           "header": "TJGO",
-          "title": "Autos Conclusos -"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Adebora Rodrigues De Sousa (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Improcedência (07/06/2026 14:24:37))"
         },
         {
-          "date": "2026-04-27",
+          "date": "2026-06-07",
           "header": "TJGO",
-          "title": "Autos Conclusos"
+          "title": "Julgamento -> Com Resolução do Mérito -> Improcedência"
         },
         {
           "date": "2026-04-27",
@@ -70,12 +70,12 @@
         {
           "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Prazo Decorrido -"
+          "title": "Autos Conclusos -"
         },
         {
-          "date": "2026-03-13",
+          "date": "2026-04-27",
           "header": "TJGO",
-          "title": "Decorrido Prazo - para Municipio De Posse em 09/03/2026 23:59:59 (Referente à Mov. Decisão -> Indeferimento (02/02/2026 13:40:34))"
+          "title": "Autos Conclusos"
         }
       ],
       "partes_adversarias": [
@@ -1753,6 +1753,11 @@
       "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
       "movements": [
         {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Intimação Lida - Automaticamente para (Polo Ativo)Municipio De Posse (Referente à Mov. Despacho -> Mero Expediente (14/06/2026 23:00:55))"
+        },
+        {
           "date": "2026-06-14",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente - Ato ordinatório - recolhimento das custas"
@@ -1791,11 +1796,6 @@
           "date": "2026-03-09",
           "header": "TJGO",
           "title": "Intimação Expedida - On-line para Adv(s). de Municipio De Posse - Polo Ativo (Referente à Mov. Despacho -> Mero Expediente - 06/03/2026 17:34:04)"
-        },
-        {
-          "date": "2026-03-06",
-          "header": "TJGO",
-          "title": "Despacho -> Mero Expediente -"
         },
         {
           "date": "2026-03-06",
@@ -3718,24 +3718,6 @@
       "tribunal": "—"
     },
     {
-      "id": 15536325,
-      "process_number": null,
-      "protocol_number": "9749/25",
-      "folder": null,
-      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
-      "step": "ADMINISTRATIVO",
-      "type": "TCM",
-      "group": "PÚBLICO",
-      "status_closure": null,
-      "created_at": "2026-06-08 10:48:16",
-      "process_date": "2025-09-19",
-      "responsible": "LEONEL NASCIMENTO CARVALHO JUNIOR",
-      "movements": [],
-      "partes_adversarias": [],
-      "fase_grupo": "conhecimento",
-      "tribunal": "—"
-    },
-    {
       "id": 15842694,
       "process_number": null,
       "protocol_number": "4196/26",
@@ -3770,18 +3752,72 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 16104169,
+      "process_number": null,
+      "protocol_number": "4576/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-24 15:52:44",
+      "process_date": "2026-06-24",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 16104606,
+      "process_number": null,
+      "protocol_number": "4678/26",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-24 16:05:55",
+      "process_date": "2026-06-22",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 16109932,
+      "process_number": null,
+      "protocol_number": "10347/22",
+      "folder": null,
+      "stage": "AGUARDANDO DECISÃO DO ÓRGÃO",
+      "step": "ADMINISTRATIVO",
+      "type": "TCM",
+      "group": "PÚBLICO",
+      "status_closure": null,
+      "created_at": "2026-06-24 17:07:00",
+      "process_date": "2022-11-11",
+      "responsible": "LEONARDO DE OLIVEIRA PEREIRA BATISTA",
+      "movements": [],
+      "partes_adversarias": [],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 20,
+    "total": 33,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 15,
+      "Acompanhamento": 29,
       "Diligências": 0,
-      "Outras": 3
+      "Outras": 2
     },
-    "ultima_data": "2026-06-22"
+    "ultima_data": "2026-06-25"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T09:10:14-03:00",
-    "gerado_em_humano": "23/06/2026 09:10",
+    "gerado_em": "2026-06-26T08:46:34-03:00",
+    "gerado_em_humano": "26/06/2026 08:46",
     "slug_url": "painel-pc-nataliagabriela-2026-1i3t",
     "departamento": "direito_criminal"
   },
@@ -28,6 +28,41 @@
       "responsible": "MYREYA ALVES DOS SANTOS",
       "movements": [
         {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Troca de Responsável - MP Responsável Anterior: Cyro Terra Peres MP Responsável Atual: PUBLIUS LENTULUS ALVES DA ROCHA"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de GUILHERME CARDOSO ELEAQUIM (Referente à Mov. Ato Ordinatório (23/06/2026 09:01:48))"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - On-line para Procuradoria Geral de Justiça - Criminal (Referente à Mov. Despacho -> Mero Expediente - 22/06/2026 16:51:28)"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Juntar procuração acusado GUILHERME CARDOSO ELEAQUIM"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de GUILHERME CARDOSO ELEAQUIM (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Certidão Expedida - Correção de dados - Procuração mov. 109 e 110 - Sem procuração (GUILHERME)"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Certidão Expedida"
+        },
+        {
           "date": "2026-06-22",
           "header": "TJGO",
           "title": "Recurso Autuado - (Recurso PROCESSO CRIMINAL -> Recursos -> Apelação Criminal)"
@@ -41,41 +76,6 @@
           "date": "2026-06-22",
           "header": "TJGO",
           "title": "Despacho -> Mero Expediente"
-        },
-        {
-          "date": "2026-06-22",
-          "header": "TJGO",
-          "title": "Certidão Expedida"
-        },
-        {
-          "date": "2026-06-22",
-          "header": "TJGO",
-          "title": "Autos Conclusos - P/ O RELATOR"
-        },
-        {
-          "date": "2026-06-22",
-          "header": "TJGO",
-          "title": "Recurso Distribuído - 4ª Câmara Criminal (Normal) - Distribuído para: WILD AFONSO OGAWA"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de SILVOYNE VERISSIMO DE OLIVEIRA - Polo Passivo (Referente à Mov. Juntada -> Petição -> Apelação - 10/06/2026 17:28:25)"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de WANDERSON CAIO GOMES ELEAQUIM (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de NATALIA GABRIELA SILVA (Referente à Mov. Juntada -> Petição -> Apelação (10/06/2026 17:28:25))"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJGO",
-          "title": "Juntada -> Petição - Manifestação"
         }
       ],
       "partes_adversarias": [

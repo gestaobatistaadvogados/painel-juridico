@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:33:29-03:00",
-    "gerado_em_humano": "23/06/2026 08:33",
+    "gerado_em": "2026-06-26T08:09:37-03:00",
+    "gerado_em_humano": "26/06/2026 08:09",
     "slug_url": "painel-mybroker-uberlandia-2026-lyl4",
     "departamento": "direito_imobiliario"
   },
@@ -448,6 +448,11 @@
       "responsible": "ANGELICA SILVA CARDOSO",
       "movements": [
         {
+          "date": "2026-06-18",
+          "header": "TJMG",
+          "title": "Conclusos para despacho"
+        },
+        {
           "date": "2026-05-15",
           "header": "TJMG",
           "title": "Juntada de Petição de petição"
@@ -491,11 +496,6 @@
           "date": "2025-12-02",
           "header": "TJMG",
           "title": "Expedida/certificada a comunicação eletrônica"
-        },
-        {
-          "date": "2025-11-19",
-          "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
         }
       ],
       "partes_adversarias": [
@@ -594,6 +594,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 17/06/2026."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 16/06/2026"
+        },
+        {
           "date": "2026-05-26",
           "header": "TJMG",
           "title": "Juntada de Petição de petição"
@@ -625,21 +640,6 @@
         },
         {
           "date": "2026-03-20",
-          "header": "TJMG",
-          "title": "Juntada de Petição de petição"
-        },
-        {
-          "date": "2026-03-20",
-          "header": "TJMG",
-          "title": "Mandado devolvido entregue ao destinatário MY BROKER IMOBILIARIA UBERLANDIA LTDA - CNPJ: 37.177.371/0001-53 (EXECUTADO(A))"
-        },
-        {
-          "date": "2026-03-10",
-          "header": "TJMG",
-          "title": "Expedição de Mandado."
-        },
-        {
-          "date": "2026-02-10",
           "header": "TJMG",
           "title": "Juntada de Petição de petição"
         }

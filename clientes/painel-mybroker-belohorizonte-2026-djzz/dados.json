@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:34:44-03:00",
-    "gerado_em_humano": "23/06/2026 08:34",
+    "gerado_em": "2026-06-26T08:10:52-03:00",
+    "gerado_em_humano": "26/06/2026 08:10",
     "slug_url": "painel-mybroker-belohorizonte-2026-djzz",
     "departamento": "direito_imobiliario"
   },
@@ -28,6 +28,16 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-23",
+          "header": "TJMG",
+          "title": "Evento: 103\nDescrição: Publicado no DJEN - no dia 12/03/2026 - Refer. aos Eventos: 60, 61, 62"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJMG",
+          "title": "Evento: 102\nDescrição: Disponibilizado no DJEN - no dia 11/03/2026 - Refer. aos Eventos: 60, 61, 62"
+        },
+        {
           "date": "2026-06-19",
           "header": "TJMG",
           "title": "Evento: 101\nDescrição: Publicado no DJEN - no dia 19/06/2026 - Refer. ao Evento: 96"
@@ -40,17 +50,12 @@
         {
           "date": "2026-06-18",
           "header": "TJMG",
-          "title": "Evento: 98\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. aos Eventos: 92, 93"
+          "title": "Evento: 99\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. ao Evento: 96"
         },
         {
           "date": "2026-06-18",
           "header": "TJMG",
-          "title": "Evento: 99\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. ao Evento: 96"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJMG",
-          "title": "Evento: 90\nDescrição: Confirmada a intimação eletrônica - Refer. ao Evento: 62"
+          "title": "Evento: 98\nDescrição: Disponibilizado no DJEN - no dia 18/06/2026 - Refer. aos Eventos: 92, 93"
         },
         {
           "date": "2026-06-17",
@@ -60,22 +65,17 @@
         {
           "date": "2026-06-17",
           "header": "TJMG",
+          "title": "Evento: 93\nDescrição: Expedida/certificada a intimação eletrônica - Contrarrazões\nRefer.  ao Evento 91\n(AUTOR -  CLAUBERTH DUARTE FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 22/06/2026 00:00:00\nData final: 10/07/2026 23:59:59"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJMG",
+          "title": "Evento: 94\nDescrição: Ato ordinatório praticado   Documento encaminhado à disponibilização no Diário Eletrônico - no dia 18/06/2026 - Refer. aos Eventos: 92, 93"
+        },
+        {
+          "date": "2026-06-17",
+          "header": "TJMG",
           "title": "Evento: 96\nDescrição: Expedida/certificada a intimação eletrônica - Contrarrazões\nRefer.  ao Evento 95\n(RÉU -  MY BROKER IMÓVEIS BELO HORIZONTE LTDA)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 22/06/2026 00:00:00\nData final: 10/07/2026 23:59:59"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJMG",
-          "title": "Evento: 97\nDescrição: Ato ordinatório praticado   Documento encaminhado à disponibilização no Diário Eletrônico - no dia 18/06/2026 - Refer. ao Evento: 96"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJMG",
-          "title": "Evento: 91\nDescrição: APELAÇÃO - Refer. aos Eventos: 62 e 87"
-        },
-        {
-          "date": "2026-06-17",
-          "header": "TJMG",
-          "title": "Evento: 92\nDescrição: Expedida/certificada a intimação eletrônica - Contrarrazões\nRefer.  ao Evento 91\n(AUTOR -  AMANDA FERREIRA DE SOUZA FIGUEIREDO)\nPrazo: 15 dias Status:ABERTO\nData inicial da contagem do prazo: 22/06/2026 00:00:00\nData final: 10/07/2026 23:59:59"
         }
       ],
       "partes_adversarias": [
@@ -137,15 +137,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 4,
     "categorias": {
-      "Peças": 0,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 2,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-02"
+    "ultima_data": "2026-06-25"
   }
 }

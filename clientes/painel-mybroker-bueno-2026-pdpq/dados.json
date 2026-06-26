@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:31:51-03:00",
-    "gerado_em_humano": "23/06/2026 08:31",
+    "gerado_em": "2026-06-26T08:08:00-03:00",
+    "gerado_em_humano": "26/06/2026 08:08",
     "slug_url": "painel-mybroker-bueno-2026-pdpq",
     "departamento": "direito_imobiliario"
   },
@@ -341,6 +341,21 @@
       "responsible": "LUCAS MARINHO DA SILVA",
       "movements": [
         {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - *CCSC - Ato Ordinatório - Intimar P Juntar Planilha Débito"
+        },
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daiany Carolaine Meira De Sousa (Referente à Mov. Ato Ordinatório (24/06/2026 09:48:21))"
+        },
+        {
+          "date": "2026-06-24",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Daiany Carolaine Meira De Sousa (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
           "date": "2026-06-05",
           "header": "TJGO",
           "title": "Juntada -> Petição"
@@ -353,12 +368,12 @@
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Incidente de Desconsideração de Personalidade Jurídica"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daiany Carolaine Meira De Sousa (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Incidente de Desconsideração de Personalidade Jurídica (22/05/2026 00:36:47))"
         },
         {
           "date": "2026-05-22",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Daiany Carolaine Meira De Sousa (Referente à Mov. Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Incidente de Desconsideração de Personalidade Jurídica (22/05/2026 00:36:47))"
+          "title": "Julgamento-> Sem resolução de Mérito -> Não Conhecido o Recurso de -> Incidente de Desconsideração de Personalidade Jurídica"
         },
         {
           "date": "2026-04-14",
@@ -373,22 +388,7 @@
         {
           "date": "2026-04-11",
           "header": "TJGO",
-          "title": "Juntada -> Petição"
-        },
-        {
-          "date": "2026-04-11",
-          "header": "TJGO",
           "title": "Juntada -> Petição -"
-        },
-        {
-          "date": "2026-02-19",
-          "header": "TJGO",
-          "title": "Término da Suspensão do Processo -"
-        },
-        {
-          "date": "2026-02-19",
-          "header": "TJGO",
-          "title": "Término da Suspensão do Processo"
         }
       ],
       "partes_adversarias": [
@@ -579,15 +579,66 @@
       "process_number": "5134316-60.2024.8.09.0012",
       "protocol_number": null,
       "folder": "568",
-      "stage": "ANALISADO E NÃO DISTRIBUÍDO",
-      "step": "ARQUIVAMENTO",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "ALUGUEL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2024-02-28 00:00:00",
       "created_at": "2024-02-28 00:00:00",
       "process_date": "2024-02-28",
       "responsible": "LUCAS MARINHO DA SILVA",
-      "movements": [],
+      "movements": [
+        {
+          "date": "2024-08-12",
+          "header": "TJGO",
+          "title": "Transitado em Julgado - sentença evento 35"
+        },
+        {
+          "date": "2024-08-12",
+          "header": "TJGO",
+          "title": "Processo Arquivado"
+        },
+        {
+          "date": "2024-08-12",
+          "header": "TJGO",
+          "title": "Baixa Definitiva"
+        },
+        {
+          "date": "2024-08-09",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - busca CACE"
+        },
+        {
+          "date": "2024-08-06",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - (Referente à Mov. Juntada -> Petição (14/06/2024 14:43:29))"
+        },
+        {
+          "date": "2024-07-24",
+          "header": "TJGO",
+          "title": "Julgamento -> Sem Resolução de Mérito -> Extinção -> Devedor não encontrado"
+        },
+        {
+          "date": "2024-07-24",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestao Imobiliaria Ltda (Referente à Mov. - )"
+        },
+        {
+          "date": "2024-07-19",
+          "header": "TJGO",
+          "title": "Autos Conclusos - P/ DECISÃO"
+        },
+        {
+          "date": "2024-07-19",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Arresto Online"
+        },
+        {
+          "date": "2024-07-10",
+          "header": "TJGO",
+          "title": "Citação Não Efetivada - Airton Silverio Alves - YQ326005122BR"
+        }
+      ],
       "partes_adversarias": [
         {
           "name": "AIRTON SILVERIO ALVES"
@@ -611,9 +662,14 @@
       "responsible": "MATEUS TRAVASSOS DE AMORIM ARAUJO",
       "movements": [
         {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Juntada -> Petição - Petição Interlocutória"
+        },
+        {
           "date": "2026-06-12",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Expedição de Documento (12/06/2026 14:28:15))"
+          "title": "Expedição de Documento - CERTIDÃO DE INTIMAÇÃO - SISBAJUD"
         },
         {
           "date": "2026-06-12",
@@ -623,7 +679,7 @@
         {
           "date": "2026-06-12",
           "header": "TJGO",
-          "title": "Expedição de Documento - CERTIDÃO DE INTIMAÇÃO - SISBAJUD"
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Bueno Broker Gestão Imobiliária Ltda (Referente à Mov. Expedição de Documento (12/06/2026 14:28:15))"
         },
         {
           "date": "2026-06-11",
@@ -654,11 +710,6 @@
           "date": "2026-04-29",
           "header": "TJGO",
           "title": "Ato Ordinatório - Intimar p/ Juntar Planilha Débito"
-        },
-        {
-          "date": "2026-04-28",
-          "header": "TJGO",
-          "title": "Ato Ordinatório - 5ª UPJ* - Ato Ordinatório - Intimar P Juntar Planilha Débito"
         }
       ],
       "partes_adversarias": [
@@ -1113,8 +1164,8 @@
       "process_number": "5363746-19.2025.8.09.0051",
       "protocol_number": null,
       "folder": "2808",
-      "stage": "ELABORAÇÃO DE CÁLCULO",
-      "step": "EXECUÇÃO/COBRANÇA",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": "2025-05-12 00:00:00",
@@ -1450,18 +1501,62 @@
       "partes_adversarias": [],
       "fase_grupo": "conhecimento",
       "tribunal": "—"
+    },
+    {
+      "id": 16142075,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-25 17:02:41",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "JOSUE GUIMARAES DE NOVAES"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
+    },
+    {
+      "id": 16142523,
+      "process_number": null,
+      "protocol_number": null,
+      "folder": null,
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
+      "type": "ADMINISTRATIVO",
+      "group": "ADMINISTRATIVO",
+      "status_closure": null,
+      "created_at": "2026-06-25 17:17:06",
+      "process_date": null,
+      "responsible": "LEONARDO VASCONCELOS",
+      "movements": [],
+      "partes_adversarias": [
+        {
+          "name": "PEDRO SIMOES FERREIRA MIRANDA DE ANDRADE"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "—"
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 7,
     "categorias": {
       "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
-      "Diligências": 0,
-      "Outras": 4
+      "Acompanhamento": 2,
+      "Diligências": 1,
+      "Outras": 3
     },
-    "ultima_data": "2026-06-22"
+    "ultima_data": "2026-06-24"
   }
 }

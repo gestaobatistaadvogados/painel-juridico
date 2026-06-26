@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:40:11-03:00",
-    "gerado_em_humano": "23/06/2026 08:40",
+    "gerado_em": "2026-06-26T08:16:20-03:00",
+    "gerado_em_humano": "26/06/2026 08:16",
     "slug_url": "painel-energynempilhad-2026-6j6w",
     "departamento": "direito_privado"
   },
@@ -28,14 +28,19 @@
       "responsible": "FELLIPE LOPES",
       "movements": [
         {
-          "date": "2026-06-11",
+          "date": "2026-06-12",
           "header": "TJMA",
-          "title": "Decorrido prazo de GLOBAL WF COMERCIO LTDA em 10/06/2026 10:00."
+          "title": "Conclusos para julgamento"
         },
         {
           "date": "2026-06-11",
           "header": "TJMA",
           "title": "Juntada de Petição de petição"
+        },
+        {
+          "date": "2026-06-11",
+          "header": "TJMA",
+          "title": "Decorrido prazo de GLOBAL WF COMERCIO LTDA em 10/06/2026 10:00."
         },
         {
           "date": "2026-06-09",
@@ -71,11 +76,6 @@
           "date": "2026-05-21",
           "header": "TJMA",
           "title": "Indeferido o pedido de GLOBAL WF COMERCIO LTDA - CNPJ: 34.862.513/0001-23 (REU)"
-        },
-        {
-          "date": "2026-05-08",
-          "header": "TJMA",
-          "title": "Juntada de Petição de contestação"
         }
       ],
       "partes_adversarias": [

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:32:52-03:00",
-    "gerado_em_humano": "23/06/2026 08:32",
+    "gerado_em": "2026-06-26T08:09:01-03:00",
+    "gerado_em_humano": "26/06/2026 08:09",
     "slug_url": "painel-mybroker-santamonica-2026-y52e",
     "departamento": "direito_imobiliario"
   },
@@ -327,6 +327,21 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Publicado Intimação em 17/06/2026."
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Disponibilizado no DJ Eletrônico em 16/06/2026"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJMG",
+          "title": "Expedida/certificada a comunicação eletrônica"
+        },
+        {
           "date": "2026-03-27",
           "header": "TJMG",
           "title": "Juntada de Petição de impugnação"
@@ -360,21 +375,6 @@
           "date": "2026-01-12",
           "header": "TJMG",
           "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2025-12-18",
-          "header": "TJMG",
-          "title": "Juntada de Petição de manifestação"
-        },
-        {
-          "date": "2025-12-17",
-          "header": "TJMG",
-          "title": "Recebidos os autos do CEJUSC ou Centro de Conciliação/Mediação"
-        },
-        {
-          "date": "2025-12-17",
-          "header": "TJMG",
-          "title": "Audiência do art. 334 CPC realizada conduzida por Conciliador(a) em/para 17/12/2025 16:30, 9ª Vara Cível da Comarca de Uberlândia"
         }
       ],
       "partes_adversarias": [

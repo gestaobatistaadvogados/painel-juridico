@@ -1,15 +1,15 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:35:39-03:00",
-    "gerado_em_humano": "23/06/2026 08:35",
+    "gerado_em": "2026-06-26T08:11:46-03:00",
+    "gerado_em_humano": "26/06/2026 08:11",
     "slug_url": "painel-mybroker-joaopessoa-2026-xo3u",
     "departamento": "direito_imobiliario"
   },
   "cliente": {
-    "name": "MY BROKER IMOBILIARIA JOAO PESSOA",
+    "name": "MY BROKER JOÃO PESSOA",
     "identification": "**.***.***/****-60",
-    "city": "",
-    "state": "",
+    "city": null,
+    "state": null,
     "identification_tipo": "PJ"
   },
   "processos": [

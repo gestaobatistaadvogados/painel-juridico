@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T08:35:22-03:00",
-    "gerado_em_humano": "23/06/2026 08:35",
+    "gerado_em": "2026-06-26T08:11:30-03:00",
+    "gerado_em_humano": "26/06/2026 08:11",
     "slug_url": "painel-mybroker-eldorado-2026-c1za",
     "departamento": "direito_imobiliario"
   },
@@ -18,8 +18,8 @@
       "process_number": "5699056-47.2024.8.09.0051",
       "protocol_number": null,
       "folder": null,
-      "stage": "AÇÃO PROTOCOLADA/INICIADA",
-      "step": "JUDICIAL",
+      "stage": "ANÁLISE DO CASO",
+      "step": "NEGOCIAÇÃO",
       "type": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
       "group": "IMOBILIÁRIO",
       "status_closure": null,
@@ -101,54 +101,54 @@
       "responsible": "GABRIEL MACIEL ARAÚJO SOUZA",
       "movements": [
         {
-          "date": "2026-06-01",
+          "date": "2026-06-22",
           "header": "TJGO",
-          "title": "Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - (Sessão do dia 15/06/2026 10:00:00 (Virtual) - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Agravos -> Agravo Interno Cível - PROCESSO CÍVEL E DO TRABALHO -> Recursos -> Apelação Cível - Cabe Pedido de Sustentação Oral )"
+          "title": "Autos Conclusos - P/ O RELATOR"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Andre Proenca Santos (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (01/06/2026 13:53:51))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de PEMSF (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Extrato da Ata de Julgamento Inserido - (Sessão do dia 15/06/2026 10:00)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de S1BIL (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Julgamento -> Com Resolução do Mérito -> Provimento em Parte - (Sessão do dia 15/06/2026 10:00)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de PEMSF (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EBGIL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de EBGIL (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Proenca Santos (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Andre Proenca Santos (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento - 01/06/2026 13:53:51)"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Unire Coordenacao Imobiliaria Ltda (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Eldorado Broker Gestao Imobiliaria Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (01/06/2026 13:53:51))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de S1BIL (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         },
         {
-          "date": "2026-06-01",
+          "date": "2026-06-19",
           "header": "TJGO",
-          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Agencia Multiface De Propaganda Ltda (Referente à Mov. Pauta -> Inclusão em Pauta de Sessão -> Para Julgamento (01/06/2026 13:53:51))"
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de PEMSF (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Provimento em Parte - 19/06/2026 12:10:21)"
         }
       ],
       "partes_adversarias": [
@@ -173,15 +173,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 6,
+    "total": 5,
     "categorias": {
-      "Peças": 2,
+      "Peças": 1,
       "Audiências": 0,
       "Comunicações": 0,
       "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-22"
+    "ultima_data": "2026-06-18"
   }
 }

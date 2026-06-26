@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-23T09:11:16-03:00",
-    "gerado_em_humano": "23/06/2026 09:11",
+    "gerado_em": "2026-06-26T08:47:35-03:00",
+    "gerado_em_humano": "26/06/2026 08:47",
     "slug_url": "painel-pc-anapaulaferreira-2026-k118",
     "departamento": "direito_criminal"
   },
@@ -240,15 +240,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 3,
+    "total": 5,
     "categorias": {
-      "Peças": 1,
+      "Peças": 2,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 2,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 0
     },
-    "ultima_data": "2026-06-15"
+    "ultima_data": "2026-06-24"
   }
 }
