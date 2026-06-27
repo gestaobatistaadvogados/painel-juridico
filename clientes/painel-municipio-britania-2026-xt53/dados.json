@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-26T08:29:17-03:00",
-    "gerado_em_humano": "26/06/2026 08:29",
+    "gerado_em": "2026-06-27T07:46:03-03:00",
+    "gerado_em_humano": "27/06/2026 07:46",
     "slug_url": "painel-municipio-britania-2026-xt53",
     "departamento": "direito_publico"
   },
@@ -3315,15 +3315,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 2,
+    "total": 4,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 1,
+      "Acompanhamento": 3,
       "Diligências": 0,
       "Outras": 1
     },
-    "ultima_data": "2026-06-25"
+    "ultima_data": "2026-06-26"
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-26T08:33:13-03:00",
-    "gerado_em_humano": "26/06/2026 08:33",
+    "gerado_em": "2026-06-27T07:50:00-03:00",
+    "gerado_em_humano": "27/06/2026 07:50",
     "slug_url": "painel-municipio-posse-2026-0axr",
     "departamento": "direito_publico"
   },
@@ -3809,15 +3809,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 33,
+    "total": 34,
     "categorias": {
       "Peças": 0,
       "Audiências": 0,
       "Comunicações": 2,
-      "Acompanhamento": 29,
+      "Acompanhamento": 30,
       "Diligências": 0,
       "Outras": 2
     },
-    "ultima_data": "2026-06-25"
+    "ultima_data": "2026-06-26"
   }
 }

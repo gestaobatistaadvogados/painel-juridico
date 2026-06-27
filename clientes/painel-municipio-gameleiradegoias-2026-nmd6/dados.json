@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-26T08:35:57-03:00",
-    "gerado_em_humano": "26/06/2026 08:35",
+    "gerado_em": "2026-06-27T07:52:44-03:00",
+    "gerado_em_humano": "27/06/2026 07:52",
     "slug_url": "painel-municipio-gameleiradegoias-2026-nmd6",
     "departamento": "direito_publico"
   },
@@ -4167,12 +4167,12 @@
     }
   ],
   "atividade_90d": {
-    "total": 37,
+    "total": 35,
     "categorias": {
-      "Peças": 8,
+      "Peças": 7,
       "Audiências": 0,
       "Comunicações": 0,
-      "Acompanhamento": 24,
+      "Acompanhamento": 23,
       "Diligências": 2,
       "Outras": 3
     },

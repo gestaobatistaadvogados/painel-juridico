@@ -1,7 +1,7 @@
 {
   "meta": {
-    "gerado_em": "2026-06-26T08:42:16-03:00",
-    "gerado_em_humano": "26/06/2026 08:42",
+    "gerado_em": "2026-06-27T07:59:05-03:00",
+    "gerado_em_humano": "27/06/2026 07:59",
     "slug_url": "painel-municipio-aragoiania-2026-zcwx",
     "departamento": "direito_publico"
   },
@@ -5018,6 +5018,85 @@
       "tribunal": "TJGO"
     },
     {
+      "id": 13414013,
+      "process_number": "5272944-52.2024.8.09.0069",
+      "protocol_number": null,
+      "folder": "2822",
+      "stage": "AÇÃO PROTOCOLADA/INICIADA",
+      "step": "JUDICIAL",
+      "type": "USUCAPIÃO",
+      "group": "PÚBLICO",
+      "status_closure": "2025-05-12 00:00:00",
+      "created_at": "2025-05-12 00:00:00",
+      "process_date": "2024-04-10",
+      "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
+      "movements": [
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luiz Elias Bouhid De Camargo (Referente à Mov. Ato Ordinatório (23/06/2026 15:21:26))"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Ato Ordinatório - Intimar embargada para apresentar contrarrazões"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luiz Elias Bouhid De Camargo (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Beatriz Pires De Morais (Referente à Mov. Ato Ordinatório (CNJ:11383) - )"
+        },
+        {
+          "date": "2026-06-23",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Beatriz Pires De Morais (Referente à Mov. Ato Ordinatório (23/06/2026 15:21:26))"
+        },
+        {
+          "date": "2026-06-22",
+          "header": "TJGO",
+          "title": "Juntada -> Petição -> Embargos de declaração - Petição"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Luiz Elias Bouhid De Camargo (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (15/06/2026 14:13:02))"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Expedida - Aguardando processamento de envio para o DJEN - Adv(s). de Luiz Elias Bouhid De Camargo (Referente à Mov. - )"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Julgamento -> Com Resolução do Mérito -> Procedência"
+        },
+        {
+          "date": "2026-06-15",
+          "header": "TJGO",
+          "title": "Intimação Efetivada - Disponibilizada no primeiro e publicada no segundo dia útil (Lei 11.419/2006, art. 4º, §§ 3º e 4º) - Adv(s). de Itau Unibanco Holding S.a. (Referente à Mov. Julgamento -> Com Resolução do Mérito -> Procedência (15/06/2026 14:13:02))"
+        }
+      ],
+      "partes_adversarias": [
+        {
+          "name": "BEATRIZ PIRES DE MORAIS"
+        },
+        {
+          "name": "ITAU UNIBANCO HOLDING S.A."
+        },
+        {
+          "name": "LUIZ ELIAS BOUHID DE CAMARGO"
+        }
+      ],
+      "fase_grupo": "conhecimento",
+      "tribunal": "TJGO"
+    },
+    {
       "id": 13719634,
       "process_number": null,
       "protocol_number": "123456",
@@ -8555,9 +8634,9 @@
       "responsible": "CAIO IGOR PUREZA DE FARIA REIS",
       "movements": [
         {
-          "date": "2026-06-15",
+          "date": "2026-06-26",
           "header": "TRF01",
-          "title": "Expedida/certificada a intimação eletrônica"
+          "title": "Juntada de petição intercorrente"
         },
         {
           "date": "2026-06-15",
@@ -8597,12 +8676,12 @@
         {
           "date": "2026-06-15",
           "header": "TRF01",
-          "title": "Expedição de Outros documentos."
+          "title": "Expedida/certificada a intimação eletrônica"
         },
         {
-          "date": "2026-06-10",
+          "date": "2026-06-15",
           "header": "TRF01",
-          "title": "Deliberado em Sessão - Julgado - Mérito"
+          "title": "Expedição de Outros documentos."
         }
       ],
       "partes_adversarias": [
@@ -10054,15 +10133,15 @@
     }
   ],
   "atividade_90d": {
-    "total": 81,
+    "total": 76,
     "categorias": {
-      "Peças": 15,
+      "Peças": 13,
       "Audiências": 1,
       "Comunicações": 0,
       "Acompanhamento": 51,
-      "Diligências": 5,
-      "Outras": 9
+      "Diligências": 4,
+      "Outras": 7
     },
-    "ultima_data": "2026-06-24"
+    "ultima_data": "2026-06-26"
   }
 }
